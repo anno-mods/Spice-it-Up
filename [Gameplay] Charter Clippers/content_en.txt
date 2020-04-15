@@ -1,0 +1,1 @@
+Charter Routes can now load up to 150t. To reflect this, you will now charter Clippers instead of Schooners. 

@@ -1,0 +1,98 @@
+<!-- Removed GUID IslandRivers from OldWorld -->
+<ModOps>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141652']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141652']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141652']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141643']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141643']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141643']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141651']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141651']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141651']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141619']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141619']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141619']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141620']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141620']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141620']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141621']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141621']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141621']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141626']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141626']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141626']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141622']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141622']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141622']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141645']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141645']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141645']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141644']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141644']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141644']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141616']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141616']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141616']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141646']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141646']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141646']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141654']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141654']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141654']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141617']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141617']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141617']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141804']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141804']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141804']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141618']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141618']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141618']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142520']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142520']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142520']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141653']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141653']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141653']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141649']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141649']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141649']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141805']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141805']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141805']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141648']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141648']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141648']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141650']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141650']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141650']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141679']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141679']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141679']/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141623']/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141623']/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='141623']/Values/RandomIsland/IslandType"></ModOp>
+</ModOps>

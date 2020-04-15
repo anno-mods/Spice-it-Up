@@ -1,0 +1,152 @@
+<ModOps>
+    <ModOp Type="addNextSibling" GUID="102114">
+        <Asset>
+            <BaseAssetGUID>1010567</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>8857106</GUID>
+                    <Name>Quay System Arctic</Name>
+                </Standard>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>Street</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                            <Amount>20</Amount>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>1</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>Street</TemplateName>
+                                        <Index>1</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>2</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>Street</TemplateName>
+                                        <Index>2</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                            <Amount>0</Amount>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>3</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>Street</TemplateName>
+                                        <Index>3</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>4</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>Street</TemplateName>
+                                        <Index>4</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>5</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>Street</TemplateName>
+                                        <Index>5</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Street>
+                    <CfgFileName>data/graphics/buildings/special/quay_system_arctic/quay_system_colony03_01.cfg</CfgFileName>
+                    <InternalID>123</InternalID>
+                </Street>
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <Text>
+                    <LineID>11037</LineID>
+                </Text>
+                <Building />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addPrevSibling" GUID='116345' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '112666']">
+        <Item>
+            <Building>8857106</Building>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="addPrevSibling" GUID='112792' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '112670']">
+        <Item>
+            <Building>8857106</Building>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='130248'>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857107</GUID>
+                    <Name>intermediate arctic 2.0</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>112643</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>8857106</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

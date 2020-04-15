@@ -1,0 +1,50 @@
+<ModOps>
+	<ModOp GUID='1010520' Type="add" Path="/Values/Shipyard/AssemblyOptions">
+		<Item>
+			<Vehicle>101121</Vehicle>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='130248'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>99334132</GUID>
+					<Name>intermediate moderate 3.0</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>15000002</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>101121</Asset>
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+	</ModOp>
+</ModOps>

@@ -1,0 +1,9 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<!-- CategoryDescription -->
+		<Text>
+			<GUID>9002077</GUID>
+			<Text>Airship from old Nate</Text>
+		</Text>
+	</ModOp>
+</ModOps>

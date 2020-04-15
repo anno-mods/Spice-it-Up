@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>901008</GUID>
+      <Text>Commuter Pier</Text>
+    </Text>
+  </ModOp>
+</ModOps>

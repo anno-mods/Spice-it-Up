@@ -1,0 +1,1130 @@
+<ModOps>
+  <ModOp Type="remove" GUID='114295,102466,102469,114299,114297,114296,114300,114293,114298,114294,114301,114302,114303'/>
+  <!-- Remove all Construction Permits from the modules -->
+  <ModOp Type="addNextSibling" GUID='114894'>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>102466</GUID>
+          <Name>culture_1x1_plaza</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_05.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22393</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_05.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>102469</GUID>
+          <Name>culture_1x1_plaza</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_08.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22393</BuildingCategoryName>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_08.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114295</GUID>
+          <Name>purple blue flower field - iris</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_purpleflower.png</IconFilename>
+        </Standard>
+        <Blocking />
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_a.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_a.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_a.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_a.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114584</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114299</GUID>
+          <Name>light pink flower field - roses</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_pinkflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114299</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_b.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_b.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_b.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_b.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114586</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114297</GUID>
+          <Name>yellow flower field - miracle daisy</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_yellowflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114297</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_c.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114587</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114296</GUID>
+          <Name>red white flower field - red white petunia</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_redandwhiteflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114296</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_d.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114588</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114300</GUID>
+          <Name>pink flower field - hibiscus</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_darkpinkflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114300</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_e.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_e.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_e.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_e.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114589</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114293</GUID>
+          <Name>blue flower field - gentian</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_blueflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114293</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_f.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114590</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114298</GUID>
+          <Name>white flower field - blue heart lily</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_whiteflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114298</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_g.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114591</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114294</GUID>
+          <Name>orange flower field - plumeria aussi orange</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_orangeflower.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114294</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_01/cultural_03_module_05_01_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_02/cultural_03_module_05_02_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_03/cultural_03_module_05_03_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_05/cultural_03_module_05_04/cultural_03_module_05_04_h.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114592</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114301</GUID>
+          <Name>trees alley</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_hedgespath.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114294</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_b/cultural_03_module_04_b.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114593</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114302</GUID>
+          <Name>labyrinth</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_labybrinth.png</IconFilename>
+        </Standard>
+
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114302</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_a/cultural_03_module_04_a.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114594</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalModule</Template>
+      <Values>
+        <Standard>
+          <GUID>114303</GUID>
+          <Name>sculpted trees</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_treesculptures.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>22392</BuildingCategoryName>
+          <PickingAsset>114303</PickingAsset>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Selection />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_c/cultural_03_module_04_c.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_d/cultural_03_module_04_d.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_f/cultural_03_module_04_f.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_g/cultural_03_module_04_g.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_h/cultural_03_module_04_h.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_i/cultural_03_module_04_i.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Constructable />
+        <Mesh />
+        <SoundEmitter>
+          <ActiveSounds>
+            <Item>
+              <Sound>209211</Sound>
+            </Item>
+          </ActiveSounds>
+        </SoundEmitter>
+        <Locked>
+          <DLCDependency>410041</DLCDependency>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>20</OrnamentUnit>
+          <OrnamentDescritpion>114595</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+        <BuildingModule />
+      </Values>
+    </Asset>
+  </ModOp>
+
+
+  <ModOp Type="addNextSibling" GUID='130248'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>979574</GUID>
+          <Name>intermediate moderate 4.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>250</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnhideAssets>
+                      <Item>
+                        <Asset>113452</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114295</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114299</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114297</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114296</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114300</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114293</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114298</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114294</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114301</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114302</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114303</Asset>
+                      </Item>
+                    </UnhideAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>979575</GUID>
+          <Name>intermediate moderate 4.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>500</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>113452</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114295</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114299</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114297</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114296</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114300</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114293</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114298</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114294</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114301</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114302</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>114303</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+
+
+
+  <!-- Fuck Rerolling -->
+  <!-- 193697 -->
+  <ModOp Type="remove" GUID='192476,192485,192504,192535,192574,192590' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193697']" />
+  <!-- 193737 -->
+  <ModOp Type="remove" GUID='192477,192486,192505,192536,192575,192591' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193737']" />
+  <!-- 193738 -->
+  <ModOp Type="remove" GUID='192478,192487,192506,192537,192576,192592' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193738']" />
+  <!-- 193739 -->
+  <ModOp Type="remove" GUID='192925,193728' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193739']" />
+  <!-- 193740 -->
+  <ModOp Type="remove" GUID='192926,193729' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193740']" />
+  <ModOp Type="remove" GUID='190166,190165,190164,192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193729']" />
+  <!-- 193741 -->
+  <ModOp Type="remove" GUID='192927,193730' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193741']" />
+
+  <ModOp Type="replace" GUID='193734'>
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>193734</GUID>
+          <Name>Ornaments and Music Uncommon</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>114540</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114539</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114541</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114538</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114543</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>112487</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114152</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114154</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114153</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114155</ItemLink>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="replace" GUID='193735'>
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>193735</GUID>
+          <Name>Ornaments and Music Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>114657</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>111115</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>111121</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114387</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>111120</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>112487</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114152</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114154</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114153</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114155</ItemLink>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="replace" GUID='193733'>
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>193733</GUID>
+          <Name>Ornaments and Music Common</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>112732</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>111123</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114662</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>111116</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>114656</ItemLink>
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>112487</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114152</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114154</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114153</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>114155</ItemLink>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+
+
+
+</ModOps>

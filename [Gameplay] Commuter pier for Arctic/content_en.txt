@@ -1,0 +1,1 @@
+Adds the commuter pier to the Arctic which connects the normal Islands only. Arctic Cliffs cannot be reached. 

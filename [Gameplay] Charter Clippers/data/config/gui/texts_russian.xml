@@ -1,0 +1,8 @@
+<ModOps>
+    <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '100660']">
+        <Text>
+            <GUID>100660</GUID>
+            <Text>[AssetData(100441) Text]</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,3 @@
+<ModOps>
+    <ModOp Type="remove" Path="//Asset[Template='ElectricityFeature']/Values/ElectricityFeature/*" />
+</ModOps>

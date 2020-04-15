@@ -1,0 +1,10 @@
+<ModOps>
+    <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Keypad 9</DefaultKey>
+            <Command>speed.toggle()</Command>
+            <Text>90001</Text>
+            <Active>Session</Active>
+        </Item>
+    </ModOp>
+</ModOps>

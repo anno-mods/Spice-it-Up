@@ -1,0 +1,8 @@
+<ModOps>
+    <ModOp Type="replace" Path="//Asset[Template='NewspaperBalancing']/Values/NewspaperBalancing/MinNewspaperInterval">
+        <MinNewspaperInterval>3600000</MinNewspaperInterval>
+	</ModOp>
+    <ModOp Type="replace" Path="//Asset[Template='NewspaperBalancing']/Values/NewspaperBalancing/MaxNewspaperInterval">
+		<MaxNewspaperInterval>10800000</MaxNewspaperInterval>
+	</ModOp>
+</ModOps>

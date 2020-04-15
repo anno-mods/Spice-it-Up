@@ -1,0 +1,1 @@
+Changes the mine slot's infolayer to show what resource can be built on them. 

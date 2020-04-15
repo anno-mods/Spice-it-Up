@@ -1,0 +1,101 @@
+<!-- Stand: 18.10.19 // GU 5.3 -->
+
+<ModOps>
+<!-- Oil Pier -->
+    <ModOp Type="add" Path="Templates/Group[Name = 'Economy']">
+        <Template>
+            <Name>OilHarborLandingStage</Name>
+            <Properties>
+                <Standard />
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingType>Factory</BuildingType>
+                    <Destructable>0</Destructable>
+                    <TerrainType />
+                </Building>
+                <Cost />
+                <Selection>
+                    <GUIType>Generic</GUIType>
+                    <AllowedDragType>ItemSocket;CargoProductStack;CargoItemStack</AllowedDragType>
+                </Selection>
+                <Object>
+                    <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                </Object>
+                <Constructable>
+                    <DestructionCategory>Production</DestructionCategory>
+                </Constructable>
+                <Mesh />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                        <Sound>9818756</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                        <Item>
+                            <VectorElement>
+                            <InheritedIndex>0</InheritedIndex>
+                            </VectorElement>
+                            <Sound>214784</Sound>
+                        </Item>
+                        </BuildSuccessful>
+                        <BuildFailed>
+                        <Item>
+                            <Sound>9818387</Sound>
+                        </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                        <Item>
+                            <Sound>9818755</Sound>
+                        </Item>
+                        </BuildMoveStart>
+                        <BuildMoveSuccess>
+                        <Item>
+                            <Sound>203995</Sound>
+                        </Item>
+                        </BuildMoveSuccess>
+                        <BuildMoveEnd>
+                        <Item>
+                            <Sound>200141</Sound>
+                        </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <Locked />
+                <Infolayer />
+                <FeedbackController />
+                <MinimapToken>
+                    <TokenAsset>2001544</TokenAsset>
+                </MinimapToken>
+                <AmbientMoodProvider />
+                <LoadingPier>
+                    <MinLoadingTime>1.5</MinLoadingTime>
+                </LoadingPier>
+                <Attackable>
+                    <SelfHealPerHealTick>300</SelfHealPerHealTick>
+                    <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+                    <RuinSmokeParticles>
+                        <Item>
+                        <SmokeParticleFilePath>data/graphics/effects/military/explosions/damage_smoke_01.cfg</SmokeParticleFilePath>
+                        </Item>
+                    </RuinSmokeParticles>
+                    <RuinSmokeParticlesMin>1</RuinSmokeParticlesMin>
+                    <RuinSmokeParticlesMax>2</RuinSmokeParticlesMax>
+                    <RuinSmokeParticleRectBorderPercent>0.2</RuinSmokeParticleRectBorderPercent>
+                    <ExplosionEffects>
+                        <Item />
+                    </ExplosionEffects>
+                </Attackable>
+                <StorageBase />
+                <Warehouse />
+                <LogisticNode />
+                <Maintenance>
+                    <IncomeCategory>HarbourBuildings</IncomeCategory>
+                </Maintenance>
+                <Pausable />
+            </Properties>
+        </Template>
+    </ModOp>
+</ModOps>

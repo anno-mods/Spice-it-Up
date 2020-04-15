@@ -1,0 +1,11 @@
+<ModOps>
+  <ModOp Type="replace" Path="//Asset/Values/Trigger/TriggerCondition[Values/ConditionPlayerCounter/PlayerCounter = 'PopulationByLevel']">
+    <TriggerCondition>
+      <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+      <Values>
+        <Condition />
+        <ConditionAlwaysTrue />
+      </Values>
+    </TriggerCondition>
+  </ModOp>
+</ModOps>

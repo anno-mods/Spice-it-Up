@@ -1,0 +1,35 @@
+<ModOps>
+  <ModOp Type="add" GUID='237' Path="/Values/Trader/Progression/LateMidGame/GoodsProduction">
+    <Item>
+      <Good>112706</Good>
+      <ProductionPerMinute>0.5</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='237' Path="/Values/Trader/Progression/LateMidGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>112706</Good>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='237' Path="/Values/Trader/Progression/EndGame/GoodsProduction">
+    <Item>
+      <Good>112706</Good>
+      <ProductionPerMinute>0.5</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='237' Path="/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>112706</Good>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='237' Path="/Values/Trader/Progression/LateGame/GoodsProduction">
+    <Item>
+      <Good>112706</Good>
+      <ProductionPerMinute>0.5</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='237' Path="/Values/Trader/Progression/LateGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>112706</Good>
+    </Item>
+  </ModOp>
+</ModOps>

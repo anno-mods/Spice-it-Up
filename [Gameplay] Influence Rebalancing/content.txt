@@ -1,0 +1,1 @@
+Überarbeitetes Einflusssystem: Weniger Kosten für Itemgebäude oder Kulturmodule, dafür höhere für Gebäude, die man nur in geringerer Zahl benötigt. 

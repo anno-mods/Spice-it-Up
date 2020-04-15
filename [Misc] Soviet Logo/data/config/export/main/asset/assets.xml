@@ -1,0 +1,29 @@
+<ModOps>
+
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='500960']">
+        <Asset>
+            <Template>PlayerLogo</Template>
+            <Values>
+                <Standard>
+                    <GUID>500000</GUID>
+                    <Name>soviet logo</Name>
+                    <IconFilename>data/graphics/logos/small/soviet.png</IconFilename>
+                </Standard>
+                <PlayerLogo>
+                    <DefaultLogo>data/graphics/logos/large/soviet.png</DefaultLogo>
+                    <MiniLogo>data/graphics/logos/small/soviet.png</MiniLogo>
+                </PlayerLogo>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" GUID="500769" Path="/Values/CreateGameScene/Logos">
+            <Item>
+                <Logo>500000</Logo>
+            </Item>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,91 @@
+<ModOps>
+  <ModOp Type="add" GUID='1010521' Path="/Values/Shipyard/AssemblyOptions">
+    <Item>
+      <Vehicle>112084</Vehicle>
+    </Item>
+  </ModOp>
+
+  <ModOp Type = "add" GUID = '112084' Path = "/Values/Standard">
+    <InfoDescription>113369</InfoDescription>
+  </ModOp>
+
+  <ModOp Type="replace" GUID='112084' Path="/Values/Cost">
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010219</Ingredient>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010224</Ingredient>
+          <Amount>30</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010226</Ingredient>
+          <Amount>15</Amount>
+        </Item>
+      </Costs>
+      <InfluenceCostType>TradeShip</InfluenceCostType>
+      <InfluenceCostPoints>14</InfluenceCostPoints>
+    </Cost>
+  </ModOp>
+
+  <ModOp Type="replace" GUID='112084' Path="/Values/Craftable">
+    <Craftable>
+      <CraftingTime>600000</CraftingTime>
+    </Craftable>
+  </ModOp>
+  <ModOp Type="addNextSibling" GUID='130248'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>8853940</GUID>
+          <Name>intermediate moderate 1.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionIsDLCActive</Template>
+            <Values>
+              <Condition />
+              <ConditionIsDLCActive>
+                <DLCAssetList>
+                  <Item>
+                    <DLCAsset>410040</DLCAsset>
+                  </Item>
+                </DLCAssetList>
+              </ConditionIsDLCActive>
+              <ConditionPropsNegatable />
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>112084</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='112084' Path="/Values/CommandQueue/ShipUniqueType"/>
+  <ModOp Type="remove" GUID='77' Path="/Values/Trader/ProvidesShipReplacements"/>
+</ModOps>

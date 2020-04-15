@@ -1,0 +1,1 @@
+Workers now get their own set of city ornamentals. 

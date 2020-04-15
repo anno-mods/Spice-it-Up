@@ -1,0 +1,463 @@
+<ModOps>
+  <!-- City Ornament Assets-->
+  <ModOp Type="addNextSibling" GUID='102159'>
+    <Asset>
+      <Template>OrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>8853600</GUID>
+          <Name>City Ornament 1 (Medium Tree)</Name>
+          <IconFilename>data/ui/icons/city_ornament_1.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>11149</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh />
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>8853601</GUID>
+          <Name>City Ornament 2 (Small Tree)</Name>
+          <IconFilename>data/ui/icons/city_ornament_2.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>11149</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_02.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh />
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>8853602</GUID>
+          <Name>City Ornament 3 (Small Bush)</Name>
+          <IconFilename>data/ui/icons/city_ornament_3.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>11149</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_03.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh />
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>8853604</GUID>
+          <Name>City Ornament 5(Large Tree)</Name>
+          <IconFilename>data/ui/icons/city_ornament_5.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>11149</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_05.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh />
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>8853605</GUID>
+          <Name>City Ornament 6 (Round Flowerbed)</Name>
+          <IconFilename>data/ui/icons/city_ornament_6.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>11149</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_06.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh />
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>OrnamentalBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>8853606</GUID>
+          <Name>City Ornament 7 (Rectangular Flowerbed)</Name>
+          <IconFilename>data/ui/icons/city_ornament_7.png</IconFilename>
+        </Standard>
+        <Blocking>
+          <HidePropsRadius>0</HidePropsRadius>
+          <DeletePropsRadius>0</DeletePropsRadius>
+        </Blocking>
+        <Building>
+          <BuildingCategoryName>11149</BuildingCategoryName>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+        </Building>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_07.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/city_system/park_system_08.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh />
+        <Constructable />
+        <Mesh />
+        <SoundEmitter />
+        <Locked />
+        <FeedbackController />
+        <Ornament>
+          <OrnamentUnit>1</OrnamentUnit>
+          <OrnamentDescritpion>17731</OrnamentDescritpion>
+        </Ornament>
+        <AmbientMoodProvider />
+        <Pausable />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Trigger 250 Engineers -->
+  <ModOp Type="addNextSibling" GUID='130248'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>8853613</GUID>
+          <Name>intermediate_moderate 4.1</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnhideAssets>
+                      <Item>
+                        <Asset>8853620</Asset>
+                      </Item>
+                    </UnhideAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>8853612</GUID>
+          <Name>intermediate_moderate 4.1</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000003</Context>
+                <CounterAmount>250</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>8853620</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Asset Pool City Ornaments -->
+  <ModOp Type="addNextSibling" GUID='100653'>
+    <Asset>
+      <Template>AssetPool</Template>
+      <Values>
+        <Standard>
+          <GUID>8853620</GUID>
+          <Name>Asset Pool City Ornaments II</Name>
+        </Standard>
+        <AssetPool>
+          <AssetList>
+            <Item>
+              <Asset>8853600</Asset>
+            </Item>
+            <Item>
+              <Asset>8853601</Asset>
+            </Item>
+            <Item>
+              <Asset>8853602</Asset>
+            </Item>
+            <Item>
+              <Asset>8853604</Asset>
+            </Item>
+            <Item>
+              <Asset>8853605</Asset>
+            </Item>
+            <Item>
+              <Asset>8853606</Asset>
+            </Item>
+          </AssetList>
+        </AssetPool>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Construction Category-->
+  <ModOp Type="addNextSibling" GUID='25000192'>
+    <Asset>
+      <Template>ConstructionCategory</Template>
+      <Values>
+        <Standard>
+          <GUID>8853621</GUID>
+          <Name>Construction Category City Ornaments II</Name>
+          <IconFilename>data/ui/icons/city_ornament_1.png</IconFilename>
+        </Standard>
+        <ConstructionCategory>
+          <CategoryDescription>19564</CategoryDescription>
+          <BuildingList>
+            <Item>
+              <Building>8853600</Building>
+            </Item>
+            <Item>
+              <Building>8853601</Building>
+            </Item>
+            <Item>
+              <Building>8853602</Building>
+            </Item>
+            <Item>
+              <Building>8853604</Building>
+            </Item>
+            <Item>
+              <Building>8853605</Building>
+            </Item>
+            <Item>
+              <Building>8853606</Building>
+            </Item>
+          </BuildingList>
+        </ConstructionCategory>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="add" GUID='501487' Path="/Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>8853600</Building>
+    </Item>
+    <Item>
+      <Building>8853601</Building>
+    </Item>
+    <Item>
+      <Building>8853602</Building>
+    </Item>
+    <Item>
+      <Building>8853604</Building>
+    </Item>
+    <Item>
+      <Building>8853605</Building>
+    </Item>
+    <Item>
+      <Building>8853606</Building>
+    </Item>
+  </ModOp>
+  <!-- Add Construction Category to the Building Menu-->
+  <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>8853621</Building>
+    </Item>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,47 @@
+<ModOps>
+    <ModOp Type="replace" GUID='116006'>
+        <Asset>
+            <Template>FeatureUnlock</Template>
+            <Values>
+                <Standard>
+                    <GUID>99334133</GUID>
+                    <Name>ThePassage AirshipHangar SP Unlock</Name>
+                </Standard>
+                <Locked />
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>112643</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>112685</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup>
+                    <UsedBySecondParties>0</UsedBySecondParties>
+                </TriggerSetup>
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

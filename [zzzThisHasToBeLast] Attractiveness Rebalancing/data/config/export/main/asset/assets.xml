@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '1']/OrnamentUnit">
+    <OrnamentUnit>4</OrnamentUnit>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '2']/OrnamentUnit">
+    <OrnamentUnit>8</OrnamentUnit>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '3']/OrnamentUnit">
+    <OrnamentUnit>12</OrnamentUnit>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '4']/OrnamentUnit">
+    <OrnamentUnit>16</OrnamentUnit>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '6']/OrnamentUnit">
+    <OrnamentUnit>24</OrnamentUnit>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '9']/OrnamentUnit">
+    <OrnamentUnit>36</OrnamentUnit>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Ornament[OrnamentUnit = '20']/OrnamentUnit">
+    <OrnamentUnit>100</OrnamentUnit>
+  </ModOp>
+
+  <ModOp Type = "replace" Path = "/Values/CultureUpgrade/AttractivenessUpgrade/Value" GUID = '190819,191347,190693,190820,190735,191465,191334,190626,190625,191329,191308,191371,190650,190631,191381,190649,113799,190739,190643,191702,191696,191568,192440,116183,190716,191707,191704,191708,116181,191709,191571,191697,191706,191706,191703,190678,191710,191729,191730,191468'>
+    <Value>2</Value>
+  </ModOp>
+
+  <ModOp Type = "replace" GUID = '191731,191698,190732'>
+    <Value>6</Value>
+  </ModOp>
+</ModOps>

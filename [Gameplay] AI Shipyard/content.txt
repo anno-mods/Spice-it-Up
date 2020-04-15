@@ -1,0 +1,7 @@
+Fügt eine KI-Schiffswerft hinzu, mit der KIs nachträglich ins Spiel geholt werden können. 
+
+Schwere KIs sowie Dr. Hugo Mercier können erst nach Fertigstellung einer Botschaft (Gerichtsgebäude) ins Spiel geholt werden. 
+
+Ersteller: kskudlik
+
+Um Dr. Hugo Mercier ins Spiel zu holen, wird der DLC "Anarchist" benötigt. 

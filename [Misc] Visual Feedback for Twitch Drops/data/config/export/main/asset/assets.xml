@@ -1,0 +1,122 @@
+<ModOps>
+  <ModOp Type="add" GUID='142613,142615' Path="/Values/FeedbackSessionDescriptionOverwritable/Inhabitants">
+    <Item>
+      <SpawnBuildings>985000</SpawnBuildings>
+      <Classes>
+        <Item>
+          <SpawnClasses>
+            <Item>
+              <ClassAsset>985001</ClassAsset>
+            </Item>
+          </SpawnClasses>
+          <AutoSpawnsPerBuilding>5</AutoSpawnsPerBuilding>
+        </Item>
+      </Classes>
+      <SpawnInterval>0.2</SpawnInterval>
+      <SpawnIntervalDerivation>1</SpawnIntervalDerivation>
+    </Item>
+  </ModOp>
+
+
+  <ModOp Type="addNextSibling" GUID='142583'>
+    <Asset>
+      <Template>FeedbackBuildingGroup</Template>
+      <Values>
+        <Standard>
+          <GUID>985000</GUID>
+          <Name>Fuck Twitchdrops</Name>
+        </Standard>
+        <FeedbackBuildingGroup>
+          <Buildings>
+            <Item>
+              <Building>112297</Building>
+            </Item>
+            <Item>
+              <Building>112298</Building>
+            </Item>
+            <Item>
+              <Building>112299</Building>
+            </Item>
+            <Item>
+              <Building>112300</Building>
+            </Item>
+            <Item>
+              <Building>112301</Building>
+            </Item>
+            <Item>
+              <Building>112302</Building>
+            </Item>
+            <Item>
+              <Building>112303</Building>
+            </Item>
+            <Item>
+              <Building>112304</Building>
+            </Item>
+            <Item>
+              <Building>112305</Building>
+            </Item>
+
+            <Item>
+              <Building>118229</Building>
+            </Item>
+            <Item>
+              <Building>118230</Building>
+            </Item>
+            <Item>
+              <Building>118231</Building>
+            </Item>
+            <Item>
+              <Building>118232</Building>
+            </Item>
+            <Item>
+              <Building>118233</Building>
+            </Item>
+            <Item>
+              <Building>118234</Building>
+            </Item>
+          </Buildings>
+          <BuildingRole>Other</BuildingRole>
+        </FeedbackBuildingGroup>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID='2001089'>
+    <Asset>
+      <Template>FeedbackUnitClass</Template>
+      <Values>
+        <Standard>
+          <GUID>985001</GUID>
+          <Name>New Class</Name>
+        </Standard>
+        <TrafficFeedbackClass>
+          <UnitAssets>
+            <Item>
+              <UnitAsset>985002</UnitAsset>
+            </Item>
+          </UnitAssets>
+          <AllowedReactions>Listen;Greet;Talk;Protest;Cheer;MobJoining;DangerAvoiding;DummyTalk;DummyTrade;DummyVanish;DummyLayDown;DummyFish;DummyPray;DummyCelebrate;DummyReact;DummySit</AllowedReactions>
+        </TrafficFeedbackClass>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID='2001124'>
+
+
+    <Asset>
+      <Template>TrafficFeedbackUnit</Template>
+      <Values>
+        <Standard>
+          <GUID>985002</GUID>
+          <Name>TwitchdropRioter</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/icon_module_workforce.png</IconFilename>
+        </Standard>
+        <TrafficFeedbackUnit>
+          <CfgPath>data/graphics/units/twitchdrop_riot/protest/protest_riot_01.cfg</CfgPath>
+        </TrafficFeedbackUnit>
+        <Trailer />
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

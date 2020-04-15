@@ -1,0 +1,6 @@
+<ModOps>
+  <!-- Zoo and Museum Modules use range instead of snap -->
+  <ModOp Type="add" GUID = '110935,1010470,1010471' Path="/Values/ModuleOwner">
+    <ModuleBuildRadius>32</ModuleBuildRadius>
+  </ModOp>
+</ModOps>

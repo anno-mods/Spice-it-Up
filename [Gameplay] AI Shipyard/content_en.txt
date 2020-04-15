@@ -1,0 +1,3 @@
+adds an AI-Shipyard to the game, with which ai can be added to an existing game. 
+
+Difficult AI and Hugo Mercier require you to build an embassy (Courthouse) first. 

@@ -1,0 +1,2 @@
+Anstatt von Goldvorkommen spawnen in der Arktis Variable Ressourcen. 
+Auf diesen können neben tiefen Gold- auch tiefe Eisen-, Zink- und Kupferminen platziert werden. Letztere produzieren doppelt so schnell wie ihr Original. 

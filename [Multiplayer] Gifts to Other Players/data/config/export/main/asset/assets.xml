@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" GUID='500343' Path="/Values/DiplomacyScene/DiplomacyButtonPrecheck/GiftMoneyOneTimeSmall">
+    <VisibleWithHumans>1</VisibleWithHumans>
+  </ModOp>
+  <ModOp Type="add" GUID='500343' Path="/Values/DiplomacyScene/RadialMenuButton/Item[DiplomacyAction = 'GiftMoneyOneTimeSmall']">
+    <ActionType>1</ActionType>
+  </ModOp>
+</ModOps>

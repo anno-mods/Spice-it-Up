@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>987000</GUID>
+      <Text>Plaza (Street)</Text>
+    </Text>
+    <Text>
+      <GUID>987001</GUID>
+      <Text>Beautifies the city and connects buildings. Plaza tiles which function like a street.</Text>
+    </Text>
+    <Text>
+      <GUID>987002</GUID>
+      <Text>Simple esplanade</Text>
+    </Text>
+  </ModOp>
+</ModOps>

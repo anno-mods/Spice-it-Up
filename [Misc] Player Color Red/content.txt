@@ -1,0 +1,1 @@
+Fügt die Rote Spielerfarbe anstatt der Schwarzen Spielerfarbe hinzu. 

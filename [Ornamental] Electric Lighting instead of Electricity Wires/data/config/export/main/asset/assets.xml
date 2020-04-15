@@ -1,0 +1,48 @@
+<ModOps>
+  <ModOp Type="addNextSibling" GUID='101393'>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>977600</GUID>
+          <Name>Electric Pole Straight</Name>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Type>NotSerialized</Type>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/electric/lightpost.cfg</Filename>
+            </Item>
+          </Variations>
+          <AssignDefaultParticipant>1</AssignDefaultParticipant>
+        </Object>
+        <QuestObject />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="replace" GUID='141170'>
+    <Asset>
+      <Template>ElectricityFeature</Template>
+      <Values>
+        <Standard>
+          <GUID>141170</GUID>
+          <Name>ElectricityBalancing</Name>
+          <ID>ElectricityBalancing</ID>
+        </Standard>
+        <ElectricityFeature>
+          <ElectricWire1/>
+          <ElectricWire2/>
+          <ElectricWire3/>
+          <ElectricWire4/>
+          <ElectricWire5/>
+          <ElectricPoleStraight>977600</ElectricPoleStraight>
+          <ElectricPoleCrossing/>
+          <ElectricPoleCorner/>
+          <ElectricPoleTCross/>
+          <ElectricPoleRailway/>
+        </ElectricityFeature>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

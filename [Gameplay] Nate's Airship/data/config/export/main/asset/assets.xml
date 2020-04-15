@@ -1,0 +1,256 @@
+<ModOps>
+  <!-- Modified airship -->
+  <ModOp Type="addNextSibling" GUID='101373'>
+    <Asset>
+      <Template>AirShip</Template>
+      <Values>
+        <Standard>
+          <GUID>901999</GUID>
+          <Name>Nates airship</Name>
+          <IconFilename>data/graphics/icons/3rd_party_06.png</IconFilename>
+          <InfoDescription>114288</InfoDescription>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/3rd_party/3rd_party_06_kontor_01/3rd_party_06_kontor_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Mesh>
+          <ObjectPosition>Dynamic</ObjectPosition>
+        </Mesh>
+        <Selection>
+          <ObjectmenuHeaderImage>data/ui/2kimages/main/3dicons/icon_ship.png</ObjectmenuHeaderImage>
+          <MultiSelectable>1</MultiSelectable>
+        </Selection>
+        <Walking>
+          <TurnAroundRadius>8</TurnAroundRadius>
+          <Deceleration>2</Deceleration>
+          <TurnRadius>8</TurnRadius>
+          <TurnSpeed>45</TurnSpeed>
+          <TurnSpeedInPlace>20</TurnSpeedInPlace>
+          <LeaningMaxAngle>0</LeaningMaxAngle>
+          <ForwardSpeed>11.7</ForwardSpeed>
+          <WindMinSlowdownFactor>0.5</WindMinSlowdownFactor>
+          <WindSlowdownEffectOnTurningSpeed>0.35</WindSlowdownEffectOnTurningSpeed>
+          <MinSlowdownFactor>0.3</MinSlowdownFactor>
+        </Walking>
+        <Text>
+          <LocaText />
+          <LineID>14872</LineID>
+        </Text>
+        <CommandQueue>
+          <FollowRadius>4</FollowRadius>
+          <FormationPriority>1</FormationPriority>
+          <TradeShipPoints>4</TradeShipPoints>
+          <PriorityShipList>2</PriorityShipList>
+        </CommandQueue>
+        <Drifting>
+          <OverrideAssetWidthAndLength>1</OverrideAssetWidthAndLength>
+          <Length>7</Length>
+          <Width>3.5</Width>
+        </Drifting>
+        <Collector />
+        <Attackable>
+          <MaximumHitpoints>100</MaximumHitpoints>
+          <CanBeAttackedByPlayer>0</CanBeAttackedByPlayer>
+          <DisableGettingAutoAttacked>1</DisableGettingAutoAttacked>
+        </Attackable>
+        <MinimapToken>
+          <TokenAsset>2001947</TokenAsset>
+          <StrategicMapAsset>117300</StrategicMapAsset>
+        </MinimapToken>
+        <SoundEmitter>
+          <DestroySounds>
+            <Item>
+              <Sound>238322</Sound>
+            </Item>
+          </DestroySounds>
+          <VehicleSounds>
+            <MovementStart>
+              <Item>
+                <Sound>244873</Sound>
+              </Item>
+            </MovementStart>
+          </VehicleSounds>
+        </SoundEmitter>
+        <UpgradeList />
+        <QuestObject />
+        <Infolayer />
+        <ItemContainer>
+          <SocketCount>2</SocketCount>
+          <SocketAllocation>Ship;AirShip</SocketAllocation>
+          <SlotCount>6</SlotCount>
+          <StackLimit>30</StackLimit>
+        </ItemContainer>
+        <FeedbackController />
+        <Draggable />
+        <TradeRouteVehicle>
+          <LoadingSpeedFactor>0.5</LoadingSpeedFactor>
+        </TradeRouteVehicle>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>50</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010210</Ingredient>
+              <Amount>50</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010224</Ingredient>
+              <Amount>20</Amount>
+            </Item>
+            <Item>
+              <Ingredient>112706</Ingredient>
+              <Amount>40</Amount>
+            </Item>
+            <Item>
+              <Ingredient>115980</Ingredient>
+              <Amount>25</Amount>
+            </Item>
+          </Costs>
+          <InfluenceCostType>AirShip</InfluenceCostType>
+        </Cost>
+        <Craftable>
+          <CraftingTime>900000</CraftingTime>
+        </Craftable>
+        <TradeRouteVehicle />
+        <Nameable />
+        <MetaPersistent />
+        <ExpeditionAttribute />
+        <ShipMaintenance>
+          <Maintenance>1500</Maintenance>
+        </ShipMaintenance>
+        <Sellable>
+          <Baseprice>
+            <Item>
+              <Resource>1010017</Resource>
+              <Amount>5000000</Amount>
+            </Item>
+          </Baseprice>
+          <CanBeSoldToTrader>0</CanBeSoldToTrader>
+        </Sellable>
+        <Stance />
+        <Rentable />
+        <WorldMapSound />
+        <Pausable />
+        <ShipIncident>
+          <InfectableByIncident>
+            <Illness>
+              <Infectable>0</Infectable>
+            </Illness>
+          </InfectableByIncident>
+        </ShipIncident>
+        <SoundEmitterCommandBarks>
+          <BarkMapping>
+            <Selection>
+              <AudioPool>117310</AudioPool>
+            </Selection>
+            <AttackCommand>
+              <AudioPool>117311</AudioPool>
+            </AttackCommand>
+            <MoveCommand>
+              <AudioPool>117312</AudioPool>
+            </MoveCommand>
+            <EscortCommand>
+              <AudioPool>117314</AudioPool>
+            </EscortCommand>
+            <PatrolCommand>
+              <AudioPool>117313</AudioPool>
+            </PatrolCommand>
+            <SelectionDamaged>
+              <AudioPool>117309</AudioPool>
+            </SelectionDamaged>
+          </BarkMapping>
+        </SoundEmitterCommandBarks>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Influence Effect Pool -->
+  <ModOp Type="add" GUID='191457' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <Item>
+      <GUID>901999</GUID>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="add" GUID='77' Path="/Values/Trader">
+    <ShipTrader>1</ShipTrader>
+    <SellShipCooldown>300000</SellShipCooldown>
+  </ModOp>
+
+  <ModOp Type="add" GUID='77' Path="/Values/Trader/Progression/LateGame">
+    <ShipsForSale>
+      <Item>
+        <ShipAsset>901999</ShipAsset>
+        <Weight>100</Weight>
+      </Item>
+    </ShipsForSale>
+    <ShipsForSaleAmount>1</ShipsForSaleAmount>
+  </ModOp>
+  <ModOp Type="add" GUID='77' Path="/Values/Trader/Progression/EndGame">
+    <ShipsForSale>
+      <Item>
+        <ShipAsset>901999</ShipAsset>
+        <Weight>100</Weight>
+      </Item>
+    </ShipsForSale>
+    <ShipsForSaleAmount>1</ShipsForSaleAmount>
+  </ModOp>
+
+  <ModOp Type="add" GUID='112689' Path="/Values/Shipyard/AssemblyOptions">
+    <Item>
+      <Vehicle>901999</Vehicle>
+    </Item>
+  </ModOp>
+  <ModOp Type="replace" GUID='112689' Path="/Values/Selection/GUIType">
+    <GUIType>Shipyard</GUIType>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID='130248'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>8853941</GUID>
+          <Name>intermediate moderate 1.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>112643</Context>
+                <CounterAmount>900</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>901999</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

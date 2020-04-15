@@ -1,0 +1,60 @@
+<!-- Added settings to make Riverless Versions of Islands available in the MapGen -->
+<ModOps>
+	<ModOp Type="add" GUID='140393' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140394' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+        <AllowInCampaignMode>0</AllowInCampaignMode>
+    </ModOp>
+    <ModOp Type="add" GUID='140395' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140396' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='141000' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+        <AllowInCampaignMode>0</AllowInCampaignMode>
+    </ModOp>
+    <ModOp Type="add" GUID='141001' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140397' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140398' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140399' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140400' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+    <ModOp Type="add" GUID='140401' Path="/Values/RandomIsland">
+        <IslandRegion>Colony01</IslandRegion>
+        <IslandDifficulty>Normal;Hard</IslandDifficulty>
+        <IslandType>Normal;Starter</IslandType>
+    </ModOp>
+</ModOps>

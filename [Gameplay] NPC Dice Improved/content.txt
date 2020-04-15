@@ -1,0 +1,36 @@
+Fügt den Händlern fehlende Epische und Legendäre Spezialisten/Maschinen/Ausstellungsitems zum Kauf hinzu
+Entfernt einige Spezialisten von Eli, um das Würfeln zu vermindern
+
+Archie:
++ Legendäre Schiff- und Hafen-Items
++ Museums-Artefakte
++ Rathaus-Spezialisten
++ Musikstücke
+
+Kahina:
++ Botanik und Zoo
++ Kulturelle Spezialisten Handelskammer/Rathaus/Hafen (Selten+)
++ Händler
++ Legendäre Supersamen Alte Welt
++ Musikstücke
+
+Isabel:
++ Epische/Legendäre Schiffs-Items und Spezialisten
++ Neue Welt Spezialisten
++ Legendäre Supersamen Neue Welt (Leider kein Mais)
++ Produktions-Maschinen (Gewöhnlich+ (Im Endgame beschränken sich gewöhnliche Maschinen auf Industrielle Hippe und Futterplatz))
+
+Eli:
++ Produktions-Maschinen (Siehe Isabel)
++ Spezialisten für Produktionsgebäude - Alte Welt
++ Militär-Spezialisten
+- Rathaus-Spezialisten entfernt (Sind jetzt bei Archie)
+- Händler-Spezialisten entfernt (Sind noch immer bei Kahina)
+- Handelsschiff-Spezialisten entfernt (Sind jetzt bei Archie)
+
+Nate:
+- 5 Zusätzliche Consumables (Corruption + Naval Combat)
+- Legendäre Taucherbootspezialisten
+- Tauchbootspezialisten aus allen Pools entfernt, ausser Nates Quests und seinem Kauf-Pool
+
+Ersteller: LonelyPorter + DaLexy

@@ -1,0 +1,669 @@
+<ModOps>
+    <!-- Change Gold Deposit to mineral deposit -->
+    <ModOp GUID='116038' Type="replace" Path="/Values/Standard/IconFilename">
+        <IconFilename>data/ui/2kimages/main/3dicons/icon_mineral_desposits.png</IconFilename>
+    </ModOp>
+    <ModOp GUID='116038' Type="replace" Path="/Values/Infolayer">
+        <Infolayer>
+            <DefaultInfoLayer>8857207</DefaultInfoLayer>
+        </Infolayer>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='500568'>
+        <Asset>
+            <Template>InfoLayerIcon</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857207</GUID>
+                    <Name>Variable Resource Infolayer</Name>
+                </Standard>
+                <InfoLayerIcon>
+                    <Config>data/graphics/ui/infolayer3d/infolayer_a7_marker_mine_general.cfg</Config>
+                    <PopupDelay>0</PopupDelay>
+                </InfoLayerIcon>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>[AssetData(102498) Text]</Text>
+                            <Status>Edit</Status>
+                            <ExportCount>3</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>14150</LineID>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Add new Mines -->
+    <ModOp Type="addNextSibling" GUID='116029'>
+        <Asset>
+            <Template>SlotFactoryBuilding7_Arctic</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857200</GUID>
+                    <Name>mining_arctic_02 (Iron Mine)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_iron.png</IconFilename>
+                </Standard>
+                <Building>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Arctic</AssociatedRegions>
+                </Building>
+                <Blocking>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/mining_colony03_01/mining_colony03_01_iron.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <ParticipantMessageArcheType>Arctic_Resident_tier02_atWork</ParticipantMessageArcheType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Deep Iron Mine</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>2</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>35086</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                        <ExplosionOneShots>
+                            <Item>
+                                <Sound>203849</Sound>
+                            </Item>
+                        </ExplosionOneShots>
+                    </IncidentSounds>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase>
+                    <FactoryOutputs>
+                        <Item>
+                            <Product>1010227</Product>
+                            <Amount>1</Amount>
+                            <StorageAmount>8</StorageAmount>
+                        </Item>
+                    </FactoryOutputs>
+                    <CycleTime>15</CycleTime>
+                </FactoryBase>
+                <LogisticNode />
+                <Slot>
+                    <SlotType>GoldOre</SlotType>
+                    <WorkArea>116031</WorkArea>
+                </Slot>
+                <AmbientMoodProvider>
+                    <AmbientMood>IndustryHeavy</AmbientMood>
+                    <Murmur>Arctic_Mine</Murmur>
+                    <GlacierMurmur>Arctic_Mine</GlacierMurmur>
+                </AmbientMoodProvider>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>1000</Amount>
+                            <InactiveAmount>500</InactiveAmount>
+                        </Item>
+                        <Item>
+                            <Product>112654</Product>
+                            <Amount>100</Amount>
+                            <ShutdownThreshold>0.2</ShutdownThreshold>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <MaximumHitPoints>1500</MaximumHitPoints>
+                </Attackable>
+                <Pausable />
+                <IncidentInfectable>
+                    <Infectable>
+                        <Illness>
+                            <Escalated>0</Escalated>
+                        </Illness>
+                        <Riot>
+                            <Base>0</Base>
+                            <Escalated>0</Escalated>
+                        </Riot>
+                    </Infectable>
+                    <Explosion>
+                        <ExplosionCoreDamage>2000</ExplosionCoreDamage>
+                        <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+                    </Explosion>
+                    <IncidentInfectionChanceFactors>
+                        <Fire>
+                            <BaseChance>10</BaseChance>
+                            <DensityFactor>0.1</DensityFactor>
+                            <DensityDistance>20</DensityDistance>
+                        </Fire>
+                        <Explosion>
+                            <BaseChance>0</BaseChance>
+                            <FactoryProductivityFactor>0.025</FactoryProductivityFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                            <SatisfactionThreshold>0</SatisfactionThreshold>
+                        </Explosion>
+                        <Riot>
+                            <FactoryOvertimeFactor>0</FactoryOvertimeFactor>
+                            <FactoryUndertimeFactor>0</FactoryUndertimeFactor>
+                            <FactoryHappinessFactor>0</FactoryHappinessFactor>
+                            <ResidenceHappinessFactor>0</ResidenceHappinessFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                        </Riot>
+                        <Illness>
+                            <ResidenceSatisfactionFactor>0</ResidenceSatisfactionFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                            <SatisfactionThreshold>0</SatisfactionThreshold>
+                        </Illness>
+                    </IncidentInfectionChanceFactors>
+                </IncidentInfectable>
+                <Culture />
+                <Electric>
+                    <BoostedByElectricity>0</BoostedByElectricity>
+                </Electric>
+                <Heated />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>SlotFactoryBuilding7_Arctic</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857203</GUID>
+                    <Name>mining_arctic_02 (Zinc Mine)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_tin_ore.png</IconFilename>
+                </Standard>
+                <Building>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Arctic</AssociatedRegions>
+                </Building>
+                <Blocking>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/mining_colony03_01/mining_colony03_01_zinc.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <ParticipantMessageArcheType>Arctic_Resident_tier02_atWork</ParticipantMessageArcheType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Deep Iron Mine</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>2</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>35086</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                        <ExplosionOneShots>
+                            <Item>
+                                <Sound>203849</Sound>
+                            </Item>
+                        </ExplosionOneShots>
+                    </IncidentSounds>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase>
+                    <FactoryOutputs>
+                        <Item>
+                            <Product>1010229</Product>
+                            <Amount>1</Amount>
+                            <StorageAmount>6</StorageAmount>
+                        </Item>
+                    </FactoryOutputs>
+                    <CycleTime>15</CycleTime>
+                </FactoryBase>
+                <LogisticNode />
+                <Slot>
+                    <SlotType>GoldOre</SlotType>
+                    <WorkArea>116031</WorkArea>
+                </Slot>
+                <AmbientMoodProvider>
+                    <AmbientMood>IndustryHeavy</AmbientMood>
+                    <Murmur>Arctic_Mine</Murmur>
+                    <GlacierMurmur>Arctic_Mine</GlacierMurmur>
+                </AmbientMoodProvider>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>1000</Amount>
+                            <InactiveAmount>500</InactiveAmount>
+                        </Item>
+                        <Item>
+                            <Product>112654</Product>
+                            <Amount>100</Amount>
+                            <ShutdownThreshold>0.2</ShutdownThreshold>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <MaximumHitPoints>1500</MaximumHitPoints>
+                </Attackable>
+                <Pausable />
+                <IncidentInfectable>
+                    <Infectable>
+                        <Illness>
+                            <Escalated>0</Escalated>
+                        </Illness>
+                        <Riot>
+                            <Base>0</Base>
+                            <Escalated>0</Escalated>
+                        </Riot>
+                    </Infectable>
+                    <Explosion>
+                        <ExplosionCoreDamage>2000</ExplosionCoreDamage>
+                        <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+                    </Explosion>
+                    <IncidentInfectionChanceFactors>
+                        <Fire>
+                            <BaseChance>10</BaseChance>
+                            <DensityFactor>0.1</DensityFactor>
+                            <DensityDistance>20</DensityDistance>
+                        </Fire>
+                        <Explosion>
+                            <BaseChance>0</BaseChance>
+                            <FactoryProductivityFactor>0.025</FactoryProductivityFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                            <SatisfactionThreshold>0</SatisfactionThreshold>
+                        </Explosion>
+                        <Riot>
+                            <FactoryOvertimeFactor>0</FactoryOvertimeFactor>
+                            <FactoryUndertimeFactor>0</FactoryUndertimeFactor>
+                            <FactoryHappinessFactor>0</FactoryHappinessFactor>
+                            <ResidenceHappinessFactor>0</ResidenceHappinessFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                        </Riot>
+                        <Illness>
+                            <ResidenceSatisfactionFactor>0</ResidenceSatisfactionFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                            <SatisfactionThreshold>0</SatisfactionThreshold>
+                        </Illness>
+                    </IncidentInfectionChanceFactors>
+                </IncidentInfectable>
+                <Culture />
+                <Electric>
+                    <BoostedByElectricity>0</BoostedByElectricity>
+                </Electric>
+                <Heated />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>SlotFactoryBuilding7_Arctic</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857204</GUID>
+                    <Name>mining_arctic_02 (Copper Mine)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_copper.png</IconFilename>
+                </Standard>
+                <Building>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Arctic</AssociatedRegions>
+                </Building>
+                <Blocking>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/mining_colony03_01/mining_colony03_01_copper.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <ParticipantMessageArcheType>Arctic_Resident_tier02_atWork</ParticipantMessageArcheType>
+                </Selection>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Deep Copper Mine</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>2</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>35086</LineID>
+                </Text>
+                <Constructable />
+                <Locked />
+                <SoundEmitter>
+                    <IncidentSounds>
+                        <InfectedFire>
+                            <Item>
+                                <Sound>214659</Sound>
+                            </Item>
+                        </InfectedFire>
+                        <ExplosionOneShots>
+                            <Item>
+                                <Sound>203849</Sound>
+                            </Item>
+                        </ExplosionOneShots>
+                    </IncidentSounds>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase>
+                    <FactoryOutputs>
+                        <Item>
+                            <Product>1010230</Product>
+                            <Amount>1</Amount>
+                            <StorageAmount>6</StorageAmount>
+                        </Item>
+                    </FactoryOutputs>
+                    <CycleTime>15</CycleTime>
+                </FactoryBase>
+                <LogisticNode />
+                <Slot>
+                    <SlotType>GoldOre</SlotType>
+                    <WorkArea>116031</WorkArea>
+                </Slot>
+                <AmbientMoodProvider>
+                    <AmbientMood>IndustryHeavy</AmbientMood>
+                    <Murmur>Arctic_Mine</Murmur>
+                    <GlacierMurmur>Arctic_Mine</GlacierMurmur>
+                </AmbientMoodProvider>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>1000</Amount>
+                            <InactiveAmount>500</InactiveAmount>
+                        </Item>
+                        <Item>
+                            <Product>112654</Product>
+                            <Amount>100</Amount>
+                            <ShutdownThreshold>0.2</ShutdownThreshold>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Attackable>
+                    <MaximumHitPoints>1500</MaximumHitPoints>
+                </Attackable>
+                <Pausable />
+                <IncidentInfectable>
+                    <Infectable>
+                        <Illness>
+                            <Escalated>0</Escalated>
+                        </Illness>
+                        <Riot>
+                            <Base>0</Base>
+                            <Escalated>0</Escalated>
+                        </Riot>
+                    </Infectable>
+                    <Explosion>
+                        <ExplosionCoreDamage>2000</ExplosionCoreDamage>
+                        <DamageExplosionCheckMax>40</DamageExplosionCheckMax>
+                    </Explosion>
+                    <IncidentInfectionChanceFactors>
+                        <Fire>
+                            <BaseChance>10</BaseChance>
+                            <DensityFactor>0.1</DensityFactor>
+                            <DensityDistance>20</DensityDistance>
+                        </Fire>
+                        <Explosion>
+                            <BaseChance>0</BaseChance>
+                            <FactoryProductivityFactor>0.025</FactoryProductivityFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                            <SatisfactionThreshold>0</SatisfactionThreshold>
+                        </Explosion>
+                        <Riot>
+                            <FactoryOvertimeFactor>0</FactoryOvertimeFactor>
+                            <FactoryUndertimeFactor>0</FactoryUndertimeFactor>
+                            <FactoryHappinessFactor>0</FactoryHappinessFactor>
+                            <ResidenceHappinessFactor>0</ResidenceHappinessFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                        </Riot>
+                        <Illness>
+                            <ResidenceSatisfactionFactor>0</ResidenceSatisfactionFactor>
+                            <HappinessMin>0</HappinessMin>
+                            <HappinessMax>0</HappinessMax>
+                            <SatisfactionThreshold>0</SatisfactionThreshold>
+                        </Illness>
+                    </IncidentInfectionChanceFactors>
+                </IncidentInfectable>
+                <Culture />
+                <Electric>
+                    <BoostedByElectricity>0</BoostedByElectricity>
+                </Electric>
+                <Heated />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='112856' Type="addNextSibling">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857201</GUID>
+                    <Name>Variable Resources Construction Category</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_mineral_desposits.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <CategoryDescription>8857206</CategoryDescription>
+                    <BuildingList>
+                        <Item>
+                            <Building>116029</Building>
+                        </Item>
+                        <Item>
+                            <Building>8857200</Building>
+                        </Item>
+                        <Item>
+                            <Building>8857203</Building>
+                        </Item>
+                        <Item>
+                            <Building>8857204</Building>
+                        </Item>
+                    </BuildingList>
+                </ConstructionCategory>
+                <Locked />
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Deep Mines</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>35197</LineID>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- New Triggers (885710x) -->
+    <ModOp Type="addNextSibling" GUID='130218'>
+
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857205</GUID>
+                    <Name>Intermediate Unhide Deep Mines</Name>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>112643</Context>
+                                <CounterAmount>500</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>116029</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8857200</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8857203</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8857204</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>8857202</GUID>
+                    <Name>Intermediate Unlock Deep Mines</Name>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>112643</Context>
+                                <CounterAmount>750</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>116029</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8857200</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8857203</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8857204</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="replace" GUID='116344,112791' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '116029']">
+        <Item>
+            <Building>8857201</Building>
+        </Item>
+    </ModOp>
+</ModOps>

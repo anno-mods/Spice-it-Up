@@ -1,0 +1,1 @@
+Ornaments generate four times the amount of attractiveness, while most Items have been stripped of their attractiveness effects. 

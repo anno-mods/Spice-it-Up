@@ -1,0 +1,1 @@
+Ermöglicht Geldgeschenke an andere Spieler im Multiplayer. Es erscheinen keine Meldungen. 

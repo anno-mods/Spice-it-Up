@@ -1,0 +1,1895 @@
+<ModOps>
+  <!-- Archibald Itempools -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192738']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902264</GUID>
+          <Name>Archibald Specialists - Common</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>193301</ItemLink>
+              <!-- Specialists - Club Members - Common -->
+            </Item>
+            <Item>
+              <ItemLink>192738</ItemLink>
+              <!-- Specialists - Public Buildings EU - Common -->
+            </Item>
+            <Item>
+              <ItemLink>192842</ItemLink>
+              <!-- Specialists - Public Buildings EU and SA - Common -->
+            </Item>
+            <Item>
+              <ItemLink>192748</ItemLink>
+              <!-- Specialists - City Institutions - Common -->
+            </Item>
+            <Item>
+              <ItemLink>192763</ItemLink>
+              <!-- Specialists - Ship Architecture - Common -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192739']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902265</GUID>
+          <Name>Archibald Specialists - Uncommon</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>193302</ItemLink>
+              <!-- Specialists - Club Members - Uncommon -->
+            </Item>
+            <Item>
+              <ItemLink>192739</ItemLink>
+              <!-- Specialists - Public Buildings EU - Uncommon -->
+            </Item>
+            <Item>
+              <ItemLink>192844</ItemLink>
+              <!-- Specialists - Public Buildings EU and SA - Uncommon -->
+            </Item>
+            <Item>
+              <ItemLink>192749</ItemLink>
+              <!-- Specialists - City Institutions - Uncommon -->
+            </Item>
+            <Item>
+              <ItemLink>192764</ItemLink>
+              <!-- Specialists - Ship Architecture - Uncommon -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192740']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902266</GUID>
+          <Name>Archibald Specialists - Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>193303</ItemLink>
+              <!-- Specialists - Club Members - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>192740</ItemLink>
+              <!-- Specialists - Public Buildings EU - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>192846</ItemLink>
+              <!-- Specialists - Public Buildings EU and SA - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>192750</ItemLink>
+              <!-- Specialists - City Institutions - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>192765</ItemLink>
+              <!-- Specialists - Ship Architecture - Rare -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192741']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902267</GUID>
+          <Name>Archibald Specialists - Epic</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>193304</ItemLink>
+              <!-- Specialists - Club Members - Epic -->
+            </Item>
+            <Item>
+              <ItemLink>192741</ItemLink>
+              <!-- Specialists - Public Buildings EU - Epic -->
+            </Item>
+            <Item>
+              <ItemLink>192848</ItemLink>
+              <!-- Specialists - Public Buildings EU and SA - Epic -->
+            </Item>
+            <Item>
+              <ItemLink>192751</ItemLink>
+              <!-- Specialists - City Institutions - Epic -->
+            </Item>
+            <Item>
+              <ItemLink>192766</ItemLink>
+              <!-- Specialists - Ship Architecture - Epic -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192742']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902268</GUID>
+          <Name>Archibald Specialists - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>193305</ItemLink>
+              <!-- Specialists - Club Members - Legendary -->
+              <Weight>1</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192742</ItemLink>
+              <!-- Specialists - Public Buildings EU - Legendary -->
+              <Weight>6</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192850</ItemLink>
+              <!-- Specialists - Public Buildings EU and SA - Legendary -->
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192752</ItemLink>
+              <!-- Specialists - City Institutions - Legendary -->
+              <Weight>5</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192767</ItemLink>
+              <!-- Specialists - Ship Architecture - Legendary -->
+              <Weight>3</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Eli Itempools -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='193055']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902269</GUID>
+          <Name>Eli Specialists - Common</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192728</ItemLink>
+              <!-- Specialists - European Goods - Common -->
+              <Weight>2</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192836</ItemLink>
+              <!-- Specialists - Europe and SA Goods - Common -->
+              <Weight>2</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192753</ItemLink>
+              <!-- Specialists - Military - Common -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='193055']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902270</GUID>
+          <Name>Eli Specialists - Uncommon</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192729</ItemLink>
+              <!-- Specialists - European Goods - Uncommon -->
+              <Weight>31</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192837</ItemLink>
+              <!-- Specialists - Europe and SA Goods - Uncommon -->
+              <Weight>6</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192749</ItemLink>
+              <!-- Specialists - Military - Uncommon -->
+              <Weight>3</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='193057']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902271</GUID>
+          <Name>Eli Specialists - Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192730</ItemLink>
+              <!-- Specialists - European Goods - Rare -->
+              <Weight>22</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192838</ItemLink>
+              <!-- Specialists - Europe and SA Goods - Rare -->
+              <Weight>6</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192755</ItemLink>
+              <!-- Specialists - Military - Rare -->
+              <Weight>4</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='193058']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902272</GUID>
+          <Name>Eli Specialists - Epic</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192731</ItemLink>
+              <!-- Specialists - European Goods - Epic -->
+              <Weight>22</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192839</ItemLink>
+              <!-- Specialists - Europe and SA Goods - Epic -->
+              <Weight>8</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192756</ItemLink>
+              <!-- Specialists - Military - Epic -->
+              <Weight>5</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='193059']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902273</GUID>
+          <Name>Eli Specialists - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192732</ItemLink>
+              <!-- Specialists - European Goods - Legendary -->
+              <Weight>16</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192840</ItemLink>
+              <!-- Specialists - Europe and SA Goods - Legendary -->
+              <Weight>17</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192757</ItemLink>
+              <!-- Specialists - Military - Legendary -->
+              <Weight>7</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Isabel Itempools -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192735']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902274</GUID>
+          <Name>Isabel Specialists - Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192736']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902275</GUID>
+          <Name>Isabel Specialists - Epic</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192450</ItemLink>
+              <!-- Specialists - Feras the Persuader -->
+            </Item>
+            <Item>
+              <ItemLink>192756</ItemLink>
+              <!-- Specialists - Military - Epic -->
+              <Weight>7</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192766</ItemLink>
+              <!-- Specialists - Ship Architecture - Epic -->
+              <Weight>7</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192737']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902276</GUID>
+          <Name>Isabel Specialists - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192737</ItemLink>
+              <!-- Specialists - South American Goods - Legendary -->
+              <Weight>6</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192757</ItemLink>
+              <!-- Specialists - Military - Legendary -->
+              <Weight>7</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192767</ItemLink>
+              <!-- Specialists - Ship Architecture - Legendary -->
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192840</ItemLink>
+              <!-- Specialists - Europe and SA Goods - Legendary -->
+              <Weight>17</Weight>
+            </Item>
+            <Item>
+              <ItemLink>193089</ItemLink>
+              <!-- Specialists - Obrero Specialists - Legendary -->
+              <Weight>8</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Madame Kahina Itempools -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192745']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902277</GUID>
+          <Name>Madame Kahina Specialists - Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192745</ItemLink>
+              <!-- Specialists - Cultural Buildings - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>193097</ItemLink>
+              <!-- Specialists - Cultural Specialists - Rare -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192746']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902278</GUID>
+          <Name>Madame Kahina Specialists - Epic</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192746</ItemLink>
+              <!-- Specialists - Cultural Buildings - Epic -->
+            </Item>
+            <Item>
+              <ItemLink>193098</ItemLink>
+              <!-- Specialists - Cultural Specialists - Epic -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192747']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902279</GUID>
+          <Name>Madame Kahina Specialists - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192762</ItemLink>
+              <!-- Specialists - Trading - Legendary -->
+            </Item>
+            <Item>
+              <ItemLink>193099</ItemLink>
+              <!-- Specialists - Cultural Specialists - Legendary -->
+              <Weight>2</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Machines -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192969']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902280</GUID>
+          <Name>Some Productivity Machines - Uncommon</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>190856</ItemLink>
+              <!-- Industrielle Hippie -->
+            </Item>
+            <Item>
+              <ItemLink>190869</ItemLink>
+              <!-- Futterplatz -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192969']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902281</GUID>
+          <Name>All Productivity Machines - Uncommon</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192678</ItemLink>
+              <!-- Machines - Productivity - Uncommon -->
+            </Item>
+            <Item>
+              <ItemLink>192683</ItemLink>
+              <!-- Machines - Evil Productivity - Uncommon -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192953']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902282</GUID>
+          <Name>All Productivity Machines - Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192679</ItemLink>
+              <!-- Machines - Productivity - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>192684</ItemLink>
+              <!-- Machines - Evil Productivity - Rare -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192954']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902283</GUID>
+          <Name>All Productivity Machines - Epic</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192680</ItemLink>
+              <!-- Machines - Productivity - Epic -->
+              <Weight>21</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192685</ItemLink>
+              <!-- Machines - Evil Productivity - Epic -->
+              <Weight>6</Weight>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192955']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902284</GUID>
+          <Name>Machines - Ship and Harbor - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192702</ItemLink>
+              <!-- Machines - Ship Architecture - Legendary -->
+            </Item>
+            <Item>
+              <ItemLink>192712</ItemLink>
+              <!-- Machines - Repair Tools - Legendary -->
+              <Weight>3</Weight>
+            </Item>
+            <Item>
+              <ItemLink>192722</ItemLink>
+              <!-- Machines - White Flag - Legendary -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Nate Consumables -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192956']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902285</GUID>
+          <Name>Nate Consumables - Rare</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>192634</ItemLink>
+              <!-- Consumables - Corruption - Rare -->
+            </Item>
+            <Item>
+              <ItemLink>192639</ItemLink>
+              <!-- Consumables - Naval Combat - Rare -->
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Legendary Seeds -->
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192970']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902287</GUID>
+          <Name>Northern Seeds - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>190071</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190064</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190374</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190065</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190373</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190063</ItemLink>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='192970']">
+    <Asset>
+      <Template>RewardPool</Template>
+      <Values>
+        <Standard>
+          <GUID>902288</GUID>
+          <Name>Southern Seeds - Legendary</Name>
+        </Standard>
+        <RewardPool>
+          <ItemsPool>
+            <Item>
+              <ItemLink>190067</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190068</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190069</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190066</ItemLink>
+            </Item>
+            <Item>
+              <ItemLink>190070</ItemLink>
+            </Item>
+          </ItemsPool>
+        </RewardPool>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Asset Unlocks (Seeds) -->
+  <ModOp Type="add" GUID='130180' Path="/Values/AssetPool/AssetList">
+    <Item>
+      <Asset>190071</Asset>
+    </Item>
+    <Item>
+      <Asset>190064</Asset>
+    </Item>
+    <Item>
+      <Asset>190374</Asset>
+    </Item>
+    <Item>
+      <Asset>190065</Asset>
+    </Item>
+    <Item>
+      <Asset>190373</Asset>
+    </Item>
+    <Item>
+      <Asset>190063</Asset>
+    </Item>
+    <Item>
+      <Asset>190067</Asset>
+    </Item>
+    <Item>
+      <Asset>190068</Asset>
+    </Item>
+    <Item>
+      <Asset>190069</Asset>
+    </Item>
+    <Item>
+      <Asset>190066</Asset>
+    </Item>
+    <Item>
+      <Asset>190070</Asset>
+    </Item>
+  </ModOp>
+
+
+  <!-- Archibald Dice -->
+  <ModOp Type="add" GUID='190162' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902264</ItemLink>
+      <!-- Archibald Specialists - Common -->
+      <Weight>40</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902265</ItemLink>
+      <!-- Archibald Specialists - Uncommon -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902266</ItemLink>
+      <!-- Archibald Specialists - Rare -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902267</ItemLink>
+      <!-- Archibald Specialists - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902268</ItemLink>
+      <!-- Archibald Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192966</ItemLink>
+      <!-- Culture - Artifacts - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192967</ItemLink>
+      <!-- Culture - Artifacts - Uncommon -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192968</ItemLink>
+      <!-- Culture - Artifacts - Rare -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192969</ItemLink>
+      <!-- Culture - Artifacts - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192970</ItemLink>
+      <!-- Culture - Artifacts - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190163' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902264</ItemLink>
+      <!-- Archibald Specialists - Common -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902265</ItemLink>
+      <!-- Archibald Specialists - Uncommon -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902266</ItemLink>
+      <!-- Archibald Specialists - Rare -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902267</ItemLink>
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902268</ItemLink>
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192966</ItemLink>
+      <!-- Culture - Artifacts - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192967</ItemLink>
+      <!-- Culture - Artifacts - Uncommon -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192968</ItemLink>
+      <!-- Culture - Artifacts - Rare -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192969</ItemLink>
+      <!-- Culture - Artifacts - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192970</ItemLink>
+      <!-- Culture - Artifacts - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190164' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902264</ItemLink>
+      <!-- Archibald Specialists - Common -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902265</ItemLink>
+      <!-- Archibald Specialists - Uncommon -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902266</ItemLink>
+      <!-- Archibald Specialists - Rare -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902267</ItemLink>
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902268</ItemLink>
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192966</ItemLink>
+      <!-- Culture - Artifacts - Common -->
+      <Weight>50</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192967</ItemLink>
+      <!-- Culture - Artifacts - Uncommon -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192968</ItemLink>
+      <!-- Culture - Artifacts - Rare -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192969</ItemLink>
+      <!-- Culture - Artifacts - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192970</ItemLink>
+      <!-- Culture - Artifacts - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190165' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902264</ItemLink>
+      <!-- Archibald Specialists - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902265</ItemLink>
+      <!-- Archibald Specialists - Uncommon -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902266</ItemLink>
+      <!-- Archibald Specialists - Rare -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902267</ItemLink>
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902268</ItemLink>
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192966</ItemLink>
+      <!-- Culture - Artifacts - Common -->
+      <Weight>50</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192967</ItemLink>
+      <!-- Culture - Artifacts - Uncommon -->
+      <Weight>35</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192968</ItemLink>
+      <!-- Culture - Artifacts - Rare -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192969</ItemLink>
+      <!-- Culture - Artifacts - Epic -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192970</ItemLink>
+      <!-- Culture - Artifacts - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190166' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902264</ItemLink>
+      <!-- Archibald Specialists - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902265</ItemLink>
+      <!-- Archibald Specialists - Uncommon -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902266</ItemLink>
+      <!-- Archibald Specialists - Rare -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902267</ItemLink>
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902268</ItemLink>
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192966</ItemLink>
+      <!-- Culture - Artifacts - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192967</ItemLink>
+      <!-- Culture - Artifacts - Uncommon -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192968</ItemLink>
+      <!-- Culture - Artifacts - Rare -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192969</ItemLink>
+      <!-- Culture - Artifacts - Epic -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192970</ItemLink>
+      <!-- Culture - Artifacts - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902284</ItemLink>
+      <!-- Machines - Ship and Harbor - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>1</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='192069' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902264</ItemLink>
+      <!-- Archibald Specialists - Common -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902265</ItemLink>
+      <!-- Archibald Specialists - Uncommon -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902266</ItemLink>
+      <!-- Archibald Specialists - Rare -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902267</ItemLink>
+      <!-- Archibald Specialists - Epic -->
+      <Weight>35</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902268</ItemLink>
+      <!-- Archibald Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192966</ItemLink>
+      <!-- Culture - Artifacts - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192967</ItemLink>
+      <!-- Culture - Artifacts - Uncommon -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192968</ItemLink>
+      <!-- Culture - Artifacts - Rare -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192969</ItemLink>
+      <!-- Culture - Artifacts - Epic -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192970</ItemLink>
+      <!-- Culture - Artifacts - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902284</ItemLink>
+      <!-- Machines - Ship and Harbor - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>1</Weight>
+    </Item>
+  </ModOp>
+
+  <!-- Isabel Dice -->
+  <ModOp Type="add" GUID='190362' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902276</ItemLink>
+      <!-- Isabel Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902281</ItemLink>
+      <!-- All Productivity Machines - Uncommon -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192955</ItemLink>
+      <!-- Machines - Legendary (Ship Items only, Mostly Weapons) -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190363' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902275</ItemLink>
+      <!-- Isabel Specialists - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902276</ItemLink>
+      <!-- Isabel Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902281</ItemLink>
+      <!-- All Productivity Machines - Uncommon -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192955</ItemLink>
+      <!-- Machines - Legendary (Ship Items only, Mostly Weapons) -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='192072' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902275</ItemLink>
+      <!-- Isabel Specialists - Epic -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902276</ItemLink>
+      <!-- Isabel Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902280</ItemLink>
+      <!-- Some Productivity Machines - Uncommon -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192955</ItemLink>
+      <!-- Machines - Legendary (Ship Items only, Mostly Weapons) -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='192073' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902275</ItemLink>
+      <!-- Isabel Specialists - Epic -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902276</ItemLink>
+      <!-- Isabel Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902280</ItemLink>
+      <!-- Some Productivity Machines - Uncommon -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>35</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192955</ItemLink>
+      <!-- Machines - Legendary (Ship Items only, Mostly Weapons) -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902288</ItemLink>
+      <!-- Southern Seeds - Legendary -->
+      <Weight>2</Weight>
+    </Item>
+  </ModOp>
+
+  <!-- Eli Jailor Dice -->
+  <ModOp Type="add" GUID='190167' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902269</ItemLink>
+      <!-- Eli Specialists - Common -->
+      <Weight>140</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902270</ItemLink>
+      <!-- Eli Specialists - Uncommon -->
+      <Weight>60</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902271</ItemLink>
+      <!-- Eli Specialists - Rare -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902272</ItemLink>
+      <!-- Eli Specialists - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902273</ItemLink>
+      <!-- Eli Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902281</ItemLink>
+      <!-- All Productivity Machines - Uncommon -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190168' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902269</ItemLink>
+      <!-- Eli Specialists - Common -->
+      <Weight>100</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902270</ItemLink>
+      <!-- Eli Specialists - Uncommon -->
+      <Weight>80</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902271</ItemLink>
+      <!-- Eli Specialists - Rare -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902272</ItemLink>
+      <!-- Eli Specialists - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902273</ItemLink>
+      <!-- Eli Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902281</ItemLink>
+      <!-- All Productivity Machines - Uncommon -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>5</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190304' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902269</ItemLink>
+      <!-- Eli Specialists - Common -->
+      <Weight>60</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902270</ItemLink>
+      <!-- Eli Specialists - Uncommon -->
+      <Weight>100</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902271</ItemLink>
+      <!-- Eli Specialists - Rare -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902272</ItemLink>
+      <!-- Eli Specialists - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902273</ItemLink>
+      <!-- Eli Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902281</ItemLink>
+      <!-- All Productivity Machines - Uncommon -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>10</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190305' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902269</ItemLink>
+      <!-- Eli Specialists - Common -->
+      <Weight>50</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902270</ItemLink>
+      <!-- Eli Specialists - Uncommon -->
+      <Weight>80</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902271</ItemLink>
+      <!-- Eli Specialists - Rare -->
+      <Weight>60</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902272</ItemLink>
+      <!-- Eli Specialists - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902273</ItemLink>
+      <!-- Eli Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902280</ItemLink>
+      <!-- Some Productivity Machines - Uncommon -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>15</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190306' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902269</ItemLink>
+      <!-- Eli Specialists - Common -->
+      <Weight>40</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902270</ItemLink>
+      <!-- Eli Specialists - Uncommon -->
+      <Weight>60</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902271</ItemLink>
+      <!-- Eli Specialists - Rare -->
+      <Weight>80</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902272</ItemLink>
+      <!-- Eli Specialists - Epic -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902273</ItemLink>
+      <!-- Eli Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902280</ItemLink>
+      <!-- Some Productivity Machines - Uncommon -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>20</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190774' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902269</ItemLink>
+      <!-- Eli Specialists - Common -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902270</ItemLink>
+      <!-- Eli Specialists - Uncommon -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902271</ItemLink>
+      <!-- Eli Specialists - Rare -->
+      <Weight>80</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902272</ItemLink>
+      <!-- Eli Specialists - Epic -->
+      <Weight>50</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902273</ItemLink>
+      <!-- Eli Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902280</ItemLink>
+      <!-- Some Productivity Machines - Uncommon -->
+      <Weight>2</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902282</ItemLink>
+      <!-- All Productivity Machines - Rare -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902283</ItemLink>
+      <!-- All Productivity Machines - Epic -->
+      <Weight>35</Weight>
+    </Item>
+  </ModOp>
+  <!-- Removing Specialist-Pools from Eli -->
+  <ModOp Type="remove" GUID='190167,190168,190304,190305,190306,190774' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192905']" />
+  <ModOp Type="remove" GUID='190167,190168,190304,190305,190306,190774' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192906']" />
+  <ModOp Type="remove" GUID='190167,190168,190304,190305,190306,190774' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192907']" />
+  <ModOp Type="remove" GUID='190167,190168,190304,190305,190306,190774' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192908']" />
+
+  <!-- Kahina Dice -->
+  <ModOp Type="add" GUID='190554' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902277</ItemLink>
+      <!-- Madame Kahina Specialists - Rare -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902278</ItemLink>
+      <!-- Madame Kahina Specialists - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902279</ItemLink>
+      <!-- Madame Kahina Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192964</ItemLink>
+      <!-- Culture - Animals - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192965</ItemLink>
+      <!-- Culture - Animals - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193677</ItemLink>
+      <!-- Culture - Plants - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193678</ItemLink>
+      <!-- Culture - Plants - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190555' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902277</ItemLink>
+      <!-- Madame Kahina Specialists - Rare -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902278</ItemLink>
+      <!-- Madame Kahina Specialists - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902279</ItemLink>
+      <!-- Madame Kahina Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192964</ItemLink>
+      <!-- Culture - Animals - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192965</ItemLink>
+      <!-- Culture - Animals - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193677</ItemLink>
+      <!-- Culture - Plants - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193678</ItemLink>
+      <!-- Culture - Plants - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190556' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902277</ItemLink>
+      <!-- Madame Kahina Specialists - Rare -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902278</ItemLink>
+      <!-- Madame Kahina Specialists - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902279</ItemLink>
+      <!-- Madame Kahina Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192964</ItemLink>
+      <!-- Culture - Animals - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192965</ItemLink>
+      <!-- Culture - Animals - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193677</ItemLink>
+      <!-- Culture - Plants - Epic -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193678</ItemLink>
+      <!-- Culture - Plants - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190367' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902277</ItemLink>
+      <!-- Madame Kahina Specialists - Rare -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902278</ItemLink>
+      <!-- Madame Kahina Specialists - Epic -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902279</ItemLink>
+      <!-- Madame Kahina Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192964</ItemLink>
+      <!-- Culture - Animals - Epic -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192965</ItemLink>
+      <!-- Culture - Animals - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193677</ItemLink>
+      <!-- Culture - Plants - Epic -->
+      <Weight>15</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193678</ItemLink>
+      <!-- Culture - Plants - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='190387' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902277</ItemLink>
+      <!-- Madame Kahina Specialists - Rare -->
+      <Weight>25</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902278</ItemLink>
+      <!-- Madame Kahina Specialists - Epic -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902279</ItemLink>
+      <!-- Madame Kahina Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192964</ItemLink>
+      <!-- Culture - Animals - Epic -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192965</ItemLink>
+      <!-- Culture - Animals - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193677</ItemLink>
+      <!-- Culture - Plants - Epic -->
+      <Weight>20</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193678</ItemLink>
+      <!-- Culture - Plants - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>3</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>1</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='192068' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902277</ItemLink>
+      <!-- Madame Kahina Specialists - Rare -->
+      <Weight>40</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902278</ItemLink>
+      <!-- Madame Kahina Specialists - Epic -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902279</ItemLink>
+      <!-- Madame Kahina Specialists - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192964</ItemLink>
+      <!-- Culture - Animals - Epic -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>192965</ItemLink>
+      <!-- Culture - Animals - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193677</ItemLink>
+      <!-- Culture - Plants - Epic -->
+      <Weight>30</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193678</ItemLink>
+      <!-- Culture - Plants - Legendary -->
+      <Weight>0</Weight>
+    </Item>
+    <Item>
+      <ItemLink>902287</ItemLink>
+      <!-- Northern Seeds - Legendary -->
+      <Weight>5</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193695</ItemLink>
+      <!-- Culture - Music - Epic -->
+      <Weight>3</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193696</ItemLink>
+      <!-- Culture - Music - Legendary -->
+      <Weight>1</Weight>
+    </Item>
+  </ModOp>
+  <!-- Removing of Artefacts -->
+  <ModOp Type="remove" GUID='192925' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192783']" />
+  <ModOp Type="remove" GUID='192925' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192788']" />
+  <ModOp Type="remove" GUID='192926' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192784']" />
+  <ModOp Type="remove" GUID='192926' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192794']" />
+  <ModOp Type="remove" GUID='192926' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192789']" />
+  <ModOp Type="remove" GUID='192926' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='193432']" />
+  <ModOp Type="remove" GUID='192926' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='193795']" />
+  <ModOp Type="remove" GUID='192927' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192785']" />
+  <ModOp Type="remove" GUID='192927' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192795']" />
+  <ModOp Type="remove" GUID='192927' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='192790']" />
+  <ModOp Type="remove" GUID='192927' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='193433']" />
+  <ModOp Type="remove" GUID='192927' Path="/Values/RewardPool/ItemsPool/Item[ItemLink='193796']" />
+
+  <!-- Nate Dice -->
+  <ModOp Type="add" GUID='193447' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902285</ItemLink>
+      <!-- Nate Consumables - Rare -->
+      <Weight>20</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='193448' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902285</ItemLink>
+      <!-- Nate Consumables - Rare -->
+      <Weight>30</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='193449' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902285</ItemLink>
+      <!-- Nate Consumables - Rare -->
+      <Weight>40</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='193450' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902285</ItemLink>
+      <!-- Nate Consumables - Rare -->
+      <Weight>40</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='193451' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902285</ItemLink>
+      <!-- Nate Consumables - Rare -->
+      <Weight>35</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193645</ItemLink>
+      <!-- Old Nate Legendary Specialists -->
+      <Weight>0</Weight>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='193452' Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>902285</ItemLink>
+      <!-- Nate Consumables - Rare -->
+      <Weight>35</Weight>
+    </Item>
+    <Item>
+      <ItemLink>193645</ItemLink>
+      <!-- Old Nate Legendary Specialists -->
+      <Weight>10</Weight>
+    </Item>
+    <Item>
+      <ItemLink>191831</ItemLink>
+      <!-- Verstellbarer Propeller -->
+      <Weight>5</Weight>
+    </Item>
+  </ModOp>
+
+</ModOps>

@@ -1,0 +1,2 @@
+Instead of Gold Desposits, you will now have variable resources in the arctic. 
+On those you can build deep Gold, iron, copper and zinc mines (latter produce twice as fast as their old-world counterparts). 

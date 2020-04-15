@@ -1,0 +1,3325 @@
+<ModOps>
+    <!-- World Fair Items Monumental North-->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102472']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902232</GUID>
+                    <Name>culture_1x1_basinstraight_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_11.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23395</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_11.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902246</GUID>
+                    <Name>culture_1x1_basinstraight_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_11.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23395</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_11.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102468']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902233</GUID>
+                    <Name>culture_1x1_basinstraightfountain_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_07.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel Fountain</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23396</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_07.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17738</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902247</GUID>
+                    <Name>culture_1x1_basinstraightfountain_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_07.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel Fountain</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23396</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_07.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17738</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102470']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902234</GUID>
+                    <Name>culture_1x1_basinend_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_09.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23397</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_09.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902248</GUID>
+                    <Name>culture_1x1_basinend_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_09.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23397</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_09.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102471']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902235</GUID>
+                    <Name>culture_1x1_basinangle_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_10.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23398</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_10.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902249</GUID>
+                    <Name>culture_1x1_basinangle_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_10.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23398</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_10.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102469']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902236</GUID>
+                    <Name>culture_1x1_basinbridge_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_08.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel Bridge</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23399</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_08.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17739</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902250</GUID>
+                    <Name>culture_1x1_basinbridge_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_08.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Channel Bridge</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23399</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_08.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17739</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102473']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902237</GUID>
+                    <Name>culture_1x3_buildinggate_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_gate_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>World Fair Gate</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23400</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_gate_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>3</OrnamentUnit>
+                    <OrnamentDescritpion>17741</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902251</GUID>
+                    <Name>culture_1x3_buildinggate_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_gate_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>World Fair Gate</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23400</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_gate_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>3</OrnamentUnit>
+                    <OrnamentDescritpion>17741</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102475']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902238</GUID>
+                    <Name>culture_2x2_tower_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_tower_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>World Fair Tower</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23402</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_tower_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>4</OrnamentUnit>
+                    <OrnamentDescritpion>17740</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902252</GUID>
+                    <Name>culture_2x2_tower_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_tower_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>World Fair Tower</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23402</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>2500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_tower_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>4</OrnamentUnit>
+                    <OrnamentDescritpion>17740</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102474']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902239</GUID>
+                    <Name>culture_4x3_pavillion_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_module_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>World Fair Pavillion</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23401</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_module_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>12</OrnamentUnit>
+                    <OrnamentDescritpion>17742</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902253</GUID>
+                    <Name>culture_4x3_pavillion_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_module_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>World Fair Pavillion</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23401</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_module_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>12</OrnamentUnit>
+                    <OrnamentDescritpion>17742</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102461']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902240</GUID>
+                    <Name>culture_1x1_columnsstraight_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Columns</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23389</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1250</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902254</GUID>
+                    <Name>culture_1x1_columnsstraight_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Columns</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23389</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>180</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1250</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102463']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902241</GUID>
+                    <Name>culture_1x1_columnsangle_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_02.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Columns</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23390</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1250</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902255</GUID>
+                    <Name>culture_1x1_columnsangle_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_02.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Columns</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23390</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1250</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102159']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902294</GUID>
+                    <Name>culture_prop_system_1x1_01_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/cultural_1x1_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Square</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>18126</LineID>
+                </Text>
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/cultural_props_system/cultural_props_system_1x1_system/cultural_props_1x1_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>OrnamentalBuilding</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                            <Item>
+                                <Sound>9818759</Sound>
+                            </Item>
+                        </BuildSuccessful>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200133</Sound>
+                            </Item>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <Locked>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902295</GUID>
+                    <Name>culture_prop_system_1x1_01</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/cultural_1x1_01.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Square</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>18126</LineID>
+                </Text>
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/cultural_props_system/cultural_props_system_1x1_system/cultural_props_1x1_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>OrnamentalBuilding</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                            <Item>
+                                <Sound>9818759</Sound>
+                            </Item>
+                        </BuildSuccessful>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200133</Sound>
+                            </Item>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                    <InheritanceMapV2>
+                                        <Entry>
+                                            <TemplateName>OrnamentalBuilding</TemplateName>
+                                            <Index>0</Index>
+                                        </Entry>
+                                    </InheritanceMapV2>
+                                </VectorElement>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <Locked>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102464']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902242</GUID>
+                    <Name>culture_1x1_advertisingcolumn_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_03.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Morris Column</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23391</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>750</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_03.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17734</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902256</GUID>
+                    <Name>culture_1x1_advertisingcolumn_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_03.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Morris Column</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23391</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>750</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_03.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17734</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102465']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902243</GUID>
+                    <Name>culture_1x1_advertisingpanel_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_04.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Billboard</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23392</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_04.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17735</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902257</GUID>
+                    <Name>culture_1x1_advertisingpanel_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_04.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Billboard</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23392</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_04.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17735</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102466']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902244</GUID>
+                    <Name>culture_1x1_secondground_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_05.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Mosaic Paving</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23393</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>250</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_05.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17731</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902258</GUID>
+                    <Name>culture_1x1_secondground_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_05.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Mosaic Paving</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23393</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>250</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_05.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17731</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102467']">
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902245</GUID>
+                    <Name>culture_1x1_flag_north</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_06.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Flagpole</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23394</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>400</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_06.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17736</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>902259</GUID>
+                    <Name>culture_1x1_flag_south</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_06.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Flagpole</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>23394</LineID>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>400</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_1x1_06.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescritpion>17736</OrnamentDescritpion>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Assetpool -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130153']">
+        <Asset>
+            <Template>AssetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>902260</GUID>
+                    <Name>asset pool investors monuments world-fair</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/city_1x1_01.png</IconFilename>
+                </Standard>
+                <AssetPool>
+                    <AssetList>
+                        <Item>
+                            <Asset>902232</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902233</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902234</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902235</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902236</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902240</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902241</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902242</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902243</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902244</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902245</Asset>
+                        </Item>
+                    </AssetList>
+                </AssetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130197']">
+        <Asset>
+            <Template>AssetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>902261</GUID>
+                    <Name>asset pool obreros monuments world-fair</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/city_1x1_01.png</IconFilename>
+                </Standard>
+                <AssetPool>
+                    <AssetList>
+                        <Item>
+                            <Asset>902246</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902247</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902248</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902249</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902250</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902254</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902255</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902256</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902257</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902258</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>902259</Asset>
+                        </Item>
+                    </AssetList>
+                </AssetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Buildmenus WF Items North -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501486']">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>976500</GUID>
+                    <Name>Water basin</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_11.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>902232</Building>
+                        </Item>
+                        <Item>
+                            <Building>902233</Building>
+                        </Item>
+                        <Item>
+                            <Building>902234</Building>
+                        </Item>
+                        <Item>
+                            <Building>902235</Building>
+                        </Item>
+                        <Item>
+                            <Building>902236</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>976501</GUID>
+                    <Name>Pillars</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_01.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>902240</Building>
+                        </Item>
+                        <Item>
+                            <Building>902241</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>976502</GUID>
+                    <Name>City</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_1x1_06.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>902242</Building>
+                        </Item>
+                        <Item>
+                            <Building>902243</Building>
+                        </Item>
+                        <Item>
+                            <Building>902244</Building>
+                        </Item>
+                        <Item>
+                            <Building>902245</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>976503</GUID>
+                    <Name>City</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_module_01.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>102473</Building>
+                        </Item>
+                        <Item>
+                            <Building>102474</Building>
+                        </Item>
+                        <Item>
+                            <Building>102475</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Buildmenus WF Items South -->
+    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501579']">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>902263</GUID>
+                    <Name>moderate Obreros monuments</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_module_01.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>902246</Building>
+                        </Item>
+                        <Item>
+                            <Building>902247</Building>
+                        </Item>
+                        <Item>
+                            <Building>902248</Building>
+                        </Item>
+                        <Item>
+                            <Building>902249</Building>
+                        </Item>
+                        <Item>
+                            <Building>902250</Building>
+                        </Item>
+                        <Item>
+                            <Building>902254</Building>
+                        </Item>
+                        <Item>
+                            <Building>902255</Building>
+                        </Item>
+                        <Item>
+                            <Building>902256</Building>
+                        </Item>
+                        <Item>
+                            <Building>902257</Building>
+                        </Item>
+                        <Item>
+                            <Building>902258</Building>
+                        </Item>
+                        <Item>
+                            <Building>902259</Building>
+                        </Item>
+                        <Item>
+                            <Building>102473</Building>
+                        </Item>
+                        <Item>
+                            <Building>102474</Building>
+                        </Item>
+                        <Item>
+                            <Building>102475</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19565</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Obreros</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501499']"/>
+    <!-- remove og construction menu of world fair monuments -->
+    <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501488']"/>
+    <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501499']"/>
+    <ModOp Type="remove" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501695']"/>
+    <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501694']"/>
+    <!-- moderate construction menu 5 (tier) -->
+    <ModOp Type="addNextSibling" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building='500021']">
+        <Item>
+            <Building>976500</Building>
+        </Item>
+        <Item>
+            <Building>976501</Building>
+        </Item>
+        <Item>
+            <Building>976502</Building>
+        </Item>
+        <Item>
+            <Building>976503</Building>
+        </Item>
+    </ModOp>
+    <!-- moderate construction menu culture (category) -->
+    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>976500</Building>
+        </Item>
+        <Item>
+            <Building>976501</Building>
+        </Item>
+        <Item>
+            <Building>976502</Building>
+        </Item>
+        <Item>
+            <Building>976503</Building>
+        </Item>
+    </ModOp>
+
+    <!-- sa construction menu 2 (tier) -->
+    <ModOp Type="addNextSibling" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building='501578']">
+        <Item>
+            <Building>902263</Building>
+        </Item>
+    </ModOp>
+    <!-- sa construction menu culture (category) -->
+    <ModOp Type="addNextSibling" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building='102284']">
+        <Item>
+            <Building>902263</Building>
+        </Item>
+    </ModOp>
+
+    <!-- New Triggers (97606x) -->
+    <ModOp Type="addNextSibling" GUID='130248'>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976060</GUID>
+                    <Name>intermediate moderate 4.1</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000004</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>902260</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976061</GUID>
+                    <Name>intermediate colony01 2.2</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000006</Context>
+                                <CounterAmount>600</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>902261</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976062</GUID>
+                    <Name>intermediate colony01 2.3</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000006</Context>
+                                <CounterAmount>1000</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>902261</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="replace" GUID='17006' Path="/Values/MonumentEvent/RewardThresholds">
+        <RewardThresholds>
+            <Item>
+                <Reward>17700</Reward>
+                <NeededAttractiveness>100</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17703</Reward>
+                <NeededAttractiveness>200</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17704</Reward>
+                <NeededAttractiveness>300</NeededAttractiveness>
+            </Item>
+        </RewardThresholds>
+    </ModOp>
+    <ModOp Type="remove" GUID='17006' Path="/Values/MonumentEvent/MinAttractiveness"/>
+    <ModOp Type="replace" GUID='17007' Path="/Values/MonumentEvent/RewardThresholds">
+        <RewardThresholds>
+            <Item>
+                <Reward>17705</Reward>
+                <NeededAttractiveness>100</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17706</Reward>
+                <NeededAttractiveness>300</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17707</Reward>
+                <NeededAttractiveness>500</NeededAttractiveness>
+            </Item>
+        </RewardThresholds>
+    </ModOp>
+    <ModOp Type="remove" GUID='17007' Path="/Values/MonumentEvent/MinAttractiveness"/>
+    <ModOp Type="replace" GUID='17008' Path="/Values/MonumentEvent/RewardThresholds">
+        <RewardThresholds>
+            <Item>
+                <Reward>17703</Reward>
+                <NeededAttractiveness>200</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17708</Reward>
+                <NeededAttractiveness>500</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17709</Reward>
+                <NeededAttractiveness>750</NeededAttractiveness>
+            </Item>
+        </RewardThresholds>
+    </ModOp>
+    <ModOp Type="remove" GUID='17008' Path="/Values/MonumentEvent/MinAttractiveness"/>
+
+    <ModOp Type="replace" GUID='17700'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17700</GUID>
+                    <Name>1 Tower and 1 Gate</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_2.png</IconFilename>
+                    <InfoDescription>17813</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27197</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>1</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>1</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17703'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17703</GUID>
+                    <Name>2 Towers and 2 Gate an 1 Pavillon</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_3.png</IconFilename>
+                    <InfoDescription>17814</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27198</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>2</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>2</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>1</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17704'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17704</GUID>
+                    <Name>4 Tower and 4 Gate and 2 Pavillon</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_4.png</IconFilename>
+                    <InfoDescription>17815</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27199</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>2</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17705'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17705</GUID>
+                    <Name>4 4 0</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_5.png</IconFilename>
+                    <InfoDescription>17816</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27200</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17706'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17706</GUID>
+                    <Name>4 4 2</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_6.png</IconFilename>
+                    <InfoDescription>17817</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27201</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>2</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17707'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17707</GUID>
+                    <Name>6 6 3</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_7.png</IconFilename>
+                    <InfoDescription>17818</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27202</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>2</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17708'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17708</GUID>
+                    <Name>6 6 2</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_8.png</IconFilename>
+                    <InfoDescription>17819</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27203</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>6</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>6</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>2</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="replace" GUID='17709'>
+        <Asset>
+            <Template>MonumentEventReward</Template>
+            <Values>
+                <Standard>
+                    <GUID>17709</GUID>
+                    <Name>8 8 4</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_9.png</IconFilename>
+                    <InfoDescription>17820</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText />
+                    <LineID>27204</LineID>
+                </Text>
+                <Reward>
+                    <RewardAssets>
+                        <Item>
+                            <Reward>102475</Reward>
+                            <Amount>8</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102474</Reward>
+                            <Amount>8</Amount>
+                        </Item>
+                        <Item>
+                            <Reward>102473</Reward>
+                            <Amount>4</Amount>
+                        </Item>
+                    </RewardAssets>
+                </Reward>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="replace" GUID='17008' Path="/Values/MonumentEvent/RewardThresholds">
+        <RewardThresholds>
+            <Item>
+                <Reward>17700</Reward>
+                <NeededAttractiveness>200</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17708</Reward>
+                <NeededAttractiveness>500</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17709</Reward>
+                <NeededAttractiveness>750</NeededAttractiveness>
+            </Item>
+        </RewardThresholds>
+    </ModOp>
+
+    <ModOp Type="replace" GUID='17007' Path="/Values/MonumentEvent/RewardThresholds">
+        <RewardThresholds>
+            <Item>
+                <Reward>17705</Reward>
+                <NeededAttractiveness>100</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17706</Reward>
+                <NeededAttractiveness>300</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17707</Reward>
+                <NeededAttractiveness>500</NeededAttractiveness>
+            </Item>
+        </RewardThresholds>
+    </ModOp>
+
+    <ModOp Type="replace" GUID='17006' Path="/Values/MonumentEvent/RewardThresholds">
+        <RewardThresholds>
+            <Item>
+                <Reward>17700</Reward>
+                <NeededAttractiveness>100</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17703</Reward>
+                <NeededAttractiveness>200</NeededAttractiveness>
+            </Item>
+            <Item>
+                <Reward>17704</Reward>
+                <NeededAttractiveness>300</NeededAttractiveness>
+            </Item>
+        </RewardThresholds>
+    </ModOp>
+
+    <!-- replacement of mosaic  -->
+    <ModOp Type="remove" GUID='501823,501824' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102466']"/>
+    <!-- removal of channel category -->
+    <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501498']"/>
+    <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501693']"/>
+
+    <!-- Zoo, Museum, Botanic Garden use the new ones -->
+
+    <ModOp Type="replace" GUID='1010470,1010471,110935' Path="/Values/ModuleOwner/ConstructionOptions/Item[ModuleGUID = '102466' ]">
+        <Item>
+            <ModuleGUID>902244</ModuleGUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="replace" GUID='1010470,1010471,110935' Path="/Values/ModuleOwner/ConstructionOptions/Item[ModuleGUID = '102469' ]">
+        <Item>
+            <ModuleGUID>902236</ModuleGUID>
+        </Item>
+    </ModOp>
+
+    <!-- 102475, 102474, 102473 need added attractiveness -->
+    <ModOp Type = "replace" GUID = '102473, 102474, 102475' Path = "/Values/Ornament/OrnamentUnit">
+        <OrnamentUnit>50</OrnamentUnit>
+    </ModOp>
+</ModOps>

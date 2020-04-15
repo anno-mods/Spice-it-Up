@@ -1,0 +1,3 @@
+Ordnet das Baumenü so um, dass Ornamente immer am Ende einer Kategorie stehen. 
+Fasst außerdem die Kulturgebäude in eine Kategorie zusammen. 
+Der Reiter "Kultur" in der Kategoriesortierung wird hier komplett überarbeitet. 

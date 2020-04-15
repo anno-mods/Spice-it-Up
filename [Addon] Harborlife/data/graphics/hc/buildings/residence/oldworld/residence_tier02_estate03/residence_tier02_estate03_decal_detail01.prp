@@ -1,0 +1,18 @@
+<Prop><Type>Decal Detail</>
+<VertexFormat>P4h_T2h_C4c</>
+<MeshFileName>data/graphics/buildings/residence/residence_tier02_estate03/rdm/residence_tier02_estate03_decal_detail01_lod0.rdm</>
+<AlwaysVisible>0</>
+<Indestructible>0</>
+<ForceHighResShadow>0</>
+<ForceZPrePass>0</>
+<EnableReflection>0</>
+<Materials><Material><cPropDiffuseTex>data/graphics/props/terrain_props/vegetation/grass/maps/grass_moderate_01_diff.psd</>
+<cDiffuseColor.r>1.000000</>
+<cDiffuseColor.g>1.000000</>
+<cDiffuseColor.b>1.000000</>
+<cAlphaRef>0.153000</>
+</>
+</>
+<Colors><Count>0</>
+</>
+</>

@@ -1,0 +1,151 @@
+<ModOps>
+  <ModOp Type="remove" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501487']" />
+  <ModOp Type="remove" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501484']" />
+  <ModOp Type="add" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>501484</Building>
+    </Item>
+    <Item>
+      <Building>501487</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501483']"/>
+  <ModOp Type="remove" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501486']"/>
+  <ModOp Type="add" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>501483</Building>
+    </Item>
+    <Item>
+      <Building>501486</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501485']"/>
+  <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501488']"/>
+  <ModOp Type="addNextSibling" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500021']">
+    <Item>
+      <Building>501485</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010470']"/>
+  <ModOp Type="remove" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010471']"/>
+  <ModOp Type="remove" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '110935']"/>
+  <ModOp Type="addNextSibling" GUID='25000191'>
+    <Asset>
+      <Template>ConstructionCategory</Template>
+      <Values>
+        <Standard>
+          <GUID>976510</GUID>
+          <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness.png</IconFilename>
+        </Standard>
+        <ConstructionCategory>
+          <BuildingList>
+            <Item>
+              <Building>1010470</Building>
+            </Item>
+            <Item>
+              <Building>1010471</Building>
+            </Item>
+            <Item>
+              <Building>110935</Building>
+            </Item>
+          </BuildingList>
+          <CategoryDescription>976510</CategoryDescription>
+        </ConstructionCategory>
+      </Values>
+    </Asset>
+  </ModOp>
+  <ModOp Type="addNextSibling" GUID='25000191'>
+    <Asset>
+      <Template>ConstructionCategory</Template>
+      <Values>
+        <Standard>
+          <GUID>976511</GUID>
+          <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness.png</IconFilename>
+        </Standard>
+        <ConstructionCategory>
+          <BuildingList>
+            <Item>
+              <Building>102282</Building>
+            </Item>
+            <Item>
+              <Building>102283</Building>
+            </Item>
+            <Item>
+              <Building>114141</Building>
+            </Item>
+          </BuildingList>
+          <CategoryDescription>976510</CategoryDescription>
+        </ConstructionCategory>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010362']">
+    <Item>
+      <Building>976510</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010470']"/>
+  <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010471']"/>
+  <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '110935']"/>
+  <ModOp Type="addNextSibling" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '100429']">
+    <Item>
+      <Building>976510</Building>
+    </Item>
+  </ModOp>
+  <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102282']"/>
+  <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102283']"/>
+  <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '114141']"/>
+  <ModOp Type="addNextSibling" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102284']">
+    <Item>
+      <Building>976511</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102282']"/>
+  <ModOp Type="remove" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102283']"/>
+  <ModOp Type="remove" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '114141']"/>
+  <ModOp Type="addNextSibling" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500909']">
+    <Item>
+      <Building>976511</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501499']"/>
+  <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '110935']"/>
+  <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501498']"/>
+  <ModOp Type="addNextSibling" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010489']">
+    <Item>
+      <Building>501412</Building>
+    </Item>
+    <Item>
+      <Building>501482</Building>
+    </Item>
+    <Item>
+      <Building>501483</Building>
+    </Item>
+    <Item>
+      <Building>501484</Building>
+    </Item>
+    <Item>
+      <Building>501485</Building>
+    </Item>
+    <Item>
+      <Building>501486</Building>
+    </Item>
+    <Item>
+      <Building>501487</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501496']">
+    <Item>
+      <Building>501757</Building>
+    </Item>
+  </ModOp>
+</ModOps>
+

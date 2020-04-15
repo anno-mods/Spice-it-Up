@@ -1,0 +1,824 @@
+<ModOps>
+    <!-- New North Warehouse small -->
+    <ModOp Type="addNextSibling" GUID='1000178'>
+        <Asset>
+            <Template>Warehouse</Template>
+            <Values>
+                <Standard>
+                    <GUID>902296</GUID>
+                    <Name>Citystorage_moderate (small)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900208</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingType>Logistic</BuildingType>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                    <BuildingCategoryName>989000</BuildingCategoryName>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>3500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_02_kontor/3rd_party_02_warehouse_v1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_02_kontor/3rd_party_02_warehouse_v2.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh>
+                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
+                </Mesh>
+                <Selection>
+                    <GUIType>Warehouse</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Warehouse>
+                    <WarehouseStorage>
+                        <StorageMax>20</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <QueueConfiguration>
+                        <ProcessingQueueParallelCount>2</ProcessingQueueParallelCount>
+                    </QueueConfiguration>
+                </LogisticNode>
+                <Pausable />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>100</Amount>
+                            <InactiveAmount>100</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <StorageBase />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New North Warehouse big -->
+    <ModOp Type="addNextSibling" GUID='1000178'>
+        <Asset>
+            <Template>Warehouse</Template>
+            <Values>
+                <Standard>
+                    <GUID>902297</GUID>
+                    <Name>Citystorage_moderate (big)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900209</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingType>Logistic</BuildingType>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                    <BuildingCategoryName>989000</BuildingCategoryName>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_02_kontor/3rd_party_02_warehouse_v3.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh>
+                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
+                </Mesh>
+                <Selection>
+                    <GUIType>Warehouse</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Warehouse>
+                    <WarehouseStorage>
+                        <StorageMax>40</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <QueueConfiguration>
+                        <ProcessingQueueParallelCount>3</ProcessingQueueParallelCount>
+                    </QueueConfiguration>
+                </LogisticNode>
+                <Pausable />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>150</Amount>
+                            <InactiveAmount>150</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <StorageBase />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New South Warehouse small -->
+    <ModOp Type="addNextSibling" GUID='1000178'>
+        <Asset>
+            <Template>Warehouse</Template>
+            <Values>
+                <Standard>
+                    <GUID>902298</GUID>
+                    <Name>Citystorage_colony01 (small)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900208</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingType>Logistic</BuildingType>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                    <BuildingCategoryName>989000</BuildingCategoryName>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>3500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_05_kontor/3rd_party05_building_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh>
+                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
+                </Mesh>
+                <Selection>
+                    <GUIType>Warehouse</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Warehouse>
+                    <WarehouseStorage>
+                        <StorageMax>20</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <QueueConfiguration>
+                        <ProcessingQueueParallelCount>2</ProcessingQueueParallelCount>
+                    </QueueConfiguration>
+                </LogisticNode>
+                <Pausable />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>100</Amount>
+                            <InactiveAmount>100</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <StorageBase />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- New North Warehouse big -->
+    <ModOp Type="addNextSibling" GUID='1000178'>
+        <Asset>
+            <Template>Warehouse</Template>
+            <Values>
+                <Standard>
+                    <GUID>902299</GUID>
+                    <Name>Citystorage_colony01 (big)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900209</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <GroundDecalAsset>101201</GroundDecalAsset>
+                </Blocking>
+                <Building>
+                    <BuildingType>Logistic</BuildingType>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <BuildingCategoryName>989000</BuildingCategoryName>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_05_kontor/3rd_party05_building_02b.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh>
+                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
+                </Mesh>
+                <Selection>
+                    <GUIType>Warehouse</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Warehouse>
+                    <WarehouseStorage>
+                        <StorageMax>40</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <QueueConfiguration>
+                        <ProcessingQueueParallelCount>3</ProcessingQueueParallelCount>
+                    </QueueConfiguration>
+                </LogisticNode>
+                <Pausable />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>150</Amount>
+                            <InactiveAmount>150</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <StorageBase />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Old North Warehouse -->
+    <ModOp Type="addNextSibling" GUID='1000178'>
+        <Asset>
+            <Template>Warehouse</Template>
+            <Values>
+                <Standard>
+                    <GUID>901004</GUID>
+                    <Name>Citystorage_moderate (Depot)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900204</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <GroundDecalAsset>101201</GroundDecalAsset>
+                </Blocking>
+                <Building>
+                    <BuildingType>Logistic</BuildingType>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                    <BuildingCategoryName>989000</BuildingCategoryName>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>7750</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/special/harbor_01/harbor_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/buildings/special/harbor_01/harbor_01_var02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh>
+                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
+                </Mesh>
+                <Selection>
+                    <GUIType>Warehouse</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Warehouse>
+                    <WarehouseStorage>
+                        <StorageMax>60</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <QueueConfiguration>
+                        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
+                    </QueueConfiguration>
+                </LogisticNode>
+                <Pausable />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>200</Amount>
+                            <InactiveAmount>200</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <StorageBase />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Old South Warehouse -->
+    <ModOp Type="addNextSibling" GUID='1000178'>
+        <Asset>
+            <Template>Warehouse</Template>
+            <Values>
+                <Standard>
+                    <GUID>901005</GUID>
+                    <Name>Citystorage_colony01 (Depot)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900204</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <GroundDecalAsset>101201</GroundDecalAsset>
+                </Blocking>
+                <Building>
+                    <BuildingType>Logistic</BuildingType>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                    <BuildingCategoryName>989000</BuildingCategoryName>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>7750</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/buildings/special/harbor_01/harbor_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/buildings/special/harbor_01/harbor_01_var02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh>
+                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
+                </Mesh>
+                <Selection>
+                    <GUIType>Warehouse</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <SoundEmitter />
+                <Locked />
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Warehouse>
+                    <WarehouseStorage>
+                        <StorageMax>60</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <QueueConfiguration>
+                        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
+                    </QueueConfiguration>
+                </LogisticNode>
+                <Pausable />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>200</Amount>
+                            <InactiveAmount>200</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <StorageBase />
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='130217'>
+        <Asset>
+            <BaseAssetGUID>130217</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>976063</GUID>
+                </Standard>
+                <Trigger>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Values>
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>902296</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902297</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>901004</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='130218'>
+        <Asset>
+            <BaseAssetGUID>130218</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>976064</GUID>
+                </Standard>
+                <Trigger>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Values>
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>902296</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902297</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>901004</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='130241'>
+        <Asset>
+            <BaseAssetGUID>130241</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>976065</GUID>
+                </Standard>
+                <Trigger>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Values>
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>902298</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902299</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>901005</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='130242'>
+        <Asset>
+            <BaseAssetGUID>130242</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>976066</GUID>
+                </Standard>
+                <Trigger>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Values>
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>902298</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902299</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>901005</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- moderate construction menu 3 (tier) -->
+    <ModOp Type="addNextSibling" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList/Item[Building='500953']">
+        <Item>
+            <Building>902300</Building>
+        </Item>
+    </ModOp>
+    <!-- moderate construction menu city (category) -->
+    <ModOp Type="add" GUID='500944' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>902300</Building>
+        </Item>
+    </ModOp>
+    <!-- sa construction menu 2 (tier) -->
+    <ModOp Type="addNextSibling" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building='101285']">
+        <Item>
+            <Building>902301</Building>
+        </Item>
+    </ModOp>
+    <!-- sa construction menu city (category) -->
+    <ModOp Type="add" GUID='500946' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>902301</Building>
+        </Item>
+    </ModOp>
+    <!-- Buildmenu North -->
+    <ModOp Type="addNextSibling" GUID='501412'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>902300</GUID>
+                    <Name>moderate warehouses engineer</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900205</InfoDescription>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>902296</Building>
+                        </Item>
+                        <Item>
+                            <Building>902297</Building>
+                        </Item>
+                        <Item>
+                            <Building>901004</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>989001</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Engineers</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Buildmenu South -->
+    <ModOp Type="addNextSibling" GUID='501412'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>902301</GUID>
+                    <Name>colony warehouses obreros</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                    <InfoDescription>900205</InfoDescription>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>902298</Building>
+                        </Item>
+                        <Item>
+                            <Building>902299</Building>
+                        </Item>
+                        <Item>
+                            <Building>901005</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>989001</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Obreros</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID />
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

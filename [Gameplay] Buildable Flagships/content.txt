@@ -1,0 +1,2 @@
+Ermöglicht den Bau von Flaggschiffen in der Segelschiffswerft. Wird bei Spielstart der Skin "Imperiales Flaggschiff" ausgewählt, haben alle gebauten 
+Flaggschiffe auch dieses Aussehen. 

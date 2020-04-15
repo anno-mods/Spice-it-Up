@@ -1,0 +1,14 @@
+<ModOps>
+  <ModOp Type="replace" GUID='2001040,2001025,140585' Path="/Values/Incident/InfectionData">
+    <InfectionData>
+      <InfectionBaseIntervalMin>20000</InfectionBaseIntervalMin>
+      <InfectionBaseIntervalMax>70000</InfectionBaseIntervalMax>
+    </InfectionData>
+  </ModOp>
+  <ModOp Type="add" GUID='141655' Path="/Values/Incident">
+    <InfectionData>
+      <InfectionBaseIntervalMin>80000</InfectionBaseIntervalMin>
+      <InfectionBaseIntervalMax>240000</InfectionBaseIntervalMax>
+    </InfectionData>
+  </ModOp>
+</ModOps>

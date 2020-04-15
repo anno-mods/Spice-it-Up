@@ -1,0 +1,16 @@
+<ModOps>
+  <!-- Zoo and Museum Modules use range instead of snap -->
+  <ModOp Type="replace" GUID='110935,1010470,1010471' Path="/Values/ModuleOwner/ModuleLimits">
+    <ModuleLimits>
+      <Main>
+        <Limit>0</Limit>
+      </Main>
+      <Pavilion>
+        <Limit>0</Limit>
+      </Pavilion>
+      <Connector>
+        <Limit>0</Limit>
+      </Connector>
+    </ModuleLimits>
+  </ModOp>
+</ModOps>

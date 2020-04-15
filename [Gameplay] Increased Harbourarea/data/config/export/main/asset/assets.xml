@@ -1,0 +1,9 @@
+<ModOps>
+    <!-- ############################################################################################################### -->
+    <!-- ############# Extension // Harbor Area ######################################################################## -->
+    <!-- Original Building Size for Harbors/Beachlines == 28 -->
+    <ModOp Type="replace" GUID='2001241' Path="/Values/BuildingBaseTiles/HarbourConstructionAreaRadius">
+        <HarbourConstructionAreaRadius>90</HarbourConstructionAreaRadius>
+    </ModOp>
+    <!-- ############################################################################################################### -->
+</ModOps>

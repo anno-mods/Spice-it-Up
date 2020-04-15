@@ -1,0 +1,238 @@
+<ModOps>
+	<!-- Buildmenu entries South -->
+	<ModOp Type="addNextSibling" GUID='112792' Path="/Values/ConstructionCategory/BuildingList/Item[Building='116030']">
+		<Item>
+			<Building>8857105</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='116345' Path="/Values/ConstructionCategory/BuildingList/Item[Building='116030']">
+		<Item>
+			<Building>8857105</Building>
+		</Item>
+	</ModOp>
+	<!-- New Triggers (885710x) -->
+	<ModOp Type="addNextSibling" GUID='130248'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>8857103</GUID>
+					<Name>intermediate Arctic 750</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_arctic_tier02.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>112643</Context>
+								<CounterAmount>750</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>8857105</Asset>
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>8857104</GUID>
+					<Name>intermediate Arctic 500</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>112643</Context>
+								<CounterAmount>500</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnhideAssets>
+											<Item>
+												<Asset>8857105</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+	</ModOp>
+	<!-- Asset Commuter Pier Arctic -->
+	<ModOp Type="addNextSibling" GUID='100784'>
+		<Asset>
+			<Template>WorkforceConnector</Template>
+			<Values>
+				<Standard>
+					<GUID>8857105</GUID>
+					<Name>harbor_16_colony (Commuter Pier Arctic)</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_commuter_pier.png</IconFilename>
+					<InfoDescription>13561</InfoDescription>
+				</Standard>
+				<Building>
+					<BuildingCategoryName>11150</BuildingCategoryName>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>113459</GroundDecalAsset>
+					<GroundDecalInvisible>113478</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Mesh />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/modgraphics_arctic/buildings/special/workforce_transfer_building/workforce_transfer_building.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<AmbientMoodProvider>
+					<Murmur>Harbor</Murmur>
+				</AmbientMoodProvider>
+				<Constructable />
+				<Selection>
+					<GUIType>WorkforceConnector</GUIType>
+				</Selection>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Commuter Pier</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>21447</LineID>
+				</Text>
+				<Cost>
+					<Costs>
+						<Item>
+							<Ingredient>1010017</Ingredient>
+							<Amount>25000</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010196</Ingredient>
+							<Amount>60</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010219</Ingredient>
+							<Amount>40</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010205</Ingredient>
+							<Amount>30</Amount>
+						</Item>
+					</Costs>
+					<InfluenceCostType>WorkforceTransfer</InfluenceCostType>
+				</Cost>
+				<Locked />
+				<Maintenance>
+					<Maintenances>
+						<Item>
+							<Product>1010017</Product>
+							<Amount>5000</Amount>
+							<InactiveAmount>2500</InactiveAmount>
+						</Item>
+					</Maintenances>
+				</Maintenance>
+				<Infolayer />
+				<Attackable>
+					<MaximumHitPoints>5000</MaximumHitPoints>
+					<HPBarOffset>5</HPBarOffset>
+					<PausedTimeIfAttacked>0</PausedTimeIfAttacked>
+					<SelfHealPerHealTick>5</SelfHealPerHealTick>
+					<TakeOverEffect>OnDeath</TakeOverEffect>
+					<MoralePower>100</MoralePower>
+					<IslandWarFlag>102303</IslandWarFlag>
+					<ExplosionEffects>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>WorkforceConnector</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+						<Item>
+							<ExplosionEffectFilePath>data/graphics/effects/military/explosions/harbor_generic_xpl_02.cfg</ExplosionEffectFilePath>
+						</Item>
+					</ExplosionEffects>
+					<ExplosionEffectsMin>2</ExplosionEffectsMin>
+					<ExplosionEffectsMax>3</ExplosionEffectsMax>
+				</Attackable>
+				<Pausable>
+					<CanPauseManually>1</CanPauseManually>
+				</Pausable>
+				<SoundEmitter>
+					<BuildingRuined>
+						<Item>
+							<Sound>203848</Sound>
+						</Item>
+					</BuildingRuined>
+					<BuildingRepaired>
+						<Item>
+							<Sound>203866</Sound>
+						</Item>
+					</BuildingRepaired>
+				</SoundEmitter>
+				<IncidentInfectable />
+				<FeedbackController />
+				<WorkforceConnector />
+				<UpgradeList />
+				<IslandUnique />
+				<StreetActivation />
+				<LogisticNode />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="add" GUID='501065' Path="/Values/ObjectmenuCommuterHarbourScene/WorkforceToRegion">
+		<Arctic>
+			<WorkforceList>
+				<Item>
+					<Workforce>112653</Workforce>
+				</Item>
+				<Item>
+					<Workforce>112654</Workforce>
+				</Item>
+			</WorkforceList>
+		</Arctic>
+	</ModOp>
+</ModOps>

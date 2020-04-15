@@ -1,0 +1,1 @@
+The construction menu was slightly restructured. Ornaments will show up last in each category now. 

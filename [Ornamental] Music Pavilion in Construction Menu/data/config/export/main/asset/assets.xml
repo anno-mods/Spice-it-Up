@@ -1,0 +1,99 @@
+<ModOps>
+
+  <!-- ModOp Put Music Pavilion into the construction category -->
+  <ModOp Type="replace" GUID='113452' Path="/Values/Locked/DefaultLockedState">
+    <DefaultLockedState>1</DefaultLockedState>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID='130248'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>976967</GUID>
+          <Name>intermediate moderate 3.1</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>250</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnhideAssets>
+                      <Item>
+                        <Asset>113452</Asset>
+                      </Item>
+                    </UnhideAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>976967</GUID>
+          <Name>intermediate moderate 3.1</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>500</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>113452</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="add" GUID='501915,501916' Path="/Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>113452</Building>
+    </Item>
+  </ModOp>
+</ModOps>

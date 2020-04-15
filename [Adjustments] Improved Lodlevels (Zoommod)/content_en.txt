@@ -1,0 +1,3 @@
+makes the zoom totally unnessecarily higher than in the vanilla game. 
+
+Adds more Distance of vision and level of detail will be reduced less when zooming out. Comes at a significant performance cost. 

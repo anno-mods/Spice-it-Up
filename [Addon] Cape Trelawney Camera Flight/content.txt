@@ -1,0 +1,2 @@
+Fügt einen Kameraflug durch das Kap hinzu, der per NUMPAD 8 gestartet wird. 
+Dieser Hotkey kann im Optionsmenü geändert werden.

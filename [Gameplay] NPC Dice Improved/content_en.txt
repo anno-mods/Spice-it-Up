@@ -1,0 +1,3 @@
+NPC Diceroll has been tweaked, You can now roll Epic and Legendary Specialists
+
+Creator: LonelyPorter + DaLexy

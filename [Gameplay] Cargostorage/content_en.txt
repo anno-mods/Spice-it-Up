@@ -1,0 +1,1 @@
+Adds cargo storage which can be built on land.

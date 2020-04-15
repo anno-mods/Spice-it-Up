@@ -1,0 +1,95 @@
+<ModOps>
+	<ModOp Type="replace" GUID='1010000' Path="/Values/EconomyFeature7/MetropolisFactor/ConfigPerPopulation">
+        <ConfigPerPopulation>
+            <Item>
+                <PopulationLevel>15000000</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>125</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+            <Item>
+                <PopulationLevel>15000001</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>125</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+            <Item>
+                <PopulationLevel>15000002</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>125</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+            <Item>
+                <PopulationLevel>15000003</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>125</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+            <Item>
+                <PopulationLevel>15000004</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>125</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+            <Item>
+                <PopulationLevel>15000005</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>100</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+            <Item>
+                <PopulationLevel>15000006</PopulationLevel>
+                <StartOffset>99999999</StartOffset>
+                <Interval>100</Interval>
+                <EffectPerInterval>1</EffectPerInterval>
+                <EffectMaximum>40</EffectMaximum>
+            </Item>
+        </ConfigPerPopulation>
+    </ModOp>
+
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/MoneyValue">
+        <MoneyValue>70</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010245']/MoneyValue">
+        <MoneyValue>98</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/MoneyValue">
+        <MoneyValue>56</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010246']/MoneyValue">
+        <MoneyValue>126</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/MoneyValue">
+        <MoneyValue>98</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010356']/MoneyValue">
+        <MoneyValue>140</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120016']/MoneyValue">
+        <MoneyValue>35</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010259']/MoneyValue">
+        <MoneyValue>35</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010355']/MoneyValue">
+        <MoneyValue>35</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010258']/MoneyValue">
+        <MoneyValue>35</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/MoneyValue">
+        <MoneyValue>175</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/MoneyValue">
+        <MoneyValue>105</MoneyValue>
+    </ModOp>
+    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/MoneyValue">
+        <MoneyValue>210</MoneyValue>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,10 @@
+<ModOps>
+  <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+    <Item>
+      <DefaultKey>Keypad 8</DefaultKey>
+      <Command>session.startSequence(2)</Command>
+      <Text>8855909</Text>
+      <Active>Session</Active>
+    </Item>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,64 @@
+<ModOps>
+    <!-- #SHIPS -->
+    <ModOp Type="replace" GUID='100660'>
+        <Asset>
+            <BaseAssetGUID>100441</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <Name>Rented Ship</Name>
+                    <GUID>100660</GUID>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/vehicle/clipper/clipper.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Walking />
+                <Text>
+                    <LineID>14873</LineID>
+                </Text>
+                <CommandQueue />
+                <Drifting />
+                <Collector />
+                <Attackable />
+                <MinimapToken />
+                <SoundEmitter />
+                <UpgradeList />
+                <QuestObject />
+                <Infolayer />
+                <ItemContainer>
+                    <SocketCount>0</SocketCount>
+                    <SlotCount>1</SlotCount>
+                    <StackLimit>150</StackLimit>
+                </ItemContainer>
+                <FeedbackController />
+                <Draggable />
+                <Cost>
+                    <Costs />
+                    <InfluenceCostType>TradeShip</InfluenceCostType>
+                    <InfluenceCostPoints>0</InfluenceCostPoints>
+                </Cost>
+                <Craftable />
+                <TradeRouteVehicle />
+                <Locked />
+                <Nameable />
+                <MetaPersistent />
+                <ExpeditionAttribute />
+                <ShipMaintenance>
+                    <Maintenance>800</Maintenance>
+                </ShipMaintenance>
+                <Sellable />
+                <Stance />
+                <Rentable />
+                <WorldMapSound />
+                <Pausable />
+                <ShipIncident />
+                <SoundEmitterCommandBarks />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

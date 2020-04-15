@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>901006</GUID>
+      <Text>Lighthouse (Ornamental)</Text>
+    </Text>
+    <Text>
+      <GUID>901007</GUID>
+      <Text>Lighthouse (Ornamental)</Text>
+    </Text>
+    <Text>
+      <GUID>900206</GUID>
+      <Text>An amazing Lighthouse that leads the Ships into your Harbor.</Text>
+    </Text>
+    <Text>
+      <GUID>900207</GUID>
+      <Text>An amazing Lighthouse that leads the Ships into your Harbor.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

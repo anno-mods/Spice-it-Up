@@ -1,0 +1,34 @@
+<ModOps>
+    <ModOp Type="replace" GUID="500769" Path="/Values/CreateGameScene/PlayerAvailableColors">
+        <PlayerAvailableColors>
+            <Color1>
+                <Available>1</Available>
+            </Color1>
+            <Color2>
+                <Available>1</Available>
+            </Color2>
+            <Color3>
+                <Available>1</Available>
+            </Color3>
+            <Color4>
+                <Available>1</Available>
+            </Color4>
+            <Color5>
+                <Available>1</Available>
+            </Color5>
+            <Color9>
+                <Available>1</Available>
+            </Color9>
+            <Color7>
+                <Available>1</Available>
+            </Color7>
+            <Color8>
+                <Available>1</Available>
+            </Color8>
+        </PlayerAvailableColors>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="76,73" Path="/Values/Profile/DefaultColor">
+        <DefaultColor>Color6</DefaultColor>
+    </ModOp>
+</ModOps>

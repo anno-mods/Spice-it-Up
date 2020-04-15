@@ -1,0 +1,6 @@
+Build a unique City in the harbor area with a new set of reworked buildings. 
+
+A word about the harbor residences: Unfortunatly Anno will build them not where they belong (on the quay) but on the water. In order for residences to stand
+correctly, you need to pick them up with the move-tool and move them. 
+
+Creator: Mystiquebee84

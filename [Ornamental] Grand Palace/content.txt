@@ -1,0 +1,1 @@
+Fügt Ornament-Varianten des Palastes hinzu, die keinen Effekt besitzen, aber unbegrenzt und frei gebaut werden können. 

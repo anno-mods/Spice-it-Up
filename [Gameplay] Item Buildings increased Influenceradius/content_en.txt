@@ -1,0 +1,1 @@
+Influence radius of town hall, arctic lodge, trade union and harbor office are increased. 

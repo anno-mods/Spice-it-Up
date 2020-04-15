@@ -1,0 +1,5 @@
+<ModOps>
+    <ModOp Type = "replace" GUID = '142556,2001174' Path = "/Values/TrafficFeedbackUnit/CfgPath">
+        <CfgPath>data/graphics/vehicles/railway_01/railway_01.cfg</CfgPath>
+    </ModOp>
+</ModOps>

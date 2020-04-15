@@ -1,0 +1,1 @@
+Wird eine Insel übernommen, bleiben die Gebäude als Ruine erhalten. 

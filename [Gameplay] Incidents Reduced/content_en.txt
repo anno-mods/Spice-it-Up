@@ -1,0 +1,5 @@
+Reduces Incidents: 
+
+- Fire, Illness and Riots happen less frequent
+- Explosions are Rare
+- Arctic Illness works like Vanilla

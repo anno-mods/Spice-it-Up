@@ -1,0 +1,377 @@
+<!-- Stand: 18.10.19 // GU 5.3 -->
+
+<ModOps>
+    <!-- Tell the AI that it may use the deep shipyard copies -->
+    <ModOp Type="replace" Path="Templates/Group[Name = 'Profiles']/Group[Name = 'Profiles']/Template[Name = 'Profile_2ndParty']/Properties/ConstructionAI/CrafterConfiguration/CrafterConstruction">
+        <CrafterConstruction>
+            <Item>
+                <CrafterBuilding>88530000</CrafterBuilding>
+                <SessionType>MainForRegion</SessionType>
+            </Item>
+            <Item>
+                <CrafterBuilding>88530001</CrafterBuilding>
+                <SessionType>MainForRegion</SessionType>
+            </Item>
+            <Item>
+                <CrafterBuilding>88530007</CrafterBuilding>
+                <Region>Colony01</Region>
+                <SessionType>MainForRegion</SessionType>
+                <RequiredUnlock>1010285</RequiredUnlock>
+            </Item>
+            <Item>
+                <CrafterBuilding>88530000</CrafterBuilding>
+                <SessionType>Other</SessionType>
+                <RequiredUnlock>1010285</RequiredUnlock>
+            </Item>
+        </CrafterConstruction>
+    </ModOp>
+
+
+    <!-- Harbor Ornaments -->
+    <ModOp Type="add" Path="Templates/Group[Name = 'Economy']">
+        <Template>
+            <Name>HarborOrnament</Name>
+            <Properties>
+                <Standard />
+                <Building>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <TerrainType>Water</TerrainType>
+                </Building>
+                <Blocking />
+                <Mesh />
+                <Cost />
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Ornament</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>14499</LineID>
+                </Text>
+                <Ornament />
+                <Culture/>
+                <Object />
+                <Selection>
+                    <GUIType>Ornamental</GUIType>
+                </Selection>
+                <AmbientMoodProvider/>
+                <Constructable />
+                <Maintenance />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                </VectorElement>
+                                <Sound>214784</Sound>
+                            </Item>
+                        </BuildSuccessful>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveSuccess>
+                            <Item>
+                                <Sound>203995</Sound>
+                            </Item>
+                        </BuildMoveSuccess>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200141</Sound>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <FeedbackController />
+                <Locked />
+                <Pausable />
+                <Infolayer />
+            </Properties>
+        </Template>
+    </ModOp>
+
+    <!-- Harbor Residence -->
+    <ModOp Type="add" Path="Templates/Group[Name = 'Economy']">
+        <Template>
+            <Name>HarborResidence</Name>
+            <Properties>
+                <Standard />
+                <Building>
+                    <BuildingType>Residence</BuildingType>
+                    <BuildingCategoryName>100004</BuildingCategoryName>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <TerrainType>Water</TerrainType>
+                    <InfluencedVariationDirection>
+                        <Item />
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <BuildingBlockPool />
+                    <InfluencedByNeighbors />
+                </Building>
+                <Blocking />
+                <Cost />
+                <Mesh>
+                    <MeshPlacement>Default</MeshPlacement>
+                </Mesh>
+                <Object>
+                    <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                </Object>
+                <Selection>
+                    <ParticipantMessageTrigger>ClickResidence</ParticipantMessageTrigger>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Text />
+                <Constructable />
+                <Locked>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+                <Upgradable>
+                    <UpgradeCost>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </UpgradeCost>
+                </Upgradable>
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveSuccess>
+                            <Item>
+                                <Sound>203995</Sound>
+                            </Item>
+                        </BuildMoveSuccess>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200141</Sound>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <Infolayer />
+                <FeedbackController />
+                <Residence7 />
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <TransporterAsset>1010106</TransporterAsset>
+                    <NeedsTransporterQueue>0</NeedsTransporterQueue>
+                </LogisticNode>
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                    <DynamicEnvironmentType>Building_Residence</DynamicEnvironmentType>
+                </AmbientMoodProvider>
+                <UpgradeList />
+                <Attackable>
+                    <HasRuinState>1</HasRuinState>
+                </Attackable>
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+            </Properties>
+        </Template>
+    </ModOp>
+
+    <!-- PowerPlant -->
+    <ModOp Type="add" Path="Templates/Group[Name = 'Economy']">
+        <Template>
+            <Name>HarborPowerPlant</Name>
+            <Properties>
+                <Standard />
+                <Building>
+                    <BuildingType>Factory</BuildingType>
+                    <BuildingCategoryName>100003</BuildingCategoryName>
+                    <TerrainType>Water</TerrainType>
+                </Building>
+                <Blocking />
+                <Cost />
+                <Object>
+                    <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                </Object>
+                <Mesh />
+                <Selection>
+                    <GUIType>Production</GUIType>
+                </Selection>
+                <Text />
+                <Constructable>
+                    <DestructionCategory>Production</DestructionCategory>
+                </Constructable>
+                <Locked />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveSuccess>
+                            <Item>
+                                <Sound>203995</Sound>
+                            </Item>
+                        </BuildMoveSuccess>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200141</Sound>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <LogisticNode>
+                    <TransporterCountMax>1</TransporterCountMax>
+                </LogisticNode>
+                <AmbientMoodProvider />
+                <Maintenance>
+                    <ConsumerPriority>1</ConsumerPriority>
+                </Maintenance>
+                <Attackable>
+                    <HasRuinState>1</HasRuinState>
+                </Attackable>
+                <Pausable>
+                    <CanPauseManually>1</CanPauseManually>
+                </Pausable>
+                <IncidentInfectable>
+                    <Infectable>
+                        <Fire>
+                            <Base>0</Base>
+                            <Communication>FireIndustry</Communication>
+                        </Fire>
+                        <Illness>
+                            <Base>0</Base>
+                            <Communication>IllnessIndustry</Communication>
+                        </Illness>
+                        <Riot>
+                            <Communication>RiotIndustry</Communication>
+                            <InitiallySpreadToSameGUID>1</InitiallySpreadToSameGUID>
+                        </Riot>
+                        <Explosion>
+                            <Communication>ExplosionIndustry</Communication>
+                        </Explosion>
+                    </Infectable>
+                </IncidentInfectable>
+                <Electric />
+                <Powerplant />
+                <FactoryBase />
+                <Culture>
+                    <CultureType>Factory</CultureType>
+                </Culture>
+                <PublicService />
+            </Properties>
+        </Template>
+    </ModOp>
+
+
+
+
+
+
+</ModOps>

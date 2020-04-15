@@ -1,0 +1,211 @@
+<ModOps>
+
+    <ModOp Type="addNextSibling" GUID="102114">
+        <Asset>
+            <Template>Street</Template>
+            <Values>
+                <Standard>
+                    <GUID>987000</GUID>
+                    <Name>plaza street</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/cultural_1x1_01.png</IconFilename>
+                    <InfoDescription>987001</InfoDescription>
+                </Standard>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Street>
+                    <CfgFileName>data/graphics/props/plaza/plaza.cfg</CfgFileName>
+                    <CrossingAsset>0</CrossingAsset>
+                    <BridgeAsset>0</BridgeAsset>
+                    <InternalID>90</InternalID>
+                    <DecalMapping>data/config/street/streetdecal.txt.bin</DecalMapping>
+                    <DecalVariation>data/config/street/streetdecal_var.txt</DecalVariation>
+                    <HidePropsAfterBuilding>1</HidePropsAfterBuilding>
+                    <HidePropsWhileBuilding>1</HidePropsWhileBuilding>
+                    <GroupBits>5</GroupBits>
+                    <IsPlazza>1</IsPlazza>
+                    <OnlyCheckGroupBits>4392</OnlyCheckGroupBits>
+                    <StyleRows>12</StyleRows>
+                    <Quality>2</Quality>
+                    <OverbuildRule>GoodStreet</OverbuildRule>
+                    <SpeedFactor>1.4</SpeedFactor>
+                    <CanBuildOnShore>1</CanBuildOnShore>
+                </Street>
+                <Constructable>
+                    <DestructionCategory>Other</DestructionCategory>
+                </Constructable>
+                <Locked />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>200777</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                            <Item>
+                                <Sound>215917</Sound>
+                            </Item>
+                        </BuildSuccessful>
+                    </ConstructionSounds>
+                    <ConstructionStreetSounds>
+                        <BuildAddWaypoint>
+                            <Item>
+                                <Sound>215920</Sound>
+                            </Item>
+                        </BuildAddWaypoint>
+                    </ConstructionStreetSounds>
+                    <MaterialType>Street_Brick</MaterialType>
+                </SoundEmitter>
+                <Text />
+                <Building>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                    <PickingAsset>987000</PickingAsset>
+                </Building>
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='25000193' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501577']">
+        <Item>
+            <Building>987002</Building>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="add" GUID='501486,501496,501589' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>987000</Building>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='25000193'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>987002</GUID>
+                    <Name>sa jornalero city (tier)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_city_ornament_base.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>987000</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+                <Text />
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='130248'>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>9789002</GUID>
+                    <Name>intermediate moderate 3.1 (2)</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000002</Context>
+                                <CounterAmount>250</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>987000</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>9789003</GUID>
+                    <Name>intermediate moderate 3.2 (2)</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000002</Context>
+                                <CounterAmount>500</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>987000</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,9 @@
+<ModOps>
+    <!-- Oil Refinery -->
+  <ModOp Type="add" GUID = '112690' Path="/Values/ModuleOwner">
+    <ModuleBuildRadius>15</ModuleBuildRadius>
+  </ModOp>
+  <!-- <ModOp Type="add" Path="//Asset[Values/Standard/GUID='1010561']/Values/ModuleOwner">
+    <ModuleBuildRadius>15</ModuleBuildRadius>
+  </ModOp> -->
+</ModOps>

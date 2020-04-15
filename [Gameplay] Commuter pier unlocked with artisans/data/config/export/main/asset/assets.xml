@@ -1,0 +1,90 @@
+<ModOps>
+  <!-- New Triggers (97600x) Pendlerkai -->
+  <ModOp Type="addNextSibling" GUID='130216'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+         <GUID>976096</GUID>
+		 <Name>intermediate 3.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionPlayerCounter</Template>
+            <Values>
+              <Condition />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>130120</Asset>
+                      </Item>
+                    </UnlockAssets>
+                    <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <ModOp Type="remove" GUID='500954' Path="/Values/ConstructionCategory/BuildingList/Item[Building='101642']"/>
+  <ModOp Type="add" GUID='500953' Path="/Values/ConstructionCategory/BuildingList">
+    <Item>
+      <Building>101642</Building>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="replace" GUID='101642' Path="/Values/Cost/Costs">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>10000</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>100</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010205</Ingredient>
+        <Amount>80</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010218</Ingredient>
+        <Amount>60</Amount>
+      </Item>
+	  <Item>
+        <Ingredient>1010207</Ingredient>
+        <Amount>40</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  
+ <ModOp Type="replace" GUID='101642' Path="/Values/Maintenance/Maintenances">
+     <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>500</Amount>
+          <InactiveAmount>250</InactiveAmount>
+        </Item>
+     </Maintenances>
+   </ModOp>
+  
+</ModOps>

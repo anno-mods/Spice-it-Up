@@ -1,0 +1,37 @@
+<ModOps>
+	<!--Edvard Goode-->
+    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142']/Values/ParticipantMessages/MessageTriggers/ClickKontor" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142']/Values/ParticipantMessages/MessageTriggers/ActiveTradeConfirmation" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142']/Values/ParticipantMessages/MessageTriggers/OpenActiveTradeMenu" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142']/Values/ParticipantMessages/MessageTriggers/ClickNPCShip" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142']/Values/ParticipantMessages/MessageTriggers/ClickNPCBuilding" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142']/Values/ParticipantMessages/MessageTriggers/MenuIdleMessage" />
+	<!--Archibald Blake-->
+    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='144']/Values/ParticipantMessages/MessageTriggers/ClickKontor" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='144']/Values/ParticipantMessages/MessageTriggers/ActiveTradeConfirmation" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='144']/Values/ParticipantMessages/MessageTriggers/OpenActiveTradeMenu" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='144']/Values/ParticipantMessages/MessageTriggers/ClickNPCShip" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='144']/Values/ParticipantMessages/MessageTriggers/ClickNPCBuilding" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='144']/Values/ParticipantMessages/MessageTriggers/MenuIdleMessage" />
+	<!--Izabel Samento-->
+    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='145']/Values/ParticipantMessages/MessageTriggers/ClickKontor" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='145']/Values/ParticipantMessages/MessageTriggers/ActiveTradeConfirmation" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='145']/Values/ParticipantMessages/MessageTriggers/OpenActiveTradeMenu" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='145']/Values/ParticipantMessages/MessageTriggers/ClickNPCShip" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='145']/Values/ParticipantMessages/MessageTriggers/ClickNPCBuilding" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='145']/Values/ParticipantMessages/MessageTriggers/MenuIdleMessage" />
+	<!--Eli Bleakworth-->
+    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='146']/Values/ParticipantMessages/MessageTriggers/ClickKontor" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='146']/Values/ParticipantMessages/MessageTriggers/ActiveTradeConfirmation" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='146']/Values/ParticipantMessages/MessageTriggers/OpenActiveTradeMenu" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='146']/Values/ParticipantMessages/MessageTriggers/ClickNPCShip" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='146']/Values/ParticipantMessages/MessageTriggers/ClickNPCBuilding" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='146']/Values/ParticipantMessages/MessageTriggers/MenuIdleMessage" />
+	<!--Madame Kahina-->
+    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='147']/Values/ParticipantMessages/MessageTriggers/ClickKontor" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='147']/Values/ParticipantMessages/MessageTriggers/ActiveTradeConfirmation" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='147']/Values/ParticipantMessages/MessageTriggers/OpenActiveTradeMenu" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='147']/Values/ParticipantMessages/MessageTriggers/ClickNPCShip" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='147']/Values/ParticipantMessages/MessageTriggers/ClickNPCBuilding" />
+	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='147']/Values/ParticipantMessages/MessageTriggers/MenuIdleMessage" />
+</ModOps>

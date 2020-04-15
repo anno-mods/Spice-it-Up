@@ -1,0 +1,9 @@
+<ModOps>
+    <!-- Oil Refinery -->
+  <ModOp Type="merge" Path="//Asset[Values/Standard/GUID='101331']/Values/ModuleOwner">
+    <ModuleBuildRadius>15</ModuleBuildRadius>
+  </ModOp>
+  <!-- <ModOp Type="add" Path="//Asset[Values/Standard/GUID='1010561']/Values/ModuleOwner">
+    <ModuleBuildRadius>15</ModuleBuildRadius>
+  </ModOp> -->
+</ModOps>

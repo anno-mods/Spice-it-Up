@@ -1,0 +1,1 @@
+Zoo, botanical garden and museum will now place their modules freely inside a radius. 

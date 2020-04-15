@@ -1,0 +1,24 @@
+<ModOps>
+
+  <ModOp Type="replace" GUID='500453' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_coal.cfg</Config>
+  </ModOp>
+  <ModOp Type="replace" GUID='500476' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_iron.cfg</Config>
+  </ModOp>
+  <ModOp Type="replace" GUID='500477' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_clay.cfg</Config>
+  </ModOp>
+  <ModOp Type="replace" GUID='500478' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_tin.cfg</Config>
+  </ModOp>
+  <ModOp Type="replace" GUID='500479' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_copper.cfg</Config>
+  </ModOp>
+  <ModOp Type="replace" GUID='500480' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_cement.cfg</Config>
+  </ModOp>
+  <ModOp Type="replace" GUID='500481' Path="/Values/InfoLayerIcon/Config">
+    <Config>data/graphics/ui/infolayer3d/infolayer_a7_resource_gold.cfg</Config>
+  </ModOp>
+</ModOps>

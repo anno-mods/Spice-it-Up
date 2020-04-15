@@ -1,0 +1,1 @@
+Removes all electricity wires from the game.

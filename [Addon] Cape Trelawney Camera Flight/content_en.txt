@@ -1,0 +1,2 @@
+Adds a Camera Flight for Cape Trelawney which can be activated with 'Keypad 8' by default.
+Hotkey can be changed in the options menu.
