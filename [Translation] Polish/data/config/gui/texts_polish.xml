@@ -2,15 +2,15 @@
     <ModOp Type="add" Path="/TextExport/Texts">
         <Text>
             <GUID>976510</GUID>
-            <Text>Budynki Kultury</Text>
+            <Text>Budynki kultury</Text>
         </Text>
         <Text>
             <GUID>976511</GUID>
-            <Text>Budynki Kultury</Text>
+            <Text>Budynki kultury</Text>
         </Text>
         <Text>
             <GUID>930100</GUID>
-            <Text>Stoczna SI</Text>
+            <Text>Stocznia SI</Text>
         </Text>
         <Text>
             <GUID>930099</GUID>
@@ -110,7 +110,7 @@
         </Text>
         <Text>
             <GUID>930061</GUID>
-            <Text>Tworzy statek dla Dra Hugo Merciera który pozwoli mu osiąść w tym sektorze Only available for owners of the "Anarchist" DLC.</Text>
+            <Text>Tworzy statek dla Dra Hugona Merciera który pozwoli mu osiąść w tym sektorze. Dostępne tylko dla posiadaczy DLC "Anarchista".</Text>
         </Text>
         <Text>
             <GUID>930012</GUID>
@@ -150,39 +150,39 @@
         </Text>
         <Text>
             <GUID>930075</GUID>
-            <Text>Embasada: Fundamenty</Text>
+            <Text>Ambasada: Fundamenty</Text>
         </Text>
         <Text>
             <GUID>930074</GUID>
-            <Text>Budywana w wielu fazach, embasada pozwala Ci nawiązać więcej dyplomatycznych relacji po jej ukończeniu.</Text>
+            <Text>Budowana w wielu fazach, ambasada pozwala Ci nawiązać więcej dyplomatycznych relacji po jej ukończeniu.</Text>
         </Text>
         <Text>
             <GUID>930079</GUID>
-            <Text>Pusta działka wybrana przez samą Królową na lokację dla twojej ambasady, które pozwoli ci nawiązać nowe relacje dyplomatyczne.</Text>
+            <Text>Pusta działka wybrana przez samą Królową na lokalizację dla twojej ambasady, która pozwoli ci nawiązać nowe relacje dyplomatyczne.</Text>
         </Text>
         <Text>
             <GUID>930076</GUID>
-            <Text>Embasada: Stalowa konstrukcja</Text>
+            <Text>Ambasada: Stalowa konstrukcja</Text>
         </Text>
         <Text>
             <GUID>930080</GUID>
-            <Text>Stalowa konstrukcja twojej embasady bliska ukończeniu. W krótce nowe pojawią się nowe możliwości dyplomatyczne.</Text>
+            <Text>Stalowa konstrukcja twojej ambasady bliska ukończeniu. Wkrótce nowe pojawią się nowe możliwości dyplomatyczne.</Text>
         </Text>
         <Text>
             <GUID>930077</GUID>
-            <Text>Embasada: Szklenie</Text>
+            <Text>Ambasada: Oszklenie</Text>
         </Text>
         <Text>
             <GUID>930081</GUID>
-            <Text>Twojej embasadzie brakuje tylko dachu, wkrótce dyplomaci będą mogli zacząć swoją pracę!</Text>
+            <Text>Twojej ambasadzie brakuje już tylko dachu, wkrótce dyplomaci będą mogli zacząć swoją pracę!</Text>
         </Text>
         <Text>
             <GUID>930078</GUID>
-            <Text>Embasada</Text>
+            <Text>Ambasada</Text>
         </Text>
         <Text>
             <GUID>930082</GUID>
-            <Text>Stąd możesz nawiązać nowe relacje dyplomatyuczne z bardziej wymagającymi frakcjami.</Text>
+            <Text>Stąd możesz nawiązać nowe relacje dyplomatyczne z bardziej wymagającymi frakcjami.</Text>
         </Text>
         <Text>
             <GUID>930083</GUID>
@@ -190,11 +190,11 @@
         </Text>
         <Text>
             <GUID>930084</GUID>
-            <Text>Embasada</Text>
+            <Text>Ambasada</Text>
         </Text>
         <Text>
             <GUID>930176</GUID>
-            <Text>Embasada jest dostępna do budowy!</Text>
+            <Text>Ambasada jest dostępna do budowy!</Text>
         </Text>
         <Text>
             <GUID>930177</GUID>
@@ -202,7 +202,7 @@
         </Text>
         <Text>
             <GUID>930180</GUID>
-            <Text>Embasada została ukończona.</Text>
+            <Text>Ambasada została ukończona.</Text>
         </Text>
         <Text>
             <GUID>930181</GUID>
@@ -218,7 +218,7 @@
         </Text>
         <Text>
             <GUID>930188</GUID>
-            <Text>Stoczna SI została wybudowana!</Text>
+            <Text>Stocznia SI została wybudowana!</Text>
         </Text>
         <Text>
             <GUID>930189</GUID>
@@ -242,7 +242,7 @@
         </Text>
         <Text>
             <GUID>930086</GUID>
-            <Text>[AssetData([NotificationContext CharacterGUID]) Text] mówi na temat Embasady która zostanie w krótce ukończona.</Text>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] mówi na temat ambasady która zostanie w krótce ukończona.</Text>
         </Text>
         <Text>
             <GUID>930088</GUID>
@@ -250,11 +250,11 @@
         </Text>
         <Text>
             <GUID>930085</GUID>
-            <Text>[AssetData([NotificationContext CharacterGUID]) Text] mówi o ukończonej Embasadzie.</Text>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] mówi o ukończonej Ambasadzie.</Text>
         </Text>
         <Text>
             <GUID>930087</GUID>
-            <Text>[AssetData([NotificationContext CharacterGUID]) Text] mówi o ukończonej Embasadzie</Text>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] mówi o ukończonej Ambasadzie</Text>
         </Text>
         <Text>
             <GUID>930275</GUID>
@@ -278,7 +278,7 @@
         </Text>
         <Text>
             <GUID>930118</GUID>
-            <Text>Szpiecy szukają kskudlik i Taubenangriff +++ Ostatnio widziani o 5 rano przed swoimi komputerami +++ Jesteśmy ciekawi jak przebiegnie polowanie +++ Więcej na stronie 3!</Text>
+            <Text>Szpiedzy szukają kskudlik i Taubenangriff +++ Ostatnio widziani o 5 rano przed swoimi komputerami +++ Jesteśmy ciekawi jak przebiegnie polowanie +++ Więcej na stronie 3!</Text>
         </Text>
         <Text>
             <GUID>930116</GUID>
@@ -295,15 +295,15 @@
         </Text>
         <Text>
             <GUID>900204</GUID>
-            <Text>Zwiększa Pojemność Wyspy o 60 ton. Zapewnia 4 rampy załadunkowe.</Text>
+            <Text>Zwiększa pojemność wyspy o 60 ton. Zapewnia 4 rampy załadunkowe.</Text>
         </Text>
         <Text>
             <GUID>900205</GUID>
-            <Text>Różne Magazyny</Text>
+            <Text>Różne magazyny</Text>
         </Text>
         <Text>
             <GUID>902296</GUID>
-            <Text>Mały Magazyn</Text>
+            <Text>Mały magazyn</Text>
         </Text>
         <Text>
             <GUID>902297</GUID>
@@ -311,7 +311,7 @@
         </Text>
         <Text>
             <GUID>902298</GUID>
-            <Text>Mały Magazyn</Text>
+            <Text>Mały magazyn</Text>
         </Text>
         <Text>
             <GUID>902299</GUID>
@@ -319,11 +319,11 @@
         </Text>
         <Text>
             <GUID>900208</GUID>
-            <Text>Zwiększa Pojemność Wyspy o 20 ton. Zapewnia 2 rampy załadunkowe.</Text>
+            <Text>Zwiększa pojemność wyspy o 20 ton. Zapewnia 2 rampy załadunkowe.</Text>
         </Text>
         <Text>
             <GUID>900209</GUID>
-            <Text>Zwiększa Pojemność Wyspy o 40 ton. Zapewnia 3 rampy załadunkowe.</Text>
+            <Text>Zwiększa pojemność wyspy o 40 ton. Zapewnia 3 rampy załadunkowe.</Text>
         </Text>
         <Text>
             <GUID>902300</GUID>
@@ -335,7 +335,7 @@
         </Text>
         <Text>
             <GUID>901008</GUID>
-            <Text>Karczmaliczne kotwicowisko</Text>
+            <Text>Publiczne kotwicowisko</Text>
         </Text>
         <Text>
             <GUID>901999</GUID>
@@ -383,7 +383,7 @@
         </Text>
         <Text>
             <GUID>977020</GUID>
-            <Text>Trawa miasta</Text>
+            <Text>Trawa miejska</Text>
         </Text>
         <Text>
             <GUID>977021</GUID>
@@ -391,7 +391,7 @@
         </Text>
         <Text>
             <GUID>977030</GUID>
-            <Text>Drzewi (miasto)</Text>
+            <Text>Drzewo (miasto)</Text>
         </Text>
         <Text>
             <GUID>977031</GUID>
@@ -445,35 +445,35 @@
 
         <Text>
             <GUID>901000</GUID>
-            <Text>Przykrywka na glinę (Wizualne)</Text>
+            <Text>Zasłona wizualna na glinę</Text>
         </Text>
         <Text>
             <GUID>901001</GUID>
-            <Text>Przykrywka na olej (Wizualne)</Text>
+            <Text>Zasłona wizualna na ropę</Text>
         </Text>
         <Text>
             <GUID>901002</GUID>
-            <Text>Przykrywka na glinę (Wizualne)</Text>
+            <Text>Zasłona wizualna na glinę</Text>
         </Text>
         <Text>
             <GUID>901003</GUID>
-            <Text>Przykrywka na olej (Wizualne)</Text>
+            <Text>Zasłona wizualna na ropę</Text>
         </Text>
         <Text>
             <GUID>900200</GUID>
-            <Text>Nieprawdziwy Magazyn jako pokrywa na glinę, można zmienić wciskająć Shift+V.</Text>
+            <Text>Nieprawdziwy Magazyn jako zasłona wizualna na glinę, można zmienić wciskając Shift+V.</Text>
         </Text>
         <Text>
             <GUID>900201</GUID>
-            <Text>Nieprawdziwy budynek mieszkalny skierowany na północ jako przykrywka na olej, można zmienić wciskająć Shift+V.</Text>
+            <Text>Nieprawdziwy budynek mieszkalny skierowany na północ jako zasłona wizualna na olej, można zmienić wciskająć Shift+V.</Text>
         </Text>
         <Text>
             <GUID>900202</GUID>
-            <Text>Nieprawdziwy Magazyn jako pokrywa na glinę, można zmienić wciskająć Shift+V.</Text>
+            <Text>Nieprawdziwy Magazyn jako  zasłona wizualna na glinę, można zmienić wciskająć Shift+V.</Text>
         </Text>
         <Text>
             <GUID>900203</GUID>
-            <Text>Nieprawdziwy budynek mieszkalny skierowany na południe jako przykrywka na olej, można zmienić wciskająć Shift+V.</Text>
+            <Text>Nieprawdziwy budynek mieszkalny skierowany na południe jako zasłona wizualna na olej, można zmienić wciskająć Shift+V.</Text>
         </Text>
         <Text>
             <GUID>902290</GUID>
@@ -884,11 +884,11 @@
         </Text>
         <Text>
             <GUID>902102</GUID>
-            <Text>Parkany jornalero I</Text>
+            <Text>Parkany jornaleros I</Text>
         </Text>
         <Text>
             <GUID>902103</GUID>
-            <Text>Parkany jornalero II</Text>
+            <Text>Parkany jornaleros II</Text>
         </Text>
         <Text>
             <GUID>902104</GUID>
@@ -1577,11 +1577,11 @@
 		</Text>
 		<Text>
 			<GUID>8850030</GUID>
-			<Text>Latarnia prowadzi statki bezpiecznie do twojego portu.</Text>
+			<Text>Latarnia bezpiecznie naprowadza statki do twojego portu.</Text>
 		</Text>
 		<Text>
 			<GUID>8850031</GUID>
-			<Text>Latarnia prowadzi statki bezpiecznie do twojego portu.</Text>
+			<Text>Latarnia bezpiecznie naprowadza statki do twojego portu.</Text>
 		</Text>
 		<Text>
 			<GUID>8850050</GUID>

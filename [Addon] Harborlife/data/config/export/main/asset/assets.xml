@@ -9975,7 +9975,7 @@
             <Template>Trigger</Template>
             <Values>
                 <Standard>
-                    <GUID>99334165</GUID>
+                    <GUID>99334166</GUID>
                     <Name>Trigger 500 Artisans</Name>
                     <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
                 </Standard>
@@ -10005,7 +10005,10 @@
                                         </UnlockAssets>
                                         <UnhideAssets>
                                             <Item>
-                                                <Asset>8855023</Asset>
+                                                <Asset>8855050</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8855052</Asset>
                                             </Item>
                                             <Item>
                                                 <Asset>8856001</Asset>
@@ -10028,6 +10031,12 @@
                                             <Item>
                                                 <Asset>8856020</Asset>
                                             </Item>
+                                            <Item>
+                                                <Asset>8856002</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8856003</Asset>
+                                            </Item>
                                         </UnhideAssets>
                                     </ActionUnlockAsset>
                                 </Values>
@@ -10042,7 +10051,7 @@
             <Template>Trigger</Template>
             <Values>
                 <Standard>
-                    <GUID>99334157</GUID>
+                    <GUID>99334167</GUID>
                     <Name>Trigger 750 Artisans</Name>
                     <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
                 </Standard>
@@ -10067,7 +10076,10 @@
                                     <ActionUnlockAsset>
                                         <UnlockAssets>
                                             <Item>
-                                                <Asset>8855023</Asset>
+                                                <Asset>8855050</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8855052</Asset>
                                             </Item>
                                             <Item>
                                                 <Asset>8856001</Asset>
@@ -10089,6 +10101,12 @@
                                             </Item>
                                             <Item>
                                                 <Asset>8856020</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8856002</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8856003</Asset>
                                             </Item>
                                         </UnlockAssets>
                                         <UnhideAssets>

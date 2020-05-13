@@ -1,57 +1,5 @@
 <ModOps>
-	<ModOp Type="replace" GUID='1010000' Path="/Values/EconomyFeature7/MetropolisFactor/ConfigPerPopulation">
-        <ConfigPerPopulation>
-            <Item>
-                <PopulationLevel>15000000</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>125</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-            <Item>
-                <PopulationLevel>15000001</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>125</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-            <Item>
-                <PopulationLevel>15000002</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>125</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-            <Item>
-                <PopulationLevel>15000003</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>125</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-            <Item>
-                <PopulationLevel>15000004</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>125</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-            <Item>
-                <PopulationLevel>15000005</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>100</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-            <Item>
-                <PopulationLevel>15000006</PopulationLevel>
-                <StartOffset>99999999</StartOffset>
-                <Interval>100</Interval>
-                <EffectPerInterval>1</EffectPerInterval>
-                <EffectMaximum>40</EffectMaximum>
-            </Item>
-        </ConfigPerPopulation>
-    </ModOp>
+	<ModOp Type="remove" GUID='1010000' Path="/Values/EconomyFeature7/MetropolisFactor" />
 
     <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/MoneyValue">
         <MoneyValue>70</MoneyValue>
