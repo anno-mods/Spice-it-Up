@@ -9,7 +9,7 @@
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
-        <AllowInCampaignMode>0</AllowInCampaignMode>
+        <AllowedGameType>SandboxSingleplayer;SandboxMultilayer</AllowedGameType>
     </ModOp>
     <ModOp Type="add" GUID='140395' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
@@ -25,7 +25,7 @@
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
-        <AllowInCampaignMode>0</AllowInCampaignMode>
+        <AllowedGameType>SandboxSingleplayer;SandboxMultilayer</AllowedGameType>
     </ModOp>
     <ModOp Type="add" GUID='141001' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>

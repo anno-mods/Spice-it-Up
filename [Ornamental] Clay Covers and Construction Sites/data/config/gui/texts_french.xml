@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Revêtement d'argile (visuel)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Chantier de construction I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Chantier de construction II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Revêtement de pétrole (visuel)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>CRevêtement d'argile (visuel)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Chantier de construction I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Chantier de construction II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Revêtement de pétrole (visuel)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>Chantier de construction et couvertures</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>Chantier de construction et couvertures</Text>
+    </Text>
+  </ModOp>
+</ModOps>

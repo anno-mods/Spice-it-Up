@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>Démarrer le vol de la caméra</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,43 +1,57 @@
 <ModOps>
-	<ModOp Type="remove" GUID='1010000' Path="/Values/EconomyFeature7/MetropolisFactor" />
+    <ModOp Type="replace" GUID="1010000" Path="/Values/EconomyFeature7/MetropolisFactor">
+        <MetropolisFactor />
+    </ModOp>
 
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120030']/MoneyValue">
         <MoneyValue>70</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010245']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010245']/MoneyValue">
         <MoneyValue>98</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120032']/MoneyValue">
         <MoneyValue>56</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010246']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010246']/MoneyValue">
         <MoneyValue>126</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010208']/MoneyValue">
         <MoneyValue>98</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010356']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010356']/MoneyValue">
         <MoneyValue>140</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120016']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120016']/MoneyValue">
         <MoneyValue>35</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010259']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010259']/MoneyValue">
         <MoneyValue>35</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010355']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010355']/MoneyValue">
         <MoneyValue>35</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010258']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010258']/MoneyValue">
         <MoneyValue>35</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']/MoneyValue">
         <MoneyValue>175</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']/MoneyValue">
         <MoneyValue>105</MoneyValue>
     </ModOp>
-    <ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']/MoneyValue">
         <MoneyValue>210</MoneyValue>
+    </ModOp>
+    <ModOp Type = "replace" GUID='15000001' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010214']/MoneyValue">
+        <MoneyValue>43</MoneyValue>
+    </ModOp>
+    <ModOp Type = "replace" GUID='15000002' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010214']/MoneyValue">
+        <MoneyValue>85</MoneyValue>
+    </ModOp>
+    <ModOp Type = "replace" GUID='15000002' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010257']/MoneyValue">
+        <MoneyValue>42</MoneyValue>
+    </ModOp>
+    <ModOp Type = "replace" GUID='15000003' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010257']/MoneyValue">
+        <MoneyValue>85</MoneyValue>
     </ModOp>
 </ModOps>

@@ -1,12 +1,8 @@
 <ModOps>
-  <ModOp Type="add" Path="/TextExport/Texts">
+  <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>987000</GUID>
       <Text>Plazastraße</Text>
-    </Text>
-    <Text>
-      <GUID>987001</GUID>
-      <Text>Verschönert die Siedlung und verbindet Gebäude miteinander. Eine Plaza mit Straßenfunktion.</Text>
     </Text>
     <Text>
       <GUID>987002</GUID>

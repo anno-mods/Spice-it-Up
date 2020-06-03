@@ -1,0 +1,144 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902232</GUID>
+      <Text>Channel</Text>
+    </Text>
+    <Text>
+      <GUID>902246</GUID>
+      <Text>Channel</Text>
+    </Text>
+    <Text>
+      <GUID>902233</GUID>
+      <Text>Channel Fountain</Text>
+    </Text>
+    <Text>
+      <GUID>902247</GUID>
+      <Text>Channel Fountain</Text>
+    </Text>
+    <Text>
+      <GUID>902234</GUID>
+      <Text>Channel</Text>
+    </Text>
+    <Text>
+      <GUID>902248</GUID>
+      <Text>Channel</Text>
+    </Text>
+    <Text>
+      <GUID>902235</GUID>
+      <Text>Channel</Text>
+    </Text>
+    <Text>
+      <GUID>902249</GUID>
+      <Text>Channel</Text>
+    </Text>
+    <Text>
+      <GUID>902236</GUID>
+      <Text>Channel Bridge</Text>
+    </Text>
+    <Text>
+      <GUID>902250</GUID>
+      <Text>Channel Bridge</Text>
+    </Text>
+    <Text>
+      <GUID>902237</GUID>
+      <Text>World's Fair Gate</Text>
+    </Text>
+    <Text>
+      <GUID>902251</GUID>
+      <Text>World's Fair Gate</Text>
+    </Text>
+    <Text>
+      <GUID>902238</GUID>
+      <Text>World's Fair Tower</Text>
+    </Text>
+    <Text>
+      <GUID>902252</GUID>
+      <Text>World's Fair Tower</Text>
+    </Text>
+    <Text>
+      <GUID>902239</GUID>
+      <Text>World's Fair Pavillion</Text>
+    </Text>
+    <Text>
+      <GUID>902253</GUID>
+      <Text>World's Fair Pavillion</Text>
+    </Text>
+    <Text>
+      <GUID>902240</GUID>
+      <Text>Columns</Text>
+    </Text>
+    <Text>
+      <GUID>902254</GUID>
+      <Text>Columns</Text>
+    </Text>
+    <Text>
+      <GUID>902241</GUID>
+      <Text>Columns</Text>
+    </Text>
+    <Text>
+      <GUID>902255</GUID>
+      <Text>Columns</Text>
+    </Text>
+    <Text>
+      <GUID>902294</GUID>
+      <Text>Bright Plaza</Text>
+    </Text>
+    <Text>
+      <GUID>902295</GUID>
+      <Text>Bright Plaza</Text>
+    </Text>
+    <Text>
+      <GUID>902242</GUID>
+      <Text>Morris Column</Text>
+    </Text>
+    <Text>
+      <GUID>902256</GUID>
+      <Text>Morris Column</Text>
+    </Text>
+    <Text>
+      <GUID>902243</GUID>
+      <Text>Billboard</Text>
+    </Text>
+    <Text>
+      <GUID>902257</GUID>
+      <Text>Billboard</Text>
+    </Text>
+    <Text>
+      <GUID>902244</GUID>
+      <Text>Mosaic Paving</Text>
+    </Text>
+    <Text>
+      <GUID>902258</GUID>
+      <Text>Mosaic Paving</Text>
+    </Text>
+    <Text>
+      <GUID>902245</GUID>
+      <Text>Flagpole</Text>
+    </Text>
+    <Text>
+      <GUID>902259</GUID>
+      <Text>Flagpole</Text>
+    </Text>
+    <Text>
+      <GUID>976500</GUID>
+      <Text>Water Basin</Text>
+    </Text>
+    <Text>
+      <GUID>976501</GUID>
+      <Text>Columns</Text>
+    </Text>
+    <Text>
+      <GUID>976502</GUID>
+      <Text>Exclusive City Ornaments</Text>
+    </Text>
+    <Text>
+      <GUID>976503</GUID>
+      <Text>World Fair Modules</Text>
+    </Text>
+    <Text>
+      <GUID>902263</GUID>
+      <Text>Exclusive Ornaments</Text>
+    </Text>
+  </ModOp>
+</ModOps>

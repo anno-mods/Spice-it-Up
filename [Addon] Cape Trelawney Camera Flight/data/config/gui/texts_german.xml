@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>33559902</GUID>
+      <Text>Items Cheaten</Text>
+    </Text>
+  </ModOp>
+</ModOps>

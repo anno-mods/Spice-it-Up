@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857105</GUID>
+      <Text>Пригородный пирс</Text>
+    </Text>
+  </ModOp>
+</ModOps>

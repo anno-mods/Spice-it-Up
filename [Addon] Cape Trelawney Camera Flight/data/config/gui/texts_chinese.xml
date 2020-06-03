@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>开始相机自由飞行</Text>
+    </Text>
+  </ModOp>
+</ModOps>

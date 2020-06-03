@@ -1,0 +1,308 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>930100</GUID>
+      <Text>AI 조선소</Text>
+    </Text>
+    <Text>
+      <GUID>930099</GUID>
+      <Text>외교 파트너를 위한 선박을 생산하여, 그들이 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930000</GUID>
+      <Text>기본 함선 에셋</Text>
+    </Text>
+    <Text>
+      <GUID>930050</GUID>
+      <Text>기본 함선 에셋 설명</Text>
+    </Text>
+    <Text>
+      <GUID>930001</GUID>
+      <Text>벤테 요르겐센</Text>
+    </Text>
+    <Text>
+      <GUID>930051</GUID>
+      <Text>벤테 요르겐센을 위한 선박을 생산하여, 그녀가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930002</GUID>
+      <Text>진여평 공주</Text>
+    </Text>
+    <Text>
+      <GUID>930052</GUID>
+      <Text>진여평 공주를 위한 선박을 생산하여, 그녀가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930003</GUID>
+      <Text>윌리 위블삭</Text>
+    </Text>
+    <Text>
+      <GUID>930053</GUID>
+      <Text>윌리 위블삭을 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930004</GUID>
+      <Text>조지 스미스</Text>
+    </Text>
+    <Text>
+      <GUID>930054</GUID>
+      <Text>조지 스미스를 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930005</GUID>
+      <Text>베릴 오마라</Text>
+    </Text>
+    <Text>
+      <GUID>930055</GUID>
+      <Text>베릴 오마라를 위한 선박을 생산하여, 그녀가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930006</GUID>
+      <Text>아르투르 가스파로프</Text>
+    </Text>
+    <Text>
+      <GUID>930056</GUID>
+      <Text>아르투르 가스파로프를 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930007</GUID>
+      <Text>카를 레오나르드 폰말칭</Text>
+    </Text>
+    <Text>
+      <GUID>930057</GUID>
+      <Text>카를 레오나르드 폰말칭을 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930008</GUID>
+      <Text>알론소 그레이브즈</Text>
+    </Text>
+    <Text>
+      <GUID>930058</GUID>
+      <Text>알론소 그레이브즈를 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930009</GUID>
+      <Text>비센테 실바 제독</Text>
+    </Text>
+    <Text>
+      <GUID>930059</GUID>
+      <Text>비센테 실바 제독을 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930010</GUID>
+      <Text>마가렛 헌트 여사</Text>
+    </Text>
+    <Text>
+      <GUID>930060</GUID>
+      <Text>마가렛 헌트 여사를 위한 선박을 생산하여, 그녀가 이 지역에 정착할 수 있도록 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930011</GUID>
+      <Text>휴고 메르시어 박사</Text>
+    </Text>
+    <Text>
+      <GUID>930061</GUID>
+      <Text>휴고 메르시어 박사를 위한 선박을 생산하여, 그가 이 지역에 정착할 수 있도록 합니다. ('아나키스트' DLC 소유자만 이용 가능합니다.)</Text>
+    </Text>
+    <Text>
+      <GUID>930012</GUID>
+      <Text>올드 네이트</Text>
+    </Text>
+    <Text>
+      <GUID>930062</GUID>
+      <Text>당신은 분명 모든 가라앉은 보물들에 관해 궁금해 할 것입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다..</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다..</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다..</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다..</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다..</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]에 대해 험담합니다..</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])] 을(를) 증오합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])] 을(를) 증오합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>올드 네이트가 노래를 부르려 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>올드 네이트가 노래를 부르려 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930263</GUID>
+      <Text>벤테는 올드 네이트가 그녀만의 비행선을 만들어주길 원합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930264</GUID>
+      <Text>그러나 아직 올드 네이트는 벤테에게 화가 나 있는 상태입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930276</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 이미 이 세력이 이 지역에 정착해 있음을 상기시켜 줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930275</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 이미 이 세력이 이 지역에 정착해 있음을 상기시켜 줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930278</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 이주 제한을 상기시켜 줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930277</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 이주 제한을 상기시켜 줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930176</GUID>
+      <Text>대사관 공사가 가능합니다!</Text>
+    </Text>
+    <Text>
+      <GUID>930177</GUID>
+      <Text>우리가 이 건물로 무엇을 할 수 있을지 감히 상상할 수 있겠는가! +++ 3페이지에서 계속!</Text>
+    </Text>
+    <Text>
+      <GUID>930180</GUID>
+      <Text>대사관이 완공되었습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>930181</GUID>
+      <Text>여왕은 개회사를 하는 동안 혼란스러워 보였다. +++ 여러 세력과의 외교협상이 시작되었다. +++ 3페이지에서 계속!</Text>
+    </Text>
+    <Text>
+      <GUID>930184</GUID>
+      <Text>우리는 이제 AI 조선소를 만들 수 있습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>930185</GUID>
+      <Text>우리가 이 건물로 무엇을 할 수 있을지 감히 상상할 수 있겠는가! +++ 3페이지에서 계속!</Text>
+    </Text>
+    <Text>
+      <GUID>930188</GUID>
+      <Text>AI 조선소가 지어졌습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>930189</GUID>
+      <Text>첫 번째 세력이 우리의 지역에 관심을 나타냈습니다. 우리는 누가 이곳에 정착할 것인지, 정착하지 않을 것인지 결정할 것입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930192</GUID>
+      <Text>우린 영원히 이 지역을 공유하지 않을겁니다!</Text>
+    </Text>
+    <Text>
+      <GUID>930193</GUID>
+      <Text>이 지역으로의 추가적 세력 이주는 왕권에 의해 제한되었습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930196</GUID>
+      <Text>해당 세력이 이미 이 지역에 있습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>930197</GUID>
+      <Text>오직 여왕의 영웅적인 행동만이 끔찍한 오해를 멈출 수 있었습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930117</GUID>
+      <Text>아노의 세계를 농락하는 악당들!</Text>
+    </Text>
+    <Text>
+      <GUID>930118</GUID>
+      <Text>스파이 @kskudlik 과 @Taubenangriff 를 수색 중 +++ 오전 5시에 그들의 컴퓨터 앞에서 마지막으로 목격 됨 +++ 우리는 이러한 수색에 관심이 있다 +++ 3페이지에서 계속!</Text>
+    </Text>
+    <Text>
+      <GUID>930075</GUID>
+      <Text>대사관 : 기초 공사</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>여러 단계의 공사가 완공되게 되면, 대사관은 당신이 이 세계에서 더 많은 외교 관계를 찾을 수 있도록 해줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>외교 건물</Text>
+    </Text>
+    <Text>
+      <GUID>930076</GUID>
+      <Text>대사관 : 철골 구조 공사</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>여러 단계의 공사가 완공되게 되면, 대사관은 당신이 이 세계에서 더 많은 외교 관계를 찾을 수 있도록 해줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>외교 건물</Text>
+    </Text>
+    <Text>
+      <GUID>930077</GUID>
+      <Text>대사관 : 유리 공사</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>여러 단계의 공사가 완공되게 되면, 대사관은 당신이 이 세계에서 더 많은 외교 관계를 찾을 수 있도록 해줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>외교 건물</Text>
+    </Text>
+    <Text>
+      <GUID>930078</GUID>
+      <Text>대사관</Text>
+    </Text>
+    <Text>
+      <GUID>930082</GUID>
+      <Text>이곳에서부터 좀 더 까다로운 세력들과의 외교적 관계가 성립됩니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>외교 건물</Text>
+    </Text>
+    <Text>
+      <GUID>930086</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 곧 대사관을 짓게 될 것에 관해 이야기합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930088</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 자신에 관해 이야기합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930085</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 대사관이 완공된 것에 대해 이야기합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>930087</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] 이(가) 대사관이 완공된 것에 대해 이야기합니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

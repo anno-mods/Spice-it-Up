@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>점토 커버 (시각적)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>건축현장 I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>건축현장 II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>석유 커버 (시각적)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>점토 커버 (시각적)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>건축현장 I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>건축현장 II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>석유 커버 (시각적)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>건축현장과 커버</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>건축현장과 커버</Text>
+    </Text>
+  </ModOp>
+</ModOps>

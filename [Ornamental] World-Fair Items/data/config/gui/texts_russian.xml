@@ -1,0 +1,144 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902232</GUID>
+      <Text>Канал</Text>
+    </Text>
+    <Text>
+      <GUID>902246</GUID>
+      <Text>Канал</Text>
+    </Text>
+    <Text>
+      <GUID>902233</GUID>
+      <Text>Фонтан</Text>
+    </Text>
+    <Text>
+      <GUID>902247</GUID>
+      <Text>Фонтан</Text>
+    </Text>
+    <Text>
+      <GUID>902234</GUID>
+      <Text>Канал</Text>
+    </Text>
+    <Text>
+      <GUID>902248</GUID>
+      <Text>Канал</Text>
+    </Text>
+    <Text>
+      <GUID>902235</GUID>
+      <Text>Канал</Text>
+    </Text>
+    <Text>
+      <GUID>902249</GUID>
+      <Text>Канал</Text>
+    </Text>
+    <Text>
+      <GUID>902236</GUID>
+      <Text>Мост</Text>
+    </Text>
+    <Text>
+      <GUID>902250</GUID>
+      <Text>Мост</Text>
+    </Text>
+    <Text>
+      <GUID>902237</GUID>
+      <Text>Врата Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902251</GUID>
+      <Text>Врата Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902238</GUID>
+      <Text>Башня Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902252</GUID>
+      <Text>Башня Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902239</GUID>
+      <Text>Павильон Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902253</GUID>
+      <Text>Павильон Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902240</GUID>
+      <Text>Колонны</Text>
+    </Text>
+    <Text>
+      <GUID>902254</GUID>
+      <Text>Колонны</Text>
+    </Text>
+    <Text>
+      <GUID>902241</GUID>
+      <Text>Колонны</Text>
+    </Text>
+    <Text>
+      <GUID>902255</GUID>
+      <Text>Колонны</Text>
+    </Text>
+    <Text>
+      <GUID>902294</GUID>
+      <Text>Светлая плаза</Text>
+    </Text>
+    <Text>
+      <GUID>902295</GUID>
+      <Text>Светлая плаза</Text>
+    </Text>
+    <Text>
+      <GUID>902242</GUID>
+      <Text>Афишная тумба</Text>
+    </Text>
+    <Text>
+      <GUID>902256</GUID>
+      <Text>Афишная тумба</Text>
+    </Text>
+    <Text>
+      <GUID>902243</GUID>
+      <Text>Билборд</Text>
+    </Text>
+    <Text>
+      <GUID>902257</GUID>
+      <Text>Билборд</Text>
+    </Text>
+    <Text>
+      <GUID>902244</GUID>
+      <Text>Мощеная мозайка</Text>
+    </Text>
+    <Text>
+      <GUID>902258</GUID>
+      <Text>Мощеная мозайка</Text>
+    </Text>
+    <Text>
+      <GUID>902245</GUID>
+      <Text>Флагшток</Text>
+    </Text>
+    <Text>
+      <GUID>902259</GUID>
+      <Text>Флагшток</Text>
+    </Text>
+    <Text>
+      <GUID>976500</GUID>
+      <Text>Водохранилище</Text>
+    </Text>
+    <Text>
+      <GUID>976501</GUID>
+      <Text>Колонны</Text>
+    </Text>
+    <Text>
+      <GUID>976502</GUID>
+      <Text>Эксклюзивные городские украшения</Text>
+    </Text>
+    <Text>
+      <GUID>976503</GUID>
+      <Text>Модули Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>902263</GUID>
+      <Text>Эксклюзивные украшения</Text>
+    </Text>
+  </ModOp>
+</ModOps>

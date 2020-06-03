@@ -1,101 +1,36 @@
 <ModOps>
-    <ModOp Type = "add" Path = "/TextExport/Texts">
-        <Text>
-            <GUID>977000</GUID>
-            <Text>Rasen Gerade</Text>
-        </Text>
-        <Text>
-            <GUID>977001</GUID>
-            <Text>Rasen Ecke</Text>
-        </Text>
-        <Text>
-            <GUID>977002</GUID>
-            <Text>Rasen Kreuzung</Text>
-        </Text>
-        <Text>
-            <GUID>977003</GUID>
-            <Text>Rasen Endstück</Text>
-        </Text>
-        <Text>
-            <GUID>977004</GUID>
-            <Text>Rasen T-Kreuzung</Text>
-        </Text>
-        <Text>
-            <GUID>977010</GUID>
-            <Text>Rasenfläche Verbindung</Text>
-        </Text>
-        <Text>
-            <GUID>977011</GUID>
-            <Text>Rasenfläche Innenecke</Text>
-        </Text>
-        <Text>
-            <GUID>977012</GUID>
-            <Text>Rasenfläche Gerade</Text>
-        </Text>
-        <Text>
-            <GUID>977013</GUID>
-            <Text>Rasenfläche Außenecke</Text>
-        </Text>
-        <Text>
-            <GUID>977020</GUID>
-            <Text>Stadtrasen</Text>
-        </Text>
-        <Text>
-            <GUID>977021</GUID>
-            <Text>Stadtrasenfläche</Text>
-        </Text>
-        <Text>
-            <GUID>977030</GUID>
-            <Text>Stadtbaum</Text>
-        </Text>
-        <Text>
-            <GUID>977031</GUID>
-            <Text>Stadtpalme</Text>
-        </Text>
-
-        <Text>
-            <GUID>977400</GUID>
-            <Text>Gedenkstätte</Text>
-        </Text>
-        <Text>
-            <GUID>977401</GUID>
-            <Text>Stadtgarten</Text>
-        </Text>
-        <Text>
-            <GUID>977402</GUID>
-            <Text>Pavillon</Text>
-        </Text>
-        <Text>
-            <GUID>977403</GUID>
-            <Text>Reiterstatue</Text>
-        </Text>
-        <Text>
-            <GUID>977404</GUID>
-            <Text>Brunnen</Text>
-        </Text>
-        <Text>
-            <GUID>977405</GUID>
-            <Text>Gedenkstätte</Text>
-        </Text>
-        <Text>
-            <GUID>977406</GUID>
-            <Text>Stadtgarten</Text>
-        </Text>
-        <Text>
-            <GUID>977407</GUID>
-            <Text>Pavillon</Text>
-        </Text>
-        <Text>
-            <GUID>977408</GUID>
-            <Text>Reiterstatue</Text>
-        </Text>
-        <Text>
-            <GUID>977409</GUID>
-            <Text>Brunnen</Text>
-        </Text>
-        <Text>
-            <GUID>977460</GUID>
-            <Text>Idyllische Promenade</Text>
-        </Text>
-    </ModOp>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>99334134</GUID>
+      <Text>[AssetData(249947) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334135</GUID>
+      <Text>[AssetData(249950) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334136</GUID>
+      <Text>[AssetData(269086) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334137</GUID>
+      <Text>[AssetData(269083) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334138</GUID>
+      <Text>[AssetData(269549) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334139</GUID>
+      <Text>[AssetData(269084) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334140</GUID>
+      <Text>[AssetData(269085) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334142</GUID>
+      <Text>[AssetData(269602) Text] </Text>
+    </Text>
+  </ModOp>
 </ModOps>

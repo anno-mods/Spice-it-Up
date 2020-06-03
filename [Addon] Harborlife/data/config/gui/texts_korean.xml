@@ -1,0 +1,252 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8855001</GUID>
+      <Text>항만 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855002</GUID>
+      <Text>항만 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855004</GUID>
+      <Text>항만 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855008</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855009</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855010</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855014</GUID>
+      <Text>중형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855016</GUID>
+      <Text>소형 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855018</GUID>
+      <Text>소형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855005</GUID>
+      <Text>항만 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855006</GUID>
+      <Text>항만 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855011</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855012</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855015</GUID>
+      <Text>중형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855017</GUID>
+      <Text>소형 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>8855019</GUID>
+      <Text>소형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>901006</GUID>
+      <Text>등대</Text>
+    </Text>
+    <Text>
+      <GUID>901007</GUID>
+      <Text>등대</Text>
+    </Text>
+    <Text>
+      <GUID>8855050</GUID>
+      <Text>항만소방서</Text>
+    </Text>
+    <Text>
+      <GUID>8855052</GUID>
+      <Text>항만경찰서</Text>
+    </Text>
+    <Text>
+      <GUID>8855054</GUID>
+      <Text>항만 병원</Text>
+    </Text>
+    <Text>
+      <GUID>8855051</GUID>
+      <Text>항만소방서</Text>
+    </Text>
+    <Text>
+      <GUID>8855053</GUID>
+      <Text>항만경찰서</Text>
+    </Text>
+    <Text>
+      <GUID>8855055</GUID>
+      <Text>항만 병원</Text>
+    </Text>
+    <Text>
+      <GUID>978000</GUID>
+      <Text>(항만)포장 도로</Text>
+    </Text>
+    <Text>
+      <GUID>978001</GUID>
+      <Text>(항만)포장 도로</Text>
+    </Text>
+    <Text>
+      <GUID>8855881</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8855882</GUID>
+      <Text>항만 창고</Text>
+    </Text>
+    <Text>
+      <GUID>8856001</GUID>
+      <Text>농부 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856002</GUID>
+      <Text>노동자 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856003</GUID>
+      <Text>직공 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856004</GUID>
+      <Text>기술자 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856005</GUID>
+      <Text>투자가 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856006</GUID>
+      <Text>식민지 노동자 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856007</GUID>
+      <Text>식민지 직공 주택</Text>
+    </Text>
+    <Text>
+      <GUID>8856008</GUID>
+      <Text>시장</Text>
+    </Text>
+    <Text>
+      <GUID>8856009</GUID>
+      <Text>선술집</Text>
+    </Text>
+    <Text>
+      <GUID>8856010</GUID>
+      <Text>교회</Text>
+    </Text>
+    <Text>
+      <GUID>8856011</GUID>
+      <Text>학교</Text>
+    </Text>
+    <Text>
+      <GUID>8856012</GUID>
+      <Text>보드빌 극장</Text>
+    </Text>
+    <Text>
+      <GUID>8856013</GUID>
+      <Text>대학</Text>
+    </Text>
+    <Text>
+      <GUID>8856014</GUID>
+      <Text>회원제 클럽</Text>
+    </Text>
+    <Text>
+      <GUID>8856015</GUID>
+      <Text>은행</Text>
+    </Text>
+    <Text>
+      <GUID>8856016</GUID>
+      <Text>발전소</Text>
+    </Text>
+    <Text>
+      <GUID>8856020</GUID>
+      <Text>시청</Text>
+    </Text>
+    <Text>
+      <GUID>8856017</GUID>
+      <Text>시장</Text>
+    </Text>
+    <Text>
+      <GUID>8856018</GUID>
+      <Text>예배당</Text>
+    </Text>
+    <Text>
+      <GUID>8856019</GUID>
+      <Text>권투 경기장</Text>
+    </Text>
+    <Text>
+      <GUID>8856021</GUID>
+      <Text>시청</Text>
+    </Text>
+    <Text>
+      <GUID>8855888</GUID>
+      <Text>항구 도시</Text>
+    </Text>
+    <Text>
+      <GUID>8855889</GUID>
+      <Text>항구 도시</Text>
+    </Text>
+    <Text>
+      <GUID>8855900</GUID>
+      <Text>증기 크레인</Text>
+    </Text>
+    <Text>
+      <GUID>8855902</GUID>
+      <Text>상자 더미</Text>
+    </Text>
+    <Text>
+      <GUID>8855906</GUID>
+      <Text>[AssetData(8855900) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>8855907</GUID>
+      <Text>[AssetData(8855902) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530000</GUID>
+      <Text>[AssetData(1010520) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530001</GUID>
+      <Text>[AssetData(1010521) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530002</GUID>
+      <Text>[AssetData(1010278) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530003</GUID>
+      <Text>[AssetData(1010560) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530004</GUID>
+      <Text>[AssetData(1010310) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530006</GUID>
+      <Text>[AssetData(101262) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530005</GUID>
+      <Text>[AssetData(1010339) Text] </Text>
+    </Text>
+  </ModOp>
+</ModOps>

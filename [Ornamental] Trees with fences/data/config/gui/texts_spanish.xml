@@ -1,0 +1,364 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902000</GUID>
+      <Text>Césped I</Text>
+    </Text>
+    <Text>
+      <GUID>902001</GUID>
+      <Text>Arbusto I</Text>
+    </Text>
+    <Text>
+      <GUID>902002</GUID>
+      <Text>Arbusto grande I</Text>
+    </Text>
+    <Text>
+      <GUID>902003</GUID>
+      <Text>Árbol grande I</Text>
+    </Text>
+    <Text>
+      <GUID>902004</GUID>
+      <Text>Manzano I</Text>
+    </Text>
+    <Text>
+      <GUID>902005</GUID>
+      <Text>Pozo I</Text>
+    </Text>
+    <Text>
+      <GUID>902006</GUID>
+      <Text>Césped II</Text>
+    </Text>
+    <Text>
+      <GUID>902007</GUID>
+      <Text>Arbusto II</Text>
+    </Text>
+    <Text>
+      <GUID>902008</GUID>
+      <Text>Arbusto grande II</Text>
+    </Text>
+    <Text>
+      <GUID>902009</GUID>
+      <Text>Árbol grande II</Text>
+    </Text>
+    <Text>
+      <GUID>902010</GUID>
+      <Text>Manzano II</Text>
+    </Text>
+    <Text>
+      <GUID>902011</GUID>
+      <Text>Pozo II</Text>
+    </Text>
+    <Text>
+      <GUID>902012</GUID>
+      <Text>Césped III</Text>
+    </Text>
+    <Text>
+      <GUID>902013</GUID>
+      <Text>Arbusto III</Text>
+    </Text>
+    <Text>
+      <GUID>902014</GUID>
+      <Text>Arbusto grande III</Text>
+    </Text>
+    <Text>
+      <GUID>902015</GUID>
+      <Text>Árbol grande III</Text>
+    </Text>
+    <Text>
+      <GUID>902016</GUID>
+      <Text>Manzano III</Text>
+    </Text>
+    <Text>
+      <GUID>902017</GUID>
+      <Text>Pozo III</Text>
+    </Text>
+    <Text>
+      <GUID>902018</GUID>
+      <Text>Arboleda templada I</Text>
+    </Text>
+    <Text>
+      <GUID>902019</GUID>
+      <Text>Árbol pequeño I</Text>
+    </Text>
+    <Text>
+      <GUID>902020</GUID>
+      <Text>Arboleda templada I</Text>
+    </Text>
+    <Text>
+      <GUID>902021</GUID>
+      <Text>Álamo I</Text>
+    </Text>
+    <Text>
+      <GUID>902022</GUID>
+      <Text>Flores I</Text>
+    </Text>
+    <Text>
+      <GUID>902023</GUID>
+      <Text>Abrevadero I</Text>
+    </Text>
+    <Text>
+      <GUID>902024</GUID>
+      <Text>Pando I</Text>
+    </Text>
+    <Text>
+      <GUID>902025</GUID>
+      <Text>Olmo I</Text>
+    </Text>
+    <Text>
+      <GUID>902026</GUID>
+      <Text>Arboleda templada II</Text>
+    </Text>
+    <Text>
+      <GUID>902027</GUID>
+      <Text>Árbol pequeño II</Text>
+    </Text>
+    <Text>
+      <GUID>902028</GUID>
+      <Text>Arboleda de álamos II</Text>
+    </Text>
+    <Text>
+      <GUID>902029</GUID>
+      <Text>Álamo II</Text>
+    </Text>
+    <Text>
+      <GUID>902030</GUID>
+      <Text>Flores II</Text>
+    </Text>
+    <Text>
+      <GUID>902031</GUID>
+      <Text>Abrevadero II</Text>
+    </Text>
+    <Text>
+      <GUID>902032</GUID>
+      <Text>Pando II</Text>
+    </Text>
+    <Text>
+      <GUID>902033</GUID>
+      <Text>Olmo II</Text>
+    </Text>
+    <Text>
+      <GUID>902034</GUID>
+      <Text>Arboleda templada III</Text>
+    </Text>
+    <Text>
+      <GUID>902035</GUID>
+      <Text>Árbol pequeño III</Text>
+    </Text>
+    <Text>
+      <GUID>902036</GUID>
+      <Text>Arboleda de álamos III</Text>
+    </Text>
+    <Text>
+      <GUID>902037</GUID>
+      <Text>Álamo III</Text>
+    </Text>
+    <Text>
+      <GUID>902038</GUID>
+      <Text>Flores III</Text>
+    </Text>
+    <Text>
+      <GUID>902039</GUID>
+      <Text>Abrevadero III</Text>
+    </Text>
+    <Text>
+      <GUID>902040</GUID>
+      <Text>Pando III</Text>
+    </Text>
+    <Text>
+      <GUID>902041</GUID>
+      <Text>Olmo III</Text>
+    </Text>
+    <Text>
+      <GUID>902042</GUID>
+      <Text>Ciprés I</Text>
+    </Text>
+    <Text>
+      <GUID>902043</GUID>
+      <Text>Ciprés alto I</Text>
+    </Text>
+    <Text>
+      <GUID>902044</GUID>
+      <Text>Ciprés II</Text>
+    </Text>
+    <Text>
+      <GUID>902045</GUID>
+      <Text>Ciprés alto II</Text>
+    </Text>
+    <Text>
+      <GUID>902046</GUID>
+      <Text>Ciprés III</Text>
+    </Text>
+    <Text>
+      <GUID>902047</GUID>
+      <Text>Ciprés alto III</Text>
+    </Text>
+    <Text>
+      <GUID>902048</GUID>
+      <Text>Césped I</Text>
+    </Text>
+    <Text>
+      <GUID>902049</GUID>
+      <Text>Philodendron I</Text>
+    </Text>
+    <Text>
+      <GUID>902050</GUID>
+      <Text>Árbol pequeño I</Text>
+    </Text>
+    <Text>
+      <GUID>902051</GUID>
+      <Text>Helechos I</Text>
+    </Text>
+    <Text>
+      <GUID>902052</GUID>
+      <Text>Arbusto I</Text>
+    </Text>
+    <Text>
+      <GUID>902053</GUID>
+      <Text>Arbusto I</Text>
+    </Text>
+    <Text>
+      <GUID>902054</GUID>
+      <Text>Pequeña palmera I</Text>
+    </Text>
+    <Text>
+      <GUID>902055</GUID>
+      <Text>Palmera I</Text>
+    </Text>
+    <Text>
+      <GUID>902056</GUID>
+      <Text>Pozo I</Text>
+    </Text>
+    <Text>
+      <GUID>902057</GUID>
+      <Text>Césped II</Text>
+    </Text>
+    <Text>
+      <GUID>902058</GUID>
+      <Text>Philodendron II</Text>
+    </Text>
+    <Text>
+      <GUID>902059</GUID>
+      <Text>Árbol pequeño II</Text>
+    </Text>
+    <Text>
+      <GUID>902060</GUID>
+      <Text>Helechos II</Text>
+    </Text>
+    <Text>
+      <GUID>902061</GUID>
+      <Text>Arbusto II</Text>
+    </Text>
+    <Text>
+      <GUID>902062</GUID>
+      <Text>Arbusto II</Text>
+    </Text>
+    <Text>
+      <GUID>902063</GUID>
+      <Text>Palmera pequeña II</Text>
+    </Text>
+    <Text>
+      <GUID>902064</GUID>
+      <Text>Palmera II</Text>
+    </Text>
+    <Text>
+      <GUID>902065</GUID>
+      <Text>Pozo II</Text>
+    </Text>
+    <Text>
+      <GUID>902066</GUID>
+      <Text>Césped III</Text>
+    </Text>
+    <Text>
+      <GUID>902067</GUID>
+      <Text>Philodendron III</Text>
+    </Text>
+    <Text>
+      <GUID>902068</GUID>
+      <Text>Árbol pequeño III</Text>
+    </Text>
+    <Text>
+      <GUID>902069</GUID>
+      <Text>Helechos III</Text>
+    </Text>
+    <Text>
+      <GUID>902070</GUID>
+      <Text>Arbusto III</Text>
+    </Text>
+    <Text>
+      <GUID>902071</GUID>
+      <Text>Arbusto III</Text>
+    </Text>
+    <Text>
+      <GUID>902072</GUID>
+      <Text>Palmera pequeña III</Text>
+    </Text>
+    <Text>
+      <GUID>902073</GUID>
+      <Text>Palmera III</Text>
+    </Text>
+    <Text>
+      <GUID>902074</GUID>
+      <Text>Pozo III</Text>
+    </Text>
+    <Text>
+      <GUID>902075</GUID>
+      <Text>Bosque tropical I</Text>
+    </Text>
+    <Text>
+      <GUID>902076</GUID>
+      <Text>Arbusto con flores I</Text>
+    </Text>
+    <Text>
+      <GUID>902077</GUID>
+      <Text>Abrevadero I</Text>
+    </Text>
+    <Text>
+      <GUID>902078</GUID>
+      <Text>Bosque tropical II</Text>
+    </Text>
+    <Text>
+      <GUID>902079</GUID>
+      <Text>Arbusto con flores II</Text>
+    </Text>
+    <Text>
+      <GUID>902080</GUID>
+      <Text>Abrevadero II</Text>
+    </Text>
+    <Text>
+      <GUID>902081</GUID>
+      <Text>Bosque tropical III</Text>
+    </Text>
+    <Text>
+      <GUID>902082</GUID>
+      <Text>Arbusto con flores III</Text>
+    </Text>
+    <Text>
+      <GUID>902083</GUID>
+      <Text>Abrevadero III</Text>
+    </Text>
+    <Text>
+      <GUID>902099</GUID>
+      <Text>Vallas de granjero</Text>
+    </Text>
+    <Text>
+      <GUID>902100</GUID>
+      <Text>Vallas de trabajadores</Text>
+    </Text>
+    <Text>
+      <GUID>902101</GUID>
+      <Text>Vallas de ingenieros</Text>
+    </Text>
+    <Text>
+      <GUID>902102</GUID>
+      <Text>Vallas de jornalero I</Text>
+    </Text>
+    <Text>
+      <GUID>902103</GUID>
+      <Text>Vallas de jornalero II</Text>
+    </Text>
+    <Text>
+      <GUID>902104</GUID>
+      <Text>Vallas de obrero Fences</Text>
+    </Text>
+  </ModOp>
+</ModOps>

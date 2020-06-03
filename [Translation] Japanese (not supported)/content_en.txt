@@ -1,6 +1,0 @@
-Japanese Placeholder Translation. 
-
-If you want to create a Japanese Translation for Spice it up, please feel free to do so! 
-Simply take the texts_japanese.xml, open it i.e. in windows editor and translate everything inside <Text>....</Text>. 
-
-stuff inside of angular Brackets (i.e. [AssetData(1337) Text] has to stay as it is. 

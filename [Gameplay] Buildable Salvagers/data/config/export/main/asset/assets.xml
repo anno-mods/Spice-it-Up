@@ -4,6 +4,9 @@
       <Vehicle>112084</Vehicle>
     </Item>
   </ModOp>
+  <ModOp GUID='112084' Path="/Values/ShipMaintenance" Type="merge">
+		<Maintenance>250</Maintenance>
+	</ModOp>
 
   <ModOp Type = "add" GUID = '112084' Path = "/Values/Standard">
     <InfoDescription>113369</InfoDescription>

@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857100</GUID>
+      <Text>暖爐</Text>
+    </Text>
+    <Text>
+      <GUID>8857102</GUID>
+      <Text>天然氣供暖</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -94,7 +94,7 @@
 	</ModOp>
 
 	<!-- Modified airship -->
-	<ModOp Type="addNextSibling" GUID='101373'>
+	<ModOp Type="addNextSibling" GUID='100442'>
 		<Asset>
 			<Template>AirShip</Template>
 			<Values>

@@ -4,6 +4,18 @@
 			<Vehicle>101121</Vehicle>
 		</Item>
 	</ModOp>
+	<ModOp GUID='101121' Path="/Values/Cost" Type="merge">
+		<CraftingTime>360000</CraftingTime>
+	</ModOp>
+	<ModOp GUID='101121' Path="/Values/Craftable" Type="merge">
+		<InfluenceCostPoints>8</InfluenceCostPoints>
+	</ModOp>
+	<ModOp GUID='101121' Path="/Values/Cost" Type="add">
+		<InfluenceCostType>WarShip</InfluenceCostType>
+	</ModOp>
+	<ModOp GUID='101121' Path="/Values/ShipMaintenance" Type="merge">
+		<Maintenance>100</Maintenance>
+	</ModOp>
 	<ModOp Type="addNextSibling" GUID='130248'>
 		<Asset>
 			<Template>Trigger</Template>

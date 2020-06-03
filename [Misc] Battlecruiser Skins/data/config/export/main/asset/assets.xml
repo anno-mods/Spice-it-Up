@@ -1,0 +1,208 @@
+<ModOps>
+    <ModOp Type="addNextSibling" GUID='119354'>
+        <Asset>
+            <BaseAssetGUID>100442</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>119355</GUID>
+                    <Name>Battle Cruiser Lava skin (Military)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_battlecruiser_variation.png</IconFilename>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>WarShip</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                            <Filename>data/graphics/vehicle/battle_cruiser_03/battle_cruiser_lava.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Walking />
+                <Text />
+                <CommandQueue />
+                <Drifting />
+                <Collector />
+                <Attackable />
+                <Attacker />
+                <MinimapToken />
+                <SoundEmitter />
+                <UpgradeList />
+                <QuestObject />
+                <Infolayer />
+                <ItemContainer />
+                <FeedbackController />
+                <Draggable />
+                <Cost />
+                <Craftable />
+                <TradeRouteVehicle />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Nameable />
+                <MetaPersistent />
+                <ExpeditionAttribute />
+                <ShipMaintenance />
+                <Sellable />
+                <Stance />
+                <Rentable />
+                <WorldMapSound />
+                <Pausable />
+                <ShipIncident />
+                <SoundEmitterCommandBarks />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>100442</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>119356</GUID>
+                    <Name>Battle Cruiser Redcube skin (Military)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_battlecruiser_variation.png</IconFilename>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>WarShip</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                            <Filename>data/graphics/vehicle/battle_cruiser_03/battle_cruiser_redcube.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Walking />
+                <Text />
+                <CommandQueue />
+                <Drifting />
+                <Collector />
+                <Attackable />
+                <Attacker />
+                <MinimapToken />
+                <SoundEmitter />
+                <UpgradeList />
+                <QuestObject />
+                <Infolayer />
+                <ItemContainer />
+                <FeedbackController />
+                <Draggable />
+                <Cost />
+                <Craftable />
+                <TradeRouteVehicle />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Nameable />
+                <MetaPersistent />
+                <ExpeditionAttribute />
+                <ShipMaintenance />
+                <Sellable />
+                <Stance />
+                <Rentable />
+                <WorldMapSound />
+                <Pausable />
+                <ShipIncident />
+                <SoundEmitterCommandBarks />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>100442</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>119357</GUID>
+                    <Name>Battle Cruiser Starfield skin (Military)</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_battlecruiser_variation.png</IconFilename>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>WarShip</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                            <Filename>data/graphics/vehicle/battle_cruiser_03/battle_cruiser_starfield.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Walking />
+                <Text />
+                <CommandQueue />
+                <Drifting />
+                <Collector />
+                <Attackable />
+                <Attacker />
+                <MinimapToken />
+                <SoundEmitter />
+                <UpgradeList />
+                <QuestObject />
+                <Infolayer />
+                <ItemContainer />
+                <FeedbackController />
+                <Draggable />
+                <Cost />
+                <Craftable />
+                <TradeRouteVehicle />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Nameable />
+                <MetaPersistent />
+                <ExpeditionAttribute />
+                <ShipMaintenance />
+                <Sellable />
+                <Stance />
+                <Rentable />
+                <WorldMapSound />
+                <Pausable />
+                <ShipIncident />
+                <SoundEmitterCommandBarks />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='142880' Path="/Values/BuildModeFeature/GuidVariationLists/Item/GuidVariationList[Item = '100442']" Type="add">
+        <Item>
+            <Guid>119355</Guid>
+        </Item>
+        <Item>
+            <Guid>119356</Guid>
+        </Item>
+        <Item>
+            <Guid>119357</Guid>
+        </Item>
+    </ModOp>
+
+    <ModOp Type = "add" GUID='191458,191456,190608' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>119355</GUID>
+        </Item>
+        <Item>
+            <GUID>119356</GUID>
+        </Item>
+        <Item>
+            <GUID>119357</GUID>
+        </Item>
+    </ModOp>
+</ModOps>

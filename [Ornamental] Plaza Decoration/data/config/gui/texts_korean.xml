@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8853600</GUID>
+      <Text>중형 나무</Text>
+    </Text>
+    <Text>
+      <GUID>8853601</GUID>
+      <Text>소형 나무</Text>
+    </Text>
+    <Text>
+      <GUID>8853602</GUID>
+      <Text>수풀</Text>
+    </Text>
+    <Text>
+      <GUID>8853604</GUID>
+      <Text>대형 나무</Text>
+    </Text>
+    <Text>
+      <GUID>8853605</GUID>
+      <Text>원형 화단</Text>
+    </Text>
+    <Text>
+      <GUID>8853606</GUID>
+      <Text>사각형 화단</Text>
+    </Text>
+  </ModOp>
+</ModOps>

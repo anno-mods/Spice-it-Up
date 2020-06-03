@@ -1,0 +1,308 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>930100</GUID>
+      <Text>AI Верфь</Text>
+    </Text>
+    <Text>
+      <GUID>930099</GUID>
+      <Text>Производит корабли для дипломатических партнеров, которые позволяют им селиться в ваших секторах.</Text>
+    </Text>
+    <Text>
+      <GUID>930000</GUID>
+      <Text>базовый актив судна</Text>
+    </Text>
+    <Text>
+      <GUID>930050</GUID>
+      <Text>описание активов базового судна</Text>
+    </Text>
+    <Text>
+      <GUID>930001</GUID>
+      <Text>Бенте Йоргенсен</Text>
+    </Text>
+    <Text>
+      <GUID>930051</GUID>
+      <Text>Производит корабли для Бенты Йоргенсен, которые позволяют им селиться в ваших секторах.</Text>
+    </Text>
+    <Text>
+      <GUID>930002</GUID>
+      <Text>Принцесса Цин </Text>
+    </Text>
+    <Text>
+      <GUID>930052</GUID>
+      <Text>Производит корабли для Принцесс Цинь, которые позволяют им селиться в ваших секторах.</Text>
+    </Text>
+    <Text>
+      <GUID>930003</GUID>
+      <Text>Вилли Уибблсок</Text>
+    </Text>
+    <Text>
+      <GUID>930053</GUID>
+      <Text>Производит корабли для Вилли, которые позволяют им селиться в ваших секторах..</Text>
+    </Text>
+    <Text>
+      <GUID>930004</GUID>
+      <Text>Джордж Смит</Text>
+    </Text>
+    <Text>
+      <GUID>930054</GUID>
+      <Text>Производит корабли для Джорджа Смит, которые позволяют им селиться в ваших секторах..</Text>
+    </Text>
+    <Text>
+      <GUID>930005</GUID>
+      <Text>Берил О'Мара</Text>
+    </Text>
+    <Text>
+      <GUID>930055</GUID>
+      <Text>Производит корабли для Леди О`Мары, которые позволяют им селиться в ваших секторах..</Text>
+    </Text>
+    <Text>
+      <GUID>930006</GUID>
+      <Text>Артур Гаспаров</Text>
+    </Text>
+    <Text>
+      <GUID>930056</GUID>
+      <Text>Производит корабли для Артура Гаспарова, которые позволяют им селиться в ваших секторах..</Text>
+    </Text>
+    <Text>
+      <GUID>930007</GUID>
+      <Text>Барон фон Мальхинг</Text>
+    </Text>
+    <Text>
+      <GUID>930057</GUID>
+      <Text>Производит корабли для Барона Мальхинга, которые позволяют им селиться в ваших секторах.</Text>
+    </Text>
+    <Text>
+      <GUID>930008</GUID>
+      <Text>Алонсо Грейвс</Text>
+    </Text>
+    <Text>
+      <GUID>930058</GUID>
+      <Text>Производит корабли для Алонсо Грейвса, которые позволяют им селиться в ваших секторах..</Text>
+    </Text>
+    <Text>
+      <GUID>930009</GUID>
+      <Text>адмирал Висенте Сильва</Text>
+    </Text>
+    <Text>
+      <GUID>930059</GUID>
+      <Text>Производит корабли для Адмирала Сильвы, которые позволяют им селиться в ваших секторах.</Text>
+    </Text>
+    <Text>
+      <GUID>930010</GUID>
+      <Text>Леди Хант</Text>
+    </Text>
+    <Text>
+      <GUID>930060</GUID>
+      <Text>Производит корабли для Леди Хант, которые позволяют им селиться в ваших секторах..</Text>
+    </Text>
+    <Text>
+      <GUID>930011</GUID>
+      <Text>Д-р Гюго Мерсье</Text>
+    </Text>
+    <Text>
+      <GUID>930061</GUID>
+      <Text>Производит корабли для Гюго Мерсье, которые позволяют им селиться в ваших секторах.. Доступно для владельцев дополнения " Анархист".</Text>
+    </Text>
+    <Text>
+      <GUID>930012</GUID>
+      <Text>Старый Нейт</Text>
+    </Text>
+    <Text>
+      <GUID>930062</GUID>
+      <Text>Вы, должно быть, заинтересованы в поиске затонувших сокровищ.</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] hates [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] hates [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>Старый Нейт пытается петь.</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>Старый Нейт пытается петь.</Text>
+    </Text>
+    <Text>
+      <GUID>930263</GUID>
+      <Text>Бенте хочет уговорить Нейта построить свой собственный дирижабль.</Text>
+    </Text>
+    <Text>
+      <GUID>930264</GUID>
+      <Text>Старый Нейт все еще злится на Бенте.</Text>
+    </Text>
+    <Text>
+      <GUID>930276</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] напоминает вам, что эта фракция уже обосновалась в этом секторе.</Text>
+    </Text>
+    <Text>
+      <GUID>930275</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] напоминает вам, что эта фракция уже обосновалась в этом секторе.</Text>
+    </Text>
+    <Text>
+      <GUID>930278</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] напоминает вам об иммиграционных ограничениях.</Text>
+    </Text>
+    <Text>
+      <GUID>930277</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] напоминает вам об иммиграционных ограничениях.</Text>
+    </Text>
+    <Text>
+      <GUID>930176</GUID>
+      <Text>Посольство доступно для строительства!</Text>
+    </Text>
+    <Text>
+      <GUID>930177</GUID>
+      <Text>Вы не поверите, что мы можем сделать с этим зданием! + + + Подробнее на стр. 3</Text>
+    </Text>
+    <Text>
+      <GUID>930180</GUID>
+      <Text>Посольство закончено!</Text>
+    </Text>
+    <Text>
+      <GUID>930181</GUID>
+      <Text>Королева казалась смущенной, проводя вступительную речь + + + дипломатические переговоры начались с несколькими фракциями + + + подробнее на странице 3!</Text>
+    </Text>
+    <Text>
+      <GUID>930184</GUID>
+      <Text>Мы можем построить верфь AI!</Text>
+    </Text>
+    <Text>
+      <GUID>930185</GUID>
+      <Text>Вы не поверите, что мы можем сделать с этим зданием! + + + Подробнее на стр. 3</Text>
+    </Text>
+    <Text>
+      <GUID>930188</GUID>
+      <Text>AI верфь была построена!</Text>
+    </Text>
+    <Text>
+      <GUID>930189</GUID>
+      <Text>Первые фракции проявляют интерес к нашему сектору. Мы решим, кто будет здесь селиться, а кто нет.</Text>
+    </Text>
+    <Text>
+      <GUID>930192</GUID>
+      <Text>Мы не можем делиться вечно!</Text>
+    </Text>
+    <Text>
+      <GUID>930193</GUID>
+      <Text>Дальнейшая иммиграция в этот сектор не допускается из-за королевских ограничений.</Text>
+    </Text>
+    <Text>
+      <GUID>930196</GUID>
+      <Text>Фракция уже в этом секторе!</Text>
+    </Text>
+    <Text>
+      <GUID>930197</GUID>
+      <Text>Только благодаря героическим действиям королевы можно было остановить сие ужасное недоразумение.</Text>
+    </Text>
+    <Text>
+      <GUID>930117</GUID>
+      <Text>Тролли троллят мир Anno</Text>
+    </Text>
+    <Text>
+      <GUID>930118</GUID>
+      <Text>Шпионы ищут kskudlik и Taubenangriff + + + последний раз их видели в 5 утра перед своими компьютерами +++ нам стало любопытно об этой охоте + + + подробнее на странице 3!</Text>
+    </Text>
+    <Text>
+      <GUID>930075</GUID>
+      <Text>Посольство: Фонды</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Построенное в несколько этапов, посольство позволяет вам найти больше дипломатических отношений в мире после завершения.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Дипломатические здания</Text>
+    </Text>
+    <Text>
+      <GUID>930076</GUID>
+      <Text>Посольство: стальная конструкция</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Построенное в несколько этапов, посольство позволяет вам найти больше дипломатических отношений в мире после завершения.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Дипломатические здания</Text>
+    </Text>
+    <Text>
+      <GUID>930077</GUID>
+      <Text>Embassy: Остекление</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Построенное в несколько этапов, посольство позволяет вам найти больше дипломатических отношений в мире после завершения.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Дипломатические здания</Text>
+    </Text>
+    <Text>
+      <GUID>930078</GUID>
+      <Text>Посольство</Text>
+    </Text>
+    <Text>
+      <GUID>930082</GUID>
+      <Text>Отсюда дипломатические отношения устанавливаются с более сложными фракциями.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Дипломатические здания</Text>
+    </Text>
+    <Text>
+      <GUID>930086</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] разговоры о скором строительстве посольства</Text>
+    </Text>
+    <Text>
+      <GUID>930088</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] Говорит о себе.</Text>
+    </Text>
+    <Text>
+      <GUID>930085</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] говорит о завершении строительства посольства</Text>
+    </Text>
+    <Text>
+      <GUID>930087</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] говорит о завершении строительства посольства</Text>
+    </Text>
+  </ModOp>
+</ModOps>

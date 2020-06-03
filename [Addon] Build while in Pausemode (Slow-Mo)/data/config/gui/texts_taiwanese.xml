@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>90001</GUID>
+      <Text>開啟/關閉動態暫停</Text>
+    </Text>
+  </ModOp>
+</ModOps>

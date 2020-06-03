@@ -165,8 +165,8 @@
 					<Maintenances>
 						<Item>
 							<Product>1010017</Product>
-							<Amount>5000</Amount>
-							<InactiveAmount>2500</InactiveAmount>
+							<Amount>2500</Amount>
+							<InactiveAmount>1250</InactiveAmount>
 						</Item>
 					</Maintenances>
 				</Maintenance>

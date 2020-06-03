@@ -1,0 +1,100 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>977400</GUID>
+      <Text>Памятник</Text>
+    </Text>
+    <Text>
+      <GUID>977401</GUID>
+      <Text>Сад (Город)</Text>
+    </Text>
+    <Text>
+      <GUID>977402</GUID>
+      <Text>Павильон</Text>
+    </Text>
+    <Text>
+      <GUID>977403</GUID>
+      <Text>Конная статуя</Text>
+    </Text>
+    <Text>
+      <GUID>977404</GUID>
+      <Text>Фонтан</Text>
+    </Text>
+    <Text>
+      <GUID>977405</GUID>
+      <Text>Памятник</Text>
+    </Text>
+    <Text>
+      <GUID>977406</GUID>
+      <Text>Сад (Город)</Text>
+    </Text>
+    <Text>
+      <GUID>977407</GUID>
+      <Text>Павильон</Text>
+    </Text>
+    <Text>
+      <GUID>977408</GUID>
+      <Text>Конная статуя</Text>
+    </Text>
+    <Text>
+      <GUID>977409</GUID>
+      <Text>Фонтан</Text>
+    </Text>
+    <Text>
+      <GUID>977000</GUID>
+      <Text>Прямая трава</Text>
+    </Text>
+    <Text>
+      <GUID>977001</GUID>
+      <Text>Прямая трава</Text>
+    </Text>
+    <Text>
+      <GUID>977002</GUID>
+      <Text>Травяной переход</Text>
+    </Text>
+    <Text>
+      <GUID>977003</GUID>
+      <Text>Конец травы</Text>
+    </Text>
+    <Text>
+      <GUID>977004</GUID>
+      <Text>T-образное травяное пересечение</Text>
+    </Text>
+    <Text>
+      <GUID>977010</GUID>
+      <Text>Травяные соединения</Text>
+    </Text>
+    <Text>
+      <GUID>977011</GUID>
+      <Text>Внутренний угол травы</Text>
+    </Text>
+    <Text>
+      <GUID>977012</GUID>
+      <Text>Прямая трава</Text>
+    </Text>
+    <Text>
+      <GUID>977013</GUID>
+      <Text>Внешний угол травы</Text>
+    </Text>
+    <Text>
+      <GUID>977020</GUID>
+      <Text>Городской газон</Text>
+    </Text>
+    <Text>
+      <GUID>977021</GUID>
+      <Text>Травяная городская площадь</Text>
+    </Text>
+    <Text>
+      <GUID>977030</GUID>
+      <Text>Дерево (Город)</Text>
+    </Text>
+    <Text>
+      <GUID>977031</GUID>
+      <Text>Пальма (Город)</Text>
+    </Text>
+    <Text>
+      <GUID>977460</GUID>
+      <Text>Идиллическая эспланада</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,36 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902296</GUID>
+      <Text>Petit Entrepôt</Text>
+    </Text>
+    <Text>
+      <GUID>902297</GUID>
+      <Text>Entrepôt moyen</Text>
+    </Text>
+    <Text>
+      <GUID>902298</GUID>
+      <Text>Petit Entrepôt</Text>
+    </Text>
+    <Text>
+      <GUID>902299</GUID>
+      <Text>Entrepôt moyen</Text>
+    </Text>
+    <Text>
+      <GUID>901004</GUID>
+      <Text>Entrepôt</Text>
+    </Text>
+    <Text>
+      <GUID>901005</GUID>
+      <Text>Entrepôt</Text>
+    </Text>
+    <Text>
+      <GUID>902300</GUID>
+      <Text>Dépôts</Text>
+    </Text>
+    <Text>
+      <GUID>902301</GUID>
+      <Text>Dépôts</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,8 +1,0 @@
-<ModOps>
-  <ModOp Type="add" Path="/TextExport/Texts">
-    <Text>
-      <GUID>901008</GUID>
-      <Text>Pendlerkai</Text>
-    </Text>
-  </ModOp>
-</ModOps>

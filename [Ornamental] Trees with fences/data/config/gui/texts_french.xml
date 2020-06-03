@@ -1,0 +1,365 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902000</GUID>
+      <Text>Herbe I</Text>
+    </Text>
+    <Text>
+      <GUID>902001</GUID>
+      <Text>Arbustes I</Text>
+    </Text>
+    <Text>
+      <GUID>902002</GUID>
+      <Text>Arbuste adulte I</Text>
+    </Text>
+    <Text>
+      <GUID>902003</GUID>
+      <Text>Arbre adulte I</Text>
+    </Text>
+    <Text>
+      <GUID>902004</GUID>
+      <Text>Pommier I</Text>
+    </Text>
+    <Text>
+      <GUID>902005</GUID>
+      <Text>Puits I</Text>
+    </Text>
+    <Text>
+      <GUID>902006</GUID>
+      <Text>Herbe II</Text>
+    </Text>
+    <Text>
+      <GUID>902007</GUID>
+      <Text>Arbuste II</Text>
+    </Text>
+    <Text>
+      <GUID>902008</GUID>
+      <Text>Arbuste adulte II</Text>
+    </Text>
+    <Text>
+      <GUID>902009</GUID>
+      <Text>Arbre adulte II</Text>
+    </Text>
+    <Text>
+      <GUID>902010</GUID>
+      <Text>Pommier II</Text>
+    </Text>
+    <Text>
+      <GUID>902011</GUID>
+      <Text>Puits II</Text>
+    </Text>
+    <Text>
+      <GUID>902012</GUID>
+      <Text>Herbe III</Text>
+    </Text>
+    <Text>
+      <GUID>902013</GUID>
+      <Text>Arbuste III</Text>
+    </Text>
+    <Text>
+      <GUID>902014</GUID>
+      <Text>Arbuste adulte III</Text>
+    </Text>
+    <Text>
+      <GUID>902015</GUID>
+      <Text>Arbre adulte III</Text>
+    </Text>
+    <Text>
+      <GUID>902016</GUID>
+      <Text>Pommier III</Text>
+    </Text>
+    <Text>
+      <GUID>902017</GUID>
+      <Text>Puits III</Text>
+    </Text>
+    <Text>
+      <GUID>902018</GUID>
+      <Text>Bosquet tempéré I</Text>
+    </Text>
+    <Text>
+      <GUID>902019</GUID>
+      <Text>Petit arbre I</Text>
+    </Text>
+    <Text>
+      <GUID>902020</GUID>
+      <Text>Peupleraie I</Text>
+    </Text>
+    <Text>
+      <GUID>902021</GUID>
+      <Text>Peuplier I</Text>
+    </Text>
+    <Text>
+      <GUID>902022</GUID>
+      <Text>Parterre de fleurs I</Text>
+    </Text>
+    <Text>
+      <GUID>902023</GUID>
+      <Text>Abreuvoir I</Text>
+    </Text>
+    <Text>
+      <GUID>902024</GUID>
+      <Text>Peuplier faux-tremble I</Text>
+    </Text>
+    <Text>
+      <GUID>902025</GUID>
+      <Text>Orme I</Text>
+    </Text>
+    <Text>
+      <GUID>902026</GUID>
+      <Text>Bosquet tempéré II</Text>
+    </Text>
+    <Text>
+      <GUID>902027</GUID>
+      <Text>Petit arbre II</Text>
+    </Text>
+    <Text>
+      <GUID>902028</GUID>
+      <Text>Peupleraie II</Text>
+    </Text>
+    <Text>
+      <GUID>902029</GUID>
+      <Text>Peuplier II</Text>
+    </Text>
+    <Text>
+      <GUID>902030</GUID>
+      <Text>Parterre de fleurs II</Text>
+    </Text>
+    <Text>
+      <GUID>902031</GUID>
+      <Text>Abreuvoir II</Text>
+    </Text>
+    <Text>
+      <GUID>902032</GUID>
+      <Text>Peuplier faux-tremble II</Text>
+    </Text>
+    <Text>
+      <GUID>902033</GUID>
+      <Text>Orme II</Text>
+    </Text>
+    <Text>
+      <GUID>902034</GUID>
+      <Text>Bosquet tempéré III</Text>
+    </Text>
+    <Text>
+      <GUID>902035</GUID>
+      <Text>Petit arbre III</Text>
+    </Text>
+    <Text>
+      <GUID>902036</GUID>
+      <Text>Peupleraie III</Text>
+    </Text>
+    <Text>
+      <GUID>902037</GUID>
+      <Text>Peuplier III</Text>
+    </Text>
+    <Text>
+      <GUID>902038</GUID>
+      <Text>Parterre de fleurs III</Text>
+    </Text>
+    <Text>
+      <GUID>902039</GUID>
+      <Text>Abreuvoir III</Text>
+    </Text>
+    <Text>
+      <GUID>902040</GUID>
+      <Text>Peuplier faux-tremble III</Text>
+    </Text>
+    <Text>
+      <GUID>902041</GUID>
+      <Text>Orme III</Text>
+    </Text>
+    <Text>
+      <GUID>902042</GUID>
+      <Text>Cyprès I</Text>
+    </Text>
+    <Text>
+      <GUID>902043</GUID>
+      <Text>Grand Cyprès I</Text>
+    </Text>
+    <Text>
+      <GUID>902044</GUID>
+      <Text>Cyprès II</Text>
+    </Text>
+    <Text>
+      <GUID>902045</GUID>
+      <Text>Grand Cyprès II</Text>
+    </Text>
+    <Text>
+      <GUID>902046</GUID>
+      <Text>Cyprès III</Text>
+    </Text>
+    <Text>
+      <GUID>902047</GUID>
+      <Text>Grand Cyprès III</Text>
+    </Text>
+    <Text>
+      <GUID>902048</GUID>
+      <Text>Herbe I</Text>
+    </Text>
+    <Text>
+      <GUID>902049</GUID>
+      <Text>Philodendron I</Text>
+    </Text>
+    <Text>
+      <GUID>902050</GUID>
+      <Text>Petit arbre I</Text>
+    </Text>
+    <Text>
+      <GUID>902051</GUID>
+      <Text>Fougères I</Text>
+    </Text>
+    <Text>
+      <GUID>902052</GUID>
+      <Text>Buisson I</Text>
+    </Text>
+    <Text>
+      <GUID>902053</GUID>
+      <Text>Arbuste I</Text>
+    </Text>
+    <Text>
+      <GUID>902054</GUID>
+      <Text>Petit palmier I</Text>
+    </Text>
+    <Text>
+      <GUID>902055</GUID>
+      <Text>Palmier I</Text>
+    </Text>
+    <Text>
+      <GUID>902056</GUID>
+      <Text>Puits I</Text>
+    </Text>
+    <Text>
+      <GUID>902057</GUID>
+      <Text>Herbe II</Text>
+    </Text>
+    <Text>
+      <GUID>902058</GUID>
+      <Text>Philodendron II</Text>
+    </Text>
+    <Text>
+      <GUID>902059</GUID>
+      <Text>Petit arbre II</Text>
+    </Text>
+    <Text>
+      <GUID>902060</GUID>
+      <Text>Fougères II</Text>
+    </Text>
+    <Text>
+      <GUID>902061</GUID>
+      <Text>Buisson II</Text>
+    </Text>
+    <Text>
+      <GUID>902062</GUID>
+      <Text>Arbuste II</Text>
+    </Text>
+    <Text>
+      <GUID>902063</GUID>
+      <Text>Petit palmier II</Text>
+    </Text>
+    <Text>
+      <GUID>902064</GUID>
+      <Text>Palmier II</Text>
+    </Text>
+    <Text>
+      <GUID>902065</GUID>
+      <Text>Puits II</Text>
+    </Text>
+    <Text>
+      <GUID>902066</GUID>
+      <Text>Herbe III</Text>
+    </Text>
+    <Text>
+      <GUID>902067</GUID>
+      <Text>Philodendron III</Text>
+    </Text>
+    <Text>
+      <GUID>902068</GUID>
+      <Text>Petit arbre III</Text>
+    </Text>
+    <Text>
+      <GUID>902069</GUID>
+      <Text>Fougères III</Text>
+    </Text>
+    <Text>
+      <GUID>902070</GUID>
+      <Text>Buisson III</Text>
+    </Text>
+    <Text>
+      <GUID>902071</GUID>
+      <Text>Arbuste III</Text>
+    </Text>
+    <Text>
+      <GUID>902072</GUID>
+      <Text>Petit palmier III</Text>
+    </Text>
+    <Text>
+      <GUID>902073</GUID>
+      <Text>Palmier III</Text>
+    </Text>
+    <Text>
+      <GUID>902074</GUID>
+      <Text>Puits III</Text>
+    </Text>
+    <Text>
+      <GUID>902075</GUID>
+      <Text>Forêt tropicale I</Text>
+    </Text>
+    <Text>
+      <GUID>902076</GUID>
+      <Text>Arbuste à fleurs I</Text>
+    </Text>
+    <Text>
+      <GUID>902077</GUID>
+      <Text>Abreuvoir I</Text>
+    </Text>
+    <Text>
+      <GUID>902078</GUID>
+      <Text>Forêt tropicale II</Text>
+    </Text>
+    <Text>
+      <GUID>902079</GUID>
+      <Text>Arbuste à fleurs II</Text>
+    </Text>
+    <Text>
+      <GUID>902080</GUID>
+      <Text>Abreuvoir II</Text>
+    </Text>
+    <Text>
+      <GUID>902081</GUID>
+      <Text>Forêt tropicale III</Text>
+    </Text>
+    <Text>
+      <GUID>902082</GUID>
+      <Text>Arbuste à fleurs III</Text>
+    </Text>
+    <Text>
+      <GUID>902083</GUID>
+      <Text>Abreuvoir III</Text>
+    </Text>
+    <Text>
+      <GUID>902099</GUID>
+      <Text>Clôtures de fermier</Text>
+    </Text>
+    <Text>
+      <GUID>902100</GUID>
+      <Text>Clôtures d'ouvrier
+		</Text>
+    </Text>
+    <Text>
+      <GUID>902101</GUID>
+      <Text>Clôtures d'ingénieur</Text>
+    </Text>
+    <Text>
+      <GUID>902102</GUID>
+      <Text>Clôtures de Jornalero I</Text>
+    </Text>
+    <Text>
+      <GUID>902103</GUID>
+      <Text>Clôtures de Jornalero II</Text>
+    </Text>
+    <Text>
+      <GUID>902104</GUID>
+      <Text>Clôtures d'Obrero</Text>
+    </Text>
+  </ModOp>
+</ModOps>

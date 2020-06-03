@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>987000</GUID>
+      <Text>Plaza (Via)</Text>
+    </Text>
+    <Text>
+      <GUID>987002</GUID>
+      <Text>Semplice spianata</Text>
+    </Text>
+  </ModOp>
+</ModOps>

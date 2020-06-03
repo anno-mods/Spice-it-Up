@@ -1,0 +1,308 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>930100</GUID>
+      <Text>AI Shipyard</Text>
+    </Text>
+    <Text>
+      <GUID>930099</GUID>
+      <Text>Produces Ships for diplomatic partners, which allow them to settle in your sectors.</Text>
+    </Text>
+    <Text>
+      <GUID>930000</GUID>
+      <Text>base ship asset</Text>
+    </Text>
+    <Text>
+      <GUID>930050</GUID>
+      <Text>base ship asset description</Text>
+    </Text>
+    <Text>
+      <GUID>930001</GUID>
+      <Text>Bente Jorgensen</Text>
+    </Text>
+    <Text>
+      <GUID>930051</GUID>
+      <Text>Produces a ship for Bente Jorgensen which allows her to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930002</GUID>
+      <Text>Princess Qing</Text>
+    </Text>
+    <Text>
+      <GUID>930052</GUID>
+      <Text>Produces a ship for Princess Qing which allows her to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930003</GUID>
+      <Text>Willie Wibblesock</Text>
+    </Text>
+    <Text>
+      <GUID>930053</GUID>
+      <Text>Produces a ship for Willie Wibblesock which allows him to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930004</GUID>
+      <Text>George Smith</Text>
+    </Text>
+    <Text>
+      <GUID>930054</GUID>
+      <Text>Produces a ship for Mr. Smith which allows him to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930005</GUID>
+      <Text>Beryl O'Mara</Text>
+    </Text>
+    <Text>
+      <GUID>930055</GUID>
+      <Text>Produces a ship for Beryl O'Mara which allows her to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930006</GUID>
+      <Text>Artur Gasparov</Text>
+    </Text>
+    <Text>
+      <GUID>930056</GUID>
+      <Text>Produces a ship for Artur Gasparov which allows him to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930007</GUID>
+      <Text>Baron von Malching</Text>
+    </Text>
+    <Text>
+      <GUID>930057</GUID>
+      <Text>Produces a ship for Carl Leonard von Malching which allows him to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930008</GUID>
+      <Text>Alonso Graves</Text>
+    </Text>
+    <Text>
+      <GUID>930058</GUID>
+      <Text>Produces a ship for Alonso Graves which allows him to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930009</GUID>
+      <Text>Admiral Silva</Text>
+    </Text>
+    <Text>
+      <GUID>930059</GUID>
+      <Text>Produces a ship for Admiral Silva which allows him to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930010</GUID>
+      <Text>Lady Hunt</Text>
+    </Text>
+    <Text>
+      <GUID>930060</GUID>
+      <Text>Produces a ship for Lady Hunt which allows her to settle in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930011</GUID>
+      <Text>Dr. Hugo Mercier</Text>
+    </Text>
+    <Text>
+      <GUID>930061</GUID>
+      <Text>Produces a ship for Dr. Hugo Mercier which allows him to settle in this sector. Only available for owners of the "Anarchist" DLC.</Text>
+    </Text>
+    <Text>
+      <GUID>930012</GUID>
+      <Text>Old Nate</Text>
+    </Text>
+    <Text>
+      <GUID>930062</GUID>
+      <Text>You must be really curious about all those sunken treasures.</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] hates [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] hates [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>Old Nate tries to sing.</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>Old Nate tries to sing.</Text>
+    </Text>
+    <Text>
+      <GUID>930263</GUID>
+      <Text>Bente want's Old Nate to build her an own baloon.</Text>
+    </Text>
+    <Text>
+      <GUID>930264</GUID>
+      <Text>Old Nate however still is angry at Bente.</Text>
+    </Text>
+    <Text>
+      <GUID>930276</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] reminds you that this faction is already settling in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930275</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] reminds you that this faction is already settling in this sector.</Text>
+    </Text>
+    <Text>
+      <GUID>930278</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] reminds you of the immigration restrictions.</Text>
+    </Text>
+    <Text>
+      <GUID>930277</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] reminds you of the immigration restrictions.</Text>
+    </Text>
+    <Text>
+      <GUID>930176</GUID>
+      <Text>Embassy available for construction!</Text>
+    </Text>
+    <Text>
+      <GUID>930177</GUID>
+      <Text>You won't believe what we can do with THIS building! +++ More on page 3</Text>
+    </Text>
+    <Text>
+      <GUID>930180</GUID>
+      <Text>The embassy is finished!</Text>
+    </Text>
+    <Text>
+      <GUID>930181</GUID>
+      <Text>Queen seemed confused while holding opening speech +++ Diplomatic negotiations started with multiple factions +++ More on page 3!</Text>
+    </Text>
+    <Text>
+      <GUID>930184</GUID>
+      <Text>We can build an AI shipyard!</Text>
+    </Text>
+    <Text>
+      <GUID>930185</GUID>
+      <Text>You won't believe what we can do with THIS building! +++ More on page 3</Text>
+    </Text>
+    <Text>
+      <GUID>930188</GUID>
+      <Text>AI shipyard has been built!</Text>
+    </Text>
+    <Text>
+      <GUID>930189</GUID>
+      <Text>First factions show interest for our sector. We will decide who will settle here and who will not.</Text>
+    </Text>
+    <Text>
+      <GUID>930192</GUID>
+      <Text>We cannot share forever!</Text>
+    </Text>
+    <Text>
+      <GUID>930193</GUID>
+      <Text>Further Immigration into this sector is not allowed due to the crowns restrictions.</Text>
+    </Text>
+    <Text>
+      <GUID>930196</GUID>
+      <Text>Faction already in this sector!</Text>
+    </Text>
+    <Text>
+      <GUID>930197</GUID>
+      <Text>Only due to the heroic acts of our queen a terrible misunderstanding could be stopped.</Text>
+    </Text>
+    <Text>
+      <GUID>930117</GUID>
+      <Text>Pranksters pranking the World of Anno!</Text>
+    </Text>
+    <Text>
+      <GUID>930118</GUID>
+      <Text>Spies searching for kskudlik and Taubenangriff +++ Last seen 5 AM in front of their computers +++ We are curious about the hunt +++ More on page 3!</Text>
+    </Text>
+    <Text>
+      <GUID>930075</GUID>
+      <Text>Embassy: Foundations</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Constructed in multiple phases, the embassy allows you to find more diplomatic relationships in the world upon completion.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Diplomatic Building</Text>
+    </Text>
+    <Text>
+      <GUID>930076</GUID>
+      <Text>Embassy: Steel structure</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Constructed in multiple phases, the embassy allows you to find more diplomatic relationships in the world upon completion.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Diplomatic Building</Text>
+    </Text>
+    <Text>
+      <GUID>930077</GUID>
+      <Text>Embassy: Glazing</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Constructed in multiple phases, the embassy allows you to find more diplomatic relationships in the world upon completion.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Diplomatic Building</Text>
+    </Text>
+    <Text>
+      <GUID>930078</GUID>
+      <Text>Embassy</Text>
+    </Text>
+    <Text>
+      <GUID>930082</GUID>
+      <Text>From here diplomatic relationships are established to more difficult factions.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Diplomatic Building</Text>
+    </Text>
+    <Text>
+      <GUID>930086</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] talks about the soon to be build Embassy</Text>
+    </Text>
+    <Text>
+      <GUID>930088</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] talks about herself.</Text>
+    </Text>
+    <Text>
+      <GUID>930085</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] talks about the finished Embassy</Text>
+    </Text>
+    <Text>
+      <GUID>930087</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] talks about the finished Embassy</Text>
+    </Text>
+  </ModOp>
+</ModOps>

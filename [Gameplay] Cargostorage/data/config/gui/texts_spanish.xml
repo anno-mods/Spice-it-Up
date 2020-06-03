@@ -1,0 +1,36 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902296</GUID>
+      <Text>Almacén pequeño</Text>
+    </Text>
+    <Text>
+      <GUID>902297</GUID>
+      <Text>Almacén mediano</Text>
+    </Text>
+    <Text>
+      <GUID>902298</GUID>
+      <Text>Almacén pequeño</Text>
+    </Text>
+    <Text>
+      <GUID>902299</GUID>
+      <Text>Almacén mediano</Text>
+    </Text>
+    <Text>
+      <GUID>901004</GUID>
+      <Text>Almacén</Text>
+    </Text>
+    <Text>
+      <GUID>901005</GUID>
+      <Text>Almacén</Text>
+    </Text>
+    <Text>
+      <GUID>902300</GUID>
+      <Text>Almacenes</Text>
+    </Text>
+    <Text>
+      <GUID>902301</GUID>
+      <Text>Almacenes</Text>
+    </Text>
+  </ModOp>
+</ModOps>

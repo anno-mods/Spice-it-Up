@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Глиняная "надстройка"(Визуальное)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Строительная площадка I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Строительная площадка II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Нефтяная "надстройка"(Визуальное)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>Глиняная "надстройка"(Визуальное)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Строительная площадка I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Строительная площадка II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Нефтяная "надстройка"(Визуальное)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>Строительные площадки и покрытия</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>Строительные площадки и покрытия</Text>
+    </Text>
+  </ModOp>
+</ModOps>

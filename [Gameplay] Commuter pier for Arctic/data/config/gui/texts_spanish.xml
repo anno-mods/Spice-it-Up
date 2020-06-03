@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857105</GUID>
+      <Text>Muelle de cercanías</Text>
+    </Text>
+  </ModOp>
+</ModOps>

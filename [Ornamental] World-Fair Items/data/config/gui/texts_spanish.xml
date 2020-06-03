@@ -1,0 +1,144 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902232</GUID>
+      <Text>Canal</Text>
+    </Text>
+    <Text>
+      <GUID>902246</GUID>
+      <Text>Canal</Text>
+    </Text>
+    <Text>
+      <GUID>902233</GUID>
+      <Text>Fuente de canal</Text>
+    </Text>
+    <Text>
+      <GUID>902247</GUID>
+      <Text>Fuente de canal</Text>
+    </Text>
+    <Text>
+      <GUID>902234</GUID>
+      <Text>Canal</Text>
+    </Text>
+    <Text>
+      <GUID>902248</GUID>
+      <Text>Canal</Text>
+    </Text>
+    <Text>
+      <GUID>902235</GUID>
+      <Text>Canal</Text>
+    </Text>
+    <Text>
+      <GUID>902249</GUID>
+      <Text>Canal</Text>
+    </Text>
+    <Text>
+      <GUID>902236</GUID>
+      <Text>Puente de canal</Text>
+    </Text>
+    <Text>
+      <GUID>902250</GUID>
+      <Text>Puente de canal</Text>
+    </Text>
+    <Text>
+      <GUID>902237</GUID>
+      <Text>Puerta de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902251</GUID>
+      <Text>Puerta de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902238</GUID>
+      <Text>Torre de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902252</GUID>
+      <Text>Torre de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902239</GUID>
+      <Text>Pabellón de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902253</GUID>
+      <Text>Pabellón de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902240</GUID>
+      <Text>Columnas</Text>
+    </Text>
+    <Text>
+      <GUID>902254</GUID>
+      <Text>Columnas</Text>
+    </Text>
+    <Text>
+      <GUID>902241</GUID>
+      <Text>Columnas</Text>
+    </Text>
+    <Text>
+      <GUID>902255</GUID>
+      <Text>Columnas</Text>
+    </Text>
+    <Text>
+      <GUID>902294</GUID>
+      <Text>Plaza brillante</Text>
+    </Text>
+    <Text>
+      <GUID>902295</GUID>
+      <Text>Plaza brillante</Text>
+    </Text>
+    <Text>
+      <GUID>902242</GUID>
+      <Text>Columna Morris</Text>
+    </Text>
+    <Text>
+      <GUID>902256</GUID>
+      <Text>Columna Morris</Text>
+    </Text>
+    <Text>
+      <GUID>902243</GUID>
+      <Text>Cartel</Text>
+    </Text>
+    <Text>
+      <GUID>902257</GUID>
+      <Text>Cartel</Text>
+    </Text>
+    <Text>
+      <GUID>902244</GUID>
+      <Text>Pavimento de mosaico</Text>
+    </Text>
+    <Text>
+      <GUID>902258</GUID>
+      <Text>Pavimento de mosaico</Text>
+    </Text>
+    <Text>
+      <GUID>902245</GUID>
+      <Text>Asta de bandera</Text>
+    </Text>
+    <Text>
+      <GUID>902259</GUID>
+      <Text>Asta de bandera</Text>
+    </Text>
+    <Text>
+      <GUID>976500</GUID>
+      <Text>Depósito de agua</Text>
+    </Text>
+    <Text>
+      <GUID>976501</GUID>
+      <Text>Columnas</Text>
+    </Text>
+    <Text>
+      <GUID>976502</GUID>
+      <Text>Ornamentación de ciudad exclusiva</Text>
+    </Text>
+    <Text>
+      <GUID>976503</GUID>
+      <Text>Módulos de Exposición Universal</Text>
+    </Text>
+    <Text>
+      <GUID>902263</GUID>
+      <Text>Ornamentos exclusivos</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -166,6 +166,9 @@
             </SelectionDamaged>
           </BarkMapping>
         </SoundEmitterCommandBarks>
+        <ItemReplacer>
+          <ItemReplacementPools>193855</ItemReplacementPools>
+        </ItemReplacer>
       </Values>
     </Asset>
   </ModOp>

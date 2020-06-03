@@ -1,9 +1,9 @@
 <ModOps>
     <!-- Isabel -->
-    <ModOp Type="replace" GUID='73,76,29,78,46,45,77,237' Path="/Values/Trader/Progression/EarlyGame/MaxItemsToOffer">
+    <ModOp Type="replace" GUID='73,29,78,46,45,77,237' Path="/Values/Trader/Progression/EarlyGame/MaxItemsToOffer">
         <MaxItemsToOffer>5</MaxItemsToOffer>
     </ModOp>
-    <ModOp Type="replace" GUID='73,76,29,78,46,45,77,237' Path="/Values/Trader/Progression/EarlyMidGame/MaxItemsToOffer">
+    <ModOp Type="replace" GUID='73,29,78,46,45,77,237' Path="/Values/Trader/Progression/EarlyMidGame/MaxItemsToOffer">
         <MaxItemsToOffer>6</MaxItemsToOffer>
     </ModOp>
     <ModOp Type="replace" GUID='73,76,29,78,46,45,77,237' Path="/Values/Trader/Progression/MidGame/MaxItemsToOffer">

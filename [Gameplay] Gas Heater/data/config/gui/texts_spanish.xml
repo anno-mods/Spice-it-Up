@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857100</GUID>
+      <Text>Estufa</Text>
+    </Text>
+    <Text>
+      <GUID>8857102</GUID>
+      <Text>Calefacción de gas</Text>
+    </Text>
+  </ModOp>
+</ModOps>

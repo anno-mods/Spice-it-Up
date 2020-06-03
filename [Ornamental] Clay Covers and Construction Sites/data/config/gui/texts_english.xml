@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Clay Cover (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Constructionsite I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Constructionsite II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Oil Cover (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>Clay Cover (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Constructionsite I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Constructionsite II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Oil Cover (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>Construction sites and covers</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>Construction sites and covers</Text>
+    </Text>
+  </ModOp>
+</ModOps>

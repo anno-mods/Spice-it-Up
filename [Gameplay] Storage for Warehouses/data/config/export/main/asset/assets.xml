@@ -1,0 +1,16 @@
+<ModOps>
+	<!-- Increases the Storagelimit per Island in incremeansts of 5t -->
+	<ModOp Type="replace" GUID='1010371' Path="/Values/Warehouse/WarehouseStorage/StorageMax">
+		<StorageMax>5</StorageMax>
+	</ModOp>
+	<ModOp Type="replace" GUID='100516' Path="/Values/Warehouse/WarehouseStorage/StorageMax">
+		<StorageMax>10</StorageMax>
+	</ModOp>
+	<ModOp Type="replace" GUID='100517' Path="/Values/Warehouse/WarehouseStorage/StorageMax">
+		<StorageMax>15</StorageMax>
+	</ModOp>
+	<ModOp Type="replace" GUID='269869' Path="/Values/Warehouse/WarehouseStorage/StorageMax">
+		<StorageMax>20</StorageMax>
+	</ModOp>
+</ModOps>
+

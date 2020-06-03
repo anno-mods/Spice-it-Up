@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Zasłona wizualna na glinę</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Plac budowy I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Plac budowy II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Zasłona wizualna na ropę</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>Zasłona wizualna na glinę</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Plac budowy I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Plac budowy II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Zasłona wizualna na ropę</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>Place budowy i przykrywki</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>Place budowy i przykrywki</Text>
+    </Text>
+  </ModOp>
+</ModOps>

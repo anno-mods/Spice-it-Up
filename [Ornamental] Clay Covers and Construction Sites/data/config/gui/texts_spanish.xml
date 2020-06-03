@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Cubierta de cantera de arcilla (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Sitio de construcción I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Sitio de construcción II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Cubierta de pozo de petróleo (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>Cubierta de cantera de arcilla (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Sitio de construcción I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Sitio de construcción II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Cubierta de pozo de petróleo (Visual)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>Sitios de construcción y cubiertas</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>Sitios de construcción y cubiertas</Text>
+    </Text>
+  </ModOp>
+</ModOps>

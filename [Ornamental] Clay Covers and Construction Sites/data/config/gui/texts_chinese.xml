@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>粘土地面(外观)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>工地 1</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>工地 2</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>沥青地面(外观)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>粘土地面(外观)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>工地 1</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>工地 2</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>沥青地面(外观)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>建筑工地和地面</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>建筑工地和地面</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -12,16 +12,7 @@
                     <IconFilename>data/graphics/hc/__icons/oil_pier.png</IconFilename>
                     <InfoDescription>8850080</InfoDescription>
                 </Standard>
-                <Text>
-                    <LocaText>
-                        <English>
-                            <Text>Oil Pier</Text>
-                            <Status>Exported</Status>
-                            <ExportCount>1</ExportCount>
-                        </English>
-                    </LocaText>
-                    <LineID>7022</LineID>
-                </Text>
+                <Text />
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>

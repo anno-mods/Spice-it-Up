@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>987000</GUID>
+      <Text>广场 (街道)</Text>
+    </Text>
+    <Text>
+      <GUID>987002</GUID>
+      <Text>简单的空地</Text>
+    </Text>
+  </ModOp>
+</ModOps>

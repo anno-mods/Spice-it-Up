@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857207</GUID>
+      <Text>Recursos variables</Text>
+    </Text>
+    <Text>
+      <GUID>8857200</GUID>
+      <Text>Mina de hierro profunda</Text>
+    </Text>
+    <Text>
+      <GUID>8857203</GUID>
+      <Text>Mina de zinc profunda</Text>
+    </Text>
+    <Text>
+      <GUID>8857204</GUID>
+      <Text>Mina de cobre profunda</Text>
+    </Text>
+    <Text>
+      <GUID>8857201</GUID>
+      <Text>Minas profundas</Text>
+    </Text>
+  </ModOp>
+</ModOps>

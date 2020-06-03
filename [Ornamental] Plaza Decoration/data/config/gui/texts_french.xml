@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8853600</GUID>
+      <Text>Arbre moyen</Text>
+    </Text>
+    <Text>
+      <GUID>8853601</GUID>
+      <Text>Petit arbre</Text>
+    </Text>
+    <Text>
+      <GUID>8853602</GUID>
+      <Text>Buisson</Text>
+    </Text>
+    <Text>
+      <GUID>8853604</GUID>
+      <Text>Grand arbre</Text>
+    </Text>
+    <Text>
+      <GUID>8853605</GUID>
+      <Text>Parterre de fleurs rond</Text>
+    </Text>
+    <Text>
+      <GUID>8853606</GUID>
+      <Text>Parterre de fleurs rectangulaire</Text>
+    </Text>
+  </ModOp>
+</ModOps>

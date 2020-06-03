@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Copertura in argilla (a vista)</Text>
+    </Text>
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Costruzioni I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Costruzioni II</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Copertura dell'olio (a vista)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>Copertura in argilla (a vista)</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Costruzioni I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Costruzioni II</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Copertura dell'olio (a vista)</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>Cantieri e coperture</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>Cantieri e coperture</Text>
+    </Text>
+  </ModOp>
+</ModOps>

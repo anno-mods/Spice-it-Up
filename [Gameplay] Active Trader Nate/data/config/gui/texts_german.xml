@@ -1,10 +1,8 @@
 <ModOps>
-	<ModOp Type="add" Path="/TextExport/Texts">
-		<!-- CategoryDescription -->
-		<Text>
-			<GUID>9002077</GUID>
-			<Text>Flugschiff des alten Nate</Text>
-		</Text>
-	</ModOp>
-	
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>9002077</GUID>
+      <Text>Luftschiff "Nate"</Text>
+    </Text>
+  </ModOp>
 </ModOps>

@@ -1,0 +1,268 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8855001</GUID>
+      <Text>Dépôt de stockage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855002</GUID>
+      <Text>Dépôt de stockage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855004</GUID>
+      <Text>Dépôt de stockage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855008</GUID>
+      <Text>Entrepôt portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855009</GUID>
+      <Text>Entrepôt portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855010</GUID>
+      <Text>Entrepôt portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855014</GUID>
+      <Text>Dépôt moyen</Text>
+    </Text>
+    <Text>
+      <GUID>8855016</GUID>
+      <Text>Petit dépôt</Text>
+    </Text>
+    <Text>
+      <GUID>8855018</GUID>
+      <Text>Petit stockage</Text>
+    </Text>
+    <Text>
+      <GUID>8855005</GUID>
+      <Text>Dépôt de stockage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855006</GUID>
+      <Text>Dépôt de stockage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855011</GUID>
+      <Text>Entrepôt portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855012</GUID>
+      <Text>Entrepôt portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855015</GUID>
+      <Text>Dépôt moyen</Text>
+    </Text>
+    <Text>
+      <GUID>8855017</GUID>
+      <Text>Petit dépôt</Text>
+    </Text>
+    <Text>
+      <GUID>8855019</GUID>
+      <Text>Petit stockage</Text>
+    </Text>
+    <Text>
+      <GUID>901006</GUID>
+      <Text>Phare</Text>
+    </Text>
+    <Text>
+      <GUID>901007</GUID>
+      <Text>Phare</Text>
+    </Text>
+    <Text>
+      <GUID>8855050</GUID>
+      <Text>Service incendies du port</Text>
+    </Text>
+    <Text>
+      <GUID>8855052</GUID>
+      <Text>Département de police du port</Text>
+    </Text>
+    <Text>
+      <GUID>8855054</GUID>
+      <Text>Hôpital du port</Text>
+    </Text>
+    <Text>
+      <GUID>8855051</GUID>
+      <Text>Service incendies du port</Text>
+    </Text>
+    <Text>
+      <GUID>8855053</GUID>
+      <Text>Département de police du port</Text>
+    </Text>
+    <Text>
+      <GUID>8855055</GUID>
+      <Text>Hôpital du port</Text>
+    </Text>
+    <Text>
+      <GUID>978000</GUID>
+      <Text>Rue des quais</Text>
+    </Text>
+    <Text>
+      <GUID>978001</GUID>
+      <Text>Rue des quais</Text>
+    </Text>
+    <Text>
+      <GUID>8855881</GUID>
+      <Text>Entreposage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855882</GUID>
+      <Text>Entreposage portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8856001</GUID>
+      <Text>Résidence de fermiers</Text>
+    </Text>
+    <Text>
+      <GUID>8856002</GUID>
+      <Text>Résidence d'ouvriers</Text>
+    </Text>
+    <Text>
+      <GUID>8856003</GUID>
+      <Text>Résidence d'artisans</Text>
+    </Text>
+    <Text>
+      <GUID>8856004</GUID>
+      <Text>Résidence d'ingénieurs</Text>
+    </Text>
+    <Text>
+      <GUID>8856005</GUID>
+      <Text>Résidence d'investisseurs</Text>
+    </Text>
+    <Text>
+      <GUID>8856006</GUID>
+      <Text>Résidence de journaleros</Text>
+    </Text>
+    <Text>
+      <GUID>8856007</GUID>
+      <Text>Résidence d'obreros</Text>
+    </Text>
+    <Text>
+      <GUID>8856008</GUID>
+      <Text>Marché</Text>
+    </Text>
+    <Text>
+      <GUID>8856009</GUID>
+      <Text>Pub</Text>
+    </Text>
+    <Text>
+      <GUID>8856010</GUID>
+      <Text>Église</Text>
+    </Text>
+    <Text>
+      <GUID>8856011</GUID>
+      <Text>École</Text>
+    </Text>
+    <Text>
+      <GUID>8856012</GUID>
+      <Text>Cabaret</Text>
+    </Text>
+    <Text>
+      <GUID>8856013</GUID>
+      <Text>Université</Text>
+    </Text>
+    <Text>
+      <GUID>8856014</GUID>
+      <Text>Banque</Text>
+    </Text>
+    <Text>
+      <GUID>8856015</GUID>
+      <Text>Club House</Text>
+    </Text>
+    <Text>
+      <GUID>8856016</GUID>
+      <Text>Centrale électrique</Text>
+    </Text>
+    <Text>
+      <GUID>8856020</GUID>
+      <Text>Mairie</Text>
+    </Text>
+    <Text>
+      <GUID>8856017</GUID>
+      <Text>Marché</Text>
+    </Text>
+    <Text>
+      <GUID>8856018</GUID>
+      <Text>Chapelle</Text>
+    </Text>
+    <Text>
+      <GUID>8856019</GUID>
+      <Text>Arène de boxe</Text>
+    </Text>
+    <Text>
+      <GUID>8856021</GUID>
+      <Text>Mairie</Text>
+    </Text>
+    <Text>
+      <GUID>8855888</GUID>
+      <Text>Ville portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855889</GUID>
+      <Text>Ville portuaire</Text>
+    </Text>
+    <Text>
+      <GUID>8855900</GUID>
+      <Text>Grue à vapeur</Text>
+    </Text>
+    <Text>
+      <GUID>8855902</GUID>
+      <Text>Caisses &amp; boîtes</Text>
+    </Text>
+    <Text>
+      <GUID>8855906</GUID>
+      <Text>[AssetData(8855900) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>8855907</GUID>
+      <Text>[AssetData(8855902) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530000</GUID>
+      <Text>[AssetData(1010520) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530001</GUID>
+      <Text>[AssetData(1010521) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530002</GUID>
+      <Text>[AssetData(1010278) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530003</GUID>
+      <Text>[AssetData(1010560) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530004</GUID>
+      <Text>[AssetData(1010310) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530006</GUID>
+      <Text>[AssetData(101262) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530005</GUID>
+      <Text>[AssetData(1010339) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530007</GUID>
+      <Text>[AssetData(101277) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530008</GUID>
+      <Text>[AssetData(100429) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530009</GUID>
+      <Text>[AssetData(102284) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530010</GUID>
+      <Text>[AssetData(101642) Text]</Text>
+    </Text>
+  </ModOp>
+</ModOps>

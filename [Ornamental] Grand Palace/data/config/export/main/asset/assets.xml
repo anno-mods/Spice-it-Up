@@ -173,9 +173,6 @@
                                     </InheritanceMapV2>
                                 </VectorElement>
                             </Item>
-                            <Item>
-                                <Sound>269580</Sound>
-                            </Item>
                         </BuildSuccessful>
                     </ConstructionSounds>
                 </SoundEmitter>
@@ -184,12 +181,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>810</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Attractiveness>150</Attractiveness>
-                    <CultureType>Palace</CultureType>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -319,14 +313,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>90</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -447,14 +436,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>90</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -575,14 +559,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>90</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -703,14 +682,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>90</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -833,14 +807,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>90</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -961,14 +930,9 @@
                 </Locked>
                 <FeedbackController />
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>90</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>
@@ -1098,14 +1062,9 @@
                     <IgnoreIncidents>1</IgnoreIncidents>
                 </FeedbackController>
                 <Ornament>
-                    <OrnamentUnit>0</OrnamentUnit>
+                    <OrnamentUnit>400</OrnamentUnit>
                 </Ornament>
-                <Culture>
-                    <Culture>
-                        <Attractiveness>15</Attractiveness>
-                        <CultureType>Palace</CultureType>
-                    </Culture>
-                </Culture>
+                <Culture />
                 <AmbientMoodProvider>
                     <Murmur>Palace</Murmur>
                 </AmbientMoodProvider>

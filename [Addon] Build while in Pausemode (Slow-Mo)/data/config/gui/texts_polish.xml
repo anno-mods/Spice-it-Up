@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>90001</GUID>
+      <Text>Przełącz aktywną pauzę</Text>
+    </Text>
+  </ModOp>
+</ModOps>

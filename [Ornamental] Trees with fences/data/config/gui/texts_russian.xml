@@ -1,0 +1,364 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902000</GUID>
+      <Text>Трава I</Text>
+    </Text>
+    <Text>
+      <GUID>902001</GUID>
+      <Text>Кустарник I</Text>
+    </Text>
+    <Text>
+      <GUID>902002</GUID>
+      <Text>Взрослый кустарник I</Text>
+    </Text>
+    <Text>
+      <GUID>902003</GUID>
+      <Text>Взрослое дерево I</Text>
+    </Text>
+    <Text>
+      <GUID>902004</GUID>
+      <Text>Яблоня I</Text>
+    </Text>
+    <Text>
+      <GUID>902005</GUID>
+      <Text>Колодец I</Text>
+    </Text>
+    <Text>
+      <GUID>902006</GUID>
+      <Text>Трава II</Text>
+    </Text>
+    <Text>
+      <GUID>902007</GUID>
+      <Text>Кустарник II</Text>
+    </Text>
+    <Text>
+      <GUID>902008</GUID>
+      <Text>Взрослый кустарник II</Text>
+    </Text>
+    <Text>
+      <GUID>902009</GUID>
+      <Text>Взрослое дерево II</Text>
+    </Text>
+    <Text>
+      <GUID>902010</GUID>
+      <Text>Яблоня II</Text>
+    </Text>
+    <Text>
+      <GUID>902011</GUID>
+      <Text>Колодец II</Text>
+    </Text>
+    <Text>
+      <GUID>902012</GUID>
+      <Text>Трава III</Text>
+    </Text>
+    <Text>
+      <GUID>902013</GUID>
+      <Text>Кустарник III</Text>
+    </Text>
+    <Text>
+      <GUID>902014</GUID>
+      <Text>Взрослый кустарник III</Text>
+    </Text>
+    <Text>
+      <GUID>902015</GUID>
+      <Text>Взрослое дерево III</Text>
+    </Text>
+    <Text>
+      <GUID>902016</GUID>
+      <Text>Яблоня III</Text>
+    </Text>
+    <Text>
+      <GUID>902017</GUID>
+      <Text>Колодец III</Text>
+    </Text>
+    <Text>
+      <GUID>902018</GUID>
+      <Text>Средняя Роща I</Text>
+    </Text>
+    <Text>
+      <GUID>902019</GUID>
+      <Text>Маленькое дерево I</Text>
+    </Text>
+    <Text>
+      <GUID>902020</GUID>
+      <Text>Тополиная РощаI</Text>
+    </Text>
+    <Text>
+      <GUID>902021</GUID>
+      <Text>Тополь I</Text>
+    </Text>
+    <Text>
+      <GUID>902022</GUID>
+      <Text>ЦветникI</Text>
+    </Text>
+    <Text>
+      <GUID>902023</GUID>
+      <Text>Водопой I</Text>
+    </Text>
+    <Text>
+      <GUID>902024</GUID>
+      <Text>Дрожащая ОсинаI</Text>
+    </Text>
+    <Text>
+      <GUID>902025</GUID>
+      <Text>Дерево Карагач I</Text>
+    </Text>
+    <Text>
+      <GUID>902026</GUID>
+      <Text>Средняя роща II</Text>
+    </Text>
+    <Text>
+      <GUID>902027</GUID>
+      <Text>Маленькое дерево II</Text>
+    </Text>
+    <Text>
+      <GUID>902028</GUID>
+      <Text>Тополиная роща II</Text>
+    </Text>
+    <Text>
+      <GUID>902029</GUID>
+      <Text>Тополь II</Text>
+    </Text>
+    <Text>
+      <GUID>902030</GUID>
+      <Text>Цветник II</Text>
+    </Text>
+    <Text>
+      <GUID>902031</GUID>
+      <Text>Водопой II</Text>
+    </Text>
+    <Text>
+      <GUID>902032</GUID>
+      <Text>Дрожащая осина II</Text>
+    </Text>
+    <Text>
+      <GUID>902033</GUID>
+      <Text>Дерево Карагач II</Text>
+    </Text>
+    <Text>
+      <GUID>902034</GUID>
+      <Text>Средняя роща III</Text>
+    </Text>
+    <Text>
+      <GUID>902035</GUID>
+      <Text>Маленькое дерево III</Text>
+    </Text>
+    <Text>
+      <GUID>902036</GUID>
+      <Text>Тополиная роща III</Text>
+    </Text>
+    <Text>
+      <GUID>902037</GUID>
+      <Text>Тополь III</Text>
+    </Text>
+    <Text>
+      <GUID>902038</GUID>
+      <Text>Цветник III</Text>
+    </Text>
+    <Text>
+      <GUID>902039</GUID>
+      <Text>Водопой III</Text>
+    </Text>
+    <Text>
+      <GUID>902040</GUID>
+      <Text>Дрожащая осина III</Text>
+    </Text>
+    <Text>
+      <GUID>902041</GUID>
+      <Text>Дерево Карагач III</Text>
+    </Text>
+    <Text>
+      <GUID>902042</GUID>
+      <Text>Кипарисс I</Text>
+    </Text>
+    <Text>
+      <GUID>902043</GUID>
+      <Text>Высокий Кипарисс I</Text>
+    </Text>
+    <Text>
+      <GUID>902044</GUID>
+      <Text>Кипарисс II</Text>
+    </Text>
+    <Text>
+      <GUID>902045</GUID>
+      <Text>Высокий Кипарисс II</Text>
+    </Text>
+    <Text>
+      <GUID>902046</GUID>
+      <Text>Кипарисс III</Text>
+    </Text>
+    <Text>
+      <GUID>902047</GUID>
+      <Text>Высокий Кипарисс III</Text>
+    </Text>
+    <Text>
+      <GUID>902048</GUID>
+      <Text>Трава I</Text>
+    </Text>
+    <Text>
+      <GUID>902049</GUID>
+      <Text>Филодендрон I</Text>
+    </Text>
+    <Text>
+      <GUID>902050</GUID>
+      <Text>Маленькое дерево I</Text>
+    </Text>
+    <Text>
+      <GUID>902051</GUID>
+      <Text>Папоротники I</Text>
+    </Text>
+    <Text>
+      <GUID>902052</GUID>
+      <Text>Куст I</Text>
+    </Text>
+    <Text>
+      <GUID>902053</GUID>
+      <Text>Кустарник I</Text>
+    </Text>
+    <Text>
+      <GUID>902054</GUID>
+      <Text>Маленькая Пальма I</Text>
+    </Text>
+    <Text>
+      <GUID>902055</GUID>
+      <Text>Пальма I</Text>
+    </Text>
+    <Text>
+      <GUID>902056</GUID>
+      <Text>Колодец I</Text>
+    </Text>
+    <Text>
+      <GUID>902057</GUID>
+      <Text>Трава II</Text>
+    </Text>
+    <Text>
+      <GUID>902058</GUID>
+      <Text>Филодендрон II</Text>
+    </Text>
+    <Text>
+      <GUID>902059</GUID>
+      <Text>Маленькое дерево II</Text>
+    </Text>
+    <Text>
+      <GUID>902060</GUID>
+      <Text>Папоротники II</Text>
+    </Text>
+    <Text>
+      <GUID>902061</GUID>
+      <Text>Куст II</Text>
+    </Text>
+    <Text>
+      <GUID>902062</GUID>
+      <Text>Кустарник II</Text>
+    </Text>
+    <Text>
+      <GUID>902063</GUID>
+      <Text>Маленькая пальма II</Text>
+    </Text>
+    <Text>
+      <GUID>902064</GUID>
+      <Text>Пальма II</Text>
+    </Text>
+    <Text>
+      <GUID>902065</GUID>
+      <Text>Колодец II</Text>
+    </Text>
+    <Text>
+      <GUID>902066</GUID>
+      <Text>Трава III</Text>
+    </Text>
+    <Text>
+      <GUID>902067</GUID>
+      <Text>Филодендрон III</Text>
+    </Text>
+    <Text>
+      <GUID>902068</GUID>
+      <Text>Маленькое дерево III</Text>
+    </Text>
+    <Text>
+      <GUID>902069</GUID>
+      <Text>Папоротники III</Text>
+    </Text>
+    <Text>
+      <GUID>902070</GUID>
+      <Text>Куст III</Text>
+    </Text>
+    <Text>
+      <GUID>902071</GUID>
+      <Text>Кустарник III</Text>
+    </Text>
+    <Text>
+      <GUID>902072</GUID>
+      <Text>Маленькая пальма III</Text>
+    </Text>
+    <Text>
+      <GUID>902073</GUID>
+      <Text>Пальма III</Text>
+    </Text>
+    <Text>
+      <GUID>902074</GUID>
+      <Text>Колодец III</Text>
+    </Text>
+    <Text>
+      <GUID>902075</GUID>
+      <Text>Тропический лес I</Text>
+    </Text>
+    <Text>
+      <GUID>902076</GUID>
+      <Text>Цветущий кустарник I</Text>
+    </Text>
+    <Text>
+      <GUID>902077</GUID>
+      <Text>Водопой I</Text>
+    </Text>
+    <Text>
+      <GUID>902078</GUID>
+      <Text>Тропический лес II</Text>
+    </Text>
+    <Text>
+      <GUID>902079</GUID>
+      <Text>Цветущий кустарник II</Text>
+    </Text>
+    <Text>
+      <GUID>902080</GUID>
+      <Text>Водопой II</Text>
+    </Text>
+    <Text>
+      <GUID>902081</GUID>
+      <Text>Тропический лес III</Text>
+    </Text>
+    <Text>
+      <GUID>902082</GUID>
+      <Text>Цветущий кустарник III</Text>
+    </Text>
+    <Text>
+      <GUID>902083</GUID>
+      <Text>Водопой III</Text>
+    </Text>
+    <Text>
+      <GUID>902099</GUID>
+      <Text>Фермерские заборы</Text>
+    </Text>
+    <Text>
+      <GUID>902100</GUID>
+      <Text>Заборы рабочих</Text>
+    </Text>
+    <Text>
+      <GUID>902101</GUID>
+      <Text>Заборы инженеров</Text>
+    </Text>
+    <Text>
+      <GUID>902102</GUID>
+      <Text>Заборы хорналеро I</Text>
+    </Text>
+    <Text>
+      <GUID>902103</GUID>
+      <Text>Заборы хорналеро II</Text>
+    </Text>
+    <Text>
+      <GUID>902104</GUID>
+      <Text>Заборы обреро</Text>
+    </Text>
+  </ModOp>
+</ModOps>

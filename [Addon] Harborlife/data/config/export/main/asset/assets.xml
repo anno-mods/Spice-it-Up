@@ -9757,7 +9757,7 @@
             <Template>Trigger</Template>
             <Values>
                 <Standard>
-                    <GUID>99334153</GUID>
+                    <GUID>99334168</GUID>
                     <Name>Trigger 300 Obrero</Name>
                     <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
                 </Standard>
@@ -9783,6 +9783,9 @@
                                         <UnlockAssets>
                                             <Item>
                                                 <Asset>8856006</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>8856007</Asset>
                                             </Item>
                                             <Item>
                                                 <Asset>8856017</Asset>

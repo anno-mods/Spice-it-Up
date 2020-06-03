@@ -1,0 +1,364 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902000</GUID>
+      <Text>Gras I</Text>
+    </Text>
+    <Text>
+      <GUID>902001</GUID>
+      <Text>Gebüsch I</Text>
+    </Text>
+    <Text>
+      <GUID>902002</GUID>
+      <Text>Großes Gebüsch I</Text>
+    </Text>
+    <Text>
+      <GUID>902003</GUID>
+      <Text>Großer Baum I</Text>
+    </Text>
+    <Text>
+      <GUID>902004</GUID>
+      <Text>Apfelbaum I</Text>
+    </Text>
+    <Text>
+      <GUID>902005</GUID>
+      <Text>Brunnen I</Text>
+    </Text>
+    <Text>
+      <GUID>902006</GUID>
+      <Text>Gras II</Text>
+    </Text>
+    <Text>
+      <GUID>902007</GUID>
+      <Text>Gebüsch II</Text>
+    </Text>
+    <Text>
+      <GUID>902008</GUID>
+      <Text>Großes Gebüsch II</Text>
+    </Text>
+    <Text>
+      <GUID>902009</GUID>
+      <Text>Großer Baum II</Text>
+    </Text>
+    <Text>
+      <GUID>902010</GUID>
+      <Text>Apfelbaum II</Text>
+    </Text>
+    <Text>
+      <GUID>902011</GUID>
+      <Text>Brunnen II</Text>
+    </Text>
+    <Text>
+      <GUID>902012</GUID>
+      <Text>Gras III</Text>
+    </Text>
+    <Text>
+      <GUID>902013</GUID>
+      <Text>Gebüsch III</Text>
+    </Text>
+    <Text>
+      <GUID>902014</GUID>
+      <Text>Großes Gebüsch III</Text>
+    </Text>
+    <Text>
+      <GUID>902015</GUID>
+      <Text>Großer Baum III</Text>
+    </Text>
+    <Text>
+      <GUID>902016</GUID>
+      <Text>Apfelbaum III</Text>
+    </Text>
+    <Text>
+      <GUID>902017</GUID>
+      <Text>Brunnen III</Text>
+    </Text>
+    <Text>
+      <GUID>902018</GUID>
+      <Text>Laubbaum I</Text>
+    </Text>
+    <Text>
+      <GUID>902019</GUID>
+      <Text>Kleiner Baum I</Text>
+    </Text>
+    <Text>
+      <GUID>902020</GUID>
+      <Text>Pappel I</Text>
+    </Text>
+    <Text>
+      <GUID>902021</GUID>
+      <Text>Pappel Allee I</Text>
+    </Text>
+    <Text>
+      <GUID>902022</GUID>
+      <Text>Blumenbeet I</Text>
+    </Text>
+    <Text>
+      <GUID>902023</GUID>
+      <Text>Alte Tränke I</Text>
+    </Text>
+    <Text>
+      <GUID>902024</GUID>
+      <Text>Zitterpappel I</Text>
+    </Text>
+    <Text>
+      <GUID>902025</GUID>
+      <Text>Ulme I</Text>
+    </Text>
+    <Text>
+      <GUID>902026</GUID>
+      <Text>Laubbaum II</Text>
+    </Text>
+    <Text>
+      <GUID>902027</GUID>
+      <Text>Kleiner Baum II</Text>
+    </Text>
+    <Text>
+      <GUID>902028</GUID>
+      <Text>Pappel II</Text>
+    </Text>
+    <Text>
+      <GUID>902029</GUID>
+      <Text>Pappel Allee II</Text>
+    </Text>
+    <Text>
+      <GUID>902030</GUID>
+      <Text>Blumenbeet II</Text>
+    </Text>
+    <Text>
+      <GUID>902031</GUID>
+      <Text>Alte Tränke II</Text>
+    </Text>
+    <Text>
+      <GUID>902032</GUID>
+      <Text>Zitterpappel II</Text>
+    </Text>
+    <Text>
+      <GUID>902033</GUID>
+      <Text>Ulme II</Text>
+    </Text>
+    <Text>
+      <GUID>902034</GUID>
+      <Text>Laubbaum III</Text>
+    </Text>
+    <Text>
+      <GUID>902035</GUID>
+      <Text>Kleiner Baum III</Text>
+    </Text>
+    <Text>
+      <GUID>902036</GUID>
+      <Text>Pappel III</Text>
+    </Text>
+    <Text>
+      <GUID>902037</GUID>
+      <Text>Pappel Allee III</Text>
+    </Text>
+    <Text>
+      <GUID>902038</GUID>
+      <Text>Blumenbeet III</Text>
+    </Text>
+    <Text>
+      <GUID>902039</GUID>
+      <Text>Alte Tränke III</Text>
+    </Text>
+    <Text>
+      <GUID>902040</GUID>
+      <Text>Zitterpappel III</Text>
+    </Text>
+    <Text>
+      <GUID>902041</GUID>
+      <Text>Ulme III</Text>
+    </Text>
+    <Text>
+      <GUID>902042</GUID>
+      <Text>Zypresse I</Text>
+    </Text>
+    <Text>
+      <GUID>902043</GUID>
+      <Text>Große Zypresse I</Text>
+    </Text>
+    <Text>
+      <GUID>902044</GUID>
+      <Text>Zypresse II</Text>
+    </Text>
+    <Text>
+      <GUID>902045</GUID>
+      <Text>Große Zypresse II</Text>
+    </Text>
+    <Text>
+      <GUID>902046</GUID>
+      <Text>Zypresse III</Text>
+    </Text>
+    <Text>
+      <GUID>902047</GUID>
+      <Text>Große Zypresse III</Text>
+    </Text>
+    <Text>
+      <GUID>902048</GUID>
+      <Text>Gras I</Text>
+    </Text>
+    <Text>
+      <GUID>902049</GUID>
+      <Text>Philodendron I</Text>
+    </Text>
+    <Text>
+      <GUID>902050</GUID>
+      <Text>Kleiner Baum I</Text>
+    </Text>
+    <Text>
+      <GUID>902051</GUID>
+      <Text>Farn I</Text>
+    </Text>
+    <Text>
+      <GUID>902052</GUID>
+      <Text>Busch I</Text>
+    </Text>
+    <Text>
+      <GUID>902053</GUID>
+      <Text>Staude I</Text>
+    </Text>
+    <Text>
+      <GUID>902054</GUID>
+      <Text>Kleine Palme I</Text>
+    </Text>
+    <Text>
+      <GUID>902055</GUID>
+      <Text>Palme I</Text>
+    </Text>
+    <Text>
+      <GUID>902056</GUID>
+      <Text>Brunnen I</Text>
+    </Text>
+    <Text>
+      <GUID>902057</GUID>
+      <Text>Gras II</Text>
+    </Text>
+    <Text>
+      <GUID>902058</GUID>
+      <Text>Philodendron II</Text>
+    </Text>
+    <Text>
+      <GUID>902059</GUID>
+      <Text>Kleiner Baum II</Text>
+    </Text>
+    <Text>
+      <GUID>902060</GUID>
+      <Text>Farn II</Text>
+    </Text>
+    <Text>
+      <GUID>902061</GUID>
+      <Text>Busch II</Text>
+    </Text>
+    <Text>
+      <GUID>902062</GUID>
+      <Text>Staude II</Text>
+    </Text>
+    <Text>
+      <GUID>902063</GUID>
+      <Text>Kleine Palme II</Text>
+    </Text>
+    <Text>
+      <GUID>902064</GUID>
+      <Text>Palme II</Text>
+    </Text>
+    <Text>
+      <GUID>902065</GUID>
+      <Text>Brunnen II</Text>
+    </Text>
+    <Text>
+      <GUID>902066</GUID>
+      <Text>Gras III</Text>
+    </Text>
+    <Text>
+      <GUID>902067</GUID>
+      <Text>Philodendron III</Text>
+    </Text>
+    <Text>
+      <GUID>902068</GUID>
+      <Text>Kleiner Baum III</Text>
+    </Text>
+    <Text>
+      <GUID>902069</GUID>
+      <Text>Farn III</Text>
+    </Text>
+    <Text>
+      <GUID>902070</GUID>
+      <Text>Busch III</Text>
+    </Text>
+    <Text>
+      <GUID>902071</GUID>
+      <Text>Staude III</Text>
+    </Text>
+    <Text>
+      <GUID>902072</GUID>
+      <Text>Kleine Palme III</Text>
+    </Text>
+    <Text>
+      <GUID>902073</GUID>
+      <Text>Palme III</Text>
+    </Text>
+    <Text>
+      <GUID>902074</GUID>
+      <Text>Brunnen III</Text>
+    </Text>
+    <Text>
+      <GUID>902075</GUID>
+      <Text>Regenwald I</Text>
+    </Text>
+    <Text>
+      <GUID>902076</GUID>
+      <Text>Bühende Staude I</Text>
+    </Text>
+    <Text>
+      <GUID>902077</GUID>
+      <Text>Bewässerungsloch I</Text>
+    </Text>
+    <Text>
+      <GUID>902078</GUID>
+      <Text>Regenwald II</Text>
+    </Text>
+    <Text>
+      <GUID>902079</GUID>
+      <Text>Blühende Staude II</Text>
+    </Text>
+    <Text>
+      <GUID>902080</GUID>
+      <Text>Bewässerungsloch II</Text>
+    </Text>
+    <Text>
+      <GUID>902081</GUID>
+      <Text>Regenwald III</Text>
+    </Text>
+    <Text>
+      <GUID>902082</GUID>
+      <Text>Blühende Staude III</Text>
+    </Text>
+    <Text>
+      <GUID>902083</GUID>
+      <Text>Bewässerungsloch III</Text>
+    </Text>
+    <Text>
+      <GUID>902099</GUID>
+      <Text>Bauern Zäune</Text>
+    </Text>
+    <Text>
+      <GUID>902100</GUID>
+      <Text>Arbeiter Zäune</Text>
+    </Text>
+    <Text>
+      <GUID>902101</GUID>
+      <Text>Ingeneurs Zäune</Text>
+    </Text>
+    <Text>
+      <GUID>902102</GUID>
+      <Text>Jornalero Zäune I</Text>
+    </Text>
+    <Text>
+      <GUID>902103</GUID>
+      <Text>Jornalero Zäune II</Text>
+    </Text>
+    <Text>
+      <GUID>902104</GUID>
+      <Text>Obrero Zäune</Text>
+    </Text>
+  </ModOp>
+</ModOps>

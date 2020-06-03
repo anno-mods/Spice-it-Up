@@ -1,79 +1,81 @@
 <ModOps>
-    <ModOp Type="replace" Path="/">
-<Normal>
-	<Presets>
-		<Preset ID="-5" Height="1" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.7" ExtendedZoom="false" />
-		<Preset ID="-4" Height="2.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.69" ExtendedZoom="false" />
-		<Preset ID="-3" Height="5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.68" ExtendedZoom="false" />
-		<Preset ID="-2" Height="7.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.675" ExtendedZoom="false" />
-		<Preset ID="-1" Height="10" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.675" ExtendedZoom="false" />
-		<Preset ID="0" Height="12.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.65" ExtendedZoom="false"/>
-		<Preset ID="1" Height="15" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.625" ExtendedZoom="false"/>
-		<Preset ID="2" Height="17.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.62" ExtendedZoom="false"/>
-		<Preset ID="3" Height="20" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.61" ExtendedZoom="false"/>
-		<Preset ID="4" Height="25" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.60" ExtendedZoom="false"/>
-		<Preset ID="5" Height="30" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.59" ExtendedZoom="false"/>
-		<Preset ID="6" Height="35" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.58" ExtendedZoom="false"/>
-		<Preset ID="7" Height="40" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.57" ExtendedZoom="false"/>
-		<Preset ID="8" Height="50" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.56" ExtendedZoom="false"/>
-		<Preset ID="9" Height="60" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.55" ExtendedZoom="false"/>
-		<Preset ID="10" Height="75" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.54" ExtendedZoom="false"/>
-		<Preset ID="11" Height="90" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.53" ExtendedZoom="false"/>
-		<Preset ID="12" Height="105" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.52" ExtendedZoom="false"/>
-		<Preset ID="13" Height="120" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.51" ExtendedZoom="false"/>
-		<Preset ID="14" Height="135" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.50" ExtendedZoom="false"/>
-		<Preset ID="15" Height="155" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.49" ExtendedZoom="true"/>
-		<Preset ID="16" Height="175" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.48" ExtendedZoom="true"/>
-		<Preset ID="17" Height="195" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.47" ExtendedZoom="true"/>
-		<Preset ID="18" Height="215" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		<Preset ID="19" Height="245" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		<Preset ID="20" Height="275" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		<Preset ID="21" Height="290" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		<Preset ID="22" Height="315" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		<Preset ID="23" Height="340" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		<Preset ID="24" Height="370" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
-		</Presets>
+	<ModOp Type="replace" Path="/">
+		<Normal>
+			<Presets>
+				<Preset ID="-5" Height="1" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.7" ExtendedZoom="false" />
+				<Preset ID="-4" Height="2.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.69" ExtendedZoom="false" />
+				<Preset ID="-3" Height="5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.68" ExtendedZoom="false" />
+				<Preset ID="-2" Height="7.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.675" ExtendedZoom="false" />
+				<Preset ID="-1" Height="10" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.675" ExtendedZoom="false" />
+				<Preset ID="0" Height="12.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.65" ExtendedZoom="false"/>
+				<Preset ID="1" Height="15" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.625" ExtendedZoom="false"/>
+				<Preset ID="2" Height="17.5" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.62" ExtendedZoom="false"/>
+				<Preset ID="3" Height="20" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.61" ExtendedZoom="false"/>
+				<Preset ID="4" Height="25" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.60" ExtendedZoom="false"/>
+				<Preset ID="5" Height="30" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.59" ExtendedZoom="false"/>
+				<Preset ID="6" Height="35" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.58" ExtendedZoom="false"/>
+				<Preset ID="7" Height="40" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.57" ExtendedZoom="false"/>
+				<Preset ID="8" Height="50" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.56" ExtendedZoom="false"/>
+				<Preset ID="9" Height="60" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.55" ExtendedZoom="false"/>
+				<Preset ID="10" Height="75" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.54" ExtendedZoom="false"/>
+				<Preset ID="11" Height="90" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.53" ExtendedZoom="false"/>
+				<Preset ID="12" Height="105" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.52" ExtendedZoom="false"/>
+				<Preset ID="13" Height="120" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.51" ExtendedZoom="false"/>
+				<Preset ID="14" Height="135" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.50" ExtendedZoom="false"/>
+				<Preset ID="15" Height="155" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.49" ExtendedZoom="true"/>
+				<Preset ID="16" Height="175" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.48" ExtendedZoom="true"/>
+				<Preset ID="17" Height="195" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.47" ExtendedZoom="true"/>
+				<Preset ID="18" Height="215" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="19" Height="245" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="20" Height="275" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="21" Height="290" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="22" Height="315" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="23" Height="340" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="24" Height="370" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="25" Height="400" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+				<Preset ID="26" Height="430" Pitch="0.875" MinPitch="-0.375" MaxPitch="1.40" Fov="0.46" ExtendedZoom="true"/>
+			</Presets>
 
-	<Settings 
-		MinZoomPreset="-5"            
-		MaxZoomPreset="24"
-		DefaultPreset="9"
-		ZoomDuration="400"
-		ZoomSensivity="1"
-		MouseRotSpeed="0.1"
-		MinFromHeight="5.0"
-		MinTerrainDistance="2.0"
-		DriftFriction="4.0"
-		DriftAmplifier="4.0"
-		DriftDurationFactor="10.0"
-		DriftEpsilon="0.01"
-		HeightSoftness="0.3">
-	</Settings>
-</Normal>
+			<Settings
+				MinZoomPreset="-5"
+				MaxZoomPreset="26"
+				DefaultPreset="9"
+				ZoomDuration="400"
+				ZoomSensivity="1"
+				MouseRotSpeed="0.1"
+				MinFromHeight="5.0"
+				MinTerrainDistance="2.0"
+				DriftFriction="4.0"
+				DriftAmplifier="4.0"
+				DriftDurationFactor="10.0"
+				DriftEpsilon="0.01"
+				HeightSoftness="0.3">
+			</Settings>
+		</Normal>
 
-<Simple>
-	<Presets>
-		<Preset ID="1" Height="15" Pitch="0.65" MinPitch="0.65" MaxPitch="0.65" Fov="0.625" ExtendedZoom="false"/>
-		<Preset ID="2" Height="60" Pitch="0.875" MinPitch="0.875" MaxPitch="0.875" Fov="0.55" ExtendedZoom="false"/>
-		<Preset ID="3" Height="135" Pitch="1.075" MinPitch="1.075" MaxPitch="1.075" Fov="0.50" ExtendedZoom="false"/>
-		<Preset ID="4" Height="215" Pitch="1.075" MinPitch="1.075" MaxPitch="1.075" Fov="0.46" ExtendedZoom="true"/>
-	</Presets>
+		<Simple>
+			<Presets>
+				<Preset ID="1" Height="15" Pitch="0.65" MinPitch="0.65" MaxPitch="0.65" Fov="0.625" ExtendedZoom="false"/>
+				<Preset ID="2" Height="60" Pitch="0.875" MinPitch="0.875" MaxPitch="0.875" Fov="0.55" ExtendedZoom="false"/>
+				<Preset ID="3" Height="135" Pitch="1.075" MinPitch="1.075" MaxPitch="1.075" Fov="0.50" ExtendedZoom="false"/>
+				<Preset ID="4" Height="215" Pitch="1.075" MinPitch="1.075" MaxPitch="1.075" Fov="0.46" ExtendedZoom="true"/>
+			</Presets>
 
-	<Settings 
-		MinZoomPreset="1"            
-		MaxZoomPreset="4"
-		DefaultPreset="2"
-		ZoomDuration="400"
-		ZoomSensivity="1"
-		MouseRotSpeed="0.1"
-		MinFromHeight="1.0"
-		MinTerrainDistance="2.0"
-		DriftFriction="4.0"
-		DriftAmplifier="4.0"
-		DriftDurationFactor="10.0"
-		DriftEpsilon="0.01"
-		HeightSoftness="0.3">
-	</Settings>
-</Simple>
-    </ModOp>
+			<Settings
+				MinZoomPreset="1"
+				MaxZoomPreset="4"
+				DefaultPreset="2"
+				ZoomDuration="400"
+				ZoomSensivity="1"
+				MouseRotSpeed="0.1"
+				MinFromHeight="1.0"
+				MinTerrainDistance="2.0"
+				DriftFriction="4.0"
+				DriftAmplifier="4.0"
+				DriftDurationFactor="10.0"
+				DriftEpsilon="0.01"
+				HeightSoftness="0.3">
+			</Settings>
+		</Simple>
+	</ModOp>
 </ModOps>

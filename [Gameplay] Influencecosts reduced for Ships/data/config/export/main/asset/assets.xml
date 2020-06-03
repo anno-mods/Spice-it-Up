@@ -1,105 +1,48 @@
 <ModOps>
     <!-- Influence cost reduction by 50% for all Ships -->
-    <ModOp Type="merge" GUID='1010523' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100438' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>1</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='1010524' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100437' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>2</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='100438' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>1</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='100437' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>2</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='100440' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100440' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>8</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='100439' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100439' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>4</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='100441' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100441' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>2</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='100442' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100442' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>12</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='100443' Path="/Values/Cost/InfluenceCostPoints">>
+    <ModOp Type="replace" GUID='100443' Path="/Values/Cost/InfluenceCostPoints">>
         <InfluenceCostPoints>6</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='1010062' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='1010062' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>3</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='100853' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='100853' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>5</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='101362' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>3</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101363' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>3</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101364' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>4</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101365' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>8</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101366' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>4</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101368' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='102425' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>12</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='101369' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>6</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101370' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>6</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101372' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>10</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101373' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>20</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101919' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>3</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101920' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>3</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101921' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>4</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101922' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>8</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101923' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>4</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101929' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>12</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101930' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>6</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101931' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>6</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101932' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>10</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='101997' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>4</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='102425' Path="/Values/Cost/InfluenceCostPoints">
-        <InfluenceCostPoints>12</InfluenceCostPoints>
-    </ModOp>
-    <ModOp Type="merge" GUID='102428' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='102428' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>9</InfluenceCostPoints>
     </ModOp>
-    <ModOp Type="merge" GUID='102455' Path="/Values/Cost/InfluenceCostPoints">
+    <ModOp Type="replace" GUID='102455' Path="/Values/Cost/InfluenceCostPoints">
         <InfluenceCostPoints>6</InfluenceCostPoints>
+    </ModOp>
+    <ModOp Type="replace" GUID='101121' Path="/Values/Cost/InfluenceCostPoints">
+        <InfluenceCostPoints>4</InfluenceCostPoints>
+    </ModOp>
+    <ModOp Type="replace" GUID='118718' Path="/Values/Cost/InfluenceCostPoints">
+        <InfluenceCostPoints>10</InfluenceCostPoints>
+    </ModOp>
+    <ModOp Type="add" GUID='114166' Path="/Values/Cost">
+        <InfluenceCostPoints>4</InfluenceCostPoints>
     </ModOp>
 </ModOps>

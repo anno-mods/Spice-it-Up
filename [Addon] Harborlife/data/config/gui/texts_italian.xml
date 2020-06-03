@@ -1,0 +1,252 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8855001</GUID>
+      <Text>Deposito di stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855002</GUID>
+      <Text>Deposito di stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855004</GUID>
+      <Text>Deposito di stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855008</GUID>
+      <Text>Magazzino del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855009</GUID>
+      <Text>Magazzino del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855010</GUID>
+      <Text>Magazzino del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855014</GUID>
+      <Text>Deposito medio</Text>
+    </Text>
+    <Text>
+      <GUID>8855016</GUID>
+      <Text>Piccolo deposito</Text>
+    </Text>
+    <Text>
+      <GUID>8855018</GUID>
+      <Text>Piccolo deposito</Text>
+    </Text>
+    <Text>
+      <GUID>8855005</GUID>
+      <Text>Deposito di stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855006</GUID>
+      <Text>Deposito di stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855011</GUID>
+      <Text>Magazzino del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855012</GUID>
+      <Text>Magazzino del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855015</GUID>
+      <Text>Deposito medio</Text>
+    </Text>
+    <Text>
+      <GUID>8855017</GUID>
+      <Text>Piccolo deposito</Text>
+    </Text>
+    <Text>
+      <GUID>8855019</GUID>
+      <Text>Piccolo deposito</Text>
+    </Text>
+    <Text>
+      <GUID>901006</GUID>
+      <Text>Faro</Text>
+    </Text>
+    <Text>
+      <GUID>901007</GUID>
+      <Text>Faro</Text>
+    </Text>
+    <Text>
+      <GUID>8855050</GUID>
+      <Text>Vigili del fuoco del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855052</GUID>
+      <Text>Dipartimento di Polizia portuale</Text>
+    </Text>
+    <Text>
+      <GUID>8855054</GUID>
+      <Text>Ospedale del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855051</GUID>
+      <Text>Vigili del fuoco del porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855053</GUID>
+      <Text>Dipartimento di Polizia portuale</Text>
+    </Text>
+    <Text>
+      <GUID>8855055</GUID>
+      <Text>Ospedale del porto</Text>
+    </Text>
+    <Text>
+      <GUID>978000</GUID>
+      <Text>Via (Porto)</Text>
+    </Text>
+    <Text>
+      <GUID>978001</GUID>
+      <Text>Via (Porto)</Text>
+    </Text>
+    <Text>
+      <GUID>8855881</GUID>
+      <Text>Stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8855882</GUID>
+      <Text>Stoccaggio in porto</Text>
+    </Text>
+    <Text>
+      <GUID>8856001</GUID>
+      <Text>Residenza contadina</Text>
+    </Text>
+    <Text>
+      <GUID>8856002</GUID>
+      <Text>Residenza per lavoratori</Text>
+    </Text>
+    <Text>
+      <GUID>8856003</GUID>
+      <Text>Residenza artigianale</Text>
+    </Text>
+    <Text>
+      <GUID>8856004</GUID>
+      <Text>Residenza per ingegneri</Text>
+    </Text>
+    <Text>
+      <GUID>8856005</GUID>
+      <Text>Residenza dell'investitore</Text>
+    </Text>
+    <Text>
+      <GUID>8856006</GUID>
+      <Text>Residenza Jornalero</Text>
+    </Text>
+    <Text>
+      <GUID>8856007</GUID>
+      <Text>Residenza Obrero</Text>
+    </Text>
+    <Text>
+      <GUID>8856008</GUID>
+      <Text>Mercato</Text>
+    </Text>
+    <Text>
+      <GUID>8856009</GUID>
+      <Text>Pub</Text>
+    </Text>
+    <Text>
+      <GUID>8856010</GUID>
+      <Text>Chiesa</Text>
+    </Text>
+    <Text>
+      <GUID>8856011</GUID>
+      <Text>Scuola</Text>
+    </Text>
+    <Text>
+      <GUID>8856012</GUID>
+      <Text>Cabaret</Text>
+    </Text>
+    <Text>
+      <GUID>8856013</GUID>
+      <Text>Università</Text>
+    </Text>
+    <Text>
+      <GUID>8856014</GUID>
+      <Text>Club dei soci</Text>
+    </Text>
+    <Text>
+      <GUID>8856015</GUID>
+      <Text>Banca</Text>
+    </Text>
+    <Text>
+      <GUID>8856016</GUID>
+      <Text>Centrale elettrica</Text>
+    </Text>
+    <Text>
+      <GUID>8856020</GUID>
+      <Text>Municipio</Text>
+    </Text>
+    <Text>
+      <GUID>8856017</GUID>
+      <Text>Mercato</Text>
+    </Text>
+    <Text>
+      <GUID>8856018</GUID>
+      <Text>Cappella</Text>
+    </Text>
+    <Text>
+      <GUID>8856019</GUID>
+      <Text>Arena di pugilato</Text>
+    </Text>
+    <Text>
+      <GUID>8856021</GUID>
+      <Text>Municipio</Text>
+    </Text>
+    <Text>
+      <GUID>8855888</GUID>
+      <Text>Città portuale</Text>
+    </Text>
+    <Text>
+      <GUID>8855889</GUID>
+      <Text>Città portuale</Text>
+    </Text>
+    <Text>
+      <GUID>8855900</GUID>
+      <Text>Gru a vapore</Text>
+    </Text>
+    <Text>
+      <GUID>8855902</GUID>
+      <Text>Casse e scatole</Text>
+    </Text>
+    <Text>
+      <GUID>8855906</GUID>
+      <Text>[AssetData(8855900) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>8855907</GUID>
+      <Text>[AssetData(8855902) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530000</GUID>
+      <Text>[AssetData(1010520) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530001</GUID>
+      <Text>[AssetData(1010521) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530002</GUID>
+      <Text>[AssetData(1010278) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530003</GUID>
+      <Text>[AssetData(1010560) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530004</GUID>
+      <Text>[AssetData(1010310) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530006</GUID>
+      <Text>[AssetData(101262) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>88530005</GUID>
+      <Text>[AssetData(1010339) Text] </Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,4 +1,0 @@
-Japanische Platzhalter-Übersetzung, wer Lust hat, eine anzufertigen, darf dies gerne tun, diese kann im Discord
- (https://discord.gg/FRTuU3q) eingesendet werden. 
-
-Dazu einfach die Textdatei nehmen und alles innerhalb <Text>....</Text> übersetzen (Dabei alles innerhalb von [ ] so lassen wie es ist). 

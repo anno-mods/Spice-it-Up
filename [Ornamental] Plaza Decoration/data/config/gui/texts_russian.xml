@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8853600</GUID>
+      <Text>Дерево</Text>
+    </Text>
+    <Text>
+      <GUID>8853601</GUID>
+      <Text>Маленькое деревце</Text>
+    </Text>
+    <Text>
+      <GUID>8853602</GUID>
+      <Text>Куст</Text>
+    </Text>
+    <Text>
+      <GUID>8853604</GUID>
+      <Text>Большое дерево</Text>
+    </Text>
+    <Text>
+      <GUID>8853605</GUID>
+      <Text>Круглая цветочная клумба</Text>
+    </Text>
+    <Text>
+      <GUID>8853606</GUID>
+      <Text>Прямоугольная клумба</Text>
+    </Text>
+  </ModOp>
+</ModOps>

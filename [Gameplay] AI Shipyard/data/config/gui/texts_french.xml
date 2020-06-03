@@ -1,0 +1,308 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>930100</GUID>
+      <Text>Chantier naval IA</Text>
+    </Text>
+    <Text>
+      <GUID>930099</GUID>
+      <Text>Produit des navires pour les partenaires diplomatiques, qui leur permettent de s'installer dans vos secteurs.</Text>
+    </Text>
+    <Text>
+      <GUID>930000</GUID>
+      <Text>Navire amiral</Text>
+    </Text>
+    <Text>
+      <GUID>930050</GUID>
+      <Text>description du Navire amiral</Text>
+    </Text>
+    <Text>
+      <GUID>930001</GUID>
+      <Text>Bente Jorgensen</Text>
+    </Text>
+    <Text>
+      <GUID>930051</GUID>
+      <Text>Produit un navire pour Bente Jorgensen lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930002</GUID>
+      <Text>Princess Qing</Text>
+    </Text>
+    <Text>
+      <GUID>930052</GUID>
+      <Text>Produit un navire pour Princesse Qing lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930003</GUID>
+      <Text>Willie Wibblesock</Text>
+    </Text>
+    <Text>
+      <GUID>930053</GUID>
+      <Text>Produit un navire pour Willie Wibblesock lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930004</GUID>
+      <Text>George Smith</Text>
+    </Text>
+    <Text>
+      <GUID>930054</GUID>
+      <Text>Produit un navire pour Mr. Smith lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930005</GUID>
+      <Text>Beryl O'Mara</Text>
+    </Text>
+    <Text>
+      <GUID>930055</GUID>
+      <Text>Produit un navire pour Beryl O'Mara lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930006</GUID>
+      <Text>Artur Gasparov</Text>
+    </Text>
+    <Text>
+      <GUID>930056</GUID>
+      <Text>Produit un navire pour Artur Gasparov lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930007</GUID>
+      <Text>Baron von Malching</Text>
+    </Text>
+    <Text>
+      <GUID>930057</GUID>
+      <Text>Produit un navire pour Carl Leonard von Malching lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930008</GUID>
+      <Text>Alonso Graves</Text>
+    </Text>
+    <Text>
+      <GUID>930058</GUID>
+      <Text>Produit un navire pour Alonso Graves lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930009</GUID>
+      <Text>Amiral Silva</Text>
+    </Text>
+    <Text>
+      <GUID>930059</GUID>
+      <Text>Produit un navire pour l'Amiral Silva lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930010</GUID>
+      <Text>Lady Margaret Hunt</Text>
+    </Text>
+    <Text>
+      <GUID>930060</GUID>
+      <Text>Produit un navire pour Lady Margaret Hunt lui permettant de s’installer dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930011</GUID>
+      <Text>Dr. Hugo Mercier</Text>
+    </Text>
+    <Text>
+      <GUID>930061</GUID>
+      <Text>Produit un navire pour Dr. Hugo Mercier lui permettant de s’installer dans ce secteur. Disponible uniquement pour les propriétaires du DLC "l'Anarchiste".</Text>
+    </Text>
+    <Text>
+      <GUID>930012</GUID>
+      <Text>Vieux Nate</Text>
+    </Text>
+    <Text>
+      <GUID>930062</GUID>
+      <Text>Vous devez être vraiment curieux de connaître tous ces trésors engloutis.</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930250</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930254</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930258</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] bavarde au sujet de [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] déteste [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930261</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] déteste [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>Le Vieux Nate essaie de chanter.</Text>
+    </Text>
+    <Text>
+      <GUID>930262</GUID>
+      <Text>Le Vieux Nate essaie de chanter.</Text>
+    </Text>
+    <Text>
+      <GUID>930263</GUID>
+      <Text>Bente veut que le Vieux Nate lui construise son propre ballon.</Text>
+    </Text>
+    <Text>
+      <GUID>930264</GUID>
+      <Text>Le Vieux Nate est cependant toujours en colère contre Bente.</Text>
+    </Text>
+    <Text>
+      <GUID>930276</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] vous rappelle que cette faction s'installe déjà dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930275</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] vous rappelle que cette faction s'installe déjà dans ce secteur.</Text>
+    </Text>
+    <Text>
+      <GUID>930278</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] vous rappelle les restrictions d'immigration.</Text>
+    </Text>
+    <Text>
+      <GUID>930277</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] vous rappelle les restrictions d'immigration.</Text>
+    </Text>
+    <Text>
+      <GUID>930176</GUID>
+      <Text>Ambassade disponible à la construction !</Text>
+    </Text>
+    <Text>
+      <GUID>930177</GUID>
+      <Text>Vous ne croirez pas ce que nous pouvons faire avec CE bâtiment ! +++ Plus à la page 3</Text>
+    </Text>
+    <Text>
+      <GUID>930180</GUID>
+      <Text>L'ambassade est terminée !</Text>
+    </Text>
+    <Text>
+      <GUID>930181</GUID>
+      <Text>La reine semblait confuse lors de son discours d'ouverture +++ Les négociations diplomatiques ont commencé avec plusieurs factions +++ Plus à la page 3 !</Text>
+    </Text>
+    <Text>
+      <GUID>930184</GUID>
+      <Text>Nous pouvons construire un Chantier naval IA !</Text>
+    </Text>
+    <Text>
+      <GUID>930185</GUID>
+      <Text>Vous ne croirez pas ce que nous pouvons faire avec CE bâtiment ! +++ Plus à la page 3</Text>
+    </Text>
+    <Text>
+      <GUID>930188</GUID>
+      <Text>Le Chantier naval IA a été construit !</Text>
+    </Text>
+    <Text>
+      <GUID>930189</GUID>
+      <Text>Les premières factions manifestent de l'intérêt pour notre secteur. Nous déciderons qui s'installera ici et qui ne le fera pas.</Text>
+    </Text>
+    <Text>
+      <GUID>930192</GUID>
+      <Text>Nous ne pouvons pas partager pour toujours !</Text>
+    </Text>
+    <Text>
+      <GUID>930193</GUID>
+      <Text>L'immigration dans ce secteur n'est pas autorisée en raison des restrictions imposées par la couronne.</Text>
+    </Text>
+    <Text>
+      <GUID>930196</GUID>
+      <Text>La Faction se trouve déjà dans ce secteur !</Text>
+    </Text>
+    <Text>
+      <GUID>930197</GUID>
+      <Text>Ce n'est qu'en raison des actes héroïques de notre reine qu'un terrible malentendu a pu être mis fin.</Text>
+    </Text>
+    <Text>
+      <GUID>930117</GUID>
+      <Text>Les farceurs farcissent le monde d'Anno !</Text>
+    </Text>
+    <Text>
+      <GUID>930118</GUID>
+      <Text>Des espions recherchent kskudlik et Taubenangriff +++ Vu pour la dernière fois à 5 heures du matin devant leur ordinateur +++ Nous sommes curieux au sujet de cette chasse +++ Plus à la page 3 !</Text>
+    </Text>
+    <Text>
+      <GUID>930075</GUID>
+      <Text>Ambassade : Fondations</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Construite en plusieurs phases, l'ambassade vous permet d'établir plus de relations diplomatiques dans le monde une fois terminé.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Bâtiment diplomatique</Text>
+    </Text>
+    <Text>
+      <GUID>930076</GUID>
+      <Text>Ambassade : Structure en acier</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Construite en plusieurs phases, l'ambassade vous permet d'établir plus de relations diplomatiques dans le monde une fois terminé.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Bâtiment diplomatique</Text>
+    </Text>
+    <Text>
+      <GUID>930077</GUID>
+      <Text>Ambassade : Vitrage</Text>
+    </Text>
+    <Text>
+      <GUID>930074</GUID>
+      <Text>Construite en plusieurs phases, l'ambassade vous permet d'établir plus de relations diplomatiques dans le monde une fois terminé.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Bâtiment diplomatique</Text>
+    </Text>
+    <Text>
+      <GUID>930078</GUID>
+      <Text>Ambassade</Text>
+    </Text>
+    <Text>
+      <GUID>930082</GUID>
+      <Text>De là, des relations diplomatiques sont établies avec des factions plus difficiles.</Text>
+    </Text>
+    <Text>
+      <GUID>930116</GUID>
+      <Text>Bâtiment diplomatique</Text>
+    </Text>
+    <Text>
+      <GUID>930086</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] parle de l'Ambassade en construction</Text>
+    </Text>
+    <Text>
+      <GUID>930088</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] parle d'elle-même.</Text>
+    </Text>
+    <Text>
+      <GUID>930085</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] parle de l'Ambassade terminée</Text>
+    </Text>
+    <Text>
+      <GUID>930087</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] parle de l'Ambassade terminée</Text>
+    </Text>
+  </ModOp>
+</ModOps>

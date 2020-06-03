@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857207</GUID>
+      <Text>Zmienne zasoby</Text>
+    </Text>
+    <Text>
+      <GUID>8857200</GUID>
+      <Text>Głęboka kopalnia żelaza</Text>
+    </Text>
+    <Text>
+      <GUID>8857203</GUID>
+      <Text>Głęboka kopalnia cynku</Text>
+    </Text>
+    <Text>
+      <GUID>8857204</GUID>
+      <Text>Głęboka kopalnia miedzi</Text>
+    </Text>
+    <Text>
+      <GUID>8857201</GUID>
+      <Text>Głębokie kopalnie</Text>
+    </Text>
+  </ModOp>
+</ModOps>

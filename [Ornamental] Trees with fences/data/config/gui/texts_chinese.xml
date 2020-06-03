@@ -1,0 +1,364 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902000</GUID>
+      <Text>草坪1</Text>
+    </Text>
+    <Text>
+      <GUID>902001</GUID>
+      <Text>灌木 1</Text>
+    </Text>
+    <Text>
+      <GUID>902002</GUID>
+      <Text>大灌木 1</Text>
+    </Text>
+    <Text>
+      <GUID>902003</GUID>
+      <Text>大树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902004</GUID>
+      <Text>苹果树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902005</GUID>
+      <Text>水井 1</Text>
+    </Text>
+    <Text>
+      <GUID>902006</GUID>
+      <Text>草坪 2</Text>
+    </Text>
+    <Text>
+      <GUID>902007</GUID>
+      <Text>灌木 2</Text>
+    </Text>
+    <Text>
+      <GUID>902008</GUID>
+      <Text>大灌木 2</Text>
+    </Text>
+    <Text>
+      <GUID>902009</GUID>
+      <Text>大树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902010</GUID>
+      <Text>苹果树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902011</GUID>
+      <Text>水井 2</Text>
+    </Text>
+    <Text>
+      <GUID>902012</GUID>
+      <Text>草坪 3</Text>
+    </Text>
+    <Text>
+      <GUID>902013</GUID>
+      <Text>灌木 3</Text>
+    </Text>
+    <Text>
+      <GUID>902014</GUID>
+      <Text>大灌木 3</Text>
+    </Text>
+    <Text>
+      <GUID>902015</GUID>
+      <Text>大树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902016</GUID>
+      <Text>苹果树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902017</GUID>
+      <Text>水井 3</Text>
+    </Text>
+    <Text>
+      <GUID>902018</GUID>
+      <Text>温带林 1</Text>
+    </Text>
+    <Text>
+      <GUID>902019</GUID>
+      <Text>小树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902020</GUID>
+      <Text>杨树林 1</Text>
+    </Text>
+    <Text>
+      <GUID>902021</GUID>
+      <Text>白杨 1</Text>
+    </Text>
+    <Text>
+      <GUID>902022</GUID>
+      <Text>花床 1</Text>
+    </Text>
+    <Text>
+      <GUID>902023</GUID>
+      <Text>水坑 1</Text>
+    </Text>
+    <Text>
+      <GUID>902024</GUID>
+      <Text>欧洲白杨 1</Text>
+    </Text>
+    <Text>
+      <GUID>902025</GUID>
+      <Text>榆树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902026</GUID>
+      <Text>温带林 2</Text>
+    </Text>
+    <Text>
+      <GUID>902027</GUID>
+      <Text>小树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902028</GUID>
+      <Text>杨树林 2</Text>
+    </Text>
+    <Text>
+      <GUID>902029</GUID>
+      <Text>白杨 2</Text>
+    </Text>
+    <Text>
+      <GUID>902030</GUID>
+      <Text>花床 2</Text>
+    </Text>
+    <Text>
+      <GUID>902031</GUID>
+      <Text>水坑 2</Text>
+    </Text>
+    <Text>
+      <GUID>902032</GUID>
+      <Text>欧洲白杨 2</Text>
+    </Text>
+    <Text>
+      <GUID>902033</GUID>
+      <Text>榆树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902034</GUID>
+      <Text>温带林 3</Text>
+    </Text>
+    <Text>
+      <GUID>902035</GUID>
+      <Text>小树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902036</GUID>
+      <Text>杨树林 3</Text>
+    </Text>
+    <Text>
+      <GUID>902037</GUID>
+      <Text>白杨 3</Text>
+    </Text>
+    <Text>
+      <GUID>902038</GUID>
+      <Text>花床 3</Text>
+    </Text>
+    <Text>
+      <GUID>902039</GUID>
+      <Text>水坑 3</Text>
+    </Text>
+    <Text>
+      <GUID>902040</GUID>
+      <Text>欧洲白杨 3</Text>
+    </Text>
+    <Text>
+      <GUID>902041</GUID>
+      <Text>榆树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902042</GUID>
+      <Text>柏树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902043</GUID>
+      <Text>高大的柏树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902044</GUID>
+      <Text>柏树2</Text>
+    </Text>
+    <Text>
+      <GUID>902045</GUID>
+      <Text>高大的柏树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902046</GUID>
+      <Text>柏树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902047</GUID>
+      <Text>高大的柏树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902048</GUID>
+      <Text>草坪1</Text>
+    </Text>
+    <Text>
+      <GUID>902049</GUID>
+      <Text>蔓 1</Text>
+    </Text>
+    <Text>
+      <GUID>902050</GUID>
+      <Text>小树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902051</GUID>
+      <Text>蕨 1</Text>
+    </Text>
+    <Text>
+      <GUID>902052</GUID>
+      <Text>灌木丛 1</Text>
+    </Text>
+    <Text>
+      <GUID>902053</GUID>
+      <Text>灌木 1</Text>
+    </Text>
+    <Text>
+      <GUID>902054</GUID>
+      <Text>小棕榈树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902055</GUID>
+      <Text>棕榈树 1</Text>
+    </Text>
+    <Text>
+      <GUID>902056</GUID>
+      <Text>水井 1</Text>
+    </Text>
+    <Text>
+      <GUID>902057</GUID>
+      <Text>草坪 2</Text>
+    </Text>
+    <Text>
+      <GUID>902058</GUID>
+      <Text>蔓 2</Text>
+    </Text>
+    <Text>
+      <GUID>902059</GUID>
+      <Text>小树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902060</GUID>
+      <Text>蕨 2</Text>
+    </Text>
+    <Text>
+      <GUID>902061</GUID>
+      <Text>灌木丛 2</Text>
+    </Text>
+    <Text>
+      <GUID>902062</GUID>
+      <Text>灌木 2</Text>
+    </Text>
+    <Text>
+      <GUID>902063</GUID>
+      <Text>小棕榈树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902064</GUID>
+      <Text>棕榈树 2</Text>
+    </Text>
+    <Text>
+      <GUID>902065</GUID>
+      <Text>水井 2</Text>
+    </Text>
+    <Text>
+      <GUID>902066</GUID>
+      <Text>草坪 3</Text>
+    </Text>
+    <Text>
+      <GUID>902067</GUID>
+      <Text>蔓 3</Text>
+    </Text>
+    <Text>
+      <GUID>902068</GUID>
+      <Text>小树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902069</GUID>
+      <Text>蕨 3</Text>
+    </Text>
+    <Text>
+      <GUID>902070</GUID>
+      <Text>灌木丛 3</Text>
+    </Text>
+    <Text>
+      <GUID>902071</GUID>
+      <Text>灌木 3</Text>
+    </Text>
+    <Text>
+      <GUID>902072</GUID>
+      <Text>小棕榈树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902073</GUID>
+      <Text>棕榈树 3</Text>
+    </Text>
+    <Text>
+      <GUID>902074</GUID>
+      <Text>水井 3</Text>
+    </Text>
+    <Text>
+      <GUID>902075</GUID>
+      <Text>热带雨林 1</Text>
+    </Text>
+    <Text>
+      <GUID>902076</GUID>
+      <Text>开花灌木 1</Text>
+    </Text>
+    <Text>
+      <GUID>902077</GUID>
+      <Text>水坑 1</Text>
+    </Text>
+    <Text>
+      <GUID>902078</GUID>
+      <Text>热带雨林 2</Text>
+    </Text>
+    <Text>
+      <GUID>902079</GUID>
+      <Text>开花灌木 2</Text>
+    </Text>
+    <Text>
+      <GUID>902080</GUID>
+      <Text>水坑 2</Text>
+    </Text>
+    <Text>
+      <GUID>902081</GUID>
+      <Text>热带雨林 3</Text>
+    </Text>
+    <Text>
+      <GUID>902082</GUID>
+      <Text>开花灌木 3</Text>
+    </Text>
+    <Text>
+      <GUID>902083</GUID>
+      <Text>水坑 3</Text>
+    </Text>
+    <Text>
+      <GUID>902099</GUID>
+      <Text>农民栅栏</Text>
+    </Text>
+    <Text>
+      <GUID>902100</GUID>
+      <Text>工人栅栏</Text>
+    </Text>
+    <Text>
+      <GUID>902101</GUID>
+      <Text>工匠栅栏</Text>
+    </Text>
+    <Text>
+      <GUID>902102</GUID>
+      <Text>乔纳内罗栅栏 1</Text>
+    </Text>
+    <Text>
+      <GUID>902103</GUID>
+      <Text>乔纳内罗栅栏 2</Text>
+    </Text>
+    <Text>
+      <GUID>902104</GUID>
+      <Text>奥布罗栅栏</Text>
+    </Text>
+  </ModOp>
+</ModOps>

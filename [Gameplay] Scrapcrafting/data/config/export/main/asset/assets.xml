@@ -7,7 +7,7 @@
       <Item>112523</Item>
     </Item>
   </ModOp>
-  <ModOp Type="add" GUID='77' Path="/Values/ItemCrafter/CraftableItemsInRegion/Arctic/CraftableItems">
+  <ModOp Type="add" GUID='117422' Path="/Values/ItemCrafter/CraftableItemsInRegion/Arctic/CraftableItems">
     <Item>
       <Item>115980</Item>
     </Item>

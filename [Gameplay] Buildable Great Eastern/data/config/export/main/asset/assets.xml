@@ -1,0 +1,24 @@
+<ModOps>
+	<ModOp Type="replace" GUID='190698' Path="/Values/ShipyardUpgrade">
+		<ShipyardUpgrade>
+			<AddAssemblyOptions>
+				<Item>
+					<NewOption>118718</NewOption>
+				</Item>
+			</AddAssemblyOptions>
+		</ShipyardUpgrade>
+	</ModOp>
+
+	<ModOp Type="add" GUID='118718' Path="/Values/TradeRouteVehicle">
+		<LoadingSpeedFactor>2</LoadingSpeedFactor>
+	</ModOp>
+	<ModOp Type="replace" GUID='118718' Path="/Values/Attackable/MaximumHitPoints">
+		<MaximumHitPoints>2500</MaximumHitPoints>
+	</ModOp>
+	<ModOp Type = "remove" GUID = '269852' Path = "/Values/Quest/OnQuestStart/Values/ActionList/Actions/Item/Action/Values/ActionSpeechBubble/SpeechBubbleData/Values/ConditionTutorialInteraction/HintDisplayTime" />
+	<ModOp Type = "remove" GUID = '269852' Path = "/Values/Quest/OnQuestStart/Values/ActionList/Actions/Item/Action/Values/ActionSpeechBubble/SpeechBubbleData/Values/ConditionTutorialInteraction/ObjectFilter" />
+	<ModOp Type = "add" GUID = '269852' Path = "/Values/Quest/OnQuestStart/Values/ActionList/Actions/Item/Action/Values/ActionSpeechBubble/SpeechBubbleData/Values/ConditionTutorialInteraction">
+		<ContextObject>118718</ContextObject>
+	</ModOp>
+</ModOps>
+

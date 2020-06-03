@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>976510</GUID>
+      <Text>문화 건축물</Text>
+    </Text>
+    <Text>
+      <GUID>976511</GUID>
+      <Text>문화 건축물</Text>
+    </Text>
+  </ModOp>
+</ModOps>

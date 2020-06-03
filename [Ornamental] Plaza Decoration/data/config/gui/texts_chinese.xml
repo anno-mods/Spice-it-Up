@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8853600</GUID>
+      <Text>中型树木</Text>
+    </Text>
+    <Text>
+      <GUID>8853601</GUID>
+      <Text>小型树木</Text>
+    </Text>
+    <Text>
+      <GUID>8853602</GUID>
+      <Text>灌木丛</Text>
+    </Text>
+    <Text>
+      <GUID>8853604</GUID>
+      <Text>大型树木</Text>
+    </Text>
+    <Text>
+      <GUID>8853605</GUID>
+      <Text>圆形花床</Text>
+    </Text>
+    <Text>
+      <GUID>8853606</GUID>
+      <Text>矩形花床</Text>
+    </Text>
+  </ModOp>
+</ModOps>

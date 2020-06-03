@@ -1,90 +1,59 @@
 <!-- Added settings to make Riverless Versions of Islands available and removed River Islands in the MapGen completly (thx to Fazerize) -->
 <ModOps>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142078']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142078']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142078']/Values/RandomIsland/IslandType"></ModOp>
+    <ModOp Type="remove" GUID = '142078,142000,142001,142002,142003,142004,142005,142006,142007,142158,142130' Path="/Values/RandomIsland/IslandRegion | /Values/RandomIsland/IslandDifficulty | /Values/RandomIsland/IslandType"></ModOp>
+
 	<ModOp Type="add" GUID='140393' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142000']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142000']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142000']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140394' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
-        <AllowInCampaignMode>0</AllowInCampaignMode>
+        <AllowedGameType>SandboxSingleplayer;SandboxMultilayer</AllowedGameType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142001']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142001']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142001']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140395' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142158']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142158']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142158']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140396' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142002']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142002']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142002']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='141000' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
-        <AllowInCampaignMode>0</AllowInCampaignMode>
+        <AllowedGameType>SandboxSingleplayer;SandboxMultilayer</AllowedGameType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142003']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142003']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142003']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='141001' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142004']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142004']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142004']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140397' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142005']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142005']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142005']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140398' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142130']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142130']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142130']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140399' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142006']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142006']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142006']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140400' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>
         <IslandType>Normal;Starter</IslandType>
     </ModOp>
-    <ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142007']/Values/RandomIsland/IslandRegion"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142007']/Values/RandomIsland/IslandDifficulty"></ModOp>
-	<ModOp Type="remove" Path="//Asset[Values/Standard/GUID='142007']/Values/RandomIsland/IslandType"></ModOp>
     <ModOp Type="add" GUID='140401' Path="/Values/RandomIsland">
         <IslandRegion>Colony01</IslandRegion>
         <IslandDifficulty>Normal;Hard</IslandDifficulty>

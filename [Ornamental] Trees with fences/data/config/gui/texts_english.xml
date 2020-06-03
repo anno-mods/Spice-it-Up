@@ -1,0 +1,364 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902000</GUID>
+      <Text>Grass I</Text>
+    </Text>
+    <Text>
+      <GUID>902001</GUID>
+      <Text>Shrubbery I</Text>
+    </Text>
+    <Text>
+      <GUID>902002</GUID>
+      <Text>Mature Shrubbery I</Text>
+    </Text>
+    <Text>
+      <GUID>902003</GUID>
+      <Text>Mature Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902004</GUID>
+      <Text>Apple Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902005</GUID>
+      <Text>Well I</Text>
+    </Text>
+    <Text>
+      <GUID>902006</GUID>
+      <Text>Grass II</Text>
+    </Text>
+    <Text>
+      <GUID>902007</GUID>
+      <Text>Shrubbery II</Text>
+    </Text>
+    <Text>
+      <GUID>902008</GUID>
+      <Text>Mature Shrubbery II</Text>
+    </Text>
+    <Text>
+      <GUID>902009</GUID>
+      <Text>Mature Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902010</GUID>
+      <Text>Apple Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902011</GUID>
+      <Text>Well II</Text>
+    </Text>
+    <Text>
+      <GUID>902012</GUID>
+      <Text>Grass III</Text>
+    </Text>
+    <Text>
+      <GUID>902013</GUID>
+      <Text>Shrubbery III</Text>
+    </Text>
+    <Text>
+      <GUID>902014</GUID>
+      <Text>Mature Shrubbery III</Text>
+    </Text>
+    <Text>
+      <GUID>902015</GUID>
+      <Text>Mature Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902016</GUID>
+      <Text>Apple Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902017</GUID>
+      <Text>Well III</Text>
+    </Text>
+    <Text>
+      <GUID>902018</GUID>
+      <Text>Temperate Grove I</Text>
+    </Text>
+    <Text>
+      <GUID>902019</GUID>
+      <Text>Small Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902020</GUID>
+      <Text>Poplar Grove I</Text>
+    </Text>
+    <Text>
+      <GUID>902021</GUID>
+      <Text>Poplar I</Text>
+    </Text>
+    <Text>
+      <GUID>902022</GUID>
+      <Text>Flower Bed I</Text>
+    </Text>
+    <Text>
+      <GUID>902023</GUID>
+      <Text>Watering Hole I</Text>
+    </Text>
+    <Text>
+      <GUID>902024</GUID>
+      <Text>Trembling Aspen I</Text>
+    </Text>
+    <Text>
+      <GUID>902025</GUID>
+      <Text>Elm Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902026</GUID>
+      <Text>Temperate Grove II</Text>
+    </Text>
+    <Text>
+      <GUID>902027</GUID>
+      <Text>Small Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902028</GUID>
+      <Text>Poplar Grove II</Text>
+    </Text>
+    <Text>
+      <GUID>902029</GUID>
+      <Text>Poplar II</Text>
+    </Text>
+    <Text>
+      <GUID>902030</GUID>
+      <Text>Flower Bed II</Text>
+    </Text>
+    <Text>
+      <GUID>902031</GUID>
+      <Text>Watering Hole II</Text>
+    </Text>
+    <Text>
+      <GUID>902032</GUID>
+      <Text>Trembling Aspen II</Text>
+    </Text>
+    <Text>
+      <GUID>902033</GUID>
+      <Text>Elm Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902034</GUID>
+      <Text>Temperate Grove III</Text>
+    </Text>
+    <Text>
+      <GUID>902035</GUID>
+      <Text>Small Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902036</GUID>
+      <Text>Poplar Grove III</Text>
+    </Text>
+    <Text>
+      <GUID>902037</GUID>
+      <Text>Poplar III</Text>
+    </Text>
+    <Text>
+      <GUID>902038</GUID>
+      <Text>Flower Bed III</Text>
+    </Text>
+    <Text>
+      <GUID>902039</GUID>
+      <Text>Watering Hole III</Text>
+    </Text>
+    <Text>
+      <GUID>902040</GUID>
+      <Text>Trembling Aspen III</Text>
+    </Text>
+    <Text>
+      <GUID>902041</GUID>
+      <Text>Elm Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902042</GUID>
+      <Text>Cypress I</Text>
+    </Text>
+    <Text>
+      <GUID>902043</GUID>
+      <Text>Tall Cypress I</Text>
+    </Text>
+    <Text>
+      <GUID>902044</GUID>
+      <Text>Cypress II</Text>
+    </Text>
+    <Text>
+      <GUID>902045</GUID>
+      <Text>Tall Cypress II</Text>
+    </Text>
+    <Text>
+      <GUID>902046</GUID>
+      <Text>Cypress III</Text>
+    </Text>
+    <Text>
+      <GUID>902047</GUID>
+      <Text>Tall Cypress III</Text>
+    </Text>
+    <Text>
+      <GUID>902048</GUID>
+      <Text>Grass I</Text>
+    </Text>
+    <Text>
+      <GUID>902049</GUID>
+      <Text>Philodendron I</Text>
+    </Text>
+    <Text>
+      <GUID>902050</GUID>
+      <Text>Small Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902051</GUID>
+      <Text>Ferns I</Text>
+    </Text>
+    <Text>
+      <GUID>902052</GUID>
+      <Text>Bush I</Text>
+    </Text>
+    <Text>
+      <GUID>902053</GUID>
+      <Text>Shrub I</Text>
+    </Text>
+    <Text>
+      <GUID>902054</GUID>
+      <Text>Small Palm Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902055</GUID>
+      <Text>Palm Tree I</Text>
+    </Text>
+    <Text>
+      <GUID>902056</GUID>
+      <Text>Well I</Text>
+    </Text>
+    <Text>
+      <GUID>902057</GUID>
+      <Text>Grass II</Text>
+    </Text>
+    <Text>
+      <GUID>902058</GUID>
+      <Text>Philodendron II</Text>
+    </Text>
+    <Text>
+      <GUID>902059</GUID>
+      <Text>Small Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902060</GUID>
+      <Text>Ferns II</Text>
+    </Text>
+    <Text>
+      <GUID>902061</GUID>
+      <Text>Bush II</Text>
+    </Text>
+    <Text>
+      <GUID>902062</GUID>
+      <Text>Shrub II</Text>
+    </Text>
+    <Text>
+      <GUID>902063</GUID>
+      <Text>Small Palm Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902064</GUID>
+      <Text>Palm Tree II</Text>
+    </Text>
+    <Text>
+      <GUID>902065</GUID>
+      <Text>Well II</Text>
+    </Text>
+    <Text>
+      <GUID>902066</GUID>
+      <Text>Grass III</Text>
+    </Text>
+    <Text>
+      <GUID>902067</GUID>
+      <Text>Philodendron III</Text>
+    </Text>
+    <Text>
+      <GUID>902068</GUID>
+      <Text>Small Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902069</GUID>
+      <Text>Ferns III</Text>
+    </Text>
+    <Text>
+      <GUID>902070</GUID>
+      <Text>Bush III</Text>
+    </Text>
+    <Text>
+      <GUID>902071</GUID>
+      <Text>Shrub III</Text>
+    </Text>
+    <Text>
+      <GUID>902072</GUID>
+      <Text>Small Palm Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902073</GUID>
+      <Text>Palm Tree III</Text>
+    </Text>
+    <Text>
+      <GUID>902074</GUID>
+      <Text>Well III</Text>
+    </Text>
+    <Text>
+      <GUID>902075</GUID>
+      <Text>Tropical Forest I</Text>
+    </Text>
+    <Text>
+      <GUID>902076</GUID>
+      <Text>Flowering Shrub I</Text>
+    </Text>
+    <Text>
+      <GUID>902077</GUID>
+      <Text>Watering Hole I</Text>
+    </Text>
+    <Text>
+      <GUID>902078</GUID>
+      <Text>Tropical Forest II</Text>
+    </Text>
+    <Text>
+      <GUID>902079</GUID>
+      <Text>Flowering Shrub II</Text>
+    </Text>
+    <Text>
+      <GUID>902080</GUID>
+      <Text>Watering Hole II</Text>
+    </Text>
+    <Text>
+      <GUID>902081</GUID>
+      <Text>Tropical Forest III</Text>
+    </Text>
+    <Text>
+      <GUID>902082</GUID>
+      <Text>Flowering Shrub III</Text>
+    </Text>
+    <Text>
+      <GUID>902083</GUID>
+      <Text>Watering Hole III</Text>
+    </Text>
+    <Text>
+      <GUID>902099</GUID>
+      <Text>Farmer Fences</Text>
+    </Text>
+    <Text>
+      <GUID>902100</GUID>
+      <Text>Worker Fences</Text>
+    </Text>
+    <Text>
+      <GUID>902101</GUID>
+      <Text>Engineer Fences</Text>
+    </Text>
+    <Text>
+      <GUID>902102</GUID>
+      <Text>Jornalero Fences I</Text>
+    </Text>
+    <Text>
+      <GUID>902103</GUID>
+      <Text>Jornalero Fences II</Text>
+    </Text>
+    <Text>
+      <GUID>902104</GUID>
+      <Text>Obrero Fences</Text>
+    </Text>
+  </ModOp>
+</ModOps>

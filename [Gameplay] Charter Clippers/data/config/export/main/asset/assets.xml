@@ -49,7 +49,7 @@
                 <MetaPersistent />
                 <ExpeditionAttribute />
                 <ShipMaintenance>
-                    <Maintenance>800</Maintenance>
+                    <Maintenance>700</Maintenance>
                 </ShipMaintenance>
                 <Sellable />
                 <Stance />

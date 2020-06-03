@@ -1,0 +1,221 @@
+<ModOps>
+	<!-- Buildmenu Steamshipyard -->
+	<ModOp Type="add" GUID='1010521' Path="/Values/Shipyard/AssemblyOptions">
+		<Item>
+			<Vehicle>101373</Vehicle>
+		</Item>
+	</ModOp>
+	<!-- Modified Great Eastern -->
+	<ModOp Type="addNextSibling" GUID='100442'>
+		<Asset>
+			<Template>TradeShip</Template>
+			<Values>
+				<Standard>
+					<GUID>101373</GUID>
+					<Name>Tourism Ship Number 3</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_great_eastern.png</IconFilename>
+					<InfoDescription>1089</InfoDescription>
+				</Standard>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/graphics/vehicle/tourism_ship_03/tourism_ship_03.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Mesh>
+					<MeshPlacement>OnWaterSlope</MeshPlacement>
+				</Mesh>
+				<Selection>
+					<ObjectmenuHeaderImage>data/ui/2kimages/main/3dicons/icon_ship.png</ObjectmenuHeaderImage>
+					<MultiSelectable>1</MultiSelectable>
+				</Selection>
+				<Walking>
+					<ShortenSailsAfter>0</ShortenSailsAfter>
+					<ReservationLength>16</ReservationLength>
+					<ReservationWidth>6</ReservationWidth>
+					<PathPlannerLayer>Water</PathPlannerLayer>
+					<ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+					<TurnAroundRadius>9</TurnAroundRadius>
+					<Acceleration>0.8</Acceleration>
+					<Deceleration>1</Deceleration>
+					<TurnSpeed>30</TurnSpeed>
+					<LeaningSpeed>0.5</LeaningSpeed>
+					<LeaningMaxAngle>10</LeaningMaxAngle>
+					<ForwardSpeed>5</ForwardSpeed>
+					<WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+					<WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+					<CargoFullFactor>0.9</CargoFullFactor>
+					<DamageFullFactor>0.5</DamageFullFactor>
+					<MinSlowdownFactor>0.5</MinSlowdownFactor>
+					<CurveSegmentDensity>Low</CurveSegmentDensity>
+				</Walking>
+				<Text>
+					<LocaText />
+					<LineID>14872</LineID>
+				</Text>
+				<CommandQueue>
+					<FollowRadius>4</FollowRadius>
+					<FormationPriority>1</FormationPriority>
+					<TradeShipPoints>4</TradeShipPoints>
+					<PriorityShipList>2</PriorityShipList>
+				</CommandQueue>
+				<Drifting>
+					<OverrideAssetWidthAndLength>1</OverrideAssetWidthAndLength>
+					<Length>7</Length>
+					<Width>1.5</Width>
+					<FactorMovement>0.7</FactorMovement>
+					<FactorRotation>0.65</FactorRotation>
+				</Drifting>
+				<Collector />
+				<Attackable>
+					<MaximumHitPoints>2500</MaximumHitPoints>
+					<SelfHealPerHealTick>1.667</SelfHealPerHealTick>
+					<SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+				</Attackable>
+				<MinimapToken>
+					<TokenAsset>2001947</TokenAsset>
+					<StrategicMapAsset>501018</StrategicMapAsset>
+				</MinimapToken>
+				<SoundEmitter>
+					<VehicleSounds>
+						<MovementStart>
+							<Item>
+								<Sound>216009</Sound>
+							</Item>
+						</MovementStart>
+					</VehicleSounds>
+				</SoundEmitter>
+				<UpgradeList />
+				<QuestObject />
+				<Infolayer />
+				<ItemContainer>
+					<SocketCount>4</SocketCount>
+					<SocketAllocation>Ship;SteamShip;Tradeship</SocketAllocation>
+					<SlotCount>6</SlotCount>
+					<StackLimit>100</StackLimit>
+				</ItemContainer>
+				<FeedbackController />
+				<Draggable />
+				<Cost>
+					<Costs>
+						<Item>
+							<Ingredient>1010218</Ingredient>
+							<Amount>50</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010224</Ingredient>
+							<Amount>40</Amount>
+						</Item>
+					</Costs>
+					<InfluenceCostType>TradeShip</InfluenceCostType>
+					<InfluenceCostPoints>25</InfluenceCostPoints>
+				</Cost>
+				<Craftable>
+					<CraftingTime>1200000</CraftingTime>
+				</Craftable>
+				<TradeRouteVehicle />
+				<Locked />
+				<Nameable />
+				<MetaPersistent />
+				<ExpeditionAttribute>
+					<ExpeditionAttributes>
+						<Item>
+							<Attribute>Might</Attribute>
+							<Amount>50</Amount>
+						</Item>
+						<Item>
+							<Attribute>Navigation</Attribute>
+							<Amount>50</Amount>
+						</Item>
+						<Item>
+							<Attribute>PerkTradeShip</Attribute>
+							<Amount>1</Amount>
+						</Item>
+						<Item>
+							<Attribute>PerkSteamShip</Attribute>
+							<Amount>1</Amount>
+						</Item>
+					</ExpeditionAttributes>
+				</ExpeditionAttribute>
+				<ShipMaintenance>
+					<Maintenance>2000</Maintenance>
+				</ShipMaintenance>
+				<Sellable>
+					<Baseprice>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>TradeShip</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+							<Amount>1500000</Amount>
+						</Item>
+					</Baseprice>
+				</Sellable>
+				<Stance />
+				<Rentable />
+				<WorldMapSound />
+				<Pausable />
+				<ShipIncident />
+				<SoundEmitterCommandBarks />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- New Triggers (97601x) -->
+	<ModOp Type="addNextSibling" GUID='130218'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>99334132</GUID>
+					<Name>TRIGGER Unlock Great Eastern</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition/>
+							<ConditionPlayerCounter>
+								<Context>1010492</Context>
+								<CounterAmount>1</CounterAmount>
+								<CounterScope>Global</CounterScope>
+								<CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>101373</Asset>
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Influence Effect Pool -->
+	<ModOp Type="add" GUID='191457' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>101373</GUID>
+		</Item>
+	</ModOp>
+</ModOps>

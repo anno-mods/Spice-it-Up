@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>9002077</GUID>
+      <Text>Dirigible</Text>
+    </Text>
+  </ModOp>
+</ModOps>
