@@ -205,4 +205,22 @@
             <GUID>119357</GUID>
         </Item>
     </ModOp>
+
+    <ModOp GUID = '142915' Path = "/Values/SkinDescriptionFeature/SkinDescriptions" Type = "add">
+        <Item>
+            <Guid>119355</Guid>
+            <Name>1440133060</Name>
+            <Description>1440133063</Description>
+        </Item>
+        <Item>
+            <Guid>119356</Guid>
+            <Name>1440133061</Name>
+            <Description>1440133064</Description>
+        </Item>
+        <Item>
+            <Guid>119357</Guid>
+            <Name>1440133062</Name>
+            <Description>1440133065</Description>
+        </Item>
+    </ModOp>
 </ModOps>

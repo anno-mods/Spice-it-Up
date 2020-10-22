@@ -1,0 +1,52 @@
+{
+  "Version": "1",
+  "ModID": "Spice_BuildableGreatEastern",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Buildable Great Eastern",
+    "French": null,
+    "German": "Baubare Great Eastern",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Great Easterns are available for construction in the steam shipyard by equipping Rohit Bhargava.",
+    "French": null,
+    "German": "Die Great Eastern kann mithilfe von Rohit Bhargava in der Dampfschiffswerft gebaut werden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

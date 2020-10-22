@@ -1,6 +1,6 @@
 <ModOps>
   <!-- Modified airship -->
-  <ModOp Type="addNextSibling" GUID='101373'>
+  <ModOp Type="addNextSibling" GUID='100442'>
     <Asset>
       <Template>AirShip</Template>
       <Values>
@@ -256,4 +256,6 @@
       </Values>
     </Asset>
   </ModOp>
+
+  <ModOp GUID = '269041' Type = "remove" Path = "/Values/AudioTextPool/AudioTextList/Item[AudioText = '112533']" />
 </ModOps>

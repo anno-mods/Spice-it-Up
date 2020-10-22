@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>190150</GUID>
+      <Text>커피 슈퍼 씨</Text>
+    </Text>
+    <Text>
+      <GUID>190151</GUID>
+      <Text>훌륭한 바나나 씨앗</Text>
+    </Text>
+  </ModOp>
+</ModOps>

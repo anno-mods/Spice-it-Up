@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>190150</GUID>
+      <Text>Coffee Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190151</GUID>
+      <Text>Plantain Super Seeds</Text>
+    </Text>
+  </ModOp>
+</ModOps>

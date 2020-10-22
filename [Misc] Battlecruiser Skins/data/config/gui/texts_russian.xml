@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-Кожа "Кислота"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Кожа "Красный куб" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Кожа "Звездное поле"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>Ядовитая змея кусает врагов</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>Не нуждается в камуфляже, предпочитает открытый бой.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>Ночью становится невидимым.</Text>
+    </Text>
   </ModOp>
 </ModOps>

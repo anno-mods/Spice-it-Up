@@ -94,6 +94,7 @@
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
                     <AllowChangeVariation>1</AllowChangeVariation>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -223,6 +224,7 @@
                     <BuildingType>Logistic</BuildingType>
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <PickingAsset>8855001</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>101446</GroundDecalAsset>
@@ -327,6 +329,7 @@
                     <BuildingType>Logistic</BuildingType>
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <PickingAsset>8855001</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>101008</GroundDecalAsset>
@@ -436,6 +439,7 @@
                     <BuildModeRandomRotation>90</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>101008</GroundDecalAsset>
@@ -569,6 +573,7 @@
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>101008</GroundDecalAsset>
@@ -706,6 +711,7 @@
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>101008</GroundDecalAsset>
@@ -1253,6 +1259,7 @@
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
                     <AllowChangeVariation>1</AllowChangeVariation>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -1379,6 +1386,7 @@
                     <BuildingType>Logistic</BuildingType>
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <PickingAsset>8855005</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -1482,6 +1490,7 @@
                     <BuildModeRandomRotation>90</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -1616,6 +1625,7 @@
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <PickingAsset>8855011</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -2408,6 +2418,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -2517,6 +2528,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -2616,6 +2628,7 @@
                     <BuildModeRandomRotation>90</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -2738,6 +2751,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -2847,6 +2861,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -2946,6 +2961,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -4290,6 +4306,7 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
             </Values>
         </Asset>
     </ModOp>
@@ -4518,6 +4535,7 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
             </Values>
         </Asset>
     </ModOp>
@@ -4747,6 +4765,7 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
             </Values>
         </Asset>
     </ModOp>
@@ -5097,6 +5116,7 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
             </Values>
         </Asset>
     </ModOp>
@@ -5333,16 +5353,7 @@
                     </ResidenceStorage>
                     <PopulationLevel7>15000004</PopulationLevel7>
                     <ResidentMax>50</ResidentMax>
-                    <InfluenceGeneration>
-                        <Item>
-                            <ResidentsNeededToGain>1</ResidentsNeededToGain>
-                            <ResidentsNeededToKeep>1</ResidentsNeededToKeep>
-                        </Item>
-                        <Item>
-                            <ResidentsNeededToGain>1</ResidentsNeededToGain>
-                            <ResidentsNeededToKeep>1</ResidentsNeededToKeep>
-                        </Item>
-                    </InfluenceGeneration>
+                    <ProvidesInfluence>1</ProvidesInfluence>
                 </Residence7>
                 <LogisticNode />
                 <AmbientMoodProvider>
@@ -5410,6 +5421,70 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource>
+                    <InfluenceSource>Investors</InfluenceSource>
+                    <ProvidesInvestorInfluence>1</ProvidesInvestorInfluence>
+                </InfluenceSource>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='114445'>
+        <Asset>
+            <BaseAssetGUID>114445</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440133040</GUID>
+                    <Name>residence_tier05b_harbour</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
+                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <PickingAsset>1440133040</PickingAsset>
+                    <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier06_estate01/residence_tier06_estate01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier06_estate02/residence_tier06_estate02.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier06_estate03/residence_tier06_estate03.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <FeedbackController />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <BuildPermit>
+                    <VisibleWithoutPermits>1</VisibleWithoutPermits>
+                </BuildPermit>
             </Values>
         </Asset>
     </ModOp>
@@ -5549,6 +5624,7 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
             </Values>
         </Asset>
     </ModOp>
@@ -5672,6 +5748,7 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
             </Values>
         </Asset>
     </ModOp>
@@ -5696,6 +5773,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -5838,6 +5916,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -5956,6 +6035,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -6113,6 +6193,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -6260,6 +6341,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -6408,6 +6490,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -6556,6 +6639,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -6705,6 +6789,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -6834,6 +6919,55 @@
                 <Electric />
                 <Culture />
                 <ItemGenerator />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Radio Station -->
+    <ModOp Type="addNextSibling" GUID='118736'>
+        <Asset>
+            <BaseAssetGUID>118736</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440133043</GUID>
+                    <Name>service_moderate_LoL_01_Harbor (Radio Station)</Name>
+                    <IconFilename>data/graphics/hc/__icons/icon_radio_station.png</IconFilename>
+                    <ID />
+                </Standard>
+                <Building>
+                    <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
+                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/service/oldworld/radio_tower/service_colony02_04.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <LogisticNode />
+                <PublicService />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <Attackable />
+                <Pausable />
+                <IncidentInfectable />
+                <Culture />
             </Values>
         </Asset>
     </ModOp>
@@ -7145,6 +7279,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -7453,6 +7588,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -8172,6 +8308,10 @@
                             <!-- Residence T1 -->
                         </Item>
                         <Item>
+                            <Building>1440133040</Building>
+                            <!-- Scholar Residence -->
+                        </Item>
+                        <Item>
                             <Building>8856008</Building>
                             <!-- Market -->
                         </Item>
@@ -8206,6 +8346,10 @@
                         <Item>
                             <Building>8856016</Building>
                             <!-- Power Plant -->
+                        </Item>
+                        <Item>
+                            <Building>1440133043</Building>
+                            <!-- Scholar Residence -->
                         </Item>
                         <Item>
                             <Building>8856020</Building>
@@ -8327,12 +8471,22 @@
         </Item>
     </ModOp>
 
+    <!-- Add Scholars to Item Effect Pools -->
+    <ModOp Type="add" Path="//ItemEffectTargetPool/EffectTargetGUIDs[Item/GUID = '114445']">
+        <Item>
+            <GUID>1440133040</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" Path="//ItemEffect/EffectTargets[Item/GUID = '114445']">
+        <Item>
+            <GUID>1440133040</GUID>
+        </Item>
+    </ModOp>
     <!-- ############################################################################################################### -->
     <!-- ########### [Harbor City] Item Pools ########################################################################## -->
     <!-- MAINTENANCE -->
     <!-- All Buildings with Maintenance -->
-    <ModOp Type="add" GUID='190611' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
-
+    <ModOp Type="add" GUID='190611' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
         <Item>
             <GUID>8856001</GUID>
         </Item>
@@ -8777,13 +8931,13 @@
         -->
 
     <!-- Shipyards & Oil Harbor 101277,101329,101405,101406,-->
-    <ModOp Type="remove" GUID='1010520,1010521,100783,101403,101404' Path="Values/Blocking/HarbourAreaExpand"/>
+    <ModOp Type="remove" GUID='1010520,1010521,100783,101403,101404,119259' Path="Values/Blocking/HarbourAreaExpand"/>
 
     <!-- Piers 101642,101344,-->
-    <ModOp Type="remove" GUID='100429,102284,100519' Path="Values/Blocking/HarbourAreaExpand"/>
+    <ModOp Type="remove" GUID='100429,102284,100519,117871,125028,125191,125192,125193' Path="Values/Blocking/HarbourAreaExpand"/>
 
     <!-- Kontore 101290,101291,101292,,101293,101294,101295 -->
-    <ModOp Type="remove" GUID='1010517,100510,100511,1010540,100514,100515' Path="Values/Blocking/HarbourAreaExpand"/>
+    <ModOp Type="remove" GUID='1010517,100510,100511,1010540,100514,100515,269867,269879' Path="Values/Blocking/HarbourAreaExpand"/>
 
 
     <!-- Ornaments -->
@@ -9010,10 +9164,34 @@
                 </Standard>
                 <Building>
                     <TerrainType>Coast</TerrainType>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Mesh />
+                <Object />
+                <AmbientMoodProvider />
+                <Constructable />
+                <Selection />
+                <Text />
+                <Shipyard />
+                <Cost />
+                <Locked />
+                <Maintenance />
+                <Infolayer />
+                <Attackable />
+                <Pausable />
+                <SoundEmitter />
+                <IncidentInfectable />
+                <FeedbackController />
+                <Industrializable />
+                <UpgradeList />
+                <LogisticNode />
+                <StreetActivation />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9027,10 +9205,34 @@
                 </Standard>
                 <Building>
                     <TerrainType>Coast</TerrainType>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Mesh />
+                <Object />
+                <AmbientMoodProvider />
+                <Constructable />
+                <Selection />
+                <Text />
+                <Shipyard />
+                <Cost />
+                <Locked />
+                <Maintenance />
+                <Infolayer />
+                <Attackable />
+                <Pausable />
+                <SoundEmitter />
+                <IncidentInfectable />
+                <FeedbackController />
+                <Industrializable />
+                <UpgradeList />
+                <LogisticNode />
+                <StreetActivation />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9045,10 +9247,34 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Cost />
+                <Object />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <Attackable />
+                <Pausable />
+                <IncidentInfectable/>
+                <Industrializable />
+                <Culture />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9063,10 +9289,34 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Cost />
+                <Object />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <Attackable />
+                <Pausable />
+                <IncidentInfectable/>
+                <Industrializable />
+                <Culture />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9081,10 +9331,34 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Cost />
+                <Object />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <Attackable />
+                <Pausable />
+                <IncidentInfectable/>
+                <Industrializable />
+                <Culture />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9099,10 +9373,34 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Cost />
+                <Object />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <Attackable />
+                <Pausable />
+                <IncidentInfectable/>
+                <Industrializable />
+                <Culture />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9117,10 +9415,34 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Cost />
+                <Object />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <UpgradeList />
+                <Factory7 />
+                <FactoryBase />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <Attackable />
+                <Pausable />
+                <IncidentInfectable/>
+                <Industrializable />
+                <Culture />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9135,10 +9457,34 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Mesh />
+                <Object />
+                <AmbientMoodProvider />
+                <Constructable />
+                <Selection />
+                <Text />
+                <Shipyard />
+                <Cost />
+                <Locked />
+                <Maintenance />
+                <Infolayer />
+                <Attackable />
+                <Pausable />
+                <SoundEmitter />
+                <IncidentInfectable />
+                <FeedbackController />
+                <Industrializable />
+                <UpgradeList />
+                <LogisticNode />
+                <StreetActivation />
+                <QuestObject />
+                <Electrifiable />
             </Values>
         </Asset>
     </ModOp>
@@ -9153,10 +9499,31 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
+                <Blocking />
+                <Mesh />
+                <Object />
+                <AmbientMoodProvider />
+                <Constructable />
+                <Selection />
+                <Text />
+                <Cost/>
+                <VisitorHarbor/>
+                <Infolayer/>
+                <BuildingUnique/>
+                <Locked />
+                <Attackable />
+                <Maintenance />
+                <SoundEmitter />
+                <Pausable />
+                <UpgradeList />
+                <Culture />
+                <StreetActivation />
+                <FeedbackController/>
             </Values>
         </Asset>
     </ModOp>
@@ -9171,196 +9538,96 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
+                    <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
                 </Locked>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="addNextSibling" GUID='101642'>
-        <Asset>
-            <BaseAssetGUID>101642</BaseAssetGUID>
-            <Values>
-                <Standard>
-                    <Name>Commuter Pier AI Replacement</Name>
-                    <GUID>88530010</GUID>
-                </Standard>
-                <Building>
-                    <TerrainType>Coast</TerrainType>
-                    <AssociatedRegions>Moderate</AssociatedRegions>
-                </Building>
-                <Locked>
-                    <DefaultLockedState>0</DefaultLockedState>
-                </Locked>
+                <Blocking />
+                <Mesh />
+                <Object />
+                <AmbientMoodProvider />
+                <Constructable />
+                <Selection />
+                <Text />
+                <Cost/>
+                <VisitorHarbor/>
+                <Infolayer/>
+                <BuildingUnique/>
+                <Locked />
+                <Attackable />
+                <Maintenance />
+                <SoundEmitter />
+                <Pausable />
+                <UpgradeList />
+                <Culture />
+                <StreetActivation />
+                <FeedbackController/>
             </Values>
         </Asset>
     </ModOp>
 
-    <!-- THANKS we can finally block the ai from building stuff it is not supposed to.-->
-    <ModOp Type="add" GUID='220' Path="/Values/ConstructionAI/BuildingReplacements">
+    <ModOp GUID='101642,102284,100429,101262,1010339,1010310,1010560,1010278,1010520,1010521,101277' Type="add" Path="/Values/Building">
+        <SecondPartyRelevant>0</SecondPartyRelevant>
+    </ModOp>
+
+    <ModOp  Type="addNextSibling" GUID='124742'>
+        <Asset>
+            <Template>ProductionChain</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133045</GUID>
+                    <Name>fake production chain for ai replacements</Name>
+                </Standard>
+                <ProductionChain>
+                    <Building>88530010</Building>
+                    <Tier1>
+                        <Item>
+                            <Building>88530009</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530008</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530007</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530006</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530005</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530004</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530003</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530002</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530001</Building>
+                        </Item>
+                        <Item>
+                            <Building>88530000</Building>
+                        </Item>
+                    </Tier1>
+                </ProductionChain>
+                <Locked>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID='25000189' Type = "add" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
-            <Building>101642</Building>
-            <Replacement>88530010</Replacement>
-        </Item>
-        <Item>
-            <Building>102284</Building>
-            <Replacement>88530009</Replacement>
-        </Item>
-        <Item>
-            <Building>100429</Building>
-            <Replacement>88530008</Replacement>
-        </Item>
-        <Item>
-            <Building>101262</Building>
-            <Replacement>88530006</Replacement>
-        </Item>
-        <Item>
-            <Building>1010339</Building>
-            <Replacement>88530005</Replacement>
-        </Item>
-        <Item>
-            <Building>1010310</Building>
-            <Replacement>88530004</Replacement>
-        </Item>
-        <Item>
-            <Building>1010560</Building>
-            <Replacement>88530003</Replacement>
-        </Item>
-        <Item>
-            <Building>1010278</Building>
-            <Replacement>88530002</Replacement>
-        </Item>
-        <Item>
-            <Building>8855001</Building>
-            <Replacement>1010371</Replacement>
-        </Item>
-        <Item>
-            <Building>8855002</Building>
-            <Replacement>100516</Replacement>
-        </Item>
-        <Item>
-            <Building>8855003</Building>
-            <Replacement>100517</Replacement>
-        </Item>
-        <Item>
-            <Building>1010520</Building>
-            <Replacement>88530000</Replacement>
-        </Item>
-        <Item>
-            <Building>1010521</Building>
-            <Replacement>88530001</Replacement>
-        </Item>
-        <Item>
-            <Building>8855052</Building>
-            <Replacement>1010462</Replacement>
-        </Item>
-        <Item>
-            <Building>8855054</Building>
-            <Replacement>1010464</Replacement>
-        </Item>
-        <Item>
-            <Building>8855050</Building>
-            <Replacement>1010463</Replacement>
-        </Item>
-        <Item>
-            <Building>8855051</Building>
-            <Replacement>1010463</Replacement>
-        </Item>
-        <Item>
-            <Building>8855053</Building>
-            <Replacement>1010462</Replacement>
-        </Item>
-        <Item>
-            <Building>8855055</Building>
-            <Replacement>1010464</Replacement>
-        </Item>
-        <Item>
-            <Building>8855005</Building>
-            <Replacement>101323</Replacement>
-        </Item>
-        <Item>
-            <Building>8855005</Building>
-            <Replacement>101323</Replacement>
-        </Item>
-        <Item>
-            <Building>8855006</Building>
-            <Replacement>101324</Replacement>
-        </Item>
-        <Item>
-            <Building>8855008</Building>
-            <Replacement>1010371</Replacement>
-        </Item>
-        <Item>
-            <Building>8855009</Building>
-            <Replacement>100516</Replacement>
-        </Item>
-        <Item>
-            <Building>8855010</Building>
-            <Replacement>100517</Replacement>
-        </Item>
-        <Item>
-            <Building>8855011</Building>
-            <Replacement>101323</Replacement>
-        </Item>
-        <Item>
-            <Building>8855012</Building>
-            <Replacement>101324</Replacement>
-        </Item>
-        <Item>
-            <Building>8856008</Building>
-            <Replacement>1010372</Replacement>
-        </Item>
-        <Item>
-            <Building>8856009</Building>
-            <Replacement>1010358</Replacement>
-        </Item>
-        <Item>
-            <Building>8856010</Building>
-            <Replacement>1010359</Replacement>
-        </Item>
-        <Item>
-            <Building>8856011</Building>
-            <Replacement>1010360</Replacement>
-        </Item>
-        <Item>
-            <Building>8856012</Building>
-            <Replacement>112128</Replacement>
-        </Item>
-        <Item>
-            <Building>8856016</Building>
-            <Replacement>100780</Replacement>
-        </Item>
-        <Item>
-            <Building>8856013</Building>
-            <Replacement>1010362</Replacement>
-        </Item>
-        <Item>
-            <Building>8856015</Building>
-            <Replacement>1010364</Replacement>
-        </Item>
-        <Item>
-            <Building>101277</Building>
-            <Replacement>88530007</Replacement>
-        </Item>
-        <Item>
-            <Building>8856017</Building>
-            <Replacement>101257</Replacement>
-        </Item>
-        <Item>
-            <Building>8856018</Building>
-            <Replacement>101258</Replacement>
-        </Item>
-        <Item>
-            <Building>8856019</Building>
-            <Replacement>101259</Replacement>
-        </Item>
-        <Item>
-            <Building>8856014</Building>
-            <Replacement>1010365</Replacement>
+            <Building>1440133045</Building>
         </Item>
     </ModOp>
-    <ModOp Type="add" GUID='167' Path="/Values/ConstructionAI">
+
+    <!-- Old Code-->
+    <!--
         <BuildingReplacements>
             <Item>
                 <Building>101642</Building>
@@ -9393,18 +9660,6 @@
             <Item>
                 <Building>1010278</Building>
                 <Replacement>88530002</Replacement>
-            </Item>
-            <Item>
-                <Building>8855001</Building>
-                <Replacement>1010371</Replacement>
-            </Item>
-            <Item>
-                <Building>8855002</Building>
-                <Replacement>100516</Replacement>
-            </Item>
-            <Item>
-                <Building>8855003</Building>
-                <Replacement>100517</Replacement>
             </Item>
             <Item>
                 <Building>1010520</Building>
@@ -9523,7 +9778,8 @@
                 <Replacement>1010365</Replacement>
             </Item>
         </BuildingReplacements>
-    </ModOp>
+
+     -->
 
     <!-- Visual Feedback  -->
     <ModOp Type="add" GUID='142785' Path="/Values/FeedbackBuildingGroup/Buildings">
@@ -9579,6 +9835,11 @@
     <ModOp Type="add" GUID='2001092' Path="/Values/FeedbackBuildingGroup/Buildings">
         <Item>
             <Building>8856005</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='142933' Path="/Values/FeedbackBuildingGroup/Buildings">
+        <Item>
+            <Building>1440133040</Building>
         </Item>
     </ModOp>
 
@@ -10440,5 +10701,115 @@
                 <TriggerSetup />
             </Values>
         </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133042</GUID>
+                    <Name>Trigger unlock Scholars</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>114445</UnlockNeeded>
+                            </ConditionUnlocked>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets />
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440133040</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133044</GUID>
+                    <Name>Trigger unlock Harbor Radio Tower</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>118736</UnlockNeeded>
+                            </ConditionUnlocked>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets />
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440133043</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Scholar Build Permits -->
+    <ModOp Type="addNextSibling" GUID='125266'>
+        <Asset>
+            <Template>BuildPermitGroup</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133041</GUID>
+                    <Name>ScholarGroup</Name>
+                </Standard>
+                <BuildPermitGroup>
+                    <Group>
+                        <Item>
+                            <BuildPermit>114445</BuildPermit>
+                        </Item>
+                        <Item>
+                            <BuildPermit>1440133040</BuildPermit>
+                        </Item>
+                    </Group>
+                </BuildPermitGroup>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID='125340' Type="replace" Path='/Values/Godlike/BuildPermit'>
+        <BuildPermit>1440133041</BuildPermit>
+    </ModOp>
+
+    <ModOp GUID='125010' Type="replace" Path="//ActionAddResource[Resource = '114445']/Resource">
+        <Resource>1440133041</Resource>
     </ModOp>
 </ModOps>

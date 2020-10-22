@@ -1,0 +1,82 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Harborlife",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Addon",
+    "French": null,
+    "German": "Addon",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Dodatek",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Harborlife",
+    "French": null,
+    "German": "Hafenstadt",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Build a unique city in the harbor area with a set of reworked buildings, starting with 750 artisans.",
+    "French": null,
+    "German": "Baue eine einzigartige Hafenstadt mit dafür vorgesehenen Gebäudevarianten ab 750 Handwerkern",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Harbor Residences sink into the quay area and have to be lifted up with the move tool",
+      "French": null,
+      "German": "Hafenwohnhäuser sinken in der Kaimauer ein und müssen mit dem Verschieben-Werkzeug angehoben werden.",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": "Permits for Harbour Scholar Residences can only be obtained by researching new ones.",
+      "French": null,
+      "German": "Genehmigungen für Hafen-Gelehrtenhäuser können nur durch das Erforschen neuer Genehmigungen erlangt werden.",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC":"LandOfLions",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Mystiquebee84",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

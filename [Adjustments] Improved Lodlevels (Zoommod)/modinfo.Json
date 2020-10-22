@@ -1,0 +1,64 @@
+{
+  "Version": "1",
+  "ModID": "Spice_ImprovedLodlevels",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Adjustments",
+    "French": null,
+    "German": "Anpassung",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Nastawienie",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Improved Level-of-detail",
+    "French": null,
+    "German": "Bessere Details",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Increases the level of detail at higher camera altitudes",
+    "French": null,
+    "German": "Erhöht das Detaillevel bei hohen Zoomstufen.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Can cause performance issues on weaker systems",
+      "French": null,
+      "German": "Kann Performanceeinbrüche auf schwächeren Systemen verursachen",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: kskudlik",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

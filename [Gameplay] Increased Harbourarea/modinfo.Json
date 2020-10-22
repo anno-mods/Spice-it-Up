@@ -1,0 +1,77 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Harborarea",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Increased Harbor Area",
+    "French": null,
+    "German": "Hafenbereich vergrößert",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Increases the Harbor area.",
+    "French": null,
+    "German": "Erhöht den Hafenbereich.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Crashes can happen more often when using DirectX12.",
+      "French": null,
+      "German": "DirectX12 kann Abstürze verursachen.",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": "Can rarely generate 'dead' pixels in the harbor area.",
+      "French": null,
+      "German": "Im Hafenbereich können vermehrt 'dead' Pixel auftreten.",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: MystiqueBee84",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

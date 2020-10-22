@@ -1,1 +1,0 @@
-Entfernt die Sprachfilter aus dem Spiel, weil sie kein Mensch braucht und sie nicht funktionieren. 

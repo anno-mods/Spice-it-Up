@@ -1,0 +1,52 @@
+{
+  "Version": "1",
+  "ModID": "Spice_NPCDiceDefault",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "NPC Diceroll improved",
+    "French": null,
+    "German": "Itemauswahl der NPC verbessert",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "The offered items of NPC were improved. You can also buy legendary and epic items. Make sure you check out the ingame item overview to see who offers which items.",
+    "French": null,
+    "German": "Die an den Handelsposten der NPC angebotenen Items wurden verbessert. Auch legendäre und epische Items sind kaufbar. In der Itemübersicht steht genau, wer welches Item anbietet.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: DaLexy and LonelyPorter",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

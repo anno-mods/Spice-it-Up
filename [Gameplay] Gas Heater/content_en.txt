@@ -1,2 +1,0 @@
-Adds a Gas Heater to the Arctic which can be built from 750 technicians. 
-Has a 50% larger Radius than coal heaters. 

@@ -1,0 +1,51 @@
+{
+  "Version": "1",
+  "ModID": "Spice_ClayCovers",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental",
+    "French": null,
+    "German": "Zierobjekte",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Clay Covers",
+    "French": null,
+    "German": "Lehmgruben-Schleier",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds Covers for Clay (Warehouse) and Oil Slots (Residences). Their appearance can be customized using Shift+V",
+    "French": null,
+    "German": "Fügt Schleier für Lehmgruben (Warenhaus) und Ölquellen (Wohnhaus) hinzu. Das Aussehen kann mit Umschalt+V verändert werden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

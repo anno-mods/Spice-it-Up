@@ -1,1 +1,0 @@
-Adds a bunch of trees with fences around them as ornaments.

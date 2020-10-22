@@ -1,0 +1,52 @@
+{
+  "Version": "1",
+  "ModID": "Spice_InfluenceRabalancing",
+  "IncompatibleIds": [
+    "Spice_InfluenceRemoved"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Influence Rebalancing",
+    "French": null,
+    "German": "Geänderte Einflusskosten",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Tweaks the values of influence cost for multiple different things to make beauty building easier, while increasing the cost of things that you do not want to build as much.",
+    "French": null,
+    "German": "Verändert die Einflusskosten von vielen Gebäuden etc. um Schönbau zu vereinfachen. Es gibt allerdings auch gesteigerte Kosten, bspw. für Pendler-Anlegestellen.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

@@ -1,0 +1,50 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Battlecruiserskins",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Miscellanous",
+    "French": null,
+    "German": "Verschiedenes",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Battlecruiser Skins",
+    "French": null,
+    "German": "Schlachtkreuzer-Skins",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds three new skins for battlecruisers. For everyone with a bit of modding experience there is a grayscale map for paint areas and a default battlecruiser color map included to make own skins.",
+    "French": null,
+    "German": "Fügt drei neue Skins für Schlachtkreuzer hinzu. Für jeden mit ein wenig Moddingerfahrung ist eine Graustufen-Textur für die bemalten Texturteile und eine Standard-Schlachtkreuzer-diffuse-Textur enthalten.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

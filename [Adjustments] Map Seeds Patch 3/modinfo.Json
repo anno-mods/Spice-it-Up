@@ -1,0 +1,50 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Mapseeds",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Adjustments",
+    "French": null,
+    "German": "Anpassung",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Nastawienie",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Map seeds Patch 3",
+    "French": null,
+    "German": "Kartenseeds Patch 3",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Changes the map seeds to those that were briefly in the game in patch 3.",
+    "French": null,
+    "German": "Ändert die Kartenseeds auf den Stand von Game Update 3.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

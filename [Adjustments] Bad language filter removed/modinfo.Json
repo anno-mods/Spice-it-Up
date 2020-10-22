@@ -1,0 +1,52 @@
+{
+  "Version": "1",
+  "ModID": "Spice_LanguageFilter",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Adjustments",
+    "French": null,
+    "German": "Anpassung",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Nastawienie",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Bad Language Filter removed",
+    "French": null,
+    "German": "Sprachfilter entfernt",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Removes the bad language filter from the game.",
+    "French": null,
+    "German": "Entfernt den Sprachfilter aus dem Spiel",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: DaLexy",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

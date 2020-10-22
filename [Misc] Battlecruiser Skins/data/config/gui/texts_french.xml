@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-skin "Acide"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-skin "Cube rouge" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-skin "Champ d'étoiles"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>Un serpent venimeux mord ses ennemis</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>N'a pas besoin de camouflague, préfère un engagement ouvert.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>Devient invisible la nuit.</Text>
+    </Text>
   </ModOp>
 </ModOps>

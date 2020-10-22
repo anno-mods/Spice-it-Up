@@ -1,0 +1,57 @@
+{
+  "Version": "1",
+  "ModID": "Spice_CommuterArctic",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Commuter pier for the Arctic",
+    "French": null,
+    "German": "Pendler-Anlegestelle in der Arktis",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds a commuter pier for the arctic region, which can connect the normal islands. Arctic cliffs cannot be connected.",
+    "French": null,
+    "German": "Fügt einen Pendlerkai für die Arktisregion hinzu, der die normalen Inseln miteinander verbindet. Klippen können nicht erreicht werden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

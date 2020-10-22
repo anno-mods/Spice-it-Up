@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text] 皮肤 "酸"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text] 皮肤 "红色立方体" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text] 皮肤 "星空"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>毒蛇咬它的敌人。</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>不需要伪装，更喜欢公开场合。</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>在晚上变得不可见。</Text>
+    </Text>
   </ModOp>
 </ModOps>

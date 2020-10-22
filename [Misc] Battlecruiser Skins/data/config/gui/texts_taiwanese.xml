@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text] 皮膚 "酸"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text] 皮膚 "紅色立方體" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text] 皮膚 "星空"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>毒蛇咬它的敵人</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>不需要牛逼，更喜歡開放式約會。</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>在晚上變得不可見。</Text>
+    </Text>
   </ModOp>
 </ModOps>

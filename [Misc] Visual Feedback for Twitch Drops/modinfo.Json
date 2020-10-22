@@ -1,0 +1,50 @@
+{
+  "Version": "1",
+  "ModID": "Spice_TwitchDrops",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Miscellanous",
+    "French": null,
+    "German": "Verschiedenes",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Visual Feedback for Twitch drops",
+    "French": null,
+    "German": "Visuelles Feedback für Twitchdrops",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Marketing is not always well received... #FckTwtchdrps",
+    "French": null,
+    "German": "Marketing zieht manchmal Unzufriedenheit nach sich... #FckTwtchdrps",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

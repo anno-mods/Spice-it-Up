@@ -1,0 +1,237 @@
+<ModOps>
+	<ModOp Type="add" GUID='117897' Path="/Values/ConstructionCategory/BuildingList">
+		<Item>
+			<Building>1440133001</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='119014' Path="/Values/ConstructionCategory/BuildingList/Item[Building='117871']">
+		<Item>
+			<Building>1440133001</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='130248'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440133000</GUID>
+					<Name>intermediate Africa 2.4 Commuter Pier</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_arctic_tier02.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>114330</Context>
+								<CounterAmount>1500</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1440133001</Asset>
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440133002</GUID>
+					<Name>intermediate Africa 2.3 Commuter Pier</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>114330</Context>
+								<CounterAmount>1000</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnhideAssets>
+											<Item>
+												<Asset>1440133001</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+	</ModOp>
+	<!-- Asset Commuter Pier Africa -->
+	<ModOp Type="addNextSibling" GUID='101642'>
+		<Asset>
+			<Template>WorkforceConnector</Template>
+			<Values>
+				<Standard>
+					<GUID>1440133001</GUID>
+					<Name>harbor_16_enbesa (Commuter Pier Africa)</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_commuter_pier.png</IconFilename>
+					<InfoDescription>13561</InfoDescription>
+				</Standard>
+				<Building>
+					<BuildingCategoryName>11150</BuildingCategoryName>
+					<AssociatedRegions>Africa</AssociatedRegions>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>117730</GroundDecalAsset>
+					<GroundDecalInvisible>117731</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Mesh />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/modgraphics_enbesa/buildings/special/workforce_transfer_building/workforce_transfer_building.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<AmbientMoodProvider>
+					<Murmur>Harbor</Murmur>
+				</AmbientMoodProvider>
+				<Constructable />
+				<Selection>
+					<GUIType>WorkforceConnector</GUIType>
+				</Selection>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Commuter Pier</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>21447</LineID>
+				</Text>
+				<Cost>
+					<Costs>
+						<Item>
+							<Ingredient>1010017</Ingredient>
+							<Amount>25000</Amount>
+						</Item>
+						<Item>
+							<Ingredient>114356</Ingredient>
+							<Amount>50</Amount>
+						</Item>
+						<Item>
+							<Ingredient>114402</Ingredient>
+							<Amount>50</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010218</Ingredient>
+							<Amount>20</Amount>
+						</Item>
+					</Costs>
+					<InfluenceCostType>WorkforceTransfer</InfluenceCostType>
+				</Cost>
+				<Locked />
+				<Maintenance>
+					<Maintenances>
+						<Item>
+							<Product>1010017</Product>
+							<Amount>2500</Amount>
+							<InactiveAmount>1250</InactiveAmount>
+						</Item>
+					</Maintenances>
+				</Maintenance>
+				<Infolayer />
+				<Attackable>
+					<MaximumHitPoints>5000</MaximumHitPoints>
+					<HPBarOffset>5</HPBarOffset>
+					<PausedTimeIfAttacked>0</PausedTimeIfAttacked>
+					<SelfHealPerHealTick>5</SelfHealPerHealTick>
+					<TakeOverEffect>OnDeath</TakeOverEffect>
+					<MoralePower>100</MoralePower>
+					<IslandWarFlag>102303</IslandWarFlag>
+					<ExplosionEffects>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>WorkforceConnector</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+						</Item>
+						<Item>
+							<ExplosionEffectFilePath>data/graphics/effects/military/explosions/harbor_generic_xpl_02.cfg</ExplosionEffectFilePath>
+						</Item>
+					</ExplosionEffects>
+					<ExplosionEffectsMin>2</ExplosionEffectsMin>
+					<ExplosionEffectsMax>3</ExplosionEffectsMax>
+				</Attackable>
+				<Pausable>
+					<CanPauseManually>1</CanPauseManually>
+				</Pausable>
+				<SoundEmitter>
+					<BuildingRuined>
+						<Item>
+							<Sound>203848</Sound>
+						</Item>
+					</BuildingRuined>
+					<BuildingRepaired>
+						<Item>
+							<Sound>203866</Sound>
+						</Item>
+					</BuildingRepaired>
+				</SoundEmitter>
+				<IncidentInfectable />
+				<FeedbackController />
+				<WorkforceConnector />
+				<UpgradeList />
+				<IslandUnique />
+				<StreetActivation />
+				<LogisticNode />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="add" GUID='501065' Path="/Values/ObjectmenuCommuterHarbourScene/WorkforceToRegion">
+		<Africa>
+			<WorkforceList>
+				<Item>
+					<Workforce>114340</Workforce>
+				</Item>
+				<Item>
+					<Workforce>114341</Workforce>
+				</Item>
+			</WorkforceList>
+		</Africa>
+	</ModOp>
+</ModOps>

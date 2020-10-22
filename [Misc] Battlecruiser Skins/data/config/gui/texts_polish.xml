@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Kwas"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Czerwona kostka" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Pole gwiazdy"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>Jadowity wąż gryzie swoich wrogów</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>Nie potrzebuje kamuflażu, woli otwarte starcie.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>W nocy staje się niewidoczny.</Text>
+    </Text>
   </ModOp>
 </ModOps>

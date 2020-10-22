@@ -1,0 +1,838 @@
+<ModOps>
+	<ModOp Type="addNextSibling" GUID='190930'>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190063</GUID>
+					<Name>super fertility potato</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_potatoe.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Potato Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27067</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>100000</TradePrice>
+					<TradePriceOnlineCurrency>1000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010569</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>190785</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190064</GUID>
+					<Name>super fertility grain</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_grain.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Grain Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27068</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>100000</TradePrice>
+					<TradePriceOnlineCurrency>1000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010571</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010262</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190065</GUID>
+					<Name>super fertility hops</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_hops.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Hops Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27069</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>100000</TradePrice>
+					<TradePriceOnlineCurrency>1000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010572</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010264</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190373</GUID>
+					<Name>super fertility paprika</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_pepper.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Paprika Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27070</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>150000</TradePrice>
+					<TradePriceOnlineCurrency>1500</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010570</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>100654</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190068</GUID>
+					<Name>super fertility cocoa</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_cocoa.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Cocoa Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27071</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>200000</TradePrice>
+					<TradePriceOnlineCurrency>2000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010575</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010332</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190066</GUID>
+					<Name>super fertility sugar cane</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_sugar.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Sugar Cane Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27072</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>200000</TradePrice>
+					<TradePriceOnlineCurrency>2000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010573</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010329</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190067</GUID>
+					<Name>super fertility caoutchouc</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_rubber.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Caoutchouc Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27073</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>200000</TradePrice>
+					<TradePriceOnlineCurrency>2000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010574</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010333</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190374</GUID>
+					<Name>super fertility grapes</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_grapes.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Grape Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27074</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>300000</TradePrice>
+					<TradePriceOnlineCurrency>3000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>120013</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>100655</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190070</GUID>
+					<Name>super fertility tobacco</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_tobacco.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Tobacco Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27076</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>300000</TradePrice>
+					<TradePriceOnlineCurrency>3000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010577</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010330</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190069</GUID>
+					<Name>super fertility cotton</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_cotton.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Cotton Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27077</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>300000</TradePrice>
+					<TradePriceOnlineCurrency>3000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>1010576</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>1010331</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190150</GUID>
+					<Name>super fertility Coffee</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_coffee.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Cotton Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27077</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>300000</TradePrice>
+					<TradePriceOnlineCurrency>3000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>120039</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>101251</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>GuildhouseItem</Template>
+			<Values>
+				<Standard>
+					<GUID>190151</GUID>
+					<Name>super fertility Coffee</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_fertility_banana.png</IconFilename>
+				</Standard>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Cotton Super Seeds</Text>
+							<Status>Exported</Status>
+							<ExportCount>1</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>27077</LineID>
+				</Text>
+				<Item>
+					<Rarity>Legendary</Rarity>
+					<TradePrice>250000</TradePrice>
+					<TradePriceOnlineCurrency>3000</TradePriceOnlineCurrency>
+				</Item>
+				<FactoryUpgrade>
+					<ProductivityUpgrade>
+						<Value>50</Value>
+						<Percental>1</Percental>
+					</ProductivityUpgrade>
+					<AddedFertility>120040</AddedFertility>
+				</FactoryUpgrade>
+				<ItemEffect>
+					<EffectTargets>
+						<Item>
+							<GUID>101263</GUID>
+						</Item>
+					</EffectTargets>
+				</ItemEffect>
+				<ItemAction />
+				<ExpeditionAttribute>
+					<ItemDifficulties>Hard</ItemDifficulties>
+				</ExpeditionAttribute>
+				<CultureUpgrade />
+				<BuildingUpgrade />
+				<ModuleOwnerUpgrade />
+				<IncidentInfluencerUpgrade />
+				<IncidentInfectableUpgrade />
+				<ResidenceUpgrade />
+				<PopulationUpgrade />
+				<ElectricUpgrade />
+				<Locked />
+				<Buff />
+				<CraftableItem />
+				<HeaterUpgrade />
+				<PowerplantUpgrade />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='192970'>
+		<Asset>
+			<Template>RewardPool</Template>
+			<Values>
+				<Standard>
+					<GUID>902287</GUID>
+					<Name>Northern Seeds - Legendary</Name>
+				</Standard>
+				<RewardPool>
+					<ItemsPool>
+						<Item>
+							<ItemLink>190064</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190374</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190065</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190373</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190063</ItemLink>
+						</Item>
+					</ItemsPool>
+				</RewardPool>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='192970'>
+		<Asset>
+			<Template>RewardPool</Template>
+			<Values>
+				<Standard>
+					<GUID>902288</GUID>
+					<Name>Southern Seeds - Legendary</Name>
+				</Standard>
+				<RewardPool>
+					<ItemsPool>
+						<Item>
+							<ItemLink>190067</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190068</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190069</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190066</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190070</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190150</ItemLink>
+						</Item>
+						<Item>
+							<ItemLink>190151</ItemLink>
+						</Item>
+					</ItemsPool>
+				</RewardPool>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+	<!-- Asset Unlocks (Seeds) -->
+	<ModOp Type="addNextSibling" GUID='130248'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>99334170</GUID>
+					<Name>intermediate Legendary Seeds</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_tier05.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>15000004</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>190064</Asset>
+											</Item>
+											<Item>
+												<Asset>190374</Asset>
+											</Item>
+											<Item>
+												<Asset>190065</Asset>
+											</Item>
+											<Item>
+												<Asset>190373</Asset>
+											</Item>
+											<Item>
+												<Asset>190063</Asset>
+											</Item>
+											<Item>
+												<Asset>190067</Asset>
+											</Item>
+											<Item>
+												<Asset>190068</Asset>
+											</Item>
+											<Item>
+												<Asset>190069</Asset>
+											</Item>
+											<Item>
+												<Asset>190066</Asset>
+											</Item>
+											<Item>
+												<Asset>190070</Asset>
+											</Item>
+											<Item>
+												<Asset>190150</Asset>
+											</Item>
+											<Item>
+												<Asset>190151</Asset>
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Southern Super Seeds at Isabel -->
+	<ModOp Type="add" GUID='192073' Path="/Values/RewardPool/ItemsPool">
+		<Item>
+			<ItemLink>902288</ItemLink>
+			<!-- Southern Seeds - Legendary -->
+			<Weight>2</Weight>
+		</Item>
+	</ModOp>
+	<!-- Northern Super Seeds at Kahina -->
+	<ModOp Type="add" GUID='192068' Path="/Values/RewardPool/ItemsPool">
+		<Item>
+			<ItemLink>902287</ItemLink>
+			<!-- Northern Seeds - Legendary -->
+			<Weight>5</Weight>
+		</Item>
+	</ModOp>
+</ModOps>

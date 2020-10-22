@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-Skin "ácido"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Cubo rojo" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin"Campo de estrellas"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>Una serpiente venenosa que muerde a sus enemigos.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>No necesita camuflaje, prefiere un compromiso abierto.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>Se vuelve invisible por la noche.</Text>
+    </Text>
   </ModOp>
 </ModOps>

@@ -1,0 +1,55 @@
+{
+  "Version": "1",
+  "ModID": "Spice_LimitlessItemtrade",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Unlimited Itemtrade",
+    "French": null,
+    "German": "Unbegrenzter Itemkauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Removes the limit on items that can be bought from traders. \nKeep in mind that this limit only is active with Land of Lions, so you don't need this mod if you don't have this DLC!",
+    "French": null,
+    "German": "Entfernt das Limit auf Items, die bei Händlern gekauft werden können. \nDieses Limit gilt nur mit dem \"Land der Löwen\"-DLC, ansonsten ist die Mod überflüssig. ",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

@@ -1,3 +1,0 @@
-Adds the Option to give other human Players money. 
-
-UI is fucked up, and no notifications are put out, but it works. 

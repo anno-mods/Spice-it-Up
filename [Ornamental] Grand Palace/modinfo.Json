@@ -1,0 +1,57 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Palace",
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "SeatOfPower"
+  ],
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental",
+    "French": null,
+    "German": "Zierobjekte",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Grand Palace",
+    "French": null,
+    "German": "Großer Palast",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds ornamental versions of the palace which can be built infinitly and unconnected.",
+    "French": null,
+    "German": "Fügt den Palastbausatz als Ornamente hinzu, die unbegrenzt und unverbunden gebaut werden können.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "SeatOfPower",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

@@ -1,1 +1,0 @@
-Adds Ornamental Variants of the Palace, which don't have any effect and can be built infinitely

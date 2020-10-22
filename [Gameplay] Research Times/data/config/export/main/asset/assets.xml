@@ -1,0 +1,14 @@
+<ModOps>
+    <ModOp GUID = '120244' Type = "replace" Path = '/Values/ResearchFeature/ItemCraftingConfig/*/MaximumWorkforceTime'>
+        <MaximumWorkforceTime>60000</MaximumWorkforceTime>
+    </ModOp>
+    <ModOp GUID = '120244' Type = "replace" Path = '/Values/ResearchFeature/ItemCraftingConfig/*/MaximumWorkforceAmount'>
+        <MaximumWorkforceAmount>50000</MaximumWorkforceAmount>
+    </ModOp>
+    <ModOp Path = "//Godlike/CraftingConfig/MaximumWorkforceAmount" Type = "replace">
+        <MaximumWorkforceAmount>50000</MaximumWorkforceAmount>
+    </ModOp>
+    <ModOp Path = "//Godlike/CraftingConfig/MaximumWorkforceTime" Type = "replace">
+        <MaximumWorkforceTime>60000</MaximumWorkforceTime>
+    </ModOp>
+</ModOps>

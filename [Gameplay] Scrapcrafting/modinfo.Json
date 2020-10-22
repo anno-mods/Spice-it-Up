@@ -1,0 +1,73 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Scrapcrafting",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Scrapcrafting",
+    "French": null,
+    "German": "Schrott umwandeln",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Old Nate can craft 1 nice scrap from 5 scrap and 1 special scrap from 5 nice scrap.",
+    "French": null,
+    "German": "Der alte Nate kann Schrott umwandeln: 5 Schrott -\u003E 1 Schöner Schrott und 5 Schöner Schrott -\u003E 1 Besonderer Schrott",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Only one ton of scrap can be transmuted at a time",
+      "French": null,
+      "German": "Es kann immer nur eine Tonne Schrott umgewandelt werden",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "SunkenTreasures",
+      "Dependant": "atLeastOneRequired"
+    },
+    {
+      "DLC": "ThePassage",
+      "Dependant": "atLeastOneRequired"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

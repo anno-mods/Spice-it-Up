@@ -1,2 +1,0 @@
-Adds an Active Pause (slow mo) mode to the game which can be enabled by pressing 'Keypad 9'.
-Hotkey can be changed ingame in the options menu

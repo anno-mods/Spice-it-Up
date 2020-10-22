@@ -1,0 +1,79 @@
+{
+  "Version": "1",
+  "ModID": "Spice_SeedSearch",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Easy Seed Search",
+    "French": null,
+    "German": "Schnelle Seedsuche",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "All Regions are unlocked at the start and can be entered via world map.",
+    "French": null,
+    "German": "Alle Regionen sind zum Start freigeschaltet und können über die Weltkarte betreten werden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Storylines are broken when using this mod! Only use it for searching a seed, then deactivate the mod and start a new game with the same seed!",
+      "French": null,
+      "German": "Storylines werden mit diesem Mod nicht starten! Nur für die Seedsuche gedacht. Sobald ein Seed gefunden ist, Mod deaktivieren und ein neues Spiel mit diesem Seed starten!",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "SunkenTreasures",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "ThePassage",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Miraak und Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

@@ -1,4 +1,7 @@
 <ModOps>
+  <!-- todo: check what building each of these is changing and where.  -->
+  <!-- comment each of them -->
+  <!-- world fair ornaments seems to make some problems. -->
   <ModOp Type="remove" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501487']" />
   <ModOp Type="remove" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501484']" />
   <ModOp Type="add" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList">
@@ -22,7 +25,6 @@
   </ModOp>
 
   <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501485']"/>
-  <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501488']"/>
   <ModOp Type="addNextSibling" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500021']">
     <Item>
       <Building>501485</Building>
@@ -38,6 +40,7 @@
       <Values>
         <Standard>
           <GUID>976510</GUID>
+          <Name>Construction Category Culture North</Name>
           <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness.png</IconFilename>
         </Standard>
         <ConstructionCategory>
@@ -63,6 +66,7 @@
       <Values>
         <Standard>
           <GUID>976511</GUID>
+          <Name>Construction Category Culture South</Name>
           <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness.png</IconFilename>
         </Standard>
         <ConstructionCategory>
@@ -148,4 +152,3 @@
     </Item>
   </ModOp>
 </ModOps>
-

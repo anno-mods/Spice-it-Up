@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Acid"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Redcube" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin"Starfield"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>A poisonous snake biting it's enemies</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>Does not need cowmooflague, prefers an open engagement.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>Becomes invisible at night.</Text>
+    </Text>
   </ModOp>
 </ModOps>

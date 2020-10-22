@@ -1,2 +1,0 @@
-Fügt eine extra langsame Spielgeschwindigkeit hinzu, die standardmäßig mit der Taste 'NUMPAD 9' aktiviert wird. 
-Dieser Hotkey kann im Optionsmenu geändert werden.

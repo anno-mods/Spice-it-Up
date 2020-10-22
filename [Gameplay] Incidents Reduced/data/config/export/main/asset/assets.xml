@@ -1,14 +1,26 @@
 <ModOps>
-  <ModOp Type="replace" GUID='2001040,2001025,140585' Path="/Values/Incident/InfectionData">
-    <InfectionData>
-      <InfectionBaseIntervalMin>20000</InfectionBaseIntervalMin>
-      <InfectionBaseIntervalMax>70000</InfectionBaseIntervalMax>
-    </InfectionData>
-  </ModOp>
-  <ModOp Type="add" GUID='141655' Path="/Values/Incident">
-    <InfectionData>
-      <InfectionBaseIntervalMin>80000</InfectionBaseIntervalMin>
-      <InfectionBaseIntervalMax>240000</InfectionBaseIntervalMax>
-    </InfectionData>
+  <ModOp Type="replace" GUID='2002450' Path="/Values/DifficultySettings/Incidents">
+    <Incidents>
+      <Easy>
+        <ValueName>11031</ValueName>
+        <IncidentIntervalMin>120000</IncidentIntervalMin>
+        <IncidentIntervalMax>360000</IncidentIntervalMax>
+        <IncidentCooldown>1440000</IncidentCooldown>
+      </Easy>
+      <Hard>
+        <Points>20</Points>
+        <ValueName>11033</ValueName>
+        <IncidentIntervalMin>120000</IncidentIntervalMin>
+        <IncidentIntervalMax>240000</IncidentIntervalMax>
+        <IncidentCooldown>480000</IncidentCooldown>
+      </Hard>
+      <Medium>
+        <Points>15</Points>
+        <ValueName>11032</ValueName>
+        <IncidentIntervalMin>120000</IncidentIntervalMin>
+        <IncidentIntervalMax>180000</IncidentIntervalMax>
+        <IncidentCooldown>960000</IncidentCooldown>
+      </Medium>
+    </Incidents>
   </ModOp>
 </ModOps>

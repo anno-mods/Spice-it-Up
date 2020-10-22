@@ -1,1 +1,0 @@
-Adds player color red instead of player color black to be available at the start of the game. 

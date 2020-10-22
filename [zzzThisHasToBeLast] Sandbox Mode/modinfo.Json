@@ -1,0 +1,64 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Sandbox",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Addon",
+    "French": null,
+    "German": "Addon",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Dodatek",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Sandbox mode",
+    "French": null,
+    "German": "Sandboxmodus",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "All Buildings are in the construction menu from the start.",
+    "French": null,
+    "German": "Alle Gebäude sind von Beginn an im Baumenü verfügbar",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": "Only works in new savegames",
+      "French": null,
+      "German": "Only works in new savegames",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

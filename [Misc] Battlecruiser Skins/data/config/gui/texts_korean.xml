@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-피부 "산"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-피부 "레드 큐브" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-피부 "스타 필드"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>적을 물고있는 독사</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>위장이 필요하지 않으며 공개 교전을 선호합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>밤에는 보이지 않게됩니다.</Text>
+    </Text>
   </ModOp>
 </ModOps>

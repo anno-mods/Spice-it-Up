@@ -12,13 +12,14 @@
 				<Building>
 					<BuildingCategoryName>11150</BuildingCategoryName>
 					<SnapRadius>10</SnapRadius>
+					<TerrainType>Coast</TerrainType>
 					<AssociatedRegions>Moderate</AssociatedRegions>
 				</Building>
 				<Blocking>
 					<GroundDecalAsset>100446</GroundDecalAsset>
 					<GroundDecalInvisible>101008</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-					<HarbourAreaExpand>1</HarbourAreaExpand>
+					<HarbourAreaExpand>0</HarbourAreaExpand>
 				</Blocking>
 				<Mesh/>
 				<Object>
@@ -155,6 +156,13 @@
 							<Sound>200896</Sound>
 						</Item>
 					</ActiveSounds>
+					<IncidentSounds>
+						<InfectedFire>
+							<Item>
+								<Sound>214659</Sound>
+							</Item>
+						</InfectedFire>
+					</IncidentSounds>
 					<BuildingRuined>
 						<Item>
 							<Sound>203848</Sound>
@@ -166,15 +174,14 @@
 						</Item>
 					</BuildingRepaired>
 				</SoundEmitter>
-				<IncidentInfectable/>
-				<FeedbackController/>
-				<Electric>
-					<ProductivityBoost>1</ProductivityBoost>
-				</Electric>
-				<UpgradeList/>
-				<LogisticNode/>
-				<StreetActivation/>
-				<QuestObject/>
+				<IncidentInfectable />
+				<FeedbackController />
+				<Industrializable />
+				<UpgradeList />
+				<LogisticNode />
+				<StreetActivation />
+				<QuestObject />
+				<Electrifiable />
 			</Values>
 		</Asset>
 	</ModOp>

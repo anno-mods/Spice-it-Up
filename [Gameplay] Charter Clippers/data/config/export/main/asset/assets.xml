@@ -33,7 +33,7 @@
                 <ItemContainer>
                     <SocketCount>0</SocketCount>
                     <SlotCount>1</SlotCount>
-                    <StackLimit>150</StackLimit>
+                    <StackLimit>200</StackLimit>
                 </ItemContainer>
                 <FeedbackController />
                 <Draggable />
@@ -49,7 +49,7 @@
                 <MetaPersistent />
                 <ExpeditionAttribute />
                 <ShipMaintenance>
-                    <Maintenance>700</Maintenance>
+                    <Maintenance>400</Maintenance>
                 </ShipMaintenance>
                 <Sellable />
                 <Stance />

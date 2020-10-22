@@ -248,5 +248,13 @@
       <GUID>88530005</GUID>
       <Text>[AssetData(1010339) Text] </Text>
     </Text>
+    <Text>
+      <GUID>1440133040</GUID>
+      <Text>[AssetData(114445) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440133043</GUID>
+      <Text>[AssetData(118736) Text]</Text>
+    </Text>
   </ModOp>
 </ModOps>

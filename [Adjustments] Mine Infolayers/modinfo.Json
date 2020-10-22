@@ -1,0 +1,52 @@
+{
+  "Version": "1",
+  "ModID": "Spice_MineInfolayers",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Adjustments",
+    "French": null,
+    "German": "Anpassung",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Nastawienie",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Mine Infolayers",
+    "French": null,
+    "German": "Minen-Infoicons",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "The Icon above mine slots will directly show what resource they contain.",
+    "French": null,
+    "German": "Die Icons über Rohstoffvorkommen zeigen direkt an, von welcher Art diese sind.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

@@ -2,9 +2,9 @@
   <BoundingBox>
     <Name>BoundingBox</Name>
     <Position>
-      <xf>6.307031</xf>
+      <xf>6.037721</xf>
       <yf>1.995281</yf>
-      <zf>0</zf>
+      <zf>0.01952803</zf>
     </Position>
     <Rotation>
       <xf>0</xf>
@@ -13,9 +13,9 @@
       <wf>1</wf>
     </Rotation>
     <Extents>
-      <xf>8.607031</xf>
+      <xf>8.876342</xf>
       <yf>4.881999</yf>
-      <zf>3.3</zf>
+      <zf>3.319528</zf>
     </Extents>
   </BoundingBox>
   <MeshBoundingBox>
@@ -79,7 +79,7 @@
   <Dummy>
     <Name>harbourblock01</Name>
     <Position>
-      <xf>19.60625</xf>
+      <xf>21.6</xf>
       <yf>0</yf>
       <zf>-4.386902E-05</zf>
     </Position>
@@ -90,7 +90,7 @@
       <wf>1</wf>
     </Rotation>
     <Extents>
-      <xf>4.424926</xf>
+      <xf>4.4</xf>
       <yf>0.1235786</yf>
       <zf>0.9331604</zf>
     </Extents>
@@ -332,6 +332,12 @@
   <Sequence>
     <Id>3000</Id>
     <Duration>46666</Duration>
+    <Looped>1</Looped>
+    <Speed>1</Speed>
+  </Sequence>
+  <Sequence>
+    <Id>3002</Id>
+    <Duration>1000</Duration>
     <Looped>1</Looped>
     <Speed>1</Speed>
   </Sequence>

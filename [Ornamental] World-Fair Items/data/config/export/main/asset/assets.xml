@@ -2762,7 +2762,6 @@
     <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501499']"/>
     <!-- remove og construction menu of world fair monuments -->
     <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501488']"/>
-    <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501499']"/>
     <ModOp Type="remove" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501695']"/>
     <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501694']"/>
     <!-- moderate construction menu 5 (tier) -->
@@ -2955,7 +2954,6 @@
             </Item>
         </RewardThresholds>
     </ModOp>
-    <ModOp Type="remove" GUID='17006' Path="/Values/MonumentEvent/MinAttractiveness"/>
     <ModOp Type="replace" GUID='17007' Path="/Values/MonumentEvent/RewardThresholds">
         <RewardThresholds>
             <Item>
@@ -2972,7 +2970,6 @@
             </Item>
         </RewardThresholds>
     </ModOp>
-    <ModOp Type="remove" GUID='17007' Path="/Values/MonumentEvent/MinAttractiveness"/>
     <ModOp Type="replace" GUID='17008' Path="/Values/MonumentEvent/RewardThresholds">
         <RewardThresholds>
             <Item>
@@ -3302,6 +3299,7 @@
     <!-- replacement of mosaic  -->
     <ModOp Type="remove" GUID='501823,501824' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102466']"/>
     <!-- removal of channel category -->
+    <!-- throws errors: Don't care -->
     <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501498']"/>
     <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501693']"/>
 
@@ -3319,7 +3317,7 @@
     </ModOp>
 
     <!-- 102475, 102474, 102473 need added attractiveness -->
-    <ModOp Type = "replace" GUID = '102473, 102474, 102475' Path = "/Values/Ornament/OrnamentUnit">
+    <ModOp Type = "replace" GUID = '102473,102474,102475' Path = "/Values/Ornament/OrnamentUnit">
         <OrnamentUnit>50</OrnamentUnit>
     </ModOp>
 </ModOps>

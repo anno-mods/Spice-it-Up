@@ -171,8 +171,10 @@
                         <Item />
                     </InfluencedVariationDirection>
                     <AllowChangeVariation>1</AllowChangeVariation>
+                    <AllowChangeDirection>1</AllowChangeDirection>
                     <BuildingBlockPool />
                     <InfluencedByNeighbors />
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking />
                 <Cost />
@@ -264,6 +266,166 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+            </Properties>
+        </Template>
+        <Template>
+            <Name>HarborResidence_BuildPermit</Name>
+            <Properties>
+                <Standard />
+                <Blocking />
+                <Building>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <TerrainType>Water</TerrainType>
+                    <BuildingType>Residence</BuildingType>
+                    <BuildingCategoryName>100004</BuildingCategoryName>
+                    <InfluencedVariationDirection>
+                        <Item />
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>3</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Direction>2</Direction>
+                            <Type>Corner</Type>
+                        </Item>
+                        <Item>
+                            <Direction>1</Direction>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item>
+                            <Type>Mid</Type>
+                        </Item>
+                        <Item />
+                    </InfluencedVariationDirection>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <AllowChangeDirection>1</AllowChangeDirection>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                </Object>
+                <Selection>
+                    <ParticipantMessageTrigger>ClickResidence</ParticipantMessageTrigger>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Text />
+                <Constructable>
+                    <DestructionCategory>Production</DestructionCategory>
+                </Constructable>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Upgradable>
+                    <UpgradeCost>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </UpgradeCost>
+                </Upgradable>
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveSuccess>
+                            <Item>
+                                <Sound>203995</Sound>
+                            </Item>
+                        </BuildMoveSuccess>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200141</Sound>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <Infolayer />
+                <FeedbackController />
+                <Residence7 />
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                    <TransporterAsset>1010106</TransporterAsset>
+                    <NeedsTransporterQueue>0</NeedsTransporterQueue>
+                </LogisticNode>
+                <AmbientMoodProvider>
+                    <AmbientMood>ResidenceTier1</AmbientMood>
+                    <DynamicEnvironmentType>Building_Residence</DynamicEnvironmentType>
+                </AmbientMoodProvider>
+                <UpgradeList />
+                <Attackable>
+                    <HasRuinState>1</HasRuinState>
+                </Attackable>
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <BuildPermit />
             </Properties>
         </Template>
     </ModOp>

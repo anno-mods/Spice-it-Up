@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Acid"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Redcube"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133062</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Starfield"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>Eine giftige Schlange beißt tödlich.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>Braucht keine Tarnung, zieht den offenen Kampf vor.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>Wird bei Nacht unsichtbar</Text>
+    </Text>
   </ModOp>
 </ModOps>

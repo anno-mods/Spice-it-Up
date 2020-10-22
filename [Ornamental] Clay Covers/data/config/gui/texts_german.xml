@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>Lehmgruben Schleier (Visuell)</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>Öl Schleier (Visuell)</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>Lehmgruben Schleier (Visuell)</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>Öl Schleier (Visuell)</Text>
+    </Text>
+    <Text>
+      <GUID>1440133020</GUID>
+      <Text>Schleier</Text>
+    </Text>
+    <Text>
+      <GUID>1440133021</GUID>
+      <Text>Schleier</Text>
+    </Text>
+  </ModOp>
+</ModOps>

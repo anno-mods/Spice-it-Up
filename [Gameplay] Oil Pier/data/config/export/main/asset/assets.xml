@@ -1,6 +1,6 @@
 <!-- ############################################################################################################### -->
-    <!-- ########### [Freight Harbor] Oil Pier ######################################################################### -->
-    <!-- Moderate:         | UL 1 Engineer -->
+<!-- ########### [Freight Harbor] Oil Pier ######################################################################### -->
+<!-- Moderate:         | UL 1 Engineer -->
 <ModOps>
     <ModOp Type="addNextSibling" GUID='100519'>
         <Asset>
@@ -307,6 +307,164 @@
             </Values>
         </Asset>
     </ModOp>
+    <ModOp Type="addNextSibling" GUID='101344'>
+        <Asset>
+            <Template>OilHarborLandingStage</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133050</GUID>
+                    <Name>Oil_Pier_AF</Name>
+                    <IconFilename>data/graphics/hc/__icons/oil_pier.png</IconFilename>
+                    <InfoDescription>8850081</InfoDescription>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Oil Pier</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID>7022</LineID>
+                </Text>
+                <Blocking>
+                    <GroundDecalAsset>117730</GroundDecalAsset>
+                    <GroundDecalInvisible>117731</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <HarbourAreaExpand>0</HarbourAreaExpand>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11150</BuildingCategoryName>
+                    <Destructable>1</Destructable>
+                    <TerrainType>Water</TerrainType>
+                    <AssociatedRegions>Africa</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>5000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>40</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>55</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>60</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>40</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>20</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <GUIType>Generic</GUIType>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/harbor/oil_pier/africa/oil_pier_en.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter>
+                    <ActiveSounds>
+                        <Item>
+                            <Sound>200896</Sound>
+                        </Item>
+                    </ActiveSounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                            <Item>
+                                <Sound>206544</Sound>
+                            </Item>
+                        </BuildSuccessful>
+                    </ConstructionSounds>
+                    <BuildingRuined>
+                        <Item>
+                            <Sound>203848</Sound>
+                        </Item>
+                    </BuildingRuined>
+                    <BuildingRepaired>
+                        <Item>
+                            <Sound>203866</Sound>
+                        </Item>
+                    </BuildingRepaired>
+                </SoundEmitter>
+                <Locked />
+                <Infolayer />
+                <FeedbackController />
+                <MinimapToken />
+                <AmbientMoodProvider />
+                <LoadingPier>
+                    <NumOfPiers>1</NumOfPiers>
+                    <LoadingSpeed>100</LoadingSpeed>
+                    <MinLoadingTime>5</MinLoadingTime>
+                </LoadingPier>
+                <Attackable>
+                    <MaximumHitPoints>4000</MaximumHitPoints>
+                    <HPBarOffset>5.5</HPBarOffset>
+                    <HasRuinState>1</HasRuinState>
+                    <PausedTimeIfAttacked>0</PausedTimeIfAttacked>
+                    <SelfHealPerHealTick>5</SelfHealPerHealTick>
+                    <TakeOverEffect>OnDeath</TakeOverEffect>
+                    <MoralePower>50</MoralePower>
+                    <IslandWarFlag>102303</IslandWarFlag>
+                    <ExplosionEffects>
+                        <Item>
+                            <VectorElement>
+                                <InheritedIndex>0</InheritedIndex>
+                                <InheritanceMapV2>
+                                    <Entry>
+                                        <TemplateName>HarborLandingStage7</TemplateName>
+                                        <Index>0</Index>
+                                    </Entry>
+                                </InheritanceMapV2>
+                            </VectorElement>
+                            <ExplosionEffectFilePath>data/graphics/effects/military/explosions/harbor_generic_xpl_02.cfg</ExplosionEffectFilePath>
+                        </Item>
+                    </ExplosionEffects>
+                    <ExplosionEffectsMin>2</ExplosionEffectsMin>
+                    <ExplosionEffectsMax>2</ExplosionEffectsMax>
+                </Attackable>
+                <StorageBase>
+                    <ProductStorageList>120056</ProductStorageList>
+                </StorageBase>
+                <Warehouse>
+                    <StorageType>Depot</StorageType>
+                    <WarehouseStorage>
+                        <StorageMax>500</StorageMax>
+                    </WarehouseStorage>
+                </Warehouse>
+                <LogisticNode />
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>150</Amount>
+                            <InactiveAmount>150</InactiveAmount>
+                        </Item>
+                    </Maintenances>
+                </Maintenance>
+                <Pausable />
+            </Values>
+        </Asset>
+    </ModOp>
 
     <!-- Oil Pier -->
     <ModOp Type="addNextSibling" GUID='130241'>
@@ -341,6 +499,48 @@
                                         <UnlockAssets>
                                             <Item>
                                                 <Asset>8855081</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets />
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133051</GUID>
+                    <Name>Oil_Pier_sa_2.1</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>114330</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440133050</Asset>
                                             </Item>
                                         </UnlockAssets>
                                         <UnhideAssets />
@@ -424,6 +624,20 @@
     <ModOp Type="addNextSibling" GUID='25000195' Path="Values/ConstructionCategory/BuildingList/Item[Building = '101344']">
         <Item>
             <Building>8855081</Building>
+        </Item>
+    </ModOp>
+
+    <!-- Oil Pier Africa -->
+    <!-- harbour tier02 (behind Fuel Chain) -->
+    <ModOp Type="add" GUID='117897' Path="Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440133050</Building>
+        </Item>
+    </ModOp>
+    <!-- harbor category (behind pier) -->
+    <ModOp Type="addNextSibling" GUID='119014' Path="Values/ConstructionCategory/BuildingList/Item[Building = '117871']">
+        <Item>
+            <Building>1440133050</Building>
         </Item>
     </ModOp>
 </ModOps>

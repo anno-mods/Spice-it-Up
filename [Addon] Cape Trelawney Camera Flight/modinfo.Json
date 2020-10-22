@@ -1,0 +1,57 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Cameraflight",
+  "IncompatibleIds": [
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Addon",
+    "French": null,
+    "German": "Addon",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Dodatek",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Cape Trelawney Camera Flight",
+    "French": null,
+    "German": "Kameraflug durchs Kap",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds a Camera Flight through Cape Trelawney which can be activated via a customizable hotkey.",
+    "French": null,
+    "German": "Fügt einen Kameraflug durch das Kap hinzu, welcher über einen frei einstellbaren Hotkey gestartet wird.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC":"SunkenTreasures",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

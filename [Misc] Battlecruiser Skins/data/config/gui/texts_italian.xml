@@ -12,5 +12,29 @@
       <GUID>119357</GUID>
       <Text>[AssetData(100442) Text]</Text>
     </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]-Skin "acido"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin "Cubo rosso" </Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]-Skin"campo stellare"</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>Un serpente velenoso che morde i suoi nemici.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>Non necessita di mimetizzazione, predilige un impegno aperto.</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>Diventa invisibile di notte.</Text>
+    </Text>
   </ModOp>
 </ModOps>

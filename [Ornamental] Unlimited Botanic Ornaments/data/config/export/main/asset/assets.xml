@@ -960,13 +960,7 @@
   <ModOp Type="remove" GUID='192477,192486,192505,192536,192575,192591' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193737']" />
   <!-- 193738 -->
   <ModOp Type="remove" GUID='192478,192487,192506,192537,192576,192592' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193738']" />
-  <!-- 193739 -->
-  <ModOp Type="remove" GUID='192925,193728' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193739']" />
-  <!-- 193740 -->
-  <ModOp Type="remove" GUID='192926,193729' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193740']" />
   <ModOp Type="remove" GUID='190166,190165,190164,192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193729']" />
-  <!-- 193741 -->
-  <ModOp Type="remove" GUID='192927,193730' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193741']" />
 
   <ModOp Type="replace" GUID='193734'>
     <Asset>

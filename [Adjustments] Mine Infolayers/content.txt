@@ -1,1 +1,0 @@
-Rohstoffvorkommen zeigen nun im Infolayer an, welche Ressource auf ihnen errichtet werden kann.

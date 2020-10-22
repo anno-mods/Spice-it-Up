@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>902290</GUID>
+      <Text>Строительная площадка I</Text>
+    </Text>
+    <Text>
+      <GUID>902291</GUID>
+      <Text>Строительная площадка II</Text>
+    </Text>
+    <Text>
+      <GUID>902292</GUID>
+      <Text>Строительная площадка I</Text>
+    </Text>
+    <Text>
+      <GUID>902293</GUID>
+      <Text>Строительная площадка II</Text>
+    </Text>
+    <Text>
+      <GUID>1440133026</GUID>
+      <Text>Строительные площадки</Text>
+    </Text>
+    <Text>
+      <GUID>1440133027</GUID>
+      <Text>Строительные площадки</Text>
+    </Text>
+  </ModOp>
+</ModOps>

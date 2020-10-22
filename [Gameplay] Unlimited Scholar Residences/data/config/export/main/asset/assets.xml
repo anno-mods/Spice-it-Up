@@ -1,0 +1,9 @@
+<ModOps>
+    <ModOp GUID='114445' Path="/Template" Type="replace">
+        <Template>ResidenceBuilding7</Template>
+    </ModOp>
+    <ModOp GUID='114445,1440133040' Path="/Values/BuildPermit" Type="remove"/>
+
+    <!-- Remove Godlike -->
+    <ModOp GUID='124717' Path="/Values/ResearchCentreScene/GodlikeCategories/Nature/Godlikes/Item[Godlike = '125340']" Type="remove"/>
+</ModOps>
