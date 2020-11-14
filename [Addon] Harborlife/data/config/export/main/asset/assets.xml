@@ -332,7 +332,7 @@
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>101008</GroundDecalAsset>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
@@ -419,64 +419,83 @@
         </Asset>
     </ModOp>
 
+    <ModOp GUID='269869' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>269869</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440133082</GUID>
+                    <Name>Harbor_warehouse_ow_t4</Name>
+                </Standard>
+                <Text />
+                <Building>
+                    <TerrainType>Water</TerrainType>
+                    <PickingAsset>8855008</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
+                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost />
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/harbor/warehouse/oldworld/warehouse/harbor_warehouse_t4_ow.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <Infolayer />
+                <FeedbackController />
+                <Warehouse />
+                <LogisticNode />
+                <UpgradeList />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <StorageBase />
+                <Attackable>
+                    <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+                    <MoralePower>5</MoralePower>
+                    <HPBarOffset>5</HPBarOffset>
+                    <MaximumHitPoints>3500</MaximumHitPoints>
+                    <SelfHealPerHealTick>4</SelfHealPerHealTick>
+                </Attackable>
+                <Upgradable />
+                <Pausable />
+            </Values>
+        </Asset>
+    </ModOp>
+
     <!-- Warehouse         | UL 150W / 1HW / 1Ing -->
-    <ModOp Type="addNextSibling" GUID='100517'>
+    <ModOp Type="addNextSibling" GUID='1010371'>
         <!-- T1 | Building GUID 8855008 |  S10/M20/R2 -->
         <Asset>
-            <Template>Warehouse</Template>
+            <BaseAssetGUID>1010371</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8855008</GUID>
                     <Name>harbor_warehouse_ow_t1</Name>
                     <IconFilename>data/graphics/hc/__icons/harbor_warehouse.png</IconFilename>
-                    <InfoDescription>8850008</InfoDescription>
                 </Standard>
                 <Text />
                 <Building>
                     <BuildingType>Logistic</BuildingType>
-                    <BuildingCategoryName>11151</BuildingCategoryName>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>101008</GroundDecalAsset>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>500</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010196</Ingredient>
-                            <Amount>10</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010205</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Selection>
-                    <GUIType>Warehouse</GUIType>
-                    <ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
+                <Cost />
+                <Selection />
                 <Object>
                     <Variations>
                         <Item>
@@ -490,29 +509,11 @@
                 <Locked />
                 <Infolayer />
                 <FeedbackController />
-                <Warehouse>
-                    <WarehouseStorage>
-                        <StorageMax>20</StorageMax>
-                    </WarehouseStorage>
-                </Warehouse>
-                <LogisticNode>
-                    <QueueConfiguration>
-                        <ProcessingQueueParallelCount>2</ProcessingQueueParallelCount>
-                    </QueueConfiguration>
-                </LogisticNode>
+                <Warehouse />
+                <LogisticNode />
                 <UpgradeList />
-                <AmbientMoodProvider>
-                    <AmbientMood>ResidenceTier1</AmbientMood>
-                </AmbientMoodProvider>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>20</Amount>
-                            <InactiveAmount>20</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                </Maintenance>
+                <AmbientMoodProvider />
+                <Maintenance />
                 <StorageBase />
                 <Attackable>
                     <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
@@ -523,96 +524,35 @@
                 </Attackable>
                 <Upgradable>
                     <NextGUID>8855009</NextGUID>
-                    <UpgradeCost>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>2500</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010196</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010205</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </UpgradeCost>
-                    <CurrentTier>1</CurrentTier>
                 </Upgradable>
                 <Pausable />
             </Values>
         </Asset>
     </ModOp>
 
-    <ModOp Type="addNextSibling" GUID='100517'>
+    <ModOp Type="addNextSibling" GUID='100516'>
         <!-- T2 | Building GUID 8855009 |  S25/M35/R3 -->
         <Asset>
-            <Template>Warehouse</Template>
+            <BaseAssetGUID>100516</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8855009</GUID>
                     <Name>harbor_warehouse_ow_t2</Name>
                     <IconFilename>data/graphics/hc/__icons/harbor_warehouse.png</IconFilename>
-                    <InfoDescription>8850009</InfoDescription>
                 </Standard>
                 <Text />
                 <Building>
-                    <BuildingType>Logistic</BuildingType>
-                    <BuildingCategoryName>11151</BuildingCategoryName>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>101008</GroundDecalAsset>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>2500</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010196</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010205</Ingredient>
-                            <Amount>10</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                            <Amount/>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Selection>
-                    <GUIType>Warehouse</GUIType>
-                    <ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
+                <Cost />
+                <Selection />
                 <Object>
                     <Variations>
                         <Item>
@@ -626,29 +566,10 @@
                 <Locked />
                 <Infolayer />
                 <FeedbackController />
-                <Warehouse>
-                    <WarehouseStorage>
-                        <StorageMax>25</StorageMax>
-                    </WarehouseStorage>
-                </Warehouse>
-                <LogisticNode>
-                    <QueueConfiguration>
-                        <ProcessingQueueParallelCount>3</ProcessingQueueParallelCount>
-                    </QueueConfiguration>
-                </LogisticNode>
+                <Warehouse />
                 <UpgradeList />
-                <AmbientMoodProvider>
-                    <AmbientMood>ResidenceTier1</AmbientMood>
-                </AmbientMoodProvider>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>35</Amount>
-                            <InactiveAmount>35</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                </Maintenance>
+                <AmbientMoodProvider />
+                <Maintenance />
                 <StorageBase />
                 <Attackable>
                     <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
@@ -659,32 +580,6 @@
                 </Attackable>
                 <Upgradable>
                     <NextGUID>8855010</NextGUID>
-                    <UpgradeCost>
-                        <Item>
-                            <Amount>10000</Amount>
-                            <Ingredient>1010017</Ingredient>
-                        </Item>
-                        <Item>
-                            <Amount>30</Amount>
-                            <Ingredient>1010196</Ingredient>
-                        </Item>
-                        <Item>
-                            <Amount>30</Amount>
-                            <Ingredient>1010205</Ingredient>
-                        </Item>
-                        <Item>
-                            <Amount>20</Amount>
-                            <Ingredient>1010218</Ingredient>
-                        </Item>
-                        <Item>
-                            <Amount>20</Amount>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </UpgradeCost>
-                    <CurrentTier>2</CurrentTier>
                 </Upgradable>
                 <Pausable />
             </Values>
@@ -694,64 +589,26 @@
     <ModOp Type="addNextSibling" GUID='100517'>
         <!-- T3 | Building GUID 8855010 |  S50/M50/R4 -->
         <Asset>
-            <Template>Warehouse</Template>
+            <BaseAssetGUID>100517</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8855010</GUID>
                     <Name>harbor_warehouse_ow_t3</Name>
                     <IconFilename>data/graphics/hc/__icons/harbor_warehouse.png</IconFilename>
-                    <InfoDescription>8850010</InfoDescription>
                 </Standard>
                 <Text />
                 <Building>
-                    <BuildingType>Logistic</BuildingType>
-                    <BuildingCategoryName>11151</BuildingCategoryName>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <AssociatedRegions>Moderate</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>101008</GroundDecalAsset>
+                    <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>10000</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010196</Ingredient>
-                            <Amount>30</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010205</Ingredient>
-                            <Amount>50</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                            <Amount>40</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                            <Amount>40</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Selection>
-                    <GUIType>Warehouse</GUIType>
-                    <ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
+                <Cost />
+                <Selection />
                 <Object>
                     <Variations>
                         <Item>
@@ -765,29 +622,11 @@
                 <Locked />
                 <Infolayer />
                 <FeedbackController />
-                <Warehouse>
-                    <WarehouseStorage>
-                        <StorageMax>50</StorageMax>
-                    </WarehouseStorage>
-                </Warehouse>
-                <LogisticNode>
-                    <QueueConfiguration>
-                        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
-                    </QueueConfiguration>
-                </LogisticNode>
+                <Warehouse />
+                <LogisticNode />
                 <UpgradeList />
-                <AmbientMoodProvider>
-                    <AmbientMood>ResidenceTier1</AmbientMood>
-                </AmbientMoodProvider>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>50</Amount>
-                            <InactiveAmount>50</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                </Maintenance>
+                <AmbientMoodProvider />
+                <Maintenance />
                 <StorageBase />
                 <Attackable>
                     <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
@@ -797,7 +636,7 @@
                     <SelfHealPerHealTick>4</SelfHealPerHealTick>
                 </Attackable>
                 <Upgradable>
-                    <CurrentTier>3</CurrentTier>
+                    <NextGUID>1440133082</NextGUID>
                 </Upgradable>
                 <Pausable />
             </Values>
@@ -825,6 +664,7 @@
                     <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
                 <Mesh />
                 <Object>
@@ -970,6 +810,7 @@
                     <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
                 <Mesh />
                 <Object>
@@ -1115,6 +956,7 @@
                     <GroundDecalAsset>100446</GroundDecalAsset>
                     <GroundDecalInvisible>101008</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
                 <Mesh />
                 <Object>
@@ -1471,24 +1313,18 @@
     </ModOp>
 
     <!-- Warehouse         | UL 50J / 1Ob. / 1000Ob. -->
-    <ModOp Type="addNextSibling" GUID='100517'>
+    <ModOp Type="addNextSibling" GUID='101323'>
         <!-- T1 | Building GUID 8855011 |   S10/20/R2 -->
         <Asset>
-            <Template>Warehouse</Template>
+            <BaseAssetGUID>101323</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8855011</GUID>
                     <Name>harbor_warehouse_sa_t1</Name>
                     <IconFilename>data/graphics/hc/__icons/harbor_warehouse.png</IconFilename>
-                    <InfoDescription>8850011</InfoDescription>
                 </Standard>
                 <Text />
                 <Building>
-                    <BuildingType>Logistic</BuildingType>
-                    <BuildingCategoryName>11151</BuildingCategoryName>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
@@ -1497,38 +1333,8 @@
                     <GroundDecalInvisible>102459</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>4000</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010196</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010205</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Selection>
-                    <GUIType>Warehouse</GUIType>
-                    <ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
+                <Cost />
+                <Selection />
                 <Object>
                     <Variations>
                         <Item>
@@ -1542,29 +1348,11 @@
                 <Locked />
                 <Infolayer />
                 <FeedbackController />
-                <Warehouse>
-                    <WarehouseStorage>
-                        <StorageMax>20</StorageMax>
-                    </WarehouseStorage>
-                </Warehouse>
-                <LogisticNode>
-                    <QueueConfiguration>
-                        <ProcessingQueueParallelCount>2</ProcessingQueueParallelCount>
-                    </QueueConfiguration>
-                </LogisticNode>
+                <Warehouse />
+                <LogisticNode />
                 <UpgradeList />
-                <AmbientMoodProvider>
-                    <AmbientMood>ResidenceTier1</AmbientMood>
-                </AmbientMoodProvider>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>20</Amount>
-                            <InactiveAmount>20</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                </Maintenance>
+                <AmbientMoodProvider />
+                <Maintenance />
                 <StorageBase />
                 <Attackable>
                     <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
@@ -1575,54 +1363,24 @@
                 </Attackable>
                 <Upgradable>
                     <NextGUID>8855012</NextGUID>
-                    <UpgradeCost>
-                        <Item>
-                            <Amount>2500</Amount>
-                            <Ingredient>1010017</Ingredient>
-                        </Item>
-                        <Item>
-                            <Amount>20</Amount>
-                            <Ingredient>1010196</Ingredient>
-                        </Item>
-                        <Item>
-                            <Amount>20</Amount>
-                            <Ingredient>1010205</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </UpgradeCost>
-                    <CurrentTier>1</CurrentTier>
                 </Upgradable>
                 <Pausable />
             </Values>
         </Asset>
     </ModOp>
 
-    <ModOp Type="addNextSibling" GUID='100517'>
+    <ModOp Type="addNextSibling" GUID='101324'>
         <!-- T2 | Building GUID 8855012 |   S25/M35/R3 -->
         <Asset>
-            <Template>Warehouse</Template>
+            <BaseAssetGUID>101324</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8855012</GUID>
                     <Name>harbor_warehouse_sa_t2</Name>
                     <IconFilename>data/graphics/hc/__icons/harbor_warehouse.png</IconFilename>
-                    <InfoDescription>8850012</InfoDescription>
                 </Standard>
                 <Text />
                 <Building>
-                    <BuildingType>Logistic</BuildingType>
-                    <BuildingCategoryName>11151</BuildingCategoryName>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
                     <PickingAsset>8855011</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
@@ -1633,13 +1391,7 @@
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
-                <Selection>
-                    <GUIType>Warehouse</GUIType>
-                    <ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
+                <Selection />
                 <Object>
                     <Variations>
                         <Item>
@@ -1653,29 +1405,11 @@
                 <Locked />
                 <Infolayer />
                 <FeedbackController />
-                <Warehouse>
-                    <WarehouseStorage>
-                        <StorageMax>25</StorageMax>
-                    </WarehouseStorage>
-                </Warehouse>
-                <LogisticNode>
-                    <QueueConfiguration>
-                        <ProcessingQueueParallelCount>3</ProcessingQueueParallelCount>
-                    </QueueConfiguration>
-                </LogisticNode>
+                <Warehouse />
+                <LogisticNode />
                 <UpgradeList />
-                <AmbientMoodProvider>
-                    <AmbientMood>ResidenceTier1</AmbientMood>
-                </AmbientMoodProvider>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>35</Amount>
-                            <InactiveAmount>35</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                </Maintenance>
+                <AmbientMoodProvider />
+                <Maintenance />
                 <StorageBase />
                 <Attackable>
                     <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
@@ -1685,8 +1419,61 @@
                     <SelfHealPerHealTick>4</SelfHealPerHealTick>
                 </Attackable>
                 <Upgradable>
-                    <NextGUID>0</NextGUID>
+                    <NextGUID>1440133083</NextGUID>
                 </Upgradable>
+                <Pausable />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='101325' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>101325</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440133083</GUID>
+                    <Name>Harbor_warehouse_sa_t3</Name>
+                </Standard>
+                <Text />
+                <Building>
+                    <TerrainType>Water</TerrainType>
+                    <PickingAsset>8855011</PickingAsset>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>102460</GroundDecalAsset>
+                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost />
+                <Selection />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/hc/buildings/harbor/warehouse/south/warehouse/harbor_warehouse_t3_sa.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+                <Infolayer />
+                <FeedbackController />
+                <Warehouse />
+                <LogisticNode />
+                <UpgradeList />
+                <AmbientMoodProvider />
+                <Maintenance />
+                <StorageBase />
+                <Attackable>
+                    <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+                    <MoralePower>5</MoralePower>
+                    <HPBarOffset>5</HPBarOffset>
+                    <MaximumHitPoints>3500</MaximumHitPoints>
+                    <SelfHealPerHealTick>4</SelfHealPerHealTick>
+                </Attackable>
+                <Upgradable />
                 <Pausable />
             </Values>
         </Asset>
@@ -1714,6 +1501,7 @@
                     <GroundDecalAsset>102460</GroundDecalAsset>
                     <GroundDecalInvisible>102459</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
                 <Mesh />
                 <Object>
@@ -1854,6 +1642,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -3849,6 +3638,9 @@
         <Item>
             <GUID>8855011</GUID>
         </Item>
+        <Item>
+            <GUID>1440133082</GUID>
+        </Item>
         <!-- WH SA T1 -->
         <Item>
             <GUID>8855012</GUID>
@@ -3859,7 +3651,7 @@
         </Item>
         <!-- WH SA T3 -->
         <Item>
-            <GUID>8855014</GUID>
+            <GUID>1440133083</GUID>
         </Item>
         <!-- Med. Depot OW -->
         <Item>
@@ -3957,6 +3749,9 @@
         <Item>
             <GUID>8855011</GUID>
         </Item>
+        <Item>
+            <GUID>1440133082</GUID>
+        </Item>
         <!-- WH SA T1 -->
         <Item>
             <GUID>8855012</GUID>
@@ -3967,7 +3762,7 @@
         </Item>
         <!-- WH SA T3 -->
         <Item>
-            <GUID>8855014</GUID>
+            <GUID>1440133083</GUID>
         </Item>
         <!-- Med. Depot OW -->
         <Item>
@@ -7143,8 +6938,7 @@
     <ModOp Type="addNextSibling" GUID='100415'>
         <!-- Building GUID 8856020 -->
         <Asset>
-            <!-- <BaseAssetGUID>100415</BaseAssetGUID> -->
-            <Template>Guildhouse</Template>
+            <BaseAssetGUID>100415</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8856020</GUID>
@@ -7433,6 +7227,7 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -7696,8 +7491,7 @@
     <ModOp Type="addNextSibling" GUID='101285'>
         <!-- Building GUID 8856021 -->
         <Asset>
-            <!-- <BaseAssetGUID>101285</BaseAssetGUID> -->
-            <Template>Guildhouse</Template>
+            <BaseAssetGUID>101285</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>8856021</GUID>
@@ -7710,6 +7504,7 @@
                     <BuildingCategoryName>11152</BuildingCategoryName>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <TerrainType>Water</TerrainType>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>102460</GroundDecalAsset>
@@ -8578,7 +8373,7 @@
 
     <!-- RESIDENCES-->
     <!-- all Residences EU/SA -->
-    <ModOp Type="add" GUID='190762' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <ModOp Type="add" GUID='190762,193957' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
         <Item>
             <GUID>8856001</GUID>
         </Item>
@@ -8837,7 +8632,7 @@
 
     <!-- Factories OW -->
     <ModOp Type="replace" GUID='1010278,1010560,1010310' Path="Values/Blocking/GroundDecalAsset">
-        <GroundDecalAsset>101008</GroundDecalAsset>
+        <GroundDecalAsset>100446</GroundDecalAsset>
     </ModOp>
 
     <!-- Factories SA -->
@@ -9165,6 +8960,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9206,6 +9002,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9458,6 +9255,7 @@
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9499,6 +9297,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
+                    <SkipUnlockMessage>1</SkipUnlockMessage>
                     <SecondPartyRelevant>1</SecondPartyRelevant>
                 </Building>
                 <Locked>
@@ -9539,6 +9338,7 @@
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9571,7 +9371,7 @@
         <SecondPartyRelevant>0</SecondPartyRelevant>
     </ModOp>
 
-    <ModOp  Type="addNextSibling" GUID='124742'>
+    <ModOp Type="addNextSibling" GUID='124742'>
         <Asset>
             <Template>ProductionChain</Template>
             <Values>
@@ -9620,167 +9420,11 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp GUID='25000189' Type = "add" Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp GUID='25000189' Type="add" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133045</Building>
         </Item>
     </ModOp>
-
-    <!-- Old Code-->
-    <!--
-        <BuildingReplacements>
-            <Item>
-                <Building>101642</Building>
-                <Replacement>88530010</Replacement>
-            </Item>
-            <Item>
-                <Building>102284</Building>
-                <Replacement>88530009</Replacement>
-            </Item>
-            <Item>
-                <Building>100429</Building>
-                <Replacement>88530008</Replacement>
-            </Item>
-            <Item>
-                <Building>101262</Building>
-                <Replacement>88530006</Replacement>
-            </Item>
-            <Item>
-                <Building>1010339</Building>
-                <Replacement>88530005</Replacement>
-            </Item>
-            <Item>
-                <Building>1010310</Building>
-                <Replacement>88530004</Replacement>
-            </Item>
-            <Item>
-                <Building>1010560</Building>
-                <Replacement>88530003</Replacement>
-            </Item>
-            <Item>
-                <Building>1010278</Building>
-                <Replacement>88530002</Replacement>
-            </Item>
-            <Item>
-                <Building>1010520</Building>
-                <Replacement>88530000</Replacement>
-            </Item>
-            <Item>
-                <Building>1010521</Building>
-                <Replacement>88530001</Replacement>
-            </Item>
-            <Item>
-                <Building>8855052</Building>
-                <Replacement>1010462</Replacement>
-            </Item>
-            <Item>
-                <Building>8855054</Building>
-                <Replacement>1010464</Replacement>
-            </Item>
-            <Item>
-                <Building>8855050</Building>
-                <Replacement>1010463</Replacement>
-            </Item>
-            <Item>
-                <Building>8855051</Building>
-                <Replacement>1010463</Replacement>
-            </Item>
-            <Item>
-                <Building>8855053</Building>
-                <Replacement>1010462</Replacement>
-            </Item>
-            <Item>
-                <Building>8855055</Building>
-                <Replacement>1010464</Replacement>
-            </Item>
-            <Item>
-                <Building>8855005</Building>
-                <Replacement>101323</Replacement>
-            </Item>
-            <Item>
-                <Building>8855005</Building>
-                <Replacement>101323</Replacement>
-            </Item>
-            <Item>
-                <Building>8855006</Building>
-                <Replacement>101324</Replacement>
-            </Item>
-            <Item>
-                <Building>8855008</Building>
-                <Replacement>1010371</Replacement>
-            </Item>
-            <Item>
-                <Building>8855009</Building>
-                <Replacement>100516</Replacement>
-            </Item>
-            <Item>
-                <Building>8855010</Building>
-                <Replacement>100517</Replacement>
-            </Item>
-            <Item>
-                <Building>8855011</Building>
-                <Replacement>101323</Replacement>
-            </Item>
-            <Item>
-                <Building>8855012</Building>
-                <Replacement>101324</Replacement>
-            </Item>
-            <Item>
-                <Building>8856008</Building>
-                <Replacement>1010372</Replacement>
-            </Item>
-            <Item>
-                <Building>8856009</Building>
-                <Replacement>1010358</Replacement>
-            </Item>
-            <Item>
-                <Building>8856010</Building>
-                <Replacement>1010359</Replacement>
-            </Item>
-            <Item>
-                <Building>8856011</Building>
-                <Replacement>1010360</Replacement>
-            </Item>
-            <Item>
-                <Building>8856012</Building>
-                <Replacement>1010361</Replacement>
-            </Item>
-            <Item>
-                <Building>8856016</Building>
-                <Replacement>100780</Replacement>
-            </Item>
-            <Item>
-                <Building>8856013</Building>
-                <Replacement>1010362</Replacement>
-            </Item>
-            <Item>
-                <Building>8856015</Building>
-                <Replacement>1010364</Replacement>
-            </Item>
-            <Item>
-                <Building>101277</Building>
-                <Replacement>88530007</Replacement>
-            </Item>
-            <Item>
-                <Building>8856017</Building>
-                <Replacement>101257</Replacement>
-            </Item>
-            <Item>
-                <Building>8856018</Building>
-                <Replacement>101258</Replacement>
-            </Item>
-            <Item>
-                <Building>8856019</Building>
-                <Replacement>101259</Replacement>
-            </Item>
-            <Item>
-                <Building>8856014</Building>
-                <Replacement>1010365</Replacement>
-            </Item>
-        </BuildingReplacements>
-
-     -->
-
     <!-- Visual Feedback  -->
     <ModOp Type="add" GUID='142785' Path="/Values/FeedbackBuildingGroup/Buildings">
         <Item>
@@ -10114,6 +9758,48 @@
                                         <UnlockAssets>
                                             <Item>
                                                 <Asset>8855055</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets />
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133085</GUID>
+                    <Name>Trigger 600 Obrero</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000006</Context>
+                                <CounterAmount>1500</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440133083</Asset>
                                             </Item>
                                         </UnlockAssets>
                                         <UnhideAssets />
@@ -10482,7 +10168,7 @@
             <Template>Trigger</Template>
             <Values>
                 <Standard>
-                    <GUID>99334159</GUID>
+                    <GUID>1440133084</GUID>
                     <Name>Trigger 1 Engineer</Name>
                     <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
                 </Standard>
@@ -10506,6 +10192,9 @@
                                     <Action />
                                     <ActionUnlockAsset>
                                         <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440133082</Asset>
+                                            </Item>
                                             <Item>
                                                 <Asset>8855003</Asset>
                                             </Item>
@@ -10773,6 +10462,199 @@
                                             </Item>
                                         </UnlockAssets>
                                     </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440133081</GUID>
+                    <Name>AI FIX 3.0.1</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionAlwaysTrue</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionAlwaysTrue />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>88530000</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>88530007</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>88530001</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>88530008</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>88530009</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_01_Jorgensen</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_02_Qing</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_03_Wibblesock</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_04_Smith</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_05_OMara</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_06_Gasparov</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_07_von_Malching</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_08_Gravez</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_09_Silva</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_10_Hunt</ObjectParticipantID>
+                                    </ObjectFilter>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionDeleteObjects</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionDeleteObjects />
+                                    <ObjectFilter>
+                                        <ObjectGUID>8856018</ObjectGUID>
+                                        <ObjectParticipantID>Second_ai_11_Mercier</ObjectParticipantID>
+                                    </ObjectFilter>
                                 </Values>
                             </TriggerAction>
                         </Item>

@@ -1,4 +1,4 @@
-<ModOp>
+<ModOps>
   <ModOp Type="replace" GUID='190774' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '192909']/Weight">
     <Weight>15</Weight>
   </ModOp>
@@ -56,4 +56,4 @@
   <ModOp Type="replace" GUID='127480' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '127447' or ItemLink = '130426' or ItemLink = '127456']/Weight">
     <Weight>8</Weight>
   </ModOp>
-</ModOp>
+</ModOps>

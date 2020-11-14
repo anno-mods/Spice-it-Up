@@ -3,16 +3,257 @@
 		<ShipyardUpgrade>
 			<AddAssemblyOptions>
 				<Item>
-					<NewOption>118718</NewOption>
+					<NewOption>1440133090</NewOption>
 				</Item>
 			</AddAssemblyOptions>
 		</ShipyardUpgrade>
 	</ModOp>
-	<ModOp GUID = '190698' Path = "/Values/ItemEffect/EffectTargets" Type = "replace">
+	<ModOp GUID='190698' Path="/Values/ItemEffect/EffectTargets" Type="replace">
 		<EffectTargets>
 			<Item>
 				<GUID>1010521</GUID>
 			</Item>
 		</EffectTargets>
+	</ModOp>
+	<ModOp GUID='100442' Type="addNextSibling">
+		<Asset>
+			<Template>TradeShip</Template>
+			<Values>
+				<Standard>
+					<GUID>1440133090</GUID>
+					<Name>Great Eastern (Trade - Dummy)</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_real_great_eastern.png</IconFilename>
+					<InfoDescription>23377</InfoDescription>
+				</Standard>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/graphics/vehicle/big_colony01_01/big_colony01_01.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Mesh>
+					<MeshPlacement>OnWaterSlope</MeshPlacement>
+				</Mesh>
+				<Selection>
+					<MultiSelectable>1</MultiSelectable>
+				</Selection>
+				<Walking>
+					<ShortenSailsAfter>0</ShortenSailsAfter>
+					<ReservationLength>16</ReservationLength>
+					<ReservationWidth>6</ReservationWidth>
+					<PathPlannerLayer>Water</PathPlannerLayer>
+					<ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+					<TurnAroundRadius>8</TurnAroundRadius>
+					<Acceleration>0.75</Acceleration>
+					<Deceleration>1</Deceleration>
+					<TurnRadius>8</TurnRadius>
+					<TurnSpeedInPlace>20</TurnSpeedInPlace>
+					<TurnDeceleration>0</TurnDeceleration>
+					<TurnMovement>0</TurnMovement>
+					<LeaningMaxAngle>-10</LeaningMaxAngle>
+					<ForwardSpeed>5.5</ForwardSpeed>
+					<WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+					<WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+					<CargoFullFactor>0.8</CargoFullFactor>
+					<DamageFullFactor>0.5</DamageFullFactor>
+					<MinSlowdownFactor>0.5</MinSlowdownFactor>
+					<CurveSegmentDensity>High</CurveSegmentDensity>
+				</Walking>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>The Great Eastern</Text>
+							<Status>Exported</Status>
+							<ExportCount>3</ExportCount>
+						</English>
+					</LocaText>
+					<LineID>14872</LineID>
+				</Text>
+				<CommandQueue>
+					<FormationPriority>1</FormationPriority>
+					<TradeShipPoints>4</TradeShipPoints>
+					<PriorityShipList>2</PriorityShipList>
+				</CommandQueue>
+				<Drifting>
+					<OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+					<Length>7</Length>
+					<Width>1.5</Width>
+					<FactorMovement>0.7</FactorMovement>
+					<FactorRotation>0.65</FactorRotation>
+				</Drifting>
+				<Collector />
+				<Attackable>
+					<MaximumHitPoints>6500</MaximumHitPoints>
+					<HPBarOffset>4</HPBarOffset>
+					<AlertRange>150</AlertRange>
+					<SelfHealPerHealTick>2</SelfHealPerHealTick>
+					<SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+				</Attackable>
+				<MinimapToken>
+					<TokenAsset>2001947</TokenAsset>
+					<StrategicMapAsset>501018</StrategicMapAsset>
+				</MinimapToken>
+				<SoundEmitter>
+					<ActiveSounds>
+						<Item>
+							<Sound>201827</Sound>
+						</Item>
+					</ActiveSounds>
+					<DestroySounds>
+						<Item>
+							<Sound>238314</Sound>
+						</Item>
+					</DestroySounds>
+				</SoundEmitter>
+				<UpgradeList />
+				<QuestObject />
+				<Infolayer />
+				<ItemContainer>
+					<SocketCount>3</SocketCount>
+					<SocketAllocation>Ship;SteamShip;Tradeship</SocketAllocation>
+					<SlotCount>8</SlotCount>
+				</ItemContainer>
+				<FeedbackController />
+				<Draggable />
+				<Cost>
+					<Costs>
+						<Item>
+							<Ingredient>1010218</Ingredient>
+							<Amount>60</Amount>
+						</Item>
+						<Item>
+							<Ingredient>1010224</Ingredient>
+							<Amount>30</Amount>
+						</Item>
+					</Costs>
+					<InfluenceCostType>TradeShip</InfluenceCostType>
+					<InfluenceCostPoints>20</InfluenceCostPoints>
+				</Cost>
+				<Craftable>
+					<CraftingTime>1080000</CraftingTime>
+				</Craftable>
+				<TradeRouteVehicle />
+				<Locked>
+					<DefaultLockedState>0</DefaultLockedState>
+				</Locked>
+				<Nameable />
+				<MetaPersistent />
+				<ExpeditionAttribute>
+					<BaseMorale>70</BaseMorale>
+					<ExpeditionAttributes>
+						<Item>
+							<Attribute>Might</Attribute>
+						</Item>
+						<Item>
+							<Attribute>Navigation</Attribute>
+							<Amount>20</Amount>
+						</Item>
+						<Item>
+							<Attribute>PerkTradeShip</Attribute>
+							<Amount>1</Amount>
+						</Item>
+						<Item>
+							<Attribute>PerkSteamShip</Attribute>
+							<Amount>1</Amount>
+						</Item>
+					</ExpeditionAttributes>
+				</ExpeditionAttribute>
+				<ShipMaintenance>
+					<Maintenance>1000</Maintenance>
+				</ShipMaintenance>
+				<Sellable>
+					<Baseprice>
+						<Item>
+							<VectorElement>
+								<InheritanceMapV2>
+									<Entry>
+										<TemplateName>TradeShip</TemplateName>
+										<Index>0</Index>
+									</Entry>
+								</InheritanceMapV2>
+							</VectorElement>
+							<Amount>750000</Amount>
+							<Resource>1010017</Resource>
+						</Item>
+					</Baseprice>
+				</Sellable>
+				<Stance />
+				<Rentable />
+				<WorldMapSound />
+				<Pausable />
+				<ShipIncident />
+				<SoundEmitterCommandBarks>
+					<BarkMapping>
+						<Selection>
+							<AudioPool>700094</AudioPool>
+						</Selection>
+						<MoveCommand>
+							<AudioPool>700095</AudioPool>
+						</MoveCommand>
+						<SelectionDamaged>
+							<AudioPool>700125</AudioPool>
+						</SelectionDamaged>
+						<EscortCommand>
+							<AudioPool>700127</AudioPool>
+						</EscortCommand>
+						<PatrolCommand>
+							<AudioPool>700126</AudioPool>
+						</PatrolCommand>
+					</BarkMapping>
+				</SoundEmitterCommandBarks>
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='130248'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440133091</GUID>
+					<Name>Change Great Eastern on Construction</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>ObjectBuilt</PlayerCounter>
+								<Context>1440133090</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<Action />
+									<ObjectFilter>
+										<ObjectGUID>1440133090</ObjectGUID>
+									</ObjectFilter>
+									<ActionSetObjectGUID>
+										<NewGUID>118718</NewGUID>
+									</ActionSetObjectGUID>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionResetTrigger</Template>
+								<Values>
+									<Action />
+									<ActionResetTrigger />
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
 	</ModOp>
 </ModOps>

@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "1.1",
   "ModID": "Spice_InuitGas",
   "IncompatibleIds": [
     "NewHorizons"
@@ -20,9 +20,9 @@
   },
   "ModName": {
     "Chinese": null,
-    "English": "Inuit sell gas",
+    "English": "Extended Inuit Trader",
     "French": null,
-    "German": "Inuit verkaufen Gas",
+    "German": "Erweiterter Inuit-Händler",
     "Italian": null,
     "Japanese": null,
     "Korean": null,
@@ -35,7 +35,7 @@
     "Chinese": null,
     "English": "Qumaq offers a small amount of gas for purchase for those who do not want to play the main storyline of the arctic region.",
     "French": null,
-    "German": "Qumaq bietet an seinem Iglu eine kleine Menge Gas zum Verkauf an, für alle, die die Storyquests der Arktis nicht spielen wollen.",
+    "German": "Qumaq bietet an seinem Iglu eine kleine Menge Gas und Arktischen Schrott Verkauf an, für alle, die die Storyquests der Arktis nicht spielen wollen.",
     "Italian": null,
     "Japanese": null,
     "Korean": null,

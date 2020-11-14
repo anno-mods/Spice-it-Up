@@ -1,23 +1,19 @@
 <ModOps>
     <!-- Clay and Oil Cover Asset North -->
-    <ModOp Type="addNextSibling" GUID = '100855'>
+    <ModOp Type="addNextSibling" GUID='100855'>
         <Asset>
-            <Template>SlotFactoryBuilding7</Template>
+            <Template>SlotCover</Template>
             <Values>
                 <Standard>
                     <Name>Clay_Cover</Name>
                     <GUID>901000</GUID>
                     <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
-                    <InfoDescription>900200</InfoDescription>
                 </Standard>
                 <Text>
                     <LineID>28533</LineID>
                 </Text>
                 <Building>
                     <BuildingCategoryName>11149</BuildingCategoryName>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <SnapRadius>10</SnapRadius>
-                    <AllowChangeVariation>1</AllowChangeVariation>
                 </Building>
                 <Cost>
                     <Costs>
@@ -32,7 +28,7 @@
                 </Selection>
                 <Object>
                     <Variations>
-                    <Item>
+                        <Item>
                             <Filename>data/graphics/buildings/public/logistic_05/logistic_05.cfg</Filename>
                         </Item>
                         <Item>
@@ -48,21 +44,14 @@
                 </Object>
                 <Constructable/>
                 <Mesh/>
-                <Electric>
-                    <BoostedByElectricity>0</BoostedByElectricity>
-                </Electric>
                 <SoundEmitter/>
-                <Locked>
-                    <DefaultLockedState>1</DefaultLockedState>
-                </Locked>
-                <IncidentInfectable />
+                <Locked />
                 <FeedbackController/>
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
                     <OrnamentDescritpion>102170</OrnamentDescritpion>
                 </Ornament>
                 <AmbientMoodProvider />
-                <Pausable/>
                 <Infolayer>
                     <DefaultInfoLayer>0</DefaultInfoLayer>
                 </Infolayer>
@@ -366,11 +355,11 @@
             </Values>
         </Asset>
     </ModOp>
-    
+
     <!-- Oil Cover Asset North -->
-    <ModOp Type="addNextSibling" GUID = '100855'>
+    <ModOp Type="addNextSibling" GUID='100855'>
         <Asset>
-            <Template>SlotFactoryBuilding7</Template>
+            <Template>SlotCover</Template>
             <Values>
                 <Standard>
                     <Name>Oil_cover</Name>
@@ -384,9 +373,6 @@
                 <Blocking/>
                 <Building>
                     <BuildingCategoryName>11149</BuildingCategoryName>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <SnapRadius>10</SnapRadius>
-                    <AllowChangeVariation>1</AllowChangeVariation>
                 </Building>
                 <Cost>
                     <Costs>
@@ -399,7 +385,6 @@
                 <Selection>
                     <GUIType>Generic</GUIType>
                 </Selection>
-                <IncidentInfectable />
                 <Object>
                     <Variations>
                         <Item>
@@ -421,34 +406,26 @@
                 </Object>
                 <Constructable/>
                 <Mesh/>
-                <Electric>
-                    <BoostedByElectricity>0</BoostedByElectricity>
-                </Electric>
                 <SoundEmitter/>
-                <Locked>
-                    <DefaultLockedState>1</DefaultLockedState>
-                </Locked>
+                <Locked />
                 <FeedbackController/>
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
                     <OrnamentDescritpion>102170</OrnamentDescritpion>
                 </Ornament>
                 <AmbientMoodProvider />
-                <Pausable/>
-                <Infolayer>
-                    <DefaultInfoLayer>0</DefaultInfoLayer>
-                </Infolayer>
+                <Infolayer/>
                 <Slot>
                     <SlotType>Oil</SlotType>
                 </Slot>
             </Values>
         </Asset>
     </ModOp>
-    
+
     <!-- Clay Cover Asset South -->
-    <ModOp Type="addNextSibling" GUID = '100855'>
+    <ModOp Type="addNextSibling" GUID='100855'>
         <Asset>
-            <Template>SlotFactoryBuilding7</Template>
+            <Template>SlotCover</Template>
             <Values>
                 <Standard>
                     <Name>Clay_Cover</Name>
@@ -461,9 +438,7 @@
                 </Text>
                 <Building>
                     <BuildingCategoryName>11149</BuildingCategoryName>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <SnapRadius>10</SnapRadius>
-                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
                 </Building>
                 <Cost>
                     <Costs>
@@ -491,21 +466,14 @@
                 </Object>
                 <Constructable/>
                 <Mesh/>
-                <Electric>
-                    <BoostedByElectricity>0</BoostedByElectricity>
-                </Electric>
                 <SoundEmitter/>
-                <Locked>
-                    <DefaultLockedState>1</DefaultLockedState>
-                </Locked>
-                <IncidentInfectable />
+                <Locked />
                 <FeedbackController/>
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
                     <OrnamentDescritpion>102170</OrnamentDescritpion>
                 </Ornament>
                 <AmbientMoodProvider />
-                <Pausable/>
                 <Infolayer>
                     <DefaultInfoLayer>0</DefaultInfoLayer>
                 </Infolayer>
@@ -515,11 +483,11 @@
             </Values>
         </Asset>
     </ModOp>
-    
+
     <!-- Oil Cover Asset South -->
-    <ModOp Type="addNextSibling" GUID = '100855'>
+    <ModOp Type="addNextSibling" GUID='100855'>
         <Asset>
-            <Template>SlotFactoryBuilding7</Template>
+            <Template>SlotCover</Template>
             <Values>
                 <Standard>
                     <Name>Oil_cover</Name>
@@ -533,9 +501,7 @@
                 <Blocking/>
                 <Building>
                     <BuildingCategoryName>11149</BuildingCategoryName>
-                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
-                    <SnapRadius>10</SnapRadius>
-                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
                 </Building>
                 <Cost>
                     <Costs>
@@ -548,7 +514,6 @@
                 <Selection>
                     <GUIType>Generic</GUIType>
                 </Selection>
-                <IncidentInfectable />
                 <Object>
                     <Variations>
                         <Item>
@@ -561,20 +526,13 @@
                 </Object>
                 <Constructable/>
                 <Mesh/>
-                <Electric>
-                    <BoostedByElectricity>0</BoostedByElectricity>
-                </Electric>
                 <SoundEmitter/>
-                <Locked>
-                    <DefaultLockedState>1</DefaultLockedState>
-                </Locked>
-                <FeedbackController/>
+                <Locked />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
                     <OrnamentDescritpion>102170</OrnamentDescritpion>
                 </Ornament>
                 <AmbientMoodProvider />
-                <Pausable/>
                 <Infolayer>
                     <DefaultInfoLayer>0</DefaultInfoLayer>
                 </Infolayer>
@@ -584,7 +542,17 @@
             </Values>
         </Asset>
     </ModOp>
-    
+
+    <ModOp GUID='25000190' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440133020</Building>
+        </Item>
+    </ModOp>
+    <ModOp GUID='25000194' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440133021</Building>
+        </Item>
+    </ModOp>
     <!-- construction category construction site north -->
     <ModOp Type="addNextSibling" GUID='500951'>
         <Asset>
@@ -592,7 +560,7 @@
             <Values>
                 <Standard>
                     <GUID>1440133020</GUID>
-                    <Name>Construciton Category Construction Site North</Name>
+                    <Name>Construciton Category North</Name>
                     <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_repair_crane_3.png</IconFilename>
                 </Standard>
                 <ConstructionCategory>

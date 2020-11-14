@@ -1,0 +1,76 @@
+<ModOps>
+    <ModOp Path="//Template[Name='OrnamentalBuilding']" Type = "addNextSibling">
+        <Template>
+            <Name>SlotCover</Name>
+            <Properties>
+                <Standard>
+                    <InfoDescription>900200</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                    <SnapRadius>10</SnapRadius>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                </Building>
+                <Cost />
+                <Selection>
+                    <GUIType>Ornamental</GUIType>
+                </Selection>
+                <Object>
+                    <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter>
+                    <DestroySounds>
+                        <Item>
+                            <Sound>9818756</Sound>
+                        </Item>
+                    </DestroySounds>
+                    <ConstructionSounds>
+                        <BuildSuccessful>
+                            <Item>
+                                <VectorElement>
+                                    <InheritedIndex>0</InheritedIndex>
+                                </VectorElement>
+                                <Sound>214785</Sound>
+                            </Item>
+                        </BuildSuccessful>
+                        <BuildFailed>
+                            <Item>
+                                <Sound>9818387</Sound>
+                            </Item>
+                        </BuildFailed>
+                        <BuildMoveStart>
+                            <Item>
+                                <Sound>9818755</Sound>
+                            </Item>
+                        </BuildMoveStart>
+                        <BuildMoveSuccess>
+                            <Item>
+                                <Sound>203995</Sound>
+                            </Item>
+                        </BuildMoveSuccess>
+                        <BuildMoveEnd>
+                            <Item>
+                                <Sound>200141</Sound>
+                            </Item>
+                        </BuildMoveEnd>
+                    </ConstructionSounds>
+                </SoundEmitter>
+                <Locked />
+                <FeedbackController />
+                <Ornament>
+                    <PlazzaSize>0</PlazzaSize>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Infolayer />
+                <Slot>
+                    <SnapsToSlot>1</SnapsToSlot>
+                </Slot>
+            </Properties>
+        </Template>
+    </ModOp>
+</ModOps>

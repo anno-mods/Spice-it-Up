@@ -216,7 +216,14 @@
 				<FeedbackController />
 				<WorkforceConnector />
 				<UpgradeList />
-				<IslandUnique />
+				<BuildingUnique>
+					<Uniques>
+						<Item>
+							<UniqueType>WorkforceConnector</UniqueType>
+							<UniqueScope>Area</UniqueScope>
+						</Item>
+					</Uniques>
+				</BuildingUnique>
 				<StreetActivation />
 				<LogisticNode />
 			</Values>

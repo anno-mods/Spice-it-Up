@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "1.1",
   "ModID": "Spice_Research",
   "IncompatibleIds": [
     "NewHorizons"
@@ -33,9 +33,9 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Adjusts the research times to a minimum of one minute when reaching 50.000 Scholars. Keep in mind that base research times haven't been changed and scaling is still linear.",
+    "English": "Adjusts the research times to a minimum of one minute when assigning 50.000 Engineers. Keep in mind that base research times haven't been changed and scaling is still linear.",
     "French": null,
-    "German": "Passt die Forschungszeiten auf minimal eine Minute bei 50.000 Gelehrten an. Basis-Forschungszeiten wurden nicht geändert und Skalierung ist immer noch linear!.",
+    "German": "Passt die Forschungszeiten auf minimal eine Minute bei 50.000 eingesetzten Ingenieuren an. Basis-Forschungszeiten wurden nicht geändert und Skalierung ist immer noch linear!.",
     "Italian": null,
     "Japanese": null,
     "Korean": null,

@@ -252,22 +252,29 @@
         <FeedbackController />
         <WorkforceConnector />
         <UpgradeList />
-        <IslandUnique />
+        <BuildingUnique>
+          <Uniques>
+            <Item>
+              <UniqueType>WorkforceConnector</UniqueType>
+              <UniqueScope>Area</UniqueScope>
+            </Item>
+          </Uniques>
+        </BuildingUnique>
         <StreetActivation />
         <LogisticNode />
       </Values>
     </Asset>
   </ModOp>
   <ModOp Type="add" GUID='501065' Path="/Values/ObjectmenuCommuterHarbourScene/WorkforceToRegion">
-		<Colony01>
-			<WorkforceList>
-				<Item>
-					<Workforce>1010366</Workforce>
-				</Item>
-				<Item>
-					<Workforce>1010367</Workforce>
-				</Item>
-			</WorkforceList>
-		</Colony01>
-	</ModOp>
+    <Colony01>
+      <WorkforceList>
+        <Item>
+          <Workforce>1010366</Workforce>
+        </Item>
+        <Item>
+          <Workforce>1010367</Workforce>
+        </Item>
+      </WorkforceList>
+    </Colony01>
+  </ModOp>
 </ModOps>

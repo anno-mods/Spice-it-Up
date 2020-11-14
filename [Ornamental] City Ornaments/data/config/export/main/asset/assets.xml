@@ -1,0 +1,1553 @@
+<!-- Rasen 1x1 (9770xx) -->
+<ModOps>
+    <ModOp Type="add" GUID='102229' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/fountain_01.cfg</Filename>
+        </Item>
+    </ModOp>
+
+
+    <ModOp Type="add" GUID='102383' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/statue_01.cfg</Filename>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='102892' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/pillar_01.cfg</Filename>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='103049' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/pillar_colony01_01.cfg</Filename>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='103047' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/fountain_01.cfg</Filename>
+        </Item>
+
+    </ModOp>
+    <ModOp Type="add" GUID='113324' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/up_st_statue_01_01.cfg</Filename>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='102483' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/preorder_statue.cfg</Filename>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='113325' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/up_st_statue_02_01.cfg</Filename>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='113326' Path="/Values/Object/Variations">
+        <Item>
+            <Filename>data/graphics/city_ornaments/uplay/up_st_statue_03_01.cfg</Filename>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='102159'>
+        <Asset>
+            <BaseAssetGUID>102462</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977400</GUID>
+                    <Name>tiny statue moderate engineers</Name>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props/park_props_system_2x2_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102108</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977401</GUID>
+                    <Name>garden</Name>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props/park_props_system_2x2_03.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102109</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977402</GUID>
+                    <Name>pavillon</Name>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props/park_props_system_2x2_04.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977403</GUID>
+                    <Name>equestrian engineers</Name>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props/park_props_system_2x2_05.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102107</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977404</GUID>
+                    <Name>fountain</Name>
+                </Standard>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props/park_props_system_2x2_06.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977405</GUID>
+                    <Name>tiny statue colony</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_2x2_02.png</IconFilename>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props_colony/park_props_system_2x2_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977406</GUID>
+                    <Name>garden colony</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/colony_sa/col_park_props_system_2x2_03_back.png</IconFilename>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props_colony/park_props_system_2x2_03.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977407</GUID>
+                    <Name>pavillon colony</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_2x2_04.png</IconFilename>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props_colony/park_props_system_2x2_04.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977408</GUID>
+                    <Name>pavillon colony</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_2x2_05.png</IconFilename>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props_colony/park_props_system_2x2_05.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>102106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>977409</GUID>
+                    <Name>pavillon colony</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_2x2_06.png</IconFilename>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/city_props_colony/park_props_system_2x2_06.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+            </Values>
+        </Asset>
+
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977000</GUID>
+                    <Name>Rasen 1x1 straight</Name>
+                    <IconFilename>data/graphics/icons/icon_single_straight.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass_single/plaza_grass_straight.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977001</GUID>
+                    <Name>Rasen 1x1 corner</Name>
+                    <IconFilename>data/graphics/icons/icon_single_corner.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass_single/plaza_grass_corner.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977002</GUID>
+                    <Name>Rasen 1x1 cross</Name>
+                    <IconFilename>data/graphics/icons/icon_single_cross.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass_single/plaza_grass_x.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977003</GUID>
+                    <Name>Rasen 1x1 end</Name>
+                    <IconFilename>data/graphics/icons/icon_single_end.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass_single/plaza_grass_u.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977004</GUID>
+                    <Name>Rasen 1x1 t-cross</Name>
+                    <IconFilename>data/graphics/icons/icon_single_t_cross.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass_single/plaza_grass_t.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Rasenfläche -->
+    <ModOp Type="addNextSibling" GUID='102159'>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977010</GUID>
+                    <Name>Rasen 1x1 Verbindungsstücke</Name>
+                    <IconFilename>data/graphics/icons/icon_two_dots.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass/plaza_grass_two_dots.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass/plaza_grass_three_dots.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977011</GUID>
+                    <Name>Rasenfläche Innenecke</Name>
+                    <IconFilename>data/graphics/icons/icon_single_corner.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass/plaza_grass_corner.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977012</GUID>
+                    <Name>Rasenfläche Rand</Name>
+                    <IconFilename>data/graphics/icons/icon_straight.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass/plaza_grass_straight.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977013</GUID>
+                    <Name>Rasenfläche Außenecke</Name>
+                    <IconFilename>data/graphics/icons/icon_one_dot.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_grass/plaza_grass_corner_var.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='25000189'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>977020</GUID>
+                    <Name>Rasen</Name>
+                    <IconFilename>data/graphics/icons/icon_single_straight.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>977000</Building>
+                        </Item>
+                        <Item>
+                            <Building>977001</Building>
+                        </Item>
+                        <Item>
+                            <Building>977002</Building>
+                        </Item>
+                        <Item>
+                            <Building>977003</Building>
+                        </Item>
+                        <Item>
+                            <Building>977004</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>977021</GUID>
+                    <Name>Rasenfläche</Name>
+                    <IconFilename>data/graphics/icons/icon_straight.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>977010</Building>
+                        </Item>
+                        <Item>
+                            <Building>977011</Building>
+                        </Item>
+                        <Item>
+                            <Building>977012</Building>
+                        </Item>
+                        <Item>
+                            <Building>977013</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- moderate construction menu culture (category) -->
+    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>977020</Building>
+        </Item>
+        <Item>
+            <Building>977021</Building>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='102159'>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977030</GUID>
+                    <Name>Plaza Tree</Name>
+                    <IconFilename>data/graphics/icons/icon_plaza_tree.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_01_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_01_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_02_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_04_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_04_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_04_var2.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_02_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_03_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_03_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_04_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_04_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_05_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_05_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_06_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_06_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_07_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_02_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_02_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_02_var2.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_07_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_01_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_01_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_01_var2.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_08_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_08_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_09_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_09_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_06_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_06_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_06_var2.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_10_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_10_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_11_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_moderate_11_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_03_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_03_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_03_var2.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_05_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_05_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees/tree_fir_05_var2.cfg</Filename>
+                        </Item>
+                        
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>OrnamentalBuilding</Template>
+            <Values>
+                <Standard>
+                    <GUID>977031</GUID>
+                    <Name>Plaza Tree</Name>
+                    <IconFilename>data/graphics/icons/icon_plaza_tree_colony.png</IconFilename>
+                </Standard>
+                <Text />
+                <Blocking />
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>80</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_01_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_01_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_01_var2.cfg</Filename>
+                        </Item>
+
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_02_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_02_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_02_var2.cfg</Filename>
+                        </Item>
+
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_03_var0.cfg</Filename>
+                        </Item>
+
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_04_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_04_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_04_var2.cfg</Filename>
+                        </Item>
+
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_05_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_05_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_05_var2.cfg</Filename>
+                        </Item>
+
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_06_var0.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_06_var1.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/graphics/city_ornaments/plaza_trees_colony/tree_colony_06_var2.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked />
+
+
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <Infolayer />
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="add" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>977020</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>977021</Building>
+        </Item>
+    </ModOp>
+
+    <!-- Engineers city ornaments -->
+    <ModOp Type="add" GUID='501487' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>977030</Building>
+        </Item>
+
+        <Item>
+            <Building>977400</Building>
+        </Item>
+        <Item>
+            <Building>977403</Building>
+        </Item>
+    </ModOp>
+
+    <!-- Artisan city ornaments -->
+    <ModOp Type="add" GUID='501486' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>977401</Building>
+        </Item>
+        <Item>
+            <Building>977402</Building>
+        </Item>
+        <Item>
+            <Building>977404</Building>
+        </Item>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='501579'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>977460</GUID>
+                    <Name>Obrero City Ornamentals</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_city_ornament_base.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>977405</Building>
+                        </Item>
+                        <Item>
+                            <Building>977406</Building>
+                        </Item>
+                        <Item>
+                            <Building>977407</Building>
+                        </Item>
+                        <Item>
+                            <Building>977408</Building>
+                        </Item>
+                        <Item>
+                            <Building>977409</Building>
+                        </Item>
+                        <Item>
+                            <Building>977031</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="add" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>977460</Building>
+        </Item>
+    </ModOp>
+    <!-- New Triggers (97649x)-->
+    <ModOp Type="addNextSibling" GUID='130248'>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976490</GUID>
+                    <Name>intermediate moderate 4.0</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000003</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>977400</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977403</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977010</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977011</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977012</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977013</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977030</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976491</GUID>
+                    <Name>intermediate moderate 4.0</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000002</Context>
+                                <CounterAmount>250</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>977401</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977402</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977404</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976492</GUID>
+                    <Name>intermediate moderate 4.0</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000002</Context>
+                                <CounterAmount>500</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>977401</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977402</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977404</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets>
+                                            <Item>
+                                                <Asset>977000</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977001</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977002</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977003</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977004</Asset>
+                                            </Item>
+                                        </UnhideAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976493</GUID>
+                    <Name>intermediate moderate 4.0</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000002</Context>
+                                <CounterAmount>750</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>977000</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977001</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977002</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977003</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977004</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>976494</GUID>
+                    <Name>intermediate colony 1.3</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000006</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>977405</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977406</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977407</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977408</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977409</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>977031</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

@@ -1,5 +1,5 @@
 <ModOps>
-   <ModOp Type = "replace" Path = '/Properties/Groups/Group/Groups/Group/DefaultValues/Profile/TakeoverBehaviour'>
+   <ModOp Type = "replace" Path = "//TakeoverBehaviour">
         <TakeoverBehaviour>RuinState</TakeoverBehaviour>
     </ModOp>
 </ModOps>

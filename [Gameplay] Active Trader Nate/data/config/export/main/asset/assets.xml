@@ -37,7 +37,7 @@
 		<TradeFleet>
 			<Item>
 				<ShipAsset>1010062</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 			<Item>
 				<ShipAsset>112084</ShipAsset>
@@ -50,11 +50,11 @@
 		<TradeFleet>
 			<Item>
 				<ShipAsset>1010062</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 			<Item>
 				<ShipAsset>112084</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 		</TradeFleet>
 	</ModOp>
@@ -63,11 +63,11 @@
 		<TradeFleet>
 			<Item>
 				<ShipAsset>1010062</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 			<Item>
 				<ShipAsset>112084</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 			<Item>
 				<ShipAsset>9002077</ShipAsset>
@@ -80,17 +80,21 @@
 		<TradeFleet>
 			<Item>
 				<ShipAsset>1010062</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 			<Item>
 				<ShipAsset>112084</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 			<Item>
 				<ShipAsset>9002077</ShipAsset>
-				<Amount>2</Amount>
+				<Amount>1</Amount>
 			</Item>
 		</TradeFleet>
+	</ModOp>
+
+	<ModOp GUID = '77' Path = "/Values/Trader/Progression/EarlyGame/SellBudget" Type = "replace">
+		<SellBudget>3000</SellBudget>
 	</ModOp>
 
 	<!-- Modified airship -->
