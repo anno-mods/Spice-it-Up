@@ -116,74 +116,74 @@
   </Dummy>
   <BuildBlocker>
     <Position>
-      <xf>2</xf>
+      <xf>3</xf>
       <zf>1</zf>
     </Position>
     <Position>
-      <xf>2</xf>
+      <xf>3</xf>
       <zf>-1</zf>
     </Position>
     <Position>
-      <xf>-2</xf>
+      <xf>-3</xf>
       <zf>-1</zf>
     </Position>
     <Position>
-      <xf>-2</xf>
+      <xf>-3</xf>
       <zf>1</zf>
     </Position>
   </BuildBlocker>
   <PathBlocker>
     <Position>
-      <xf>-2</xf>
+      <xf>3</xf>
       <zf>1</zf>
     </Position>
     <Position>
-      <xf>2</xf>
+      <xf>3</xf>
+      <zf>-1</zf>
+    </Position>
+    <Position>
+      <xf>-3</xf>
+      <zf>-1</zf>
+    </Position>
+    <Position>
+      <xf>-3</xf>
       <zf>1</zf>
-    </Position>
-    <Position>
-      <xf>2</xf>
-      <zf>-1</zf>
-    </Position>
-    <Position>
-      <xf>-2</xf>
-      <zf>-1</zf>
     </Position>
   </PathBlocker>
   <QuayArea>
     <Position>
       <xf>3</xf>
-      <zf>-2</zf>
+      <zf>1</zf>
     </Position>
     <Position>
       <xf>3</xf>
-      <zf>2</zf>
+      <zf>-1</zf>
     </Position>
     <Position>
       <xf>-3</xf>
-      <zf>2</zf>
+      <zf>-1</zf>
     </Position>
     <Position>
       <xf>-3</xf>
-      <zf>-2</zf>
+      <zf>1</zf>
     </Position>
   </QuayArea>
   <InvisibleQuayArea>
     <Position>
       <xf>3</xf>
-      <zf>-2</zf>
+      <zf>1</zf>
     </Position>
     <Position>
       <xf>3</xf>
-      <zf>2</zf>
+      <zf>-1</zf>
     </Position>
     <Position>
       <xf>-3</xf>
-      <zf>2</zf>
+      <zf>-1</zf>
     </Position>
     <Position>
       <xf>-3</xf>
-      <zf>-2</zf>
+      <zf>1</zf>
     </Position>
   </InvisibleQuayArea>
   <PriorityFeedbackBlocker>

@@ -2,11 +2,15 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>190150</GUID>
-      <Text>Кофе Супер-бобы</Text>
+      <Text>Кофе cупер бобы</Text>
     </Text>
     <Text>
       <GUID>190151</GUID>
       <Text>Банановые супер семена</Text>
+    </Text>
+    <Text>
+      <GUID>190151</GUID>
+      <Text>Кукуруза cупер cемена</Text>
     </Text>
   </ModOp>
 </ModOps>

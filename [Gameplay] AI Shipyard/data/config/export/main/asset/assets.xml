@@ -12,8 +12,9 @@
 				<Building>
 					<BuildingCategoryName>11150</BuildingCategoryName>
 					<SnapRadius>10</SnapRadius>
-					<TerrainType>Coast</TerrainType>
+					<TerrainType>Water_Including_Coast</TerrainType>
 					<AssociatedRegions>Moderate</AssociatedRegions>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
 				</Building>
 				<Blocking>
 					<GroundDecalAsset>100446</GroundDecalAsset>

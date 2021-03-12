@@ -1,0 +1,55 @@
+{
+  "Version": "1",
+  "ModID": "Spice_Docklands",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental",
+    "French": null,
+    "German": "Zierobjekte",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Ornamental Docklands",
+    "French": null,
+    "German": "Zier-Speicherstadt",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds ornamental versions of the Docklands which can be built infinitly.",
+    "French": null,
+    "German": "Fügt den Speicherstadt-bausatz als Ornamente hinzu, die unbegrenzt gebaut werden können.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "Docklands",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null
+}

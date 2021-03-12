@@ -93,10 +93,6 @@
 		</TradeFleet>
 	</ModOp>
 
-	<ModOp GUID = '77' Path = "/Values/Trader/Progression/EarlyGame/SellBudget" Type = "replace">
-		<SellBudget>3000</SellBudget>
-	</ModOp>
-
 	<!-- Modified airship -->
 	<ModOp Type="addNextSibling" GUID='100442'>
 		<Asset>

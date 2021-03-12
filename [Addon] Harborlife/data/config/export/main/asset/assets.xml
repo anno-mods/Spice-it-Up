@@ -89,7 +89,7 @@
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11151</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
@@ -97,8 +97,8 @@
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -218,7 +218,7 @@
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11151</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
@@ -323,7 +323,7 @@
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11151</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
@@ -332,8 +332,8 @@
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -429,13 +429,13 @@
                 </Standard>
                 <Text />
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -486,12 +486,12 @@
                 <Text />
                 <Building>
                     <BuildingType>Logistic</BuildingType>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -542,13 +542,13 @@
                 </Standard>
                 <Text />
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -598,13 +598,13 @@
                 </Standard>
                 <Text />
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <PickingAsset>8855008</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -661,8 +661,8 @@
                     <AssociatedRegions>Moderate</AssociatedRegions>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
@@ -807,8 +807,8 @@
                     <AssociatedRegions>Moderate</AssociatedRegions>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
@@ -948,13 +948,13 @@
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11151</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
@@ -1076,7 +1076,9 @@
                 </SoundEmitter>
                 <Infolayer />
                 <UpgradeList />
-                <LogisticNode />
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                </LogisticNode>
             </Values>
         </Asset>
     </ModOp>
@@ -1096,7 +1098,7 @@
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11151</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
@@ -1104,8 +1106,8 @@
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1222,7 +1224,7 @@
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11151</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <BuildingType>Logistic</BuildingType>
@@ -1231,8 +1233,8 @@
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1325,12 +1327,12 @@
                 </Standard>
                 <Text />
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -1381,13 +1383,13 @@
                 </Standard>
                 <Text />
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <PickingAsset>8855011</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -1436,13 +1438,13 @@
                 </Standard>
                 <Text />
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <PickingAsset>8855011</PickingAsset>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -1495,11 +1497,11 @@
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
@@ -1641,12 +1643,12 @@
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1789,8 +1791,8 @@
                     <AssociatedRegions>Colony01</AssociatedRegions>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1920,7 +1922,9 @@
                 </SoundEmitter>
                 <Infolayer />
                 <UpgradeList />
-                <LogisticNode />
+                <LogisticNode>
+                    <TransporterCountMax>0</TransporterCountMax>
+                </LogisticNode>
             </Values>
         </Asset>
     </ModOp>
@@ -1943,11 +1947,11 @@
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -2075,11 +2079,11 @@
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -2206,12 +2210,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2316,12 +2320,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2416,12 +2420,12 @@
                 <Building>
                     <BuildModeRandomRotation>90</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2539,12 +2543,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2649,12 +2653,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2749,12 +2753,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2872,7 +2876,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -2930,7 +2934,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -2987,7 +2991,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -3044,7 +3048,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -3101,7 +3105,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -3159,7 +3163,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -3216,7 +3220,7 @@
                 <Building>
                     <BuildingCategoryName/>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>100446</GroundDecalAsset>
@@ -3267,124 +3271,49 @@
     <!-- ########### [Freight Harbor] Streets / Rails ################################################################## -->
 
 
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='1010567']">
+    <ModOp Type="addNextSibling" GUID = '601443'>
         <Asset>
-            <BaseAssetGUID>1010567</BaseAssetGUID>
+            <BaseAssetGUID>601443</BaseAssetGUID>
             <Values>
                 <Standard>
                     <GUID>978000</GUID>
-                    <IconFilename>data/graphics/hc/__icons/harbor_street.png</IconFilename>
-                    <InfoDescription>8860013</InfoDescription>
                     <ID/>
                 </Standard>
                 <Blocking />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>30</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
+                <Cost />
                 <Street>
-                    <CfgFileName>data/graphics/hc/props/quay/quay_system_01.cfg</CfgFileName>
-                    <IsLogicRoad>1</IsLogicRoad>
                     <InternalID>120</InternalID>
-                    <OverbuildRule>GoodStreet</OverbuildRule>
-                    <IsPlazza>0</IsPlazza>
-                    <IsHarbour>1</IsHarbour>
-                </Street>
-                <Constructable>
-                    <ConstructionMode>StreetsAndBridges</ConstructionMode>
-                </Constructable>
-                <Locked />
-                <SoundEmitter />
-                <Text/>
-                <Building>
-                    <PickingAsset>978000</PickingAsset>
-                </Building>
-            </Values>
-        </Asset>
-        <Asset>
-            <BaseAssetGUID>1010567</BaseAssetGUID>
-            <Values>
-                <Standard>
-                    <GUID>978001</GUID>
-                    <IconFilename>data/graphics/hc/__icons/harbor_street.png</IconFilename>
-                    <ID>EarthStreetStone</ID>
-                    <InfoDescription>8860013</InfoDescription>
-                </Standard>
-                <Blocking />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>30</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Street>
-                    <CfgFileName>data/graphics/hc/props/quay/quay_system_colony_01.cfg</CfgFileName>
-                    <IsLogicRoad>1</IsLogicRoad>
-                    <InternalID>119</InternalID>
-                    <OverbuildRule>Harbor</OverbuildRule>
-                    <IsPlazza>0</IsPlazza>
-                    <IsHarbour>1</IsHarbour>
-                    <Quality>2</Quality>
-                    <SpeedFactor>1.5</SpeedFactor>
                 </Street>
                 <Constructable />
                 <Locked />
                 <SoundEmitter />
                 <Text/>
                 <Building>
-                    <PickingAsset>978001</PickingAsset>
+                    <PickingAsset>601443</PickingAsset>
+                </Building>
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>131865</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>978001</GUID>
+                </Standard>
+                <Blocking />
+                <Cost />
+                <Street>
+                    <InternalID>119</InternalID>
+                </Street>
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <Text/>
+                <Building>
+                    <PickingAsset>131865</PickingAsset>
                 </Building>
             </Values>
         </Asset>
     </ModOp>
-
-
-    <!-- Construction Menu Moderate -->
-    <!-- Farmers after dirt road -->
-    <ModOp Type="addNextSibling" GUID='25000189' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1000178']">
-        <Item>
-            <Building>978000</Building>
-        </Item>
-    </ModOp>
-    <!-- harbor category before quay -->
-    <ModOp Type="addPrevSibling" GUID='500903' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010567']">
-        <Item>
-            <Building>978000</Building>
-        </Item>
-    </ModOp>
-    <!-- city category before residence -->
-    <ModOp Type="addPrevSibling" GUID="500944" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010343']">
-        <Item>
-            <Building>978000</Building>
-        </Item>
-    </ModOp>
-
-    <!-- Construction Menu South -->
-    <!-- Jornaleros after dirt road -->
-    <ModOp Type="addNextSibling" GUID='25000193' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101308']">
-        <Item>
-            <Building>978001</Building>
-        </Item>
-    </ModOp>
-    <!-- harbor category before quay -->
-    <ModOp Type="addPrevSibling" GUID='25000195' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101339']">
-        <Item>
-            <Building>978001</Building>
-        </Item>
-    </ModOp>
-    <!-- city category before residence -->
-    <ModOp Type="addPrevSibling" GUID="500946" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101254']">
-        <Item>
-            <Building>978001</Building>
-        </Item>
-    </ModOp>
-
 
 
     <!-- ############################################################################################################### -->
@@ -3876,11 +3805,11 @@
                 <Building>
                     <BuildModeRandomRotation>90</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Coast;Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4121,11 +4050,11 @@
                     <BuildingType>Residence</BuildingType>
                     <PickingAsset>8856001</PickingAsset>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4350,11 +4279,11 @@
                     <BuildingType>Residence</BuildingType>
                     <PickingAsset>8856001</PickingAsset>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4597,7 +4526,7 @@
                         </Item>
                     </InfluencedByNeighbors>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildingBlockPool>
                         <DontCare>
                             <Pool>
@@ -4681,8 +4610,8 @@
                     </BuildingBlockPool>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4948,7 +4877,7 @@
                         </Item>
                     </InfluencedByNeighbors>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildingBlockPool>
                         <DontCare>
                             <Pool>
@@ -5023,8 +4952,8 @@
                     </BuildingBlockPool>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5233,13 +5162,13 @@
                     <ID />
                 </Standard>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Building>
                     <PickingAsset>1440133040</PickingAsset>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Cost />
@@ -5299,11 +5228,11 @@
                 </Standard>
                 <Building>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5440,8 +5369,8 @@
                     <AssociatedRegions>Colony01</AssociatedRegions>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5567,12 +5496,12 @@
                     <BuildingCategoryName>100003</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5710,12 +5639,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5829,12 +5758,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5987,12 +5916,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6135,12 +6064,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6284,12 +6213,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6433,12 +6362,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6583,12 +6512,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6730,12 +6659,12 @@
                     <ID />
                 </Standard>
                 <Building>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -6783,11 +6712,11 @@
                     <BuildingCategoryName>11169</BuildingCategoryName>
                     <BuildModeRandomRotation>90</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6950,11 +6879,11 @@
                     <BuildingCategoryName>11152</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7072,12 +7001,12 @@
                     <BuildingCategoryName>100003</BuildingCategoryName>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7226,12 +7155,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7382,12 +7311,12 @@
                 <Building>
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7503,12 +7432,12 @@
                     <BuildModeRandomRotation>180</BuildModeRandomRotation>
                     <BuildingCategoryName>11152</BuildingCategoryName>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7611,463 +7540,6 @@
     <!-- ########### [Harbor City] Ornaments ########################################################################### -->
     <!--////////// MODERATE //////////// -->
     <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-    <!-- Harbor Ornaments - Wooden Docks 1x1 - -->
-    <ModOp Type="addNextSibling" GUID=''>
-        <!-- Building GUID  -->
-        <Asset>
-            <Template>HarborOrnament</Template>
-            <Values>
-                <Standard>
-                    <GUID/>
-                    <Name>harbor_ornament_1x1</Name>
-                    <IconFilename/>
-                    <InfoDescription/>
-                </Standard>
-                <Building>
-                    <BuildingCategoryName/>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
-                    <TerrainType>Water</TerrainType>
-                </Building>
-                <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>100446</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
-                <Mesh />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>20</Amount>
-                        </Item>
-                    </Costs>
-                </Cost>
-                <Text />
-                <Ornament>
-                    <OrnamentUnit>1</OrnamentUnit>
-                </Ornament>
-                <Culture />
-                <Object>
-                    <Variations>
-                        <Item>
-                            <Filename/>
-                        </Item>
-                    </Variations>
-                </Object>
-                <Selection>
-                    <GUIType>Ornamental</GUIType>
-                </Selection>
-                <AmbientMoodProvider />
-                <Constructable />
-                <Maintenance />
-                <SoundEmitter />
-                <FeedbackController />
-                <Locked />
-                <Pausable />
-                <Infolayer />
-            </Values>
-        </Asset>
-    </ModOp>
-
-    <!-- -->
     <!--////////// SOUTH /////////////// -->
     <!-- -->
     <!-- -->
@@ -8179,13 +7651,13 @@
             </Values>
         </Asset>
     </ModOp>
-    <!-- Artisans - before harbor -->
+    <!-- Artisans - before harbor  -->
     <ModOp Type="addPrevSibling" GUID="25000191" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500953']">
         <Item>
             <Building>8855888</Building>
         </Item>
     </ModOp>
-    <!-- City - after Residence -->
+    <!--City - after Residence  -->
     <ModOp Type="addNextSibling" GUID="500944" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010343']">
         <Item>
             <Building>8855888</Building>
@@ -8684,41 +8156,6 @@
     <!-- ############################################################################################################### -->
     <!-- ############# Free Placement in Harbor-Area / Harbor Area Expand ############################################## -->
     <!--//////////// FREE PLACEMENT /////////////////// -->
-    <!-- Factories -->
-    <ModOp Type="replace" GUID='1010278,1010560,1010310,1010339,101262' Path="Values/Building/TerrainType">
-        <TerrainType>Water</TerrainType>
-    </ModOp>
-
-    <!-- Visitor Pier -->
-    <ModOp Type="replace" GUID='100429,102284' Path="Values/Building/TerrainType">
-        <TerrainType>Water</TerrainType>
-    </ModOp>
-
-    <!-- Commuter Pier -->
-    <ModOp Type="add" GUID='101642' Path="Values/Building">
-        <TerrainType>Water</TerrainType>
-    </ModOp>
-
-    <!-- Shipyards -->
-    <ModOp Type="add" GUID='1010520,101277,1010521' Path="Values/Building">
-        <TerrainType>Water</TerrainType>
-    </ModOp>
-
-
-    <!-- Monster Gun -->
-    <ModOp Type="replace" GUID='1010524' Path="Values/Building/TerrainType">
-        <!-- Moderate -->
-        <TerrainType>Water</TerrainType>
-    </ModOp>
-    <ModOp Type="add" GUID='101571' Path="Values/Building">
-        <!-- South -->
-        <TerrainType>Water</TerrainType>
-    </ModOp>
-
-    <!-- Defense -->
-    <ModOp Type="add" GUID='1010522,101563,1010523,101570' Path="Values/Building">
-        <TerrainType>Water</TerrainType>
-    </ModOp>
 
     <!--//////////// BLOCKING :: HarborAreaExpand ///// -->
     <!-- Factories 
@@ -8734,6 +8171,10 @@
     <!-- Kontore 101290,101291,101292,,101293,101294,101295 -->
     <ModOp Type="remove" GUID='1010517,100510,100511,1010540,100514,100515,269867,269879' Path="Values/Blocking/HarbourAreaExpand"/>
 
+    <!-- Docklands 601460, 601470 -->
+    <ModOp Type="replace" GUID='601460,601470' Path="Values/Blocking/HarbourAreaExpand">
+        <HarbourAreaExpand>0</HarbourAreaExpand>
+    </ModOp>
 
     <!-- Ornaments -->
     <ModOp Type="addNextSibling" GUID='102159'>
@@ -8748,8 +8189,8 @@
                 </Standard>
                 <Text />
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Building>
@@ -8816,8 +8257,8 @@
                 </Standard>
                 <Text />
                 <Blocking>
-                    <GroundDecalAsset>100446</GroundDecalAsset>
-                    <GroundDecalInvisible>101008</GroundDecalInvisible>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+            <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Building>
@@ -8923,8 +8364,8 @@
                     <Name>Harbor Crate Colony01</Name>
                 </Standard>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                 </Blocking>
                 <Building>
                     <AssociatedRegions>Colony01</AssociatedRegions>
@@ -8939,8 +8380,8 @@
                     <Name>Harbor Crate Colony01</Name>
                 </Standard>
                 <Blocking>
-                    <GroundDecalAsset>102460</GroundDecalAsset>
-                    <GroundDecalInvisible>102459</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                      <GroundDecalInvisible>132529</GroundDecalInvisible>
                 </Blocking>
                 <Building>
                     <AssociatedRegions>Colony01</AssociatedRegions>
@@ -8959,7 +8400,7 @@
                 </Standard>
                 <Building>
                     <TerrainType>Coast</TerrainType>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
@@ -9001,7 +8442,7 @@
                 </Standard>
                 <Building>
                     <TerrainType>Coast</TerrainType>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
@@ -9044,7 +8485,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9086,7 +8527,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9128,7 +8569,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9170,7 +8611,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9212,7 +8653,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9254,7 +8695,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
@@ -9298,7 +8739,7 @@
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Locked>
                     <DefaultLockedState>0</DefaultLockedState>
@@ -9337,7 +8778,7 @@
                 <Building>
                     <TerrainType>Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <SecondPartyRelevant>1</SecondPartyRelevant>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                 </Building>
                 <Locked>
@@ -9366,11 +8807,6 @@
             </Values>
         </Asset>
     </ModOp>
-
-    <ModOp GUID='101642,102284,100429,101262,1010339,1010310,1010560,1010278,1010520,1010521,101277' Type="add" Path="/Values/Building">
-        <SecondPartyRelevant>0</SecondPartyRelevant>
-    </ModOp>
-
     <ModOp Type="addNextSibling" GUID='124742'>
         <Asset>
             <Template>ProductionChain</Template>
@@ -9419,11 +8855,6 @@
                 </Locked>
             </Values>
         </Asset>
-    </ModOp>
-    <ModOp GUID='25000189' Type="add" Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>1440133045</Building>
-        </Item>
     </ModOp>
     <!-- Visual Feedback  -->
     <ModOp Type="add" GUID='142785' Path="/Values/FeedbackBuildingGroup/Buildings">
@@ -10663,6 +10094,58 @@
                 <TriggerSetup />
             </Values>
         </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134020</GUID>
+                    <Name>3.0.2 Relock old Quaystreet for Construction</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionAlwaysTrue</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionAlwaysTrue />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                              <Template>ActionLockAsset</Template>
+                              <Values>
+                                <Action />
+                                <ActionLockAsset>
+                                  <LockAssets>
+                                    <Item>
+                                      <Asset>978000</Asset>
+                                    </Item>
+                                  </LockAssets>
+                                </ActionLockAsset>
+                              </Values>
+                            </TriggerAction>
+                          </Item>
+                          <Item>
+                            <TriggerAction>
+                              <Template>ActionLockAsset</Template>
+                              <Values>
+                                <Action />
+                                <ActionLockAsset>
+                                  <LockAssets>
+                                    <Item>
+                                      <Asset>978001</Asset>
+                                    </Item>
+                                  </LockAssets>
+                                </ActionLockAsset>
+                              </Values>
+                            </TriggerAction>
+                          </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
     </ModOp>
 
     <!-- Scholar Build Permits -->
@@ -10693,5 +10176,12 @@
 
     <ModOp GUID='125010' Type="replace" Path="//ActionAddResource[Resource = '114445']/Resource">
         <Resource>1440133041</Resource>
+    </ModOp>
+
+    <ModOp GUID = '100429' Path = "/Values/Building/TerrainType" Type = "replace">
+        <TerrainType>Water_Including_Coast</TerrainType>
+    </ModOp>
+    <ModOp GUID = '101642' Path = "/Values/Building" Type = "add">
+        <TerrainType>Water_Including_Coast</TerrainType>
     </ModOp>
 </ModOps>

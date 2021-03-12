@@ -45,4 +45,7 @@
     <ModOp Type="add" GUID='114166' Path="/Values/Cost">
         <InfluenceCostPoints>4</InfluenceCostPoints>
     </ModOp>
+    <ModOp Type="add" GUID='132404' Path="/Values/Cost">
+        <InfluenceCostPoints>3</InfluenceCostPoints>
+    </ModOp>
 </ModOps>

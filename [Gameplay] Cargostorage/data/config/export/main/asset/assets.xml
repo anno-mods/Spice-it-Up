@@ -59,9 +59,7 @@
                         </Item>
                     </Variations>
                 </Object>
-                <Mesh>
-                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                </Mesh>
+                <Mesh />
                 <Selection>
                     <GUIType>Warehouse</GUIType>
                     <Colors>
@@ -155,9 +153,7 @@
                         </Item>
                     </Variations>
                 </Object>
-                <Mesh>
-                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                </Mesh>
+                <Mesh />
                 <Selection>
                     <GUIType>Warehouse</GUIType>
                     <Colors>
@@ -250,9 +246,7 @@
                         </Item>
                     </Variations>
                 </Object>
-                <Mesh>
-                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                </Mesh>
+                <Mesh />
                 <Selection>
                     <GUIType>Warehouse</GUIType>
                     <Colors>
@@ -347,9 +341,7 @@
                         </Item>
                     </Variations>
                 </Object>
-                <Mesh>
-                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                </Mesh>
+                <Mesh />
                 <Selection>
                     <GUIType>Warehouse</GUIType>
                     <Colors>
@@ -440,16 +432,14 @@
                 <Object>
                     <Variations>
                         <Item>
-                            <Filename>data/graphics/buildings/special/harbor_01/harbor_01.cfg</Filename>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_02_kontor/harbor_01.cfg</Filename>
                         </Item>
                         <Item>
                             <Filename>data/graphics/buildings/special/harbor_01/harbor_01_var02.cfg</Filename>
                         </Item>
                     </Variations>
                 </Object>
-                <Mesh>
-                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                </Mesh>
+                <Mesh />
                 <Selection>
                     <GUIType>Warehouse</GUIType>
                     <Colors>
@@ -541,16 +531,14 @@
                 <Object>
                     <Variations>
                         <Item>
-                            <Filename>data/graphics/buildings/special/harbor_01/harbor_01.cfg</Filename>
+                            <Filename>data/modgraphics/buildings/3rd_party/3rd_party_02_kontor/harbor_01.cfg</Filename>
                         </Item>
                         <Item>
                             <Filename>data/graphics/buildings/special/harbor_01/harbor_01_var02.cfg</Filename>
                         </Item>
                     </Variations>
                 </Object>
-                <Mesh>
-                    <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                </Mesh>
+                <Mesh />
                 <Selection>
                     <GUIType>Warehouse</GUIType>
                     <Colors>

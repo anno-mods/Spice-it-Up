@@ -1,0 +1,36 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>1440134031</GUID>
+      <Text>[AssetData(601470) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134032</GUID>
+      <Text>[AssetData(601463) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134033</GUID>
+      <Text>[AssetData(601460) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134034</GUID>
+      <Text>[AssetData(601461) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134035</GUID>
+      <Text>[AssetData(601462) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134036</GUID>
+      <Text>[AssetData(131777) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134037</GUID>
+      <Text>[AssetData(131778) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>1440134038</GUID>
+      <Text>[AssetData(601470) Text] - Ornements</Text>
+    </Text>
+  </ModOp>
+</ModOps>

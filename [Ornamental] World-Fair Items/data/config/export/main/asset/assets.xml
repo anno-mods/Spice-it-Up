@@ -70,7 +70,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                    <OrnamentDescription>17737</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -146,7 +147,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                    <OrnamentDescription>17737</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -225,7 +227,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17738</OrnamentDescritpion>
+                    <OrnamentDescription>17738</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -301,7 +304,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17738</OrnamentDescritpion>
+                    <OrnamentDescription>17738</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -380,7 +384,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                    <OrnamentDescription>17737</OrnamentDescription>
+                    <PlazzaSize>0</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -456,7 +461,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                    <OrnamentDescription>17737</OrnamentDescription>
+                    <PlazzaSize>0</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -535,7 +541,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                    <OrnamentDescription>17737</OrnamentDescription>
+                    <PlazzaSize>0</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -611,7 +618,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17737</OrnamentDescritpion>
+                    <OrnamentDescription>17737</OrnamentDescription>
+                    <PlazzaSize>0</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -690,7 +698,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17739</OrnamentDescritpion>
+                    <OrnamentDescription>17739</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -766,7 +775,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17739</OrnamentDescritpion>
+                    <OrnamentDescription>17739</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -845,7 +855,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>3</OrnamentUnit>
-                    <OrnamentDescritpion>17741</OrnamentDescritpion>
+                    <OrnamentDescription>17741</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -921,7 +931,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>3</OrnamentUnit>
-                    <OrnamentDescritpion>17741</OrnamentDescritpion>
+                    <OrnamentDescription>17741</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1000,7 +1010,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>4</OrnamentUnit>
-                    <OrnamentDescritpion>17740</OrnamentDescritpion>
+                    <OrnamentDescription>17740</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1076,7 +1086,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>4</OrnamentUnit>
-                    <OrnamentDescritpion>17740</OrnamentDescritpion>
+                    <OrnamentDescription>17740</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1155,7 +1165,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>12</OrnamentUnit>
-                    <OrnamentDescritpion>17742</OrnamentDescritpion>
+                    <OrnamentDescription>17742</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1231,7 +1241,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>12</OrnamentUnit>
-                    <OrnamentDescritpion>17742</OrnamentDescritpion>
+                    <OrnamentDescription>17742</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1310,7 +1320,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                    <OrnamentDescription>17743</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1386,7 +1397,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                    <OrnamentDescription>17743</OrnamentDescription>
+                    <PlazzaSize>1</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1465,7 +1477,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                    <OrnamentDescription>17743</OrnamentDescription>
+                    <PlazzaSize>0</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1541,7 +1554,8 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17743</OrnamentDescritpion>
+                    <OrnamentDescription>17743</OrnamentDescription>
+                    <PlazzaSize>0</PlazzaSize>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -1933,7 +1947,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17734</OrnamentDescritpion>
+                    <OrnamentDescription>17734</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2009,7 +2023,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17734</OrnamentDescritpion>
+                    <OrnamentDescription>17734</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2088,7 +2102,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17735</OrnamentDescritpion>
+                    <OrnamentDescription>17735</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2164,7 +2178,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17735</OrnamentDescritpion>
+                    <OrnamentDescription>17735</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2243,7 +2257,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17731</OrnamentDescritpion>
+                    <OrnamentDescription>17731</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2319,7 +2333,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17731</OrnamentDescritpion>
+                    <OrnamentDescription>17731</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2398,7 +2412,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17736</OrnamentDescritpion>
+                    <OrnamentDescription>17736</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2474,7 +2488,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>17736</OrnamentDescritpion>
+                    <OrnamentDescription>17736</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -2673,13 +2687,13 @@
                 <ConstructionCategory>
                     <BuildingList>
                         <Item>
-                            <Building>102473</Building>
+                            <Building>902237</Building>
                         </Item>
                         <Item>
-                            <Building>102474</Building>
+                            <Building>902238</Building>
                         </Item>
                         <Item>
-                            <Building>102475</Building>
+                            <Building>902239</Building>
                         </Item>
                     </BuildingList>
                     <CategoryDescription>19564</CategoryDescription>
@@ -2733,13 +2747,13 @@
                             <Building>902259</Building>
                         </Item>
                         <Item>
-                            <Building>102473</Building>
+                            <Building>902251</Building>
                         </Item>
                         <Item>
-                            <Building>102474</Building>
+                            <Building>902252</Building>
                         </Item>
                         <Item>
-                            <Building>102475</Building>
+                            <Building>902253</Building>
                         </Item>
                     </BuildingList>
                     <CategoryDescription>19565</CategoryDescription>
@@ -2842,7 +2856,54 @@
                                                 <Asset>902260</Asset>
                                             </Item>
                                         </UnlockAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134000</GUID>
+                    <Name>intermediate moderate 4.1_ UPDATE 3.0.2 New Trigger</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000004</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>902239</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902238</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902237</Asset>
+                                            </Item>
+                                        </UnlockAssets>
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -2884,7 +2945,7 @@
                                                 <Asset>902261</Asset>
                                             </Item>
                                         </UnhideAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -2926,8 +2987,167 @@
                                                 <Asset>902261</Asset>
                                             </Item>
                                         </UnlockAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+
                                     </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134001</GUID>
+                    <Name>intermediate moderate 4.1_ UPDATE 3.0.2 New Trigger</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000006</Context>
+                                <CounterAmount>1000</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>902252</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902253</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>902251</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134022</GUID>
+                    <Name>3.0.2 Change Old Worldfair Ornaments GUIDs</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionAlwaysTrue</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionAlwaysTrue />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetObjectGUID</Template>
+                                <Values>
+                                    <Action />
+                                    <ObjectFilter>
+                                        <ObjectGUID>102474</ObjectGUID>
+                                        <ObjectSession>180025</ObjectSession>
+                                    </ObjectFilter>
+                                    <ActionSetObjectGUID>
+                                        <NewGUID>902253</NewGUID>
+                                    </ActionSetObjectGUID>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetObjectGUID</Template>
+                                <Values>
+                                    <Action />
+                                    <ObjectFilter>
+                                        <ObjectGUID>102475</ObjectGUID>
+                                        <ObjectSession>180025</ObjectSession>
+                                    </ObjectFilter>
+                                    <ActionSetObjectGUID>
+                                        <NewGUID>902252</NewGUID>
+                                    </ActionSetObjectGUID>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetObjectGUID</Template>
+                                <Values>
+                                    <Action />
+                                    <ObjectFilter>
+                                        <ObjectGUID>102473</ObjectGUID>
+                                        <ObjectSession>180025</ObjectSession>
+                                    </ObjectFilter>
+                                    <ActionSetObjectGUID>
+                                        <NewGUID>902253</NewGUID>
+                                    </ActionSetObjectGUID>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetObjectGUID</Template>
+                                <Values>
+                                    <Action />
+                                    <ObjectFilter>
+                                        <ObjectGUID>102474</ObjectGUID>
+                                        <ObjectSession>180023</ObjectSession>
+                                    </ObjectFilter>
+                                    <ActionSetObjectGUID>
+                                        <NewGUID>902239</NewGUID>
+                                    </ActionSetObjectGUID>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetObjectGUID</Template>
+                                <Values>
+                                    <Action />
+                                    <ObjectFilter>
+                                        <ObjectGUID>102475</ObjectGUID>
+                                        <ObjectSession>180023</ObjectSession>
+                                    </ObjectFilter>
+                                    <ActionSetObjectGUID>
+                                        <NewGUID>902238</NewGUID>
+                                    </ActionSetObjectGUID>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetObjectGUID</Template>
+                                <Values>
+                                    <Action />
+                                    <ObjectFilter>
+                                        <ObjectGUID>102473</ObjectGUID>
+                                        <ObjectSession>180023</ObjectSession>
+                                    </ObjectFilter>
+                                    <ActionSetObjectGUID>
+                                        <NewGUID>902237</NewGUID>
+                                    </ActionSetObjectGUID>
                                 </Values>
                             </TriggerAction>
                         </Item>
@@ -2938,373 +3158,14 @@
         </Asset>
     </ModOp>
 
-    <ModOp Type="replace" GUID='17006' Path="/Values/MonumentEvent/RewardThresholds">
-        <RewardThresholds>
-            <Item>
-                <Reward>17700</Reward>
-                <NeededAttractiveness>100</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17703</Reward>
-                <NeededAttractiveness>200</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17704</Reward>
-                <NeededAttractiveness>300</NeededAttractiveness>
-            </Item>
-        </RewardThresholds>
-    </ModOp>
-    <ModOp Type="replace" GUID='17007' Path="/Values/MonumentEvent/RewardThresholds">
-        <RewardThresholds>
-            <Item>
-                <Reward>17705</Reward>
-                <NeededAttractiveness>100</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17706</Reward>
-                <NeededAttractiveness>300</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17707</Reward>
-                <NeededAttractiveness>500</NeededAttractiveness>
-            </Item>
-        </RewardThresholds>
-    </ModOp>
-    <ModOp Type="replace" GUID='17008' Path="/Values/MonumentEvent/RewardThresholds">
-        <RewardThresholds>
-            <Item>
-                <Reward>17703</Reward>
-                <NeededAttractiveness>200</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17708</Reward>
-                <NeededAttractiveness>500</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17709</Reward>
-                <NeededAttractiveness>750</NeededAttractiveness>
-            </Item>
-        </RewardThresholds>
-    </ModOp>
-    <ModOp Type="remove" GUID='17008' Path="/Values/MonumentEvent/MinAttractiveness"/>
-
-    <ModOp Type="replace" GUID='17700'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17700</GUID>
-                    <Name>1 Tower and 1 Gate</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_2.png</IconFilename>
-                    <InfoDescription>17813</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27197</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>1</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>1</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17703'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17703</GUID>
-                    <Name>2 Towers and 2 Gate an 1 Pavillon</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_3.png</IconFilename>
-                    <InfoDescription>17814</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27198</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>2</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>2</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>1</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17704'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17704</GUID>
-                    <Name>4 Tower and 4 Gate and 2 Pavillon</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_4.png</IconFilename>
-                    <InfoDescription>17815</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27199</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>2</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17705'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17705</GUID>
-                    <Name>4 4 0</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_5.png</IconFilename>
-                    <InfoDescription>17816</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27200</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17706'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17706</GUID>
-                    <Name>4 4 2</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_6.png</IconFilename>
-                    <InfoDescription>17817</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27201</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>2</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17707'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17707</GUID>
-                    <Name>6 6 3</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_7.png</IconFilename>
-                    <InfoDescription>17818</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27202</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>2</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17708'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17708</GUID>
-                    <Name>6 6 2</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_8.png</IconFilename>
-                    <InfoDescription>17819</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27203</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>6</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>6</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>2</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-    <ModOp Type="replace" GUID='17709'>
-        <Asset>
-            <Template>MonumentEventReward</Template>
-            <Values>
-                <Standard>
-                    <GUID>17709</GUID>
-                    <Name>8 8 4</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_9.png</IconFilename>
-                    <InfoDescription>17820</InfoDescription>
-                </Standard>
-                <Text>
-                    <LocaText />
-                    <LineID>27204</LineID>
-                </Text>
-                <Reward>
-                    <RewardAssets>
-                        <Item>
-                            <Reward>102475</Reward>
-                            <Amount>8</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102474</Reward>
-                            <Amount>8</Amount>
-                        </Item>
-                        <Item>
-                            <Reward>102473</Reward>
-                            <Amount>4</Amount>
-                        </Item>
-                    </RewardAssets>
-                </Reward>
-            </Values>
-        </Asset>
-    </ModOp>
-
-    <ModOp Type="replace" GUID='17008' Path="/Values/MonumentEvent/RewardThresholds">
-        <RewardThresholds>
-            <Item>
-                <Reward>17700</Reward>
-                <NeededAttractiveness>200</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17708</Reward>
-                <NeededAttractiveness>500</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17709</Reward>
-                <NeededAttractiveness>750</NeededAttractiveness>
-            </Item>
-        </RewardThresholds>
-    </ModOp>
-
-    <ModOp Type="replace" GUID='17007' Path="/Values/MonumentEvent/RewardThresholds">
-        <RewardThresholds>
-            <Item>
-                <Reward>17705</Reward>
-                <NeededAttractiveness>100</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17706</Reward>
-                <NeededAttractiveness>300</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17707</Reward>
-                <NeededAttractiveness>500</NeededAttractiveness>
-            </Item>
-        </RewardThresholds>
-    </ModOp>
-
-    <ModOp Type="replace" GUID='17006' Path="/Values/MonumentEvent/RewardThresholds">
-        <RewardThresholds>
-            <Item>
-                <Reward>17700</Reward>
-                <NeededAttractiveness>100</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17703</Reward>
-                <NeededAttractiveness>200</NeededAttractiveness>
-            </Item>
-            <Item>
-                <Reward>17704</Reward>
-                <NeededAttractiveness>300</NeededAttractiveness>
-            </Item>
-        </RewardThresholds>
-    </ModOp>
 
     <!-- replacement of mosaic  -->
     <ModOp Type="remove" GUID='501823,501824' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '102466']"/>
     <!-- removal of channel category -->
-    <!-- throws errors: Don't care -->
     <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501498']"/>
     <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501693']"/>
 
     <!-- Zoo, Museum, Botanic Garden use the new ones -->
-
     <ModOp Type="replace" GUID='1010470,1010471,110935' Path="/Values/ModuleOwner/ConstructionOptions/Item[ModuleGUID = '102466' ]">
         <Item>
             <ModuleGUID>902244</ModuleGUID>
@@ -3314,10 +3175,5 @@
         <Item>
             <ModuleGUID>902236</ModuleGUID>
         </Item>
-    </ModOp>
-
-    <!-- 102475, 102474, 102473 need added attractiveness -->
-    <ModOp Type = "replace" GUID = '102473,102474,102475' Path = "/Values/Ornament/OrnamentUnit">
-        <OrnamentUnit>50</OrnamentUnit>
     </ModOp>
 </ModOps>

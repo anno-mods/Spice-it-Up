@@ -2,9 +2,7 @@
   "Version": "1",
   "ModID": "Spice_Palace",
   "IncompatibleIds": null,
-  "ModDependencies": [
-    "SeatOfPower"
-  ],
+  "ModDependencies": null,
   "Category": {
     "Chinese": null,
     "English": "Ornamental",
@@ -20,9 +18,9 @@
   },
   "ModName": {
     "Chinese": null,
-    "English": "Grand Palace",
+    "English": "Ornamental Palace",
     "French": null,
-    "German": "Großer Palast",
+    "German": "Zier-Palast",
     "Italian": null,
     "Japanese": null,
     "Korean": null,

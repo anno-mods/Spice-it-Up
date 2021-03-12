@@ -7,12 +7,6 @@
       <Item>112523</Item>
     </Item>
   </ModOp>
-  <ModOp Type="add" GUID='117422' Path="/Values/ItemCrafter/CraftableItemsInRegion/Arctic/CraftableItems">
-    <Item>
-      <Item>115980</Item>
-    </Item>
-  </ModOp>
-
   <ModOp Type="add" GUID='112520' Path="/Values">
     <Item>
       <Allocation>None</Allocation>
@@ -34,31 +28,6 @@
       <CraftingCosts>
         <Item>
           <Product>112520</Product>
-          <Amount>5</Amount>
-        </Item>
-      </CraftingCosts>
-    </CraftableItem>
-  </ModOp>
-  <ModOp Type="add" GUID='115980' Path="/Values">
-    <Item>
-      <Allocation>None</Allocation>
-    </Item>
-    <CraftableItem>
-      <CraftingCosts>
-        <Item>
-          <Product>112704</Product>
-          <Amount>10</Amount>
-        </Item>
-        <Item>
-          <Product>112702</Product>
-          <Amount>5</Amount>
-        </Item>
-        <Item>
-          <Product>1010243</Product>
-          <Amount>5</Amount>
-        </Item>
-        <Item>
-          <Product>1010211</Product>
           <Amount>5</Amount>
         </Item>
       </CraftingCosts>

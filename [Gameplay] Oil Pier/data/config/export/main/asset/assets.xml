@@ -22,7 +22,7 @@
                 <Building>
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <Destructable>1</Destructable>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <AssociatedRegions>Moderate</AssociatedRegions>
                 </Building>
                 <Cost>
@@ -178,7 +178,7 @@
                 <Building>
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <Destructable>1</Destructable>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <AssociatedRegions>Colony01</AssociatedRegions>
                 </Building>
                 <Cost>
@@ -336,7 +336,7 @@
                 <Building>
                     <BuildingCategoryName>11150</BuildingCategoryName>
                     <Destructable>1</Destructable>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <AssociatedRegions>Africa</AssociatedRegions>
                 </Building>
                 <Cost>

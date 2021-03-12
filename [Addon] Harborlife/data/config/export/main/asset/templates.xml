@@ -1,36 +1,12 @@
 <!-- Stand: 18.10.19 // GU 5.3 -->
 
 <ModOps>
-    <!-- Tell the AI that it may use the deep shipyard copies -->
-    <ModOp Type="replace" Path="Templates/Group[Name = 'Profiles']/Group[Name = 'Profiles']/Template[Name = 'Profile_2ndParty']/Properties/ConstructionAI/CrafterConfiguration/CrafterConstruction">
-        <CrafterConstruction>
-            <Item>
-                <CrafterBuilding>88530000</CrafterBuilding>
-                <SessionType>MainForRegion</SessionType>
-            </Item>
-            <Item>
-                <CrafterBuilding>88530001</CrafterBuilding>
-                <SessionType>MainForRegion</SessionType>
-            </Item>
-            <Item>
-                <CrafterBuilding>88530007</CrafterBuilding>
-                <Region>Colony01</Region>
-                <SessionType>MainForRegion</SessionType>
-                <RequiredUnlock>1010285</RequiredUnlock>
-            </Item>
-            <Item>
-                <CrafterBuilding>88530000</CrafterBuilding>
-                <SessionType>Other</SessionType>
-                <RequiredUnlock>1010285</RequiredUnlock>
-            </Item>
-        </CrafterConstruction>
-    </ModOp>
 
 
     <!-- Harbor Ornaments -->
     <ModOp Type="add" Path="Templates/Group[Name = 'Economy']">
         <Template>
-            <Name>HarborOrnament</Name>
+            <Name>HarborOrnament_DEPRACATED</Name>
             <Properties>
                 <Standard />
                 <Building>
@@ -115,7 +91,7 @@
                     <BuildingType>Residence</BuildingType>
                     <BuildingCategoryName>100004</BuildingCategoryName>
                     <AllowChangeVariation>1</AllowChangeVariation>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <InfluencedVariationDirection>
                         <Item />
                         <Item>
@@ -179,6 +155,7 @@
                 <Blocking />
                 <Cost />
                 <Mesh>
+                    <ObjectPosition>Unmanaged</ObjectPosition>
                     <MeshPlacement>Default</MeshPlacement>
                 </Mesh>
                 <Object>
@@ -275,7 +252,7 @@
                 <Blocking />
                 <Building>
                     <AllowChangeVariation>1</AllowChangeVariation>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                     <BuildingType>Residence</BuildingType>
                     <BuildingCategoryName>100004</BuildingCategoryName>
                     <InfluencedVariationDirection>
@@ -439,7 +416,7 @@
                 <Building>
                     <BuildingType>Factory</BuildingType>
                     <BuildingCategoryName>100003</BuildingCategoryName>
-                    <TerrainType>Water</TerrainType>
+                    <TerrainType>Water_Including_Coast</TerrainType>
                 </Building>
                 <Blocking />
                 <Cost />
@@ -530,10 +507,4 @@
             </Properties>
         </Template>
     </ModOp>
-
-
-
-
-
-
 </ModOps>

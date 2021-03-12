@@ -9252,54 +9252,6 @@
             </Values>
         </Asset>
     </ModOp>
-    <!-- Assetpools added to Trees -->
-    <ModOp Type="add" GUID='130152' Path="/Values/AssetPool/AssetList">
-        <Item>
-            <Asset>902084</Asset>
-        </Item>
-        <Item>
-            <Asset>902085</Asset>
-        </Item>
-        <Item>
-            <Asset>902086</Asset>
-        </Item>
-        <Item>
-            <Asset>902087</Asset>
-        </Item>
-        <Item>
-            <Asset>902088</Asset>
-        </Item>
-        <Item>
-            <Asset>902089</Asset>
-        </Item>
-        <Item>
-            <Asset>902090</Asset>
-        </Item>
-        <Item>
-            <Asset>902091</Asset>
-        </Item>
-        <Item>
-            <Asset>902092</Asset>
-        </Item>
-        <Item>
-            <Asset>902093</Asset>
-        </Item>
-        <Item>
-            <Asset>902094</Asset>
-        </Item>
-        <Item>
-            <Asset>902095</Asset>
-        </Item>
-        <Item>
-            <Asset>902096</Asset>
-        </Item>
-        <Item>
-            <Asset>902097</Asset>
-        </Item>
-        <Item>
-            <Asset>902098</Asset>
-        </Item>
-    </ModOp>
     <!-- Buildmenus New Trees North -->
     <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501412']">
         <Asset>
@@ -9842,7 +9794,7 @@
                                                 <Asset>902090</Asset>
                                             </Item>
                                         </UnhideAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -9884,7 +9836,7 @@
                                                 <Asset>902084</Asset>
                                             </Item>
                                         </UnlockAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -9932,7 +9884,7 @@
                                                 <Asset>902091</Asset>
                                             </Item>
                                         </UnhideAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -9980,7 +9932,7 @@
                                                 <Asset>902088</Asset>
                                             </Item>
                                         </UnlockAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -10045,7 +9997,7 @@
                                                 <Asset>902092</Asset>
                                             </Item>
                                         </UnhideAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -10096,7 +10048,7 @@
                                                 <Asset>902097</Asset>
                                             </Item>
                                         </UnhideAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -10141,7 +10093,7 @@
                                                 <Asset>902094</Asset>
                                             </Item>
                                         </UnlockAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -10186,7 +10138,7 @@
                                                 <Asset>902098</Asset>
                                             </Item>
                                         </UnhideAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
@@ -10237,7 +10189,7 @@
                                                 <Asset>902098</Asset>
                                             </Item>
                                         </UnlockAssets>
-                                        <AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+                                        
                                     </ActionUnlockAsset>
                                 </Values>
                             </TriggerAction>
