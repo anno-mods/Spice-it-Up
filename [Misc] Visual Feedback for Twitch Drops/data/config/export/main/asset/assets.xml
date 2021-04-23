@@ -55,7 +55,6 @@
             <Item>
               <Building>112305</Building>
             </Item>
-
             <Item>
               <Building>118229</Building>
             </Item>
@@ -102,8 +101,6 @@
   </ModOp>
 
   <ModOp Type="addNextSibling" GUID='2001124'>
-
-
     <Asset>
       <Template>TrafficFeedbackUnit</Template>
       <Values>

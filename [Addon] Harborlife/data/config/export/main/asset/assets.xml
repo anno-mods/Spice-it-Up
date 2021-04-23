@@ -3293,6 +3293,8 @@
                 </Building>
             </Values>
         </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID = '131865'>
         <Asset>
             <BaseAssetGUID>131865</BaseAssetGUID>
             <Values>
