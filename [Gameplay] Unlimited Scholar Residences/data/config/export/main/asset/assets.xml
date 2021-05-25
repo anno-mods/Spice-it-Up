@@ -1,9 +1,46 @@
 <ModOps>
     <ModOp GUID='114445' Path="/Template" Type="replace">
-        <Template>ResidenceBuilding7</Template>
+        <Template>ResidenceBuilding</Template>
     </ModOp>
-    <ModOp GUID='114445,1440133040' Path="/Values/BuildPermit" Type="remove"/>
+    <ModOp GUID='114445,1440133040' Path="/Values/BuildPermit" Type="replace">
+        <FloorStackOwner />
+    </ModOp>
 
     <!-- Remove Godlike -->
     <ModOp GUID='124717' Path="/Values/ResearchCentreScene/GodlikeCategories/Nature/Godlikes/Item[Godlike = '125340']" Type="remove"/>
+
+    <!-- #Fix Tutorial Quest -->
+	<ModOp GUID='127938' Path="/Values/Objectives/WinConditions" Type="replace">
+		<WinConditions>
+			<Item>
+				<VectorElement>
+					<InheritedIndex>0</InheritedIndex>
+					<InheritanceMapV2>
+						<Entry>
+							<TemplateName>A7_QuestStatusQuo</TemplateName>
+							<Index>0</Index>
+						</Entry>
+					</InheritanceMapV2>
+				</VectorElement>
+				<Objective>
+					<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+					<Values>
+						<ConditionQuestObjective>
+							<TextCombinedContextValue>12714</TextCombinedContextValue>
+							<QuestTrackerIcon>data/ui/2kimages/main/3dicons/icon_research_center.png</QuestTrackerIcon>
+						</ConditionQuestObjective>
+						<ConditionPlayerCounter>
+							<PlayerCounter>ObjectBuilt</PlayerCounter>
+							<Context>114445</Context>
+							<CounterAmount>25</CounterAmount>
+						</ConditionPlayerCounter>
+						<ConditionQuestStatusQuo />
+						<ConditionPropsExecutionPlaceSettings>
+							<ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+						</ConditionPropsExecutionPlaceSettings>
+					</Values>
+				</Objective>
+			</Item>
+		</WinConditions>
+	</ModOp>
 </ModOps>

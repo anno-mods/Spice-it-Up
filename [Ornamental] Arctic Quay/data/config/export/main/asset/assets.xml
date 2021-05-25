@@ -89,7 +89,9 @@
                 <Text>
                     <LineID>11037</LineID>
                 </Text>
-                <Building />
+                <Building>
+                    <PickingAsset>8857106</PickingAsset>
+                </Building>
             </Values>
         </Asset>
     </ModOp>

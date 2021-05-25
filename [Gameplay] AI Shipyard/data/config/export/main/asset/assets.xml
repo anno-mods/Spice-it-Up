@@ -7246,10 +7246,13 @@
 				</Attackable>
 				<Pausable/>
 				<UpgradeList/>
-				<Electric>
-					<BoostedByElectricity>0</BoostedByElectricity>
-				</Electric>
+				<Industrializable>
+					<BoostedByIndustrialization>0</BoostedByIndustrialization>
+				</Industrializable>
 				<QuestObject/>
+				<BusActivation>
+					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
+				</BusActivation>
 			</Values>
 		</Asset>
 		<Asset>
@@ -7361,8 +7364,13 @@
 				</Attackable>
 				<Pausable/>
 				<UpgradeList/>
-				<Electric/>
+				<Industrializable/>
 				<QuestObject/>
+				
+				<Electrifiable />
+				<BusActivation>
+					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
+				</BusActivation>
 			</Values>
 		</Asset>
 		<Asset>
@@ -7474,8 +7482,13 @@
 				</Attackable>
 				<Pausable/>
 				<UpgradeList/>
-				<Electric/>
+				<Industrializable/>
 				<QuestObject/>
+				
+				<Electrifiable />
+				<BusActivation>
+					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
+				</BusActivation>
 			</Values>
 		</Asset>
 		<Asset>
@@ -7542,8 +7555,13 @@
 				</Attackable>
 				<Pausable/>
 				<UpgradeList/>
-				<Electric/>
+				<Industrializable/>
 				<QuestObject/>
+				
+				<Electrifiable />
+				<BusActivation>
+					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
+				</BusActivation>
 			</Values>
 		</Asset>
 	</ModOp>
