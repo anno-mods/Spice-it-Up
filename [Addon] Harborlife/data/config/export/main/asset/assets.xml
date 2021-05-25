@@ -98,7 +98,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -333,7 +333,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -435,7 +435,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -491,7 +491,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -548,7 +548,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -604,7 +604,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -662,7 +662,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
@@ -1107,7 +1107,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1234,7 +1234,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1332,7 +1332,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -1389,7 +1389,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -1444,7 +1444,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost />
@@ -1501,7 +1501,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Blocking>
@@ -1648,7 +1648,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -1792,7 +1792,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -2083,7 +2083,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Mesh />
@@ -2215,7 +2215,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2299,7 +2299,6 @@
                     <AmbientMood>ResidenceTier1</AmbientMood>
                 </AmbientMoodProvider>
                 <Culture />
-                <ItemGenerator />
                 <QuestObject />
             </Values>
         </Asset>
@@ -2325,7 +2324,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2399,7 +2398,6 @@
                     <AmbientMood>ResidenceTier1</AmbientMood>
                 </AmbientMoodProvider>
                 <Culture />
-                <ItemGenerator />
                 <QuestObject />
             </Values>
         </Asset>
@@ -2425,7 +2423,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2521,7 +2519,6 @@
                     <AmbientMood>ResidenceTier1</AmbientMood>
                 </AmbientMoodProvider>
                 <Culture />
-                <ItemGenerator />
                 <QuestObject />
             </Values>
         </Asset>
@@ -2548,7 +2545,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2632,7 +2629,6 @@
                     <AmbientMood>ResidenceTier1</AmbientMood>
                 </AmbientMoodProvider>
                 <Culture />
-                <ItemGenerator />
                 <QuestObject />
             </Values>
         </Asset>
@@ -2658,7 +2654,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2732,7 +2728,6 @@
                     <AmbientMood>ResidenceTier1</AmbientMood>
                 </AmbientMoodProvider>
                 <Culture />
-                <ItemGenerator />
                 <QuestObject />
             </Values>
         </Asset>
@@ -2758,7 +2753,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -2852,7 +2847,6 @@
                     <AmbientMood>ResidenceTier1</AmbientMood>
                 </AmbientMoodProvider>
                 <Culture />
-                <ItemGenerator />
                 <QuestObject />
             </Values>
         </Asset>
@@ -3271,7 +3265,7 @@
     <!-- ########### [Freight Harbor] Streets / Rails ################################################################## -->
 
 
-    <ModOp Type="addNextSibling" GUID = '601443'>
+    <ModOp Type="addNextSibling" GUID='601443'>
         <Asset>
             <BaseAssetGUID>601443</BaseAssetGUID>
             <Values>
@@ -3294,7 +3288,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="addNextSibling" GUID = '131865'>
+    <ModOp Type="addNextSibling" GUID='131865'>
         <Asset>
             <BaseAssetGUID>131865</BaseAssetGUID>
             <Values>
@@ -3811,7 +3805,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4056,7 +4050,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4285,7 +4279,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4613,7 +4607,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -4955,7 +4949,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5165,7 +5159,7 @@
                 </Standard>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Building>
@@ -5234,7 +5228,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5372,7 +5366,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5503,7 +5497,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5646,7 +5640,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5738,9 +5732,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -5765,7 +5757,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -5896,9 +5888,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -5923,7 +5913,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6044,9 +6034,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -6071,7 +6059,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6193,9 +6181,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -6220,7 +6206,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6342,9 +6328,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -6369,7 +6353,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6492,9 +6476,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -6519,7 +6501,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -6642,9 +6624,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -6885,7 +6865,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7008,7 +6988,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7161,8 +7141,8 @@
                     <SecondPartyRelevant>0</SecondPartyRelevant>
                 </Building>
                 <Blocking>
-                    <GroundDecalAsset>601492</GroundDecalAsset>
-                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalAsset>132528</GroundDecalAsset>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7291,9 +7271,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -7318,7 +7296,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7411,9 +7389,7 @@
                         </Fire>
                     </IncidentInfectionChanceFactors>
                 </IncidentInfectable>
-                <Electric />
                 <Culture />
-                <ItemGenerator />
             </Values>
         </Asset>
     </ModOp>
@@ -7439,7 +7415,7 @@
                 </Building>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Cost>
@@ -7902,6 +7878,30 @@
         <!-- Residence OW T5 -->
     </ModOp>
 
+    <!-- all Residences in OW except Scholars -->
+    <ModOp Type="add" GUID='194015' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>8856001</GUID>
+        </Item>
+        <!-- Residence OW T1 -->
+        <Item>
+            <GUID>8856002</GUID>
+        </Item>
+        <!-- Residence OW T2 -->
+        <Item>
+            <GUID>8856003</GUID>
+        </Item>
+        <!-- Residence OW T3 -->
+        <Item>
+            <GUID>8856004</GUID>
+        </Item>
+        <!-- Residence OW T4 -->
+        <Item>
+            <GUID>8856005</GUID>
+        </Item>
+        <!-- Residence OW T5 -->
+    </ModOp>
+
     <!-- all Farmers & Worker Residences -->
     <ModOp Type="add" GUID='192445' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
         <Item>
@@ -8192,7 +8192,7 @@
                 <Text />
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Building>
@@ -8260,7 +8260,7 @@
                 <Text />
                 <Blocking>
                     <GroundDecalAsset>601492</GroundDecalAsset>
-            <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
                 <Building>
@@ -8367,7 +8367,7 @@
                 </Standard>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                 </Blocking>
                 <Building>
                     <AssociatedRegions>Colony01</AssociatedRegions>
@@ -8383,7 +8383,7 @@
                 </Standard>
                 <Blocking>
                     <GroundDecalAsset>132528</GroundDecalAsset>
-                      <GroundDecalInvisible>132529</GroundDecalInvisible>
+                    <GroundDecalInvisible>132529</GroundDecalInvisible>
                 </Blocking>
                 <Building>
                     <AssociatedRegions>Colony01</AssociatedRegions>
@@ -10115,34 +10115,34 @@
                     <TriggerActions>
                         <Item>
                             <TriggerAction>
-                              <Template>ActionLockAsset</Template>
-                              <Values>
-                                <Action />
-                                <ActionLockAsset>
-                                  <LockAssets>
-                                    <Item>
-                                      <Asset>978000</Asset>
-                                    </Item>
-                                  </LockAssets>
-                                </ActionLockAsset>
-                              </Values>
+                                <Template>ActionLockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionLockAsset>
+                                        <LockAssets>
+                                            <Item>
+                                                <Asset>978000</Asset>
+                                            </Item>
+                                        </LockAssets>
+                                    </ActionLockAsset>
+                                </Values>
                             </TriggerAction>
-                          </Item>
-                          <Item>
+                        </Item>
+                        <Item>
                             <TriggerAction>
-                              <Template>ActionLockAsset</Template>
-                              <Values>
-                                <Action />
-                                <ActionLockAsset>
-                                  <LockAssets>
-                                    <Item>
-                                      <Asset>978001</Asset>
-                                    </Item>
-                                  </LockAssets>
-                                </ActionLockAsset>
-                              </Values>
+                                <Template>ActionLockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionLockAsset>
+                                        <LockAssets>
+                                            <Item>
+                                                <Asset>978001</Asset>
+                                            </Item>
+                                        </LockAssets>
+                                    </ActionLockAsset>
+                                </Values>
                             </TriggerAction>
-                          </Item>
+                        </Item>
                     </TriggerActions>
                 </Trigger>
                 <TriggerSetup />
@@ -10180,10 +10180,10 @@
         <Resource>1440133041</Resource>
     </ModOp>
 
-    <ModOp GUID = '100429' Path = "/Values/Building/TerrainType" Type = "replace">
+    <ModOp GUID='100429' Path="/Values/Building/TerrainType" Type="replace">
         <TerrainType>Water_Including_Coast</TerrainType>
     </ModOp>
-    <ModOp GUID = '101642' Path = "/Values/Building" Type = "add">
+    <ModOp GUID='101642' Path="/Values/Building" Type="add">
         <TerrainType>Water_Including_Coast</TerrainType>
     </ModOp>
 </ModOps>

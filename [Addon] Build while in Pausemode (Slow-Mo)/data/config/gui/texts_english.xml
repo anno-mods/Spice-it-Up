@@ -1,8 +1,0 @@
-<ModOps>
-  <ModOp Path="/TextExport/Texts" Type="add">
-    <Text>
-      <GUID>90001</GUID>
-      <Text>Toggle Active Pause</Text>
-    </Text>
-  </ModOp>
-</ModOps>

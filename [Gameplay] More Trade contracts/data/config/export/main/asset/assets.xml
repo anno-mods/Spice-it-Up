@@ -1,0 +1,98 @@
+<ModOps>
+  <!-- Qinsa Mining-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131815']/TradeLevels/Item[Unlock = '131844']/Trades">
+    <Item>
+      <Level>Legendary</Level>
+      <Good>112706</Good>
+    </Item>
+  </ModOp>
+  <!-- KITEA-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131811']/TradeLevels/Item[Unlock = '131836']/Trades">
+    <Item>
+      <Level>Epic</Level>
+      <Good>117702</Good>
+    </Item>
+  </ModOp>
+  <!-- Chanteuse-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131765']/TradeLevels/Item[Unlock = '131824']/Trades">
+    <Item>
+      <Level>Epic</Level>
+      <Good>112696</Good>
+    </Item>
+    <Item>
+      <Level>Legendary</Level>
+      <Good>112695</Good>
+    </Item>
+  </ModOp>
+  <!-- Old Levant &amp; Co.-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131828']/Trades">
+    <Item>
+      <Level>Epic</Level>
+      <Good>118728</Good>
+    </Item>
+  </ModOp>
+  <!-- Ganymedia.-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131813']/TradeLevels/Item[Unlock = '131840']/Trades">
+    <Item>
+      <Level>Legendary</Level>
+      <Good>117698</Good>
+    </Item>
+  </ModOp>
+  <!-- Promise Trust.-->
+  <ModOp Type = "replace" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131817']/TradeLevels">
+    <TradeLevels>
+      <Item>
+        <Unlock>131845</Unlock>
+        <Trades>
+          <Item>
+            <Good>1010232</Good>
+          </Item>
+          <Item>
+            <Good>1010222</Good>
+          </Item>
+          <Item>
+            <Good>1010234</Good>
+          </Item>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010205</Good>
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131846</Unlock>
+        <Trades>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010243</Good>
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010255</Good>
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010218</Good>
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131847</Unlock>
+        <Trades>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010208</Good>
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>1010207</Good>
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>1010202</Good>
+          </Item>
+        </Trades>
+      </Item>
+    </TradeLevels>
+  </ModOp>
+</ModOps>
