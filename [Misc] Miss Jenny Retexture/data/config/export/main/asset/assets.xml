@@ -1,0 +1,5 @@
+<ModOps>
+	<ModOp GUID = '135832' Type = "replace" Path = "/Values/Object/Variations/Item/Filename">
+		<Filename>data/graphics/portraits/spicey_jenny/red_engineer.cfg</Filename>
+	</ModOp>
+</ModOps>

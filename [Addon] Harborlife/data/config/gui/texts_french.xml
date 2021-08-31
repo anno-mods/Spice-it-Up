@@ -280,5 +280,142 @@
       <GUID>1440133082</GUID>
       <Text>[AssetData(269869) Text]</Text>
     </Text>
+    
+    <!-- Harbor Department Store -->
+    <Text>
+      <GUID>1440134530</GUID>
+      <Text>[AssetData(135100) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134531</GUID>
+      <Text>[AssetData(135103) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134532</GUID>
+      <Text>[AssetData(135187) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134533</GUID>
+      <Text>[AssetData(135188) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134534</GUID>
+      <Text>[AssetData(135189) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134535</GUID>
+      <Text>[AssetData(135190) Text]</Text>
+    </Text>
+    <!-- Harbor Furniture Store -->
+    <Text>
+      <GUID>1440134550</GUID>
+      <Text>[AssetData(135099) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134551</GUID>
+      <Text>[AssetData(135105) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134552</GUID>
+      <Text>[AssetData(135121) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134553</GUID>
+      <Text>[AssetData(135120) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134554</GUID>
+      <Text>[AssetData(135122) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134555</GUID>
+      <Text>[AssetData(135123) Text]</Text>
+    </Text>
+    <!-- Harbor Drug Store -->
+    <Text>
+      <GUID>1440134570</GUID>
+      <Text>[AssetData(134629) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134571</GUID>
+      <Text>[AssetData(134631) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134572</GUID>
+      <Text>[AssetData(135191) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134573</GUID>
+      <Text>[AssetData(135192) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134574</GUID>
+      <Text>[AssetData(135193) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134575</GUID>
+      <Text>[AssetData(135194) Text]</Text>
+    </Text>
+    <!-- Recipes -->
+    <Text>
+      <GUID>1440134536</GUID>
+      <Text>Grille-pain</Text>
+    </Text>
+    <Text>
+      <GUID>1440134537</GUID>
+      <Text>Vaisselle</Text>
+    </Text>
+    <Text>
+      <GUID>1440134538</GUID>
+      <Text>Aspirateur</Text>
+    </Text>
+    <Text>
+      <GUID>1440134539</GUID>
+      <Text>Réfrigérateur</Text>
+    </Text>
+    <Text>
+      <GUID>1440134540</GUID>
+      <Text>Mallette</Text>
+    </Text>
+    <Text>
+      <GUID>1440134556</GUID>
+      <Text>Lampe de banquier</Text>
+    </Text>
+    <Text>
+      <GUID>1440134557</GUID>
+      <Text>Paravent</Text>
+    </Text>
+    <Text>
+      <GUID>1440134558</GUID>
+      <Text>Pupitre</Text>
+    </Text>
+    <Text>
+      <GUID>1440134559</GUID>
+      <Text>Lit à colonnes</Text>
+    </Text>
+    <Text>
+      <GUID>1440134560</GUID>
+      <Text>Fauteuil de salon</Text>
+    </Text>
+    <Text>
+      <GUID>1440134576</GUID>
+      <Text>Dentifrice</Text>
+    </Text>
+    <Text>
+      <GUID>1440134577</GUID>
+      <Text>Détergent</Text>
+    </Text>
+    <Text>
+      <GUID>1440134578</GUID>
+      <Text>Rouge à lèvres</Text>
+    </Text>
+    <Text>
+      <GUID>1440134579</GUID>
+      <Text>Crème pour le visage</Text>
+    </Text>
+    <Text>
+      <GUID>1440134580</GUID>
+      <Text>Brillantine</Text>
+    </Text>
   </ModOp>
 </ModOps>

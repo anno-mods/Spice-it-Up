@@ -101,6 +101,13 @@
         </Item>
     </ModOp>
 
+    <ModOp Path = "//CoastGUIDReplacements" Type = "add">
+        <Item>
+            <OldGUID>987000</OldGUID>
+            <NewGUID>0</NewGUID>
+          </Item>
+    </ModOp>
+
     <ModOp Type="addNextSibling" GUID='25000193'>
         <Asset>
             <Template>ConstructionCategory</Template>

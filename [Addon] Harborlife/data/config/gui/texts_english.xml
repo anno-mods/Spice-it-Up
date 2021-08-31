@@ -1,284 +1,420 @@
 <ModOps>
-  <ModOp Path="/TextExport/Texts" Type="add">
-    <Text>
-      <GUID>8855001</GUID>
-      <Text>Harbor Storage Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855002</GUID>
-      <Text>Harbor Storage Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855004</GUID>
-      <Text>Harbor Storage Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855008</GUID>
-      <Text>Harbor Warehouse</Text>
-    </Text>
-    <Text>
-      <GUID>8855009</GUID>
-      <Text>Harbor Warehouse</Text>
-    </Text>
-    <Text>
-      <GUID>8855010</GUID>
-      <Text>Harbor Warehouse</Text>
-    </Text>
-    <Text>
-      <GUID>8855014</GUID>
-      <Text>Medium Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855016</GUID>
-      <Text>Small Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855018</GUID>
-      <Text>Small Storage</Text>
-    </Text>
-    <Text>
-      <GUID>8855005</GUID>
-      <Text>Harbor Storage Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855006</GUID>
-      <Text>Harbor Storage Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855011</GUID>
-      <Text>Harbor Warehouse</Text>
-    </Text>
-    <Text>
-      <GUID>8855012</GUID>
-      <Text>Harbor Warehouse</Text>
-    </Text>
-    <Text>
-      <GUID>8855015</GUID>
-      <Text>Medium Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855017</GUID>
-      <Text>Small Depot</Text>
-    </Text>
-    <Text>
-      <GUID>8855019</GUID>
-      <Text>Small Storage</Text>
-    </Text>
-    <Text>
-      <GUID>901006</GUID>
-      <Text>Lighthouse</Text>
-    </Text>
-    <Text>
-      <GUID>901007</GUID>
-      <Text>Lighthouse</Text>
-    </Text>
-    <Text>
-      <GUID>8855050</GUID>
-      <Text>Harbor Fire Department</Text>
-    </Text>
-    <Text>
-      <GUID>8855052</GUID>
-      <Text>Harbor Police Department</Text>
-    </Text>
-    <Text>
-      <GUID>8855054</GUID>
-      <Text>Harbor Hospital</Text>
-    </Text>
-    <Text>
-      <GUID>8855051</GUID>
-      <Text>Harbor Fire Department</Text>
-    </Text>
-    <Text>
-      <GUID>8855053</GUID>
-      <Text>Harbor Police Department</Text>
-    </Text>
-    <Text>
-      <GUID>8855055</GUID>
-      <Text>Harbor Hospital</Text>
-    </Text>
-    <Text>
-      <GUID>978000</GUID>
-      <Text>Quaystreet</Text>
-    </Text>
-    <Text>
-      <GUID>978001</GUID>
-      <Text>Quaystreet</Text>
-    </Text>
-    <Text>
-      <GUID>8855881</GUID>
-      <Text>Harbor Storage</Text>
-    </Text>
-    <Text>
-      <GUID>8855882</GUID>
-      <Text>Harbor Storage</Text>
-    </Text>
-    <Text>
-      <GUID>8856001</GUID>
-      <Text>Farmer Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856002</GUID>
-      <Text>Worker Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856003</GUID>
-      <Text>Artisan Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856004</GUID>
-      <Text>Engineer Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856005</GUID>
-      <Text>Invstor Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856006</GUID>
-      <Text>Jornalero Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856007</GUID>
-      <Text>Obrero Residence</Text>
-    </Text>
-    <Text>
-      <GUID>8856008</GUID>
-      <Text>Market</Text>
-    </Text>
-    <Text>
-      <GUID>8856009</GUID>
-      <Text>Pub</Text>
-    </Text>
-    <Text>
-      <GUID>8856010</GUID>
-      <Text>Church</Text>
-    </Text>
-    <Text>
-      <GUID>8856011</GUID>
-      <Text>School</Text>
-    </Text>
-    <Text>
-      <GUID>8856012</GUID>
-      <Text>Cabaret</Text>
-    </Text>
-    <Text>
-      <GUID>8856013</GUID>
-      <Text>University</Text>
-    </Text>
-    <Text>
-      <GUID>8856014</GUID>
-      <Text>Bank</Text>
-    </Text>
-    <Text>
-      <GUID>8856015</GUID>
-      <Text>Club House</Text>
-    </Text>
-    <Text>
-      <GUID>8856016</GUID>
-      <Text>Power Plant</Text>
-    </Text>
-    <Text>
-      <GUID>8856020</GUID>
-      <Text>Townhall</Text>
-    </Text>
-    <Text>
-      <GUID>8856017</GUID>
-      <Text>Market</Text>
-    </Text>
-    <Text>
-      <GUID>8856018</GUID>
-      <Text>Chapel</Text>
-    </Text>
-    <Text>
-      <GUID>8856019</GUID>
-      <Text>Boxing Arena</Text>
-    </Text>
-    <Text>
-      <GUID>8856021</GUID>
-      <Text>Townhall</Text>
-    </Text>
-    <Text>
-      <GUID>8855888</GUID>
-      <Text>Harbor City</Text>
-    </Text>
-    <Text>
-      <GUID>8855889</GUID>
-      <Text>Harbor City</Text>
-    </Text>
-    <Text>
-      <GUID>8855900</GUID>
-      <Text>Steam Crane</Text>
-    </Text>
-    <Text>
-      <GUID>8855902</GUID>
-      <Text>Crates &amp; boxes</Text>
-    </Text>
-    <Text>
-      <GUID>8855906</GUID>
-      <Text>[AssetData(8855900) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>8855907</GUID>
-      <Text>[AssetData(8855902) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530000</GUID>
-      <Text>[AssetData(1010520) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530001</GUID>
-      <Text>[AssetData(1010521) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530002</GUID>
-      <Text>[AssetData(1010278) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530003</GUID>
-      <Text>[AssetData(1010560) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530004</GUID>
-      <Text>[AssetData(1010310) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530006</GUID>
-      <Text>[AssetData(101262) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530005</GUID>
-      <Text>[AssetData(1010339) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530007</GUID>
-      <Text>[AssetData(101277) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530008</GUID>
-      <Text>[AssetData(100429) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530009</GUID>
-      <Text>[AssetData(102284) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>88530010</GUID>
-      <Text>[AssetData(101642) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>1440133040</GUID>
-      <Text>[AssetData(114445) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>1440133043</GUID>
-      <Text>[AssetData(118736) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>1440133083</GUID>
-      <Text>[AssetData(101325) Text]</Text>
-    </Text>
-    <Text>
-      <GUID>1440133082</GUID>
-      <Text>[AssetData(269869) Text]</Text>
-    </Text>
-  </ModOp>
-</ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+      <Text>
+        <GUID>8855001</GUID>
+        <Text>Harbor Storage Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855002</GUID>
+        <Text>Harbor Storage Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855004</GUID>
+        <Text>Harbor Storage Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855008</GUID>
+        <Text>Harbor Warehouse</Text>
+      </Text>
+      <Text>
+        <GUID>8855009</GUID>
+        <Text>Harbor Warehouse</Text>
+      </Text>
+      <Text>
+        <GUID>8855010</GUID>
+        <Text>Harbor Warehouse</Text>
+      </Text>
+      <Text>
+        <GUID>8855014</GUID>
+        <Text>Medium Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855016</GUID>
+        <Text>Small Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855018</GUID>
+        <Text>Small Storage</Text>
+      </Text>
+      <Text>
+        <GUID>8855005</GUID>
+        <Text>Harbor Storage Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855006</GUID>
+        <Text>Harbor Storage Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855011</GUID>
+        <Text>Harbor Warehouse</Text>
+      </Text>
+      <Text>
+        <GUID>8855012</GUID>
+        <Text>Harbor Warehouse</Text>
+      </Text>
+      <Text>
+        <GUID>8855015</GUID>
+        <Text>Medium Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855017</GUID>
+        <Text>Small Depot</Text>
+      </Text>
+      <Text>
+        <GUID>8855019</GUID>
+        <Text>Small Storage</Text>
+      </Text>
+      <Text>
+        <GUID>901006</GUID>
+        <Text>Lighthouse</Text>
+      </Text>
+      <Text>
+        <GUID>901007</GUID>
+        <Text>Lighthouse</Text>
+      </Text>
+      <Text>
+        <GUID>8855050</GUID>
+        <Text>Harbor Fire Department</Text>
+      </Text>
+      <Text>
+        <GUID>8855052</GUID>
+        <Text>Harbor Police Department</Text>
+      </Text>
+      <Text>
+        <GUID>8855054</GUID>
+        <Text>Harbor Hospital</Text>
+      </Text>
+      <Text>
+        <GUID>8855051</GUID>
+        <Text>Harbor Fire Department</Text>
+      </Text>
+      <Text>
+        <GUID>8855053</GUID>
+        <Text>Harbor Police Department</Text>
+      </Text>
+      <Text>
+        <GUID>8855055</GUID>
+        <Text>Harbor Hospital</Text>
+      </Text>
+      <Text>
+        <GUID>978000</GUID>
+        <Text>Quaystreet</Text>
+      </Text>
+      <Text>
+        <GUID>978001</GUID>
+        <Text>Quaystreet</Text>
+      </Text>
+      <Text>
+        <GUID>8855881</GUID>
+        <Text>Harbor Storage</Text>
+      </Text>
+      <Text>
+        <GUID>8855882</GUID>
+        <Text>Harbor Storage</Text>
+      </Text>
+      <Text>
+        <GUID>8856001</GUID>
+        <Text>Farmer Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856002</GUID>
+        <Text>Worker Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856003</GUID>
+        <Text>Artisan Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856004</GUID>
+        <Text>Engineer Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856005</GUID>
+        <Text>Invstor Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856006</GUID>
+        <Text>Jornalero Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856007</GUID>
+        <Text>Obrero Residence</Text>
+      </Text>
+      <Text>
+        <GUID>8856008</GUID>
+        <Text>Market</Text>
+      </Text>
+      <Text>
+        <GUID>8856009</GUID>
+        <Text>Pub</Text>
+      </Text>
+      <Text>
+        <GUID>8856010</GUID>
+        <Text>Church</Text>
+      </Text>
+      <Text>
+        <GUID>8856011</GUID>
+        <Text>School</Text>
+      </Text>
+      <Text>
+        <GUID>8856012</GUID>
+        <Text>Cabaret</Text>
+      </Text>
+      <Text>
+        <GUID>8856013</GUID>
+        <Text>University</Text>
+      </Text>
+      <Text>
+        <GUID>8856014</GUID>
+        <Text>Bank</Text>
+      </Text>
+      <Text>
+        <GUID>8856015</GUID>
+        <Text>Club House</Text>
+      </Text>
+      <Text>
+        <GUID>8856016</GUID>
+        <Text>Power Plant</Text>
+      </Text>
+      <Text>
+        <GUID>8856020</GUID>
+        <Text>Townhall</Text>
+      </Text>
+      <Text>
+        <GUID>8856017</GUID>
+        <Text>Market</Text>
+      </Text>
+      <Text>
+        <GUID>8856018</GUID>
+        <Text>Chapel</Text>
+      </Text>
+      <Text>
+        <GUID>8856019</GUID>
+        <Text>Boxing Arena</Text>
+      </Text>
+      <Text>
+        <GUID>8856021</GUID>
+        <Text>Townhall</Text>
+      </Text>
+      <Text>
+        <GUID>8855888</GUID>
+        <Text>Harbor City</Text>
+      </Text>
+      <Text>
+        <GUID>8855889</GUID>
+        <Text>Harbor City</Text>
+      </Text>
+      <Text>
+        <GUID>8855900</GUID>
+        <Text>Steam Crane</Text>
+      </Text>
+      <Text>
+        <GUID>8855902</GUID>
+        <Text>Crates &amp; boxes</Text>
+      </Text>
+      <Text>
+        <GUID>8855906</GUID>
+        <Text>[AssetData(8855900) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>8855907</GUID>
+        <Text>[AssetData(8855902) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530000</GUID>
+        <Text>[AssetData(1010520) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530001</GUID>
+        <Text>[AssetData(1010521) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530002</GUID>
+        <Text>[AssetData(1010278) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530003</GUID>
+        <Text>[AssetData(1010560) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530004</GUID>
+        <Text>[AssetData(1010310) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530006</GUID>
+        <Text>[AssetData(101262) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530005</GUID>
+        <Text>[AssetData(1010339) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530007</GUID>
+        <Text>[AssetData(101277) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530008</GUID>
+        <Text>[AssetData(100429) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530009</GUID>
+        <Text>[AssetData(102284) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530010</GUID>
+        <Text>[AssetData(101642) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133040</GUID>
+        <Text>[AssetData(114445) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133043</GUID>
+        <Text>[AssetData(118736) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133083</GUID>
+        <Text>[AssetData(101325) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133082</GUID>
+        <Text>[AssetData(269869) Text]</Text>
+      </Text>
+      <!-- Harbor Department Store -->
+      <Text>
+        <GUID>1440134530</GUID>
+        <Text>[AssetData(135100) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134531</GUID>
+        <Text>[AssetData(135103) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134532</GUID>
+        <Text>[AssetData(135187) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134533</GUID>
+        <Text>[AssetData(135188) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134534</GUID>
+        <Text>[AssetData(135189) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134535</GUID>
+        <Text>[AssetData(135190) Text]</Text>
+      </Text>
+      <!-- Harbor Furniture Store -->
+      <Text>
+        <GUID>1440134550</GUID>
+        <Text>[AssetData(135099) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134551</GUID>
+        <Text>[AssetData(135105) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134552</GUID>
+        <Text>[AssetData(135121) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134553</GUID>
+        <Text>[AssetData(135120) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134554</GUID>
+        <Text>[AssetData(135122) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134555</GUID>
+        <Text>[AssetData(135123) Text]</Text>
+      </Text>
+      <!-- Harbor Drug Store -->
+      <Text>
+        <GUID>1440134570</GUID>
+        <Text>[AssetData(134629) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134571</GUID>
+        <Text>[AssetData(134631) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134572</GUID>
+        <Text>[AssetData(135191) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134573</GUID>
+        <Text>[AssetData(135192) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134574</GUID>
+        <Text>[AssetData(135193) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134575</GUID>
+        <Text>[AssetData(135194) Text]</Text>
+      </Text>
+      <!-- Recipes -->
+      <Text>
+        <GUID>1440134536</GUID>
+        <Text>Toaster</Text>
+      </Text>
+      <Text>
+        <GUID>1440134537</GUID>
+        <Text>Crockery</Text>
+      </Text>
+      <Text>
+        <GUID>1440134538</GUID>
+        <Text>Vacuum Cleaner</Text>
+      </Text>
+      <Text>
+        <GUID>1440134539</GUID>
+        <Text>Refrigerator</Text>
+      </Text>
+      <Text>
+        <GUID>1440134540</GUID>
+        <Text>Briefcase</Text>
+      </Text>
+      <Text>
+        <GUID>1440134556</GUID>
+        <Text>Banker's Lamp</Text>
+      </Text>
+      <Text>
+        <GUID>1440134557</GUID>
+        <Text>Vanity Screen</Text>
+      </Text>
+      <Text>
+        <GUID>1440134558</GUID>
+        <Text>Writing Desk</Text>
+      </Text>
+      <Text>
+        <GUID>1440134559</GUID>
+        <Text>Four-Poster Beds</Text>
+      </Text>
+      <Text>
+        <GUID>1440134560</GUID>
+        <Text>Lounge Seating</Text>
+      </Text>
+      <Text>
+        <GUID>1440134576</GUID>
+        <Text>Toothpaste</Text>
+      </Text>
+      <Text>
+        <GUID>1440134577</GUID>
+        <Text>Detergent</Text>
+      </Text>
+      <Text>
+        <GUID>1440134578</GUID>
+        <Text>Lipstick</Text>
+      </Text>
+      <Text>
+        <GUID>1440134579</GUID>
+        <Text>Face Cream</Text>
+      </Text>
+      <Text>
+        <GUID>1440134580</GUID>
+        <Text>Pomade</Text>
+      </Text>
+    </ModOp>
+  </ModOps>
