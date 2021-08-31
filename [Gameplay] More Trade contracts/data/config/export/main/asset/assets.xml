@@ -1,16 +1,40 @@
 <ModOps>
-  <!-- Qinsa Mining-->
-  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131815']/TradeLevels/Item[Unlock = '131844']/Trades">
+  <!-- 
+    Harz (Epic)
+    Kirschholz (Epic)
+    Zuckerrohr (Rare)
+    Zitrusfrüchte (Epic)
+    Kamfer (Epic)
+    Lack (Legendary)
+   -->
+  <!-- Tattershire-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131852']/Trades">
     <Item>
       <Level>Legendary</Level>
-      <Good>112706</Good>
+      <Good>117702</Good>
     </Item>
   </ModOp>
   <!-- KITEA-->
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131811']/TradeLevels/Item[Unlock = '131836']/Trades">
     <Item>
       <Level>Epic</Level>
-      <Good>117702</Good>
+      <Good>135086</Good>
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>135087</Good>
+    </Item>
+    <Item>
+      <Level>Rare</Level>
+      <Good>1010251</Good>
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>133097</Good>
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>134616</Good>
     </Item>
   </ModOp>
   <!-- Chanteuse-->
@@ -90,6 +114,14 @@
           <Item>
             <Level>Legendary</Level>
             <Good>1010202</Good>
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>135129</Good>
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>134623</Good>
           </Item>
         </Trades>
       </Item>

@@ -3,8 +3,8 @@
 	<ModOp Type="add" GUID="100440,100439,100441,100442,102430,102431,102421,102419,102425,102428,102427,114166" Path="/Values/ItemContainer">
 		<StackLimit>75</StackLimit>
 	</ModOp>
-	<!-- Increases the Cargolimit of the Freighter, Extravaganza and the Great Eastern -->
-	<ModOp Type="add" GUID='1010062,102455,118718' Path="/Values/ItemContainer">
+	<!-- Increases the Cargolimit of the Freighter, Extravaganza, World Class Reefer and the Great Eastern -->
+	<ModOp Type="add" GUID='1010062,102455,118718,132404' Path="/Values/ItemContainer">
 		<StackLimit>100</StackLimit>
 	</ModOp>
 	<!-- Increases the Cargolimit if the Oil Tanker -->

@@ -1,5 +1,5 @@
 <ModOps>
-	<ModOp Type = "add" GUID = '180025,112132' Path = '/Values/Locked'>
+	<ModOp Type = "add" GUID = '180025,112132,211101' Path = '/Values/Locked'>
 		<DefaultLockedState>0</DefaultLockedState>
 	</ModOp>
 	<ModOp Type = "replace" GUID = '110934,180045' Path = '/Values/Locked/DefaultLockedState'>

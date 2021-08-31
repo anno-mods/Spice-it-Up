@@ -4027,6 +4027,10 @@
                 <Culture />
                 <StreetActivation />
                 <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
@@ -4256,6 +4260,10 @@
                 <Culture />
                 <StreetActivation />
                 <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
@@ -4486,6 +4494,10 @@
                 <Culture />
                 <StreetActivation />
                 <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
@@ -4519,6 +4531,30 @@
                         </Item>
                         <Item>
                             <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <AssociatedRegions>Moderate</AssociatedRegions>
@@ -4837,6 +4873,42 @@
                 <Culture />
                 <StreetActivation />
                 <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134505</UpgradeTargetGUID>
+                    <AddFloorCost>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>500</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>134623</Ingredient>
+                            <Amount>2</Amount>
+                        </Item>
+                    </AddFloorCost>
+                </FloorStackOwner>
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
@@ -4852,6 +4924,11 @@
                     <IconFilename>data/graphics/hc/__icons/residence.png</IconFilename>
                     <InfoDescription>8860005</InfoDescription>
                 </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
                 <Building>
                     <BuildingType>Residence</BuildingType>
                     <PickingAsset>8856001</PickingAsset>
@@ -4870,6 +4947,30 @@
                         </Item>
                         <Item>
                             <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
                         </Item>
                     </InfluencedByNeighbors>
                     <AssociatedRegions>Moderate</AssociatedRegions>
@@ -4947,11 +5048,6 @@
                         </Mid>
                     </BuildingBlockPool>
                 </Building>
-                <Blocking>
-                    <GroundDecalAsset>601492</GroundDecalAsset>
-                    <GroundDecalInvisible>601493</GroundDecalInvisible>
-                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                </Blocking>
                 <Cost>
                     <Costs>
                         <Item>
@@ -4979,7 +5075,9 @@
                         </Item>
                     </Costs>
                 </Cost>
-                <Mesh />
+                <Mesh>
+                    <SkyDayListener>1</SkyDayListener>
+                </Mesh>
                 <Object>
                     <Variations>
                         <Item>
@@ -5073,32 +5171,33 @@
                     </ResidenceStorage>
                     <PopulationLevel7>15000004</PopulationLevel7>
                     <ResidentMax>50</ResidentMax>
-                    <ProvidesInfluence>1</ProvidesInfluence>
                 </Residence7>
-                <LogisticNode />
+                <LogisticNode>
+                    <REMOVE_THIS_LATER_FeedbackUnitTier>Level4</REMOVE_THIS_LATER_FeedbackUnitTier>
+                </LogisticNode>
                 <AmbientMoodProvider>
                     <AmbientMood>ResidenceTier5</AmbientMood>
                     <DynamicEnvironmentType>ResidenceT5</DynamicEnvironmentType>
                     <HappinessDependentMurmur>
-                        <Item>
-                            <Happiness>-1000</Happiness>
+                        <Angry>
                             <Murmur>InvestorUnhappy</Murmur>
-                        </Item>
-                        <Item>
-                            <Happiness>-20</Happiness>
+                        </Angry>
+                        <Unhappy>
                             <Murmur>InvestorContent</Murmur>
-                        </Item>
-                        <Item>
-                            <Happiness>20</Happiness>
+                        </Unhappy>
+                        <Neutral>
+                            <Murmur>InvestorContent</Murmur>
+                        </Neutral>
+                        <Happy>
                             <Murmur>InvestorHappy</Murmur>
-                        </Item>
+                        </Happy>
+                        <Euphoric>
+                            <Murmur>InvestorHappy</Murmur>
+                        </Euphoric>
                     </HappinessDependentMurmur>
                 </AmbientMoodProvider>
                 <UpgradeList />
                 <Attackable>
-                    <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
-                    <MoralePower>5</MoralePower>
-                    <HPBarOffset>5</HPBarOffset>
                     <MaximumHitPoints>3500</MaximumHitPoints>
                 </Attackable>
                 <IncidentInfectable>
@@ -5145,6 +5244,42 @@
                     <InfluenceSource>Investors</InfluenceSource>
                     <ProvidesInvestorInfluence>1</ProvidesInvestorInfluence>
                 </InfluenceSource>
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134500</UpgradeTargetGUID>
+                    <AddFloorCost>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>1000</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010196</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010205</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010218</Ingredient>
+                            <Amount>15</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010207</Ingredient>
+                            <Amount>10</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>1010202</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                        <Item>
+                            <Ingredient>134623</Ingredient>
+                            <Amount>5</Amount>
+                        </Item>
+                    </AddFloorCost>
+                </FloorStackOwner>
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
@@ -5345,6 +5480,10 @@
                 <Culture />
                 <StreetActivation />
                 <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
@@ -5469,6 +5608,881 @@
                 <Culture />
                 <StreetActivation />
                 <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance>
+                    <IncomeCategory>Skyscrapers</IncomeCategory>
+                </Maintenance>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID='601891' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>601882</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134500</GUID>
+                    <Name>Harbor_Investor_Skyscraper_Level01</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_02/residence_tier05_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_04/residence_tier05_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_05/residence_tier05_05_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_06/residence_tier05_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_07/residence_tier05_07_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134501</UpgradeTargetGUID>
+                </FloorStackOwner>
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601883</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134501</GUID>
+                    <Name>Harbor_Investor_Skyscraper_Level02</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_02/residence_tier05_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_04/residence_tier05_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_05/residence_tier05_05_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_06/residence_tier05_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_07/residence_tier05_07_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134502</UpgradeTargetGUID>
+                </FloorStackOwner>
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601884</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134502</GUID>
+                    <Name>Harbor_Investor_Skyscraper_Level03</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_02/residence_tier05_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_04/residence_tier05_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_05/residence_tier05_05_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_06/residence_tier05_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_07/residence_tier05_07_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134503</UpgradeTargetGUID>
+                </FloorStackOwner>
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601886</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134503</GUID>
+                    <Name>Harbor_Investor_Skyscraper_Level04</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_02/residence_tier05_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_04/residence_tier05_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_05/residence_tier05_05_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_06/residence_tier05_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_07/residence_tier05_07_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134504</UpgradeTargetGUID>
+                </FloorStackOwner>
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601891</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134504</GUID>
+                    <Name>Harbor_Investor_Skyscraper_Level05</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_02/residence_tier05_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_01/residence_tier05_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_04/residence_tier05_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_05/residence_tier05_05_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_06/residence_tier05_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier05_07/residence_tier05_07_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601888</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134505</GUID>
+                    <Name>Harbor_Engineer_Skyscraper_Level01</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_01/residence_tier04_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_02/residence_tier04_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_01/residence_tier04_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_04/residence_tier04_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_04/residence_tier04_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_06/residence_tier04_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_07/residence_tier04_07_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_08/residence_tier04_08_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134506</UpgradeTargetGUID>
+                </FloorStackOwner>
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601889</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134506</GUID>
+                    <Name>Harbor_Engineer_Skyscraper_Level02</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_01/residence_tier04_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_02/residence_tier04_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_01/residence_tier04_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_04/residence_tier04_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_04/residence_tier04_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_06/residence_tier04_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_07/residence_tier04_07_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_08/residence_tier04_08_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner>
+                    <UpgradeTargetGUID>1440134507</UpgradeTargetGUID>
+                </FloorStackOwner>
+                <Maintenance />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601890</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134507</GUID>
+                    <Name>Harbor_Engineer_Skyscraper_Level03</Name>
+                    <ID />
+                </Standard>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                    <PickingAsset>8856001</PickingAsset>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>8856001</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856002</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856003</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856004</Building>
+                        </Item>
+                        <Item>
+                            <Building>8856005</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134500</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134501</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134502</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134503</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134504</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134505</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134506</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134507</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
+                </Building>
+                <Cost />
+                <Mesh />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_01/residence_tier04_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_02/residence_tier04_02_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_01/residence_tier04_01_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_04/residence_tier04_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_04/residence_tier04_04_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_06/residence_tier04_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_07/residence_tier04_07_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc09/graphics/harborlife/residence/residence_tier04_08/residence_tier04_08_01.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <Upgradable />
+                <SoundEmitter />
+                <Infolayer />
+                <Residence7 />
+                <LogisticNode />
+                <AmbientMoodProvider />
+                <UpgradeList />
+                <Attackable />
+                <IncidentInfectable />
+                <Pausable />
+                <Culture />
+                <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance />
             </Values>
         </Asset>
     </ModOp>
@@ -5570,7 +6584,9 @@
                     <FullSupplyDistance>35</FullSupplyDistance>
                     <NoSupplyDistance>70</NoSupplyDistance>
                 </Market>
-                <StorageBase />
+                <StorageBase>
+                    <ProductStorageList>120057</ProductStorageList>
+                </StorageBase>
                 <Attackable>
                     <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
                     <MoralePower>5</MoralePower>
@@ -7612,6 +8628,20 @@
                             <Building>8855054</Building>
                             <!-- Hospital -->
                         </Item>
+                        <Item>
+                            <Building>1440134520</Building>
+                            <!-- Bus Stop -->
+                        </Item>
+                        <Item>
+                            <Building>1440134530</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134550</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134570</Building>
+                        </Item>
+
                     </BuildingList>
                     <CategoryDescription>8850888</CategoryDescription>
                 </ConstructionCategory>
@@ -7716,51 +8746,12 @@
         </Item>
     </ModOp>
 
-    <!-- Add Scholars to Item Effect Pools -->
-    <ModOp Type="add" Path="//ItemEffectTargetPool/EffectTargetGUIDs[Item/GUID = '114445']">
-        <Item>
-            <GUID>1440133040</GUID>
-        </Item>
-    </ModOp>
-    <ModOp Type="add" Path="//ItemEffect/EffectTargets[Item/GUID = '114445']">
-        <Item>
-            <GUID>1440133040</GUID>
-        </Item>
-    </ModOp>
+
     <!-- ############################################################################################################### -->
     <!-- ########### [Harbor City] Item Pools ########################################################################## -->
     <!-- MAINTENANCE -->
     <!-- All Buildings with Maintenance -->
     <ModOp Type="add" GUID='190611' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>8856001</GUID>
-        </Item>
-        <!-- Residence OW T1 -->
-        <Item>
-            <GUID>8856002</GUID>
-        </Item>
-        <!-- Residence OW T2 -->
-        <Item>
-            <GUID>8856003</GUID>
-        </Item>
-        <!-- Residence OW T3 -->
-        <Item>
-            <GUID>8856004</GUID>
-        </Item>
-        <!-- Residence OW T4 -->
-        <Item>
-            <GUID>8856005</GUID>
-        </Item>
-        <!-- Residence OW T5 -->
-        <Item>
-            <GUID>8856006</GUID>
-        </Item>
-        <!-- Residence SA T1 -->
-        <Item>
-            <GUID>8856007</GUID>
-        </Item>
-        <!-- Residence SA T2 -->
-
         <Item>
             <GUID>8856008</GUID>
         </Item>
@@ -7822,120 +8813,104 @@
     </ModOp>
 
     <!-- RESIDENCES-->
-    <!-- all Residences EU/SA -->
-    <ModOp Type="add" GUID='190762,193957' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+
+    <!-- Farmer Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010343']">
         <Item>
             <GUID>8856001</GUID>
         </Item>
-        <!-- Residence OW T1 -->
+    </ModOp>
+    <!-- Worker Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010344']">
         <Item>
             <GUID>8856002</GUID>
         </Item>
-        <!-- Residence OW T2 -->
+    </ModOp>
+    <!-- Artisan Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010345']">
         <Item>
             <GUID>8856003</GUID>
         </Item>
-        <!-- Residence OW T3 -->
+    </ModOp>
+    <!-- Engineer Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010346']">
         <Item>
             <GUID>8856004</GUID>
         </Item>
-        <!-- Residence OW T4 -->
+    </ModOp>
+    <!-- Investor Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010346']">
         <Item>
             <GUID>8856005</GUID>
         </Item>
-        <!-- Residence OW T5 -->
+    </ModOp>
+    <!-- Jornalero Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '101254']">
         <Item>
             <GUID>8856006</GUID>
         </Item>
-        <!-- Residence SA T1 -->
+    </ModOp>
+    <!-- Obrero Residence -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '101255']">
         <Item>
             <GUID>8856007</GUID>
         </Item>
-        <!-- Residence SA T2 -->
+    </ModOp>
+    <!-- Scholar Residences -->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '114445']">
+        <Item>
+            <GUID>1440133040</GUID>
+        </Item>
+    </ModOp>
+    <!-- Add Skyscraper Levels in every location of their island counterpart-->
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601882']">
+        <Item>
+            <GUID>1440134500</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601883']">
+        <Item>
+            <GUID>1440134501</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601884']">
+        <Item>
+            <GUID>1440134502</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601886']">
+        <Item>
+            <GUID>1440134503</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601891']">
+        <Item>
+            <GUID>1440134504</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601888']">
+        <Item>
+            <GUID>1440134505</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601889']">
+        <Item>
+            <GUID>1440134506</GUID>
+        </Item>
+    </ModOp>
+    <ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601890']">
+        <Item>
+            <GUID>1440134507</GUID>
+        </Item>
     </ModOp>
 
-    <!-- all Residences in OW -->
-    <ModOp Type="add" GUID='190041' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>8856001</GUID>
-        </Item>
-        <!-- Residence OW T1 -->
-        <Item>
-            <GUID>8856002</GUID>
-        </Item>
-        <!-- Residence OW T2 -->
-        <Item>
-            <GUID>8856003</GUID>
-        </Item>
-        <!-- Residence OW T3 -->
-        <Item>
-            <GUID>8856004</GUID>
-        </Item>
-        <!-- Residence OW T4 -->
-        <Item>
-            <GUID>8856005</GUID>
-        </Item>
-        <!-- Residence OW T5 -->
-    </ModOp>
-
-    <!-- all Residences in OW except Scholars -->
-    <ModOp Type="add" GUID='194015' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>8856001</GUID>
-        </Item>
-        <!-- Residence OW T1 -->
-        <Item>
-            <GUID>8856002</GUID>
-        </Item>
-        <!-- Residence OW T2 -->
-        <Item>
-            <GUID>8856003</GUID>
-        </Item>
-        <!-- Residence OW T3 -->
-        <Item>
-            <GUID>8856004</GUID>
-        </Item>
-        <!-- Residence OW T4 -->
-        <Item>
-            <GUID>8856005</GUID>
-        </Item>
-        <!-- Residence OW T5 -->
-    </ModOp>
-
-    <!-- all Farmers & Worker Residences -->
-    <ModOp Type="add" GUID='192445' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>8856001</GUID>
-        </Item>
-        <!-- Residence OW T1 -->
-        <Item>
-            <GUID>8856002</GUID>
-        </Item>
-        <!-- Residence OW T2 -->
-    </ModOp>
 
     <!-- all Engineer Buildings -->
     <ModOp Type="add" GUID='192423' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
         <Item>
-            <GUID>8856004</GUID>
-        </Item>
-        <!-- Residence OW T4 -->
-        <Item>
             <GUID>8856016</GUID>
         </Item>
         <!-- Power Plant -->
-    </ModOp>
-
-    <!-- all Investors & Oberos -->
-    <ModOp Type="add" GUID='192446' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>8856005</GUID>
-        </Item>
-        <!-- Residence OW T5 -->
-        <Item>
-            <GUID>8856007</GUID>
-        </Item>
-        <!-- Residence SA T2 -->
     </ModOp>
 
     <!-- PUBLIC / SERVICES-->
@@ -8115,30 +9090,8 @@
     </ModOp>
 
     <!-- Quay without cladder -->
-    <ModOp Type="replace" GUID='102344' Path="Values/Object/Variations">
-        <Variations>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x1_01.cfg</Filename>
-            </Item>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x1_02.cfg</Filename>
-            </Item>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x2_01.cfg</Filename>
-            </Item>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x1_01.cfg</Filename>
-            </Item>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x1_02.cfg</Filename>
-            </Item>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x2_01.cfg</Filename>
-            </Item>
-            <Item>
-                <Filename>data/graphics/effects/decals/dirt_decals/dirt_decal_1x2_02.cfg</Filename>
-            </Item>
-        </Variations>
+    <ModOp Type="replace" GUID='142306' Path="/Values/HarborPropFeature">
+        <HarborPropFeature />
     </ModOp>
 
 
@@ -8168,7 +9121,7 @@
     <ModOp Type="remove" GUID='1010520,1010521,100783,101403,101404,119259' Path="Values/Blocking/HarbourAreaExpand"/>
 
     <!-- Piers 101642,101344,-->
-    <ModOp Type="remove" GUID='100429,102284,100519,117871,125028,125191,125192,125193' Path="Values/Blocking/HarbourAreaExpand"/>
+    <ModOp Type="remove" GUID='100429,102284,100519,125028,125191,125192,125193' Path="Values/Blocking/HarbourAreaExpand"/>
 
     <!-- Kontore 101290,101291,101292,,101293,101294,101295 -->
     <ModOp Type="remove" GUID='1010517,100510,100511,1010540,100514,100515,269867,269879' Path="Values/Blocking/HarbourAreaExpand"/>
@@ -8881,6 +9834,30 @@
         <Item>
             <Building>8856007</Building>
         </Item>
+        <Item>
+            <Building>1440134500</Building>
+        </Item>
+        <Item>
+            <Building>1440134501</Building>
+        </Item>
+        <Item>
+            <Building>1440134502</Building>
+        </Item>
+        <Item>
+            <Building>1440134503</Building>
+        </Item>
+        <Item>
+            <Building>1440134504</Building>
+        </Item>
+        <Item>
+            <Building>1440134505</Building>
+        </Item>
+        <Item>
+            <Building>1440134506</Building>
+        </Item>
+        <Item>
+            <Building>1440134507</Building>
+        </Item>
     </ModOp>
 
     <ModOp Type="add" GUID='2001013' Path="/Values/FeedbackBuildingGroup/Buildings">
@@ -8908,10 +9885,34 @@
         <Item>
             <Building>8856004</Building>
         </Item>
+        <Item>
+            <Building>1440134505</Building>
+        </Item>
+        <Item>
+            <Building>1440134506</Building>
+        </Item>
+        <Item>
+            <Building>1440134507</Building>
+        </Item>
     </ModOp>
     <ModOp Type="add" GUID='2001092' Path="/Values/FeedbackBuildingGroup/Buildings">
         <Item>
             <Building>8856005</Building>
+        </Item>
+        <Item>
+            <Building>1440134500</Building>
+        </Item>
+        <Item>
+            <Building>1440134501</Building>
+        </Item>
+        <Item>
+            <Building>1440134502</Building>
+        </Item>
+        <Item>
+            <Building>1440134503</Building>
+        </Item>
+        <Item>
+            <Building>1440134504</Building>
         </Item>
     </ModOp>
     <ModOp Type="add" GUID='142933' Path="/Values/FeedbackBuildingGroup/Buildings">
@@ -8919,7 +9920,6 @@
             <Building>1440133040</Building>
         </Item>
     </ModOp>
-
 
     <!-- #NEW TRIGGERS 14042020 -->
     <ModOp Type="addNextSibling" GUID='130248'>
@@ -10148,6 +11148,1193 @@
                 <TriggerSetup />
             </Values>
         </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134508</GUID>
+                    <Name>Trigger Unlock Level 1 Investor Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601882</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134500</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134509</GUID>
+                    <Name>Trigger Unlock Level 2 Investor Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601883</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134501</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>ConditionUnlocked</Template>
+                                <Values>
+                                    <Condition />
+                                    <ConditionUnlocked>
+                                        <UnlockNeeded>1440134500</UnlockNeeded>
+                                    </ConditionUnlocked>
+                                    <ConditionPropsNegatable />
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134511</GUID>
+                    <Name>Trigger Unlock Level 3 Investor Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601884</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134502</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>ConditionUnlocked</Template>
+                                <Values>
+                                    <Condition />
+                                    <ConditionUnlocked>
+                                        <UnlockNeeded>1440134501</UnlockNeeded>
+                                    </ConditionUnlocked>
+                                    <ConditionPropsNegatable />
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134512</GUID>
+                    <Name>Trigger Unlock Level 4 Investor Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601886</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134503</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>ConditionUnlocked</Template>
+                                <Values>
+                                    <Condition />
+                                    <ConditionUnlocked>
+                                        <UnlockNeeded>1440134502</UnlockNeeded>
+                                    </ConditionUnlocked>
+                                    <ConditionPropsNegatable />
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134513</GUID>
+                    <Name>Trigger Unlock Level 5 Investor Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601891</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134504</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>ConditionUnlocked</Template>
+                                <Values>
+                                    <Condition />
+                                    <ConditionUnlocked>
+                                        <UnlockNeeded>1440134503</UnlockNeeded>
+                                    </ConditionUnlocked>
+                                    <ConditionPropsNegatable />
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134514</GUID>
+                    <Name>Trigger Unlock Level 1 Engineer Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601888</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134505</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134514</GUID>
+                    <Name>Trigger Unlock Level 2 Engineer Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601889</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134506</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>ConditionUnlocked</Template>
+                                <Values>
+                                    <Condition />
+                                    <ConditionUnlocked>
+                                        <UnlockNeeded>1440134505</UnlockNeeded>
+                                    </ConditionUnlocked>
+                                    <ConditionPropsNegatable />
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134515</GUID>
+                    <Name>Trigger Unlock Level 3 Engineer Harbor Skyscrapers</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <Context>601890</Context>
+                                <CounterAmount>15</CounterAmount>
+                                <CounterScope>Region</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>5000000</CounterScopeContext>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134507</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>ConditionUnlocked</Template>
+                                <Values>
+                                    <Condition />
+                                    <ConditionUnlocked>
+                                        <UnlockNeeded>1440134506</UnlockNeeded>
+                                    </ConditionUnlocked>
+                                    <ConditionPropsNegatable />
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134516</GUID>
+                    <Name>Trigger Unlock Bus Stop Harbor</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>601326</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134520</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134517</GUID>
+                    <Name>Trigger Unlock Bus Stop Harbor if Tourist Season Mod is active</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>1440134301</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134521</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134590</GUID>
+                    <Name>Trigger Unlock Department Store and Toasters</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135104</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134530</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134531</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134536</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134591</GUID>
+                    <Name>Trigger Unlock Department Store TableWare</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135203</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134532</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134537</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134592</GUID>
+                    <Name>Trigger Unlock Department Store VacuumCleaner</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135204</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134533</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134538</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134593</GUID>
+                    <Name>Trigger Unlock Department Store Fridge</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135205</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134534</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134539</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134595</GUID>
+                    <Name>Trigger Unlock Department Store Bags</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135206</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134535</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134540</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134596</GUID>
+                    <Name>Trigger Unlock Furniture Store Lamps and Base</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135106</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134550</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134551</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134556</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134597</GUID>
+                    <Name>Trigger Unlock Furniture Store Paravents</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135124</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134552</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134557</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134597</GUID>
+                    <Name>Trigger Unlock Furniture Store Desks</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135125</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134553</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134558</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134598</GUID>
+                    <Name>Trigger Unlock Furniture Store beds</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135126</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134554</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134559</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134599</GUID>
+                    <Name>Trigger Unlock Furniture Store Chairs</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135127</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134555</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134560</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134600</GUID>
+                    <Name>Trigger Unlock Furniture Store Tooth Paste and Base</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>134633</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134570</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134571</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134576</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134601</GUID>
+                    <Name>Trigger Unlock Furniture Store Tooth Cleaner</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135207</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134572</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134577</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134602</GUID>
+                    <Name>Trigger Unlock Furniture Store Lipstick</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135208</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134573</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134578</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134603</GUID>
+                    <Name>Trigger Unlock Furniture Store FaceCream</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135208</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134574</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134579</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134603</GUID>
+                    <Name>Trigger Unlock Furniture Store Pomade</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>135210</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440134575</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440134580</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
     </ModOp>
 
     <!-- Scholar Build Permits -->
@@ -10185,5 +12372,1170 @@
     </ModOp>
     <ModOp GUID='101642' Path="/Values/Building" Type="add">
         <TerrainType>Water_Including_Coast</TerrainType>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID='601326'>
+        <Asset>
+            <BaseAssetGUID>601326</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134520</GUID>
+                    <Name>Bus Stop</Name>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Moderate</AssociatedRegions>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc08/graphics/buildings/special/bus_station_harbor/bus_station_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc08/graphics/buildings/special/bus_station_harbor/bus_station_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <AmbientMoodProvider />
+                <BusStop />
+                <Pausable />
+                <Culture />
+                <Maintenance />
+                <Nameable />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>601326</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134521</GUID>
+                    <Name>Bus Stop harbor Colony01</Name>
+                </Standard>
+                <Building>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Cost />
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/dlc08/graphics/buildings/bus_station_harbor/bus_station_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/dlc08/graphics/buildings/bus_station_harbor/bus_station_02.cfg</Filename>
+                        </Item>
+                    </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FeedbackController />
+                <Infolayer />
+                <AmbientMoodProvider />
+                <BusStop>
+                    <ShowNeeds>
+                        <Item>
+                            <Need>133891</Need>
+                        </Item>
+                        <Item>
+                            <Need>133573</Need>
+                        </Item>
+                        <Item>
+                            <Need>132751</Need>
+                        </Item>
+                        <Item>
+                            <Need>601485</Need>
+                        </Item>
+                        <Item>
+                            <Need>133535</Need>
+                        </Item>
+                        <Item>
+                            <Need>355</Need>
+                        </Item>
+                        <Item>
+                            <Need>132755</Need>
+                        </Item>
+                        <Item>
+                            <Need>132754</Need>
+                        </Item>
+                        <Item>
+                            <Need>132761</Need>
+                        </Item>
+                    </ShowNeeds>
+                </BusStop>
+                <Pausable />
+                <Culture />
+                <Maintenance />
+                <Nameable />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='601443,131865' Type="add" Path="/Values/Street">
+        <SpeedFactor>1.5</SpeedFactor>
+    </ModOp>
+
+    <!-- Department Store Assets -->
+    <ModOp GUID='135194' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>135100</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134530</GUID>
+                    <Name>DepartmentStore_Harbor_Blank</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134541</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135103</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134531</GUID>
+                    <Name>DepartmentStore_Harbor_Toaster</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134541</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135187</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134532</GUID>
+                    <Name>DepartmentStore_Harbor_TableWare</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134541</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135188</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134533</GUID>
+                    <Name>DepartmentStore_Harbor_VacuumCleaner</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134541</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135189</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134534</GUID>
+                    <Name>DepartmentStore_Harbor_Fridge</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134541</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135190</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134535</GUID>
+                    <Name>DepartmentStore_Harbor_Bags</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134541</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135099</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134550</GUID>
+                    <Name>FurnitureStore_Harbor_Blank</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134561</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135105</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134551</GUID>
+                    <Name>FurnitureStore_Harbor_BankersLamp</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134561</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135121</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134552</GUID>
+                    <Name>FurnitureStore_Harbor_Paravent</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134561</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135120</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134553</GUID>
+                    <Name>FurnitureStore_Harbor_Desk</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134561</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135122</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134554</GUID>
+                    <Name>FurnitureStore_Harbor_Bed</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134561</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135123</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134555</GUID>
+                    <Name>FurnitureStore_Harbor_Chair</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134561</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>134629</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134570</GUID>
+                    <Name>Pharmacy_Harbor_Blank</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134581</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>134631</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134571</GUID>
+                    <Name>Pharmacy_Harbor_ToothPaste</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134581</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135191</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134572</GUID>
+                    <Name>Pharmacy_Harbor_Cleaner</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134581</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135192</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134573</GUID>
+                    <Name>Pharmacy_Harbor_Lipstick</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134581</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135193</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134574</GUID>
+                    <Name>Pharmacy_Harbor_FaceCream</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134581</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135194</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134575</GUID>
+                    <Name>Pharmacy_Harbor_Pomade</Name>
+                </Standard>
+                <Building>
+                    <TerrainType>Water_Including_Coast</TerrainType>
+                </Building>
+                <Blocking>
+                    <GroundDecalAsset>601492</GroundDecalAsset>
+                    <GroundDecalInvisible>601493</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Object />
+                <Cost />
+                <Mesh />
+                <Selection />
+                <Text />
+                <Constructable />
+                <Locked />
+                <SoundEmitter />
+                <FactoryBase />
+                <LogisticNode />
+                <Maintenance />
+                <Industrializable />
+                <Electrifiable />
+                <AmbientMoodProvider />
+                <Attackable />
+                <UpgradeList />
+                <Pausable />
+                <FeedbackController />
+                <Infolayer />
+                <BuffFactory />
+                <RecipeBuilding>
+                    <RecipeList>1440134581</RecipeList>
+                </RecipeBuilding>
+                <Culture />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Department Stores Recipes -->
+    <ModOp Type="addNextSibling" GUID='135210'>
+        <Asset>
+            <BaseAssetGUID>135104</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134536</GUID>
+                    <Name>Recipe_Toaster</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134531</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135203</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134537</GUID>
+                    <Name>Recipe_TableWare</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134532</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135204</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134538</GUID>
+                    <Name>Recipe_VacuumCleaner</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134533</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135205</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134539</GUID>
+                    <Name>Recipe_Fridge</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134534</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135206</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134540</GUID>
+                    <Name>Recipe_Bags</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134535</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135102</BaseAssetGUID>
+            <Values>
+                <RecipeList>
+                    <Recipes>
+                        <Item>
+                            <Recipe>1440134536</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134537</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134538</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134539</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134540</Recipe>
+                        </Item>
+                    </Recipes>
+                </RecipeList>
+                <Standard>
+                    <GUID>1440134541</GUID>
+                    <Name>RecpieList_DepartmentStore_HARBOR</Name>
+                </Standard>
+            </Values>
+        </Asset>
+        <!-- Furniture Store -->
+        <Asset>
+            <BaseAssetGUID>135106</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134556</GUID>
+                    <Name>Recipe_BankersLamp</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134551</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135124</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134557</GUID>
+                    <Name>Recipe_Paravent</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134552</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135125</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134558</GUID>
+                    <Name>Recipe_Desk</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134553</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135126</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134559</GUID>
+                    <Name>Recipe_Bed</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134554</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135127</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134560</GUID>
+                    <Name>Recipe_Chair</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134555</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135101</BaseAssetGUID>
+            <Values>
+                <RecipeList>
+                    <Recipes>
+                        <Item>
+                            <Recipe>1440134556</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134557</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134558</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134559</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134560</Recipe>
+                        </Item>
+                    </Recipes>
+                </RecipeList>
+                <Standard>
+                    <GUID>1440134561</GUID>
+                    <Name>RecipeList_FurnitureStore_HARBOR</Name>
+                </Standard>
+            </Values>
+        </Asset>
+        <!-- Pharmacy -->
+        <Asset>
+            <BaseAssetGUID>134633</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134576</GUID>
+                    <Name>Recipe_Toothpaste</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134571</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135207</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134577</GUID>
+                    <Name>Recipe_Cleaner</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134572</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135208</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134578</GUID>
+                    <Name>Recipe_Lipstick</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134573</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135209</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134579</GUID>
+                    <Name>Recipe_FaceCream</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134574</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135210</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440134580</GUID>
+                    <Name>Recipe_Pomade</Name>
+                </Standard>
+                <Text />
+                <Recipe>
+                    <RecipeBuilding>1440134575</RecipeBuilding>
+                </Recipe>
+                <Locked />
+            </Values>
+        </Asset>
+        <Asset>
+            <BaseAssetGUID>135101</BaseAssetGUID>
+            <Values>
+                <RecipeList>
+                    <Recipes>
+                        <Item>
+                            <Recipe>1440134576</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134577</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134578</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134579</Recipe>
+                        </Item>
+                        <Item>
+                            <Recipe>1440134580</Recipe>
+                        </Item>
+                    </Recipes>
+                </RecipeList>
+                <Standard>
+                    <GUID>1440134581</GUID>
+                    <Name>RecipeList_FurnitureStore_HARBOR</Name>
+                </Standard>
+            </Values>
+        </Asset>
     </ModOp>
 </ModOps>

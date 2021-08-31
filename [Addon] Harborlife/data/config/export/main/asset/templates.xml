@@ -243,6 +243,9 @@
                 <Pausable />
                 <Culture />
                 <StreetActivation />
+                <InfluenceSource />
+                <FloorStackOwner />
+                <Maintenance />
             </Properties>
         </Template>
         <Template>
