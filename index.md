@@ -10,6 +10,8 @@ tba
 
 # Contents of the Mod package
 
+---
+
 ## Addons
 
 **Attractiveness Rebalancing**
@@ -23,6 +25,8 @@ tba
 
 **Sandbox Mode**
 - Adds a sandbox where you have everything unlocked at the start. 
+
+---
 
 ## Adjustments
 
@@ -49,6 +53,8 @@ tba
 
 **Southern Rivers removed**
 - Completly removes all river islands from the southern region.
+
+---
 
 ## Gameplay-Oriented Mods
 
@@ -164,6 +170,8 @@ tba
 **Unlimited Scholar Residences**
 - Removes the Build Permit System for Scholars and the respective major discovery. 
 
+---
+
 ## Miscellaneous Mods 
 
 **Battlecruiser Skins**
@@ -184,10 +192,14 @@ tba
 **Miss Jenny Retexture**
 - A little retexture for the Miss Jenny NPC from the High Life Storyline. 
 
+---
+
 ## Multiplayer
 
 **Ruins on Takeover**
 - When an island is taken over, all of the buildings remain there as a ruin. 
+
+---
 
 ## Ornamental
 
