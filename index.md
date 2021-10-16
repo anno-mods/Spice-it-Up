@@ -1,8 +1,12 @@
 # Anno 1800 Spice it Up Modcollection
 
-Spice it Up is a collection of over 70 mods for Anno 1800: Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No rivers in the new world? Here you go! Add another computer player in a running game? Just build a ship for them!
+Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No rivers in the new world? Here you go! Add another computer player in a running game? Just build a ship for them! Commuter Piers for all regions? Also included.
 
-You can always find the latest release of this mod collection [here](https://github.com/anno-mods/Spice-it-Up/releases/latest).
+<p align="center">
+    <img src ="https://staticdelivery.nexusmods.com/mods/2820/images/5/5-1577034553-644560467.jpeg">
+</p>
+
+> ## You can always find the latest release of this mod collection [here](https://github.com/anno-mods/Spice-it-Up/releases/latest).
 
 # Installation Instructions 
 
