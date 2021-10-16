@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# About Spice it Up
 
-You can use the [editor on GitHub](https://github.com/anno-mods/Spice-it-Up/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Spice it Up is a collection of over 70 mods for Anno 1800: Quality of Life Changes, Addons, Ornaments and many new gameplay functions. Build a flagship? Just do it! No rivers in the new world? Here you go!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can always find the latest release [here](https://github.com/anno-mods/Spice-it-Up/releases).
 
-### Markdown
+# Contents of the Mod package
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Addons
 
-```markdown
-Syntax highlighted code block
+**Attractiveness Rebalancing**
+- Encourages the construction of ornaments by quadrupling their output, while at the same time nerfing all of the attractiveness items to hell. 
 
-# Header 1
-## Header 2
-### Header 3
+**Cape Trelawney Camera Flight**
+- Adds a camera flight for Cape Trelawney which can be activated with 'Keypad 8' by default. Hotkey can be changed in the options menu.
 
-- Bulleted
-- List
+**Harborlife**
+- Build a unique city in your Harbor Area, starting with 750 artisans. Works for the Old and the New World. 
 
-1. Numbered
-2. List
+**Sandbox Mode**
+- Adds a sandbox where you have everything unlocked at the start. 
 
-**Bold** and _Italic_ and `Code` text
+## Adjustments
 
-[Link](url) and ![Image](src)
-```
+**Airship Hangar Without Quest**
+- Unlocks the airship hangar without having to play the story. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Bad language filter removed**
+- removes the bad language filter completly.
 
-### Jekyll Themes
+**Map Seeds Patch 3**
+- Adds additional map seeds that briefly were in the game in Patch 3. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anno-mods/Spice-it-Up/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Mine Infolayers**
+- Changes the mine slot's infolayer to show what resource can be built on them. 
 
-### Support or Contact
+**Northern Rivers removed**
+- This edit completly removes all river islands from the Northern region.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Remove Third Party Messages**
+- Removes the chatter and overall voice of the NPC.
+
+**Southern Rivers reduced**
+- Enables non river variants of the southern islands to be used again in the mapgenerator, so you get a mix of river variants and non river variants.
+
+**Southern Rivers removed**
+- Completly removes all river islands from the southern region.
+
+
