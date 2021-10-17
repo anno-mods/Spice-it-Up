@@ -6,8 +6,6 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
     <img src ="https://staticdelivery.nexusmods.com/mods/2820/images/5/5-1577034553-644560467.jpeg">
 </p>
 
-<a href = "https://github.com/anno-mods/Spice-it-Up/releases/latest" class = "btn">Download</a>
-
 > ### You can always find the latest release of this mod collection [here](https://github.com/anno-mods/Spice-it-Up/releases/latest).
 
 # Installation Instructions 
