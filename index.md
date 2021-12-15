@@ -10,7 +10,9 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 # Installation Instructions 
 
-tba
+You need to install the [Anno 1800 Modloader](https://github.com/xforce/anno1800-mod-loader). Installation instructions can be found [here](https://github.com/xforce/anno1800-mod-loader#installation). 
+
+After Installing the Modloader, you need to add your mods into 'C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Anno 1800\mods' assuming Default Uplay Path.
 
 # Contents of the Mod package
 
