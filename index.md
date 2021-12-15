@@ -105,6 +105,9 @@ tba
 **Easy Seed search**
 - Unlocks every session on the world map, so you can instantly enter them. This is just for searching seeds, story or anything like this won't work! 
 
+**Enbesa Traders**
+- Waha Desher and Kidusi Anitoni become NPC Traders
+
 **Gas Heater**
 - Adds the ability to heat your arctic session using gas. 
 
@@ -152,6 +155,9 @@ tba
 
 **Oil Pier**
 - Adds a pier for oil tankers to use, which is available in the Old, New and Enbesan World
+
+**Passage Charts**
+- Adds an Item to discover the entire Arctic Session, including permanent fog. The Item can be obtained by collecting item chests in the permanent fog. Yes, that's the only way, to permanently remove it, you have to endure it. 
 
 **Research Times**
 - Adjusts the Research Times to a minimum of one minute at 50k Engineers. keep in mind that the maximum research times haven't been changed, so the same absolute amount of engineers will make it less faster, only the minimal reduction has been changed.
