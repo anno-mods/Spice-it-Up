@@ -37,4 +37,3 @@ class AI_Spawner:
 	def delete(self, ID):
 		TextSources.TextSourceRoots.Participants.SetRemoveParticipant(ID)
 ai_spawner = AI_Spawner()
-

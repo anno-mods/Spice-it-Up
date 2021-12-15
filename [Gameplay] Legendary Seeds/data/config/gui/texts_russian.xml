@@ -1,6 +1,42 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>Лучший семенной картофель</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>Лучшие семена пшеницы</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>Лучшие семена хмеля</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>Лучшие семена паприки</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>Лучшие бобы какао</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>Лучшие черенки сахарного тростника/Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>Лучшие семена винограда</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>Лучшие семена табака</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>Лучшие семена хлопчатника</Text>
+    </Text>
+    <Text>
       <GUID>190150</GUID>
       <Text>Кофе cупер бобы</Text>
     </Text>

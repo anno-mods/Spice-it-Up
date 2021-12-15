@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Path = "/TextExport/Texts" Type = "add">
+        <Text>
+            <GUID>1440134802</GUID>
+            <Text>库马克对制图员笔记感到高兴</Text>
+        </Text>
+        <Text>
+            <GUID>1440134800</GUID>
+            <Text>通道地图</Text>
+        </Text>
+        <Text>
+            <GUID>1440134803</GUID>
+            <Text>有传言说这些草图是从一个被遗忘已久的探险队的尸体上捡到的。制作这张地图的人一定很接近找到它。</Text>
+        </Text>
+        <Text>
+            <GUID>1440134804</GUID>
+            <Text>图表</Text>
+        </Text>
+        <Text>
+            <GUID>1440134809</GUID>
+            <Text>地区地图：北极</Text>
+        </Text>
+        <Text>
+            <GUID>1440134806</GUID>
+            <Text>发现整个北极地区，包括永久雾。</Text>
+        </Text>
+        <Text>
+            <GUID>1440134808</GUID>
+            <Text>地区地图：北极</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "1.2",
   "ModID": "Spice_PlazaStreets",
   "IncompatibleIds": [
     "NewHorizons"
@@ -33,9 +33,9 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Adds a plaza street which can connect buildings",
+    "English": "Adds street function to paving, concrete paving and the Ubisoft Club Promenade",
     "French": null,
-    "German": "Fügt eine neue Plazastraße ein, mit der Gebäude verbunden werden können.",
+    "German": "Fügt Platz, Betonboden und Ubi-Club Promenade eine Straßenfunktion hinzu.",
     "Italian": null,
     "Japanese": null,
     "Korean": null,

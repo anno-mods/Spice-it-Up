@@ -1,6 +1,42 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>Super Nasiona ziemniaków</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>Super Nasiona zbóż</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>Super Nasiona chmielu</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>Super Nasiona papryki</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>Super Nasiona kakaowca</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>Super Nasiona trzciny cukrowej</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>Super Nasiona winorośli</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>Super Nasiona tytoniu</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>Super Nasiona bawełny</Text>
+    </Text>
+    <Text>
       <GUID>190150</GUID>
       <Text>Super Nasiona Kawy</Text>
     </Text>

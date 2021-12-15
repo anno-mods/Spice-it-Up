@@ -1,6 +1,42 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>Supersemillas de patata</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>Supersemillas de trigo</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>Supersemillas de lúpulo</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>Supersemillas de pimiento rojo</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>Supersemillas de cacao</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>Supersemillas de caña de azúcar</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>Supersemillas de uva</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>Supersemillas de tabaco</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>Supersemillas de algodón</Text>
+    </Text>
+    <Text>
       <GUID>190150</GUID>
       <Text>Superfrijoles de café</Text>
     </Text>

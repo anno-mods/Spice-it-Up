@@ -1,6 +1,43 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>土豆超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>谷物超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>啤酒花超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>红椒超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>可可超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>甘蔗超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>葡萄超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>烟草超级种子</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>棉花超级种子</Text>
+    </Text>
+    
+    <Text>
       <GUID>190150</GUID>
       <Text>超级咖啡豆</Text>
     </Text>
