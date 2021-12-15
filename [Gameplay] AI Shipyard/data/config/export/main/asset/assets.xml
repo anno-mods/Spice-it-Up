@@ -7939,6 +7939,49 @@
 				<TriggerSetup/>
 			</Values>
 		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440134604</GUID>
+					<Name>Trigger Script Restart</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionEvent</Template>
+						<Values>
+							<Condition />
+							<ConditionEvent>
+								<ConditionEvent>ProfileLoaded</ConditionEvent>
+							</ConditionEvent>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionExecuteScript</Template>
+								<Values>
+									<Action />
+									<ActionExecuteScript>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/start_script.py</ScriptFileName>
+									</ActionExecuteScript>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionResetTrigger</Template>
+								<Values>
+									<Action />
+									<ActionResetTrigger />
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
 	</ModOp>
 	<ModOp GUID="500447" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010489']" Type="addNextSibling">
 		<Item>

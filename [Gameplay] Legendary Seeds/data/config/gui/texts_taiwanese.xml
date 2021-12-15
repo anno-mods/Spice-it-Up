@@ -1,6 +1,42 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>馬鈴薯超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>穀物超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>啤酒花超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>紅椒超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>可可超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>甘蔗超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>葡萄超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>菸草超級種子</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>棉花超級種子</Text>
+    </Text>
+    <Text>
       <GUID>190150</GUID>
       <Text>超級咖啡種子</Text>
     </Text>

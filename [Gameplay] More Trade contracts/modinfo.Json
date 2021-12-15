@@ -31,9 +31,9 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Includes now aswell: Bricks, Steelbeams, Windows, Reinforced Concrete, Polarbear Fur, Sealskin, Paper, Hummer, Chronicles and Gas",
+    "English": "Adds Goods to Docklands \n\nVanilla => Bricks, Steelbeams, Windows, Reinforced Concrete, Sugar Cane \nArctic => Polarbear Fur, Sealskin \nEnbesa => Paper, Hummer, Chronicles \nTourist Season => Camphora, Citrus \nHigh Life => Resin, Cherry Wood, Lacquer.",
     "French": null,
-    "German": "Beinhaltet: Ziegel, Stahlträger, Fenster, Stahlbeton, Bärenfell, Robbenfell, Papier, Hummer, Chroniken und Gas",
+    "German": "Fügt Waren zur Speicherstadt hinzu \n\nVanilla => Ziegelsteine, Stahlträger, Fenster, Stahlbeton, Zuckerrohr \nArktis => Bärenfelle, Robbenfelle \nEnbesa => Papier, Hummer, Chroniken \nReisezeit => Kamfer, Zitrus \nDächer der Stadt => Harz, Kirschholz, Lacke.",
     "Italian": null,
     "Japanese": null,
     "Korean": null,
@@ -47,6 +47,22 @@
     {
       "DLC": "Docklands",
       "Dependant": "required"
+    },
+    {
+      "DLC": "Highlife",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "Tourism",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "ThePassage",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "partly"
     }
   ],
   "CreatorName": "Spice it up-Team: DaLexy",

@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Path = "/TextExport/Texts" Type = "add">
+        <Text>
+            <GUID>1440134802</GUID>
+            <Text>Qumaq è deliziato dalle note dei cartografi.</Text>
+        </Text>
+        <Text>
+            <GUID>1440134800</GUID>
+            <Text>Una mappa del passaggio</Text>
+        </Text>
+        <Text>
+            <GUID>1440134803</GUID>
+            <Text>Si dice che questi schizzi siano stati raccolti dai cadaveri di una spedizione dimenticata da tempo. Chiunque abbia creato questa mappa deve essere stato molto vicino a trovarla.</Text>
+        </Text>
+        <Text>
+            <GUID>1440134804</GUID>
+            <Text>Grafici</Text>
+        </Text>
+        <Text>
+            <GUID>1440134809</GUID>
+            <Text>Mappa della regione: l'Artico</Text>
+        </Text>
+        <Text>
+            <GUID>1440134806</GUID>
+            <Text>Scopre l'intera regione artica, compresa la nebbia permanente.</Text>
+        </Text>
+        <Text>
+            <GUID>1440134808</GUID>
+            <Text>Mappa della regione: l'Artico</Text>
+        </Text>
+    </ModOp>
+</ModOps>

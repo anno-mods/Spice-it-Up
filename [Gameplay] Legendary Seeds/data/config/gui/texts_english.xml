@@ -1,6 +1,43 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>Potato Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>Grain Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>Hops Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>Paprika Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>Cocoa Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>Sugar Cane Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>Grape Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>Tobacco Super Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>Cotton Super Seeds</Text>
+    </Text>
+
+    <Text>
       <GUID>190150</GUID>
       <Text>Coffee Super Seeds</Text>
     </Text>

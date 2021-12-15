@@ -1,6 +1,42 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>슈퍼 감자 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>슈퍼 곡물 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>슈퍼 홉 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>슈퍼 파프리카 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>슈퍼 코코아 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>슈퍼 사탕수수 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>슈퍼 포도 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>슈퍼 담배 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>슈퍼 목화 씨앗</Text>
+    </Text>
+    <Text>
       <GUID>190150</GUID>
       <Text>커피 슈퍼 씨</Text>
     </Text>

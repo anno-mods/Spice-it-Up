@@ -8,5 +8,22 @@
       <GUID>987002</GUID>
       <Text>Semplice spianata</Text>
     </Text>
+    
+    <Text>
+      <GUID>1440134605</GUID>
+      <Text>[AssetData(163093) Text] &lt;br/&gt;[AssetData(12750) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440134606</GUID>
+      <Text>[AssetData(114435) Text] ([AssetData(11153) Text])</Text>
+    </Text>
+    <Text>
+      <GUID>1440134607</GUID>
+      <Text>[AssetData(270038) Text] ([AssetData(11153) Text])</Text>
+    </Text>
+    <Text>
+      <GUID>1440134608</GUID>
+      <Text>[AssetData(269303) Text] ([AssetData(11153) Text])</Text>
+    </Text>
   </ModOp>
 </ModOps>

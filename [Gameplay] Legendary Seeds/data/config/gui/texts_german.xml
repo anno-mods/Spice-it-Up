@@ -1,6 +1,42 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>Kartoffel-Superkeimlinge</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>Getreide-Supersaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>Hopfen-Supersaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>Paprika-Supersaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>Kakao-​Superbohnen</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>Zuckerrohr-​Supersetzlinge</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>Wein-​Superreben</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>Tabak-​Supersaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>Baumwoll-​Supersamen</Text>
+    </Text>
+    <Text>
       <GUID>190150</GUID>
       <Text>Kaffee-Superbohnen</Text>
     </Text>

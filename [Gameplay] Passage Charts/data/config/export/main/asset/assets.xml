@@ -1,0 +1,266 @@
+<ModOps>
+    <ModOp GUID = '130248' Type = "addNextSibling">
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134801</GUID>
+                    <Name>Unhide the entire Arctic on Session Enter</Name>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionActiveSession</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionActiveSession>
+                                <ActiveSession>180045</ActiveSession>
+                            </ConditionActiveSession>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionExecuteScript</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionExecuteScript>
+                                        <ScriptFileName>mods/[Gameplay] Passage Charts/data/script/session_charts/discover_current_session.py</ScriptFileName>
+                                    </ActionExecuteScript>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup>
+                    <AutoRegisterTrigger>0</AutoRegisterTrigger>
+                </TriggerSetup>
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134807</GUID>
+                    <Name>Unhide the entire Arctic on Game Reload</Name>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionEvent</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionEvent>
+                                <ConditionEvent>SessionEnter</ConditionEvent>
+                            </ConditionEvent>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionExecuteScript</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionExecuteScript>
+                                        <ScriptFileName>mods/[Gameplay] Passage Charts/data/script/session_charts/discover_current_session.py</ScriptFileName>
+                                    </ActionExecuteScript>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionResetTrigger</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionResetTrigger />
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                    <SubTriggers>
+                        <Item>
+                            <SubTrigger>
+                                <Template>AutoCreateTrigger</Template>
+                                <Values>
+                                    <Trigger>
+                                        <TriggerCondition>
+                                            <Template>ConditionActiveSession</Template>
+                                            <Values>
+                                                <Condition />
+                                                <ConditionActiveSession>
+                                                    <ActiveSession>180045</ActiveSession>
+                                                </ConditionActiveSession>
+                                            </Values>
+                                        </TriggerCondition>
+                                    </Trigger>
+                                </Values>
+                            </SubTrigger>
+                        </Item>
+                    </SubTriggers>
+                </Trigger>
+                <TriggerSetup>
+                    <AutoRegisterTrigger>0</AutoRegisterTrigger>
+                </TriggerSetup>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '129251' Type = "addNextSibling">
+        <Asset>
+            <Template>ItemWithUI</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134800</GUID>
+                    <Name>COMPLETE_SESSION_DISCOVERY</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_sir_john_stacked_notes.png</IconFilename>
+                    <InfoDescription>1440134803</InfoDescription>
+                </Standard>
+                <Text />
+                <Item>
+                    <Rarity>Legendary</Rarity>
+                    <TradePrice>69420</TradePrice>
+                </Item>
+                <ItemWithUI>
+                    <ItemActions>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList>
+                                <Actions>
+                                    <Item>
+                                        <Action>
+                                            <Template>ActionNotification</Template>
+                                            <Values>
+                                                <Action />
+                                                <ActionNotification>
+                                                    <Notification>
+                                                        <Template>CharacterNotification</Template>
+                                                        <Values>
+                                                            <CharacterNotification>
+                                                                <Profile>237</Profile>
+                                                            </CharacterNotification>
+                                                            <BaseNotification>
+                                                                <NotificationText>1440134802</NotificationText>
+                                                                <IsUnique>1</IsUnique>
+                                                            </BaseNotification>
+                                                            <NotificationSubtitle>
+                                                                <Subtitle>116363</Subtitle>
+                                                            </NotificationSubtitle>
+                                                        </Values>
+                                                    </Notification>
+                                                </ActionNotification>
+                                            </Values>
+                                        </Action>
+                                    </Item>
+                                    <Item>
+                                        <Action>
+                                            <Template>ActionRegisterTrigger</Template>
+                                            <Values>
+                                                <Action />
+                                                <ActionRegisterTrigger>
+                                                    <TriggerAsset>1440134801</TriggerAsset>
+                                                </ActionRegisterTrigger>
+                                            </Values>
+                                        </Action>
+                                    </Item>
+                                    <Item>
+                                        <Action>
+                                            <Template>ActionRegisterTrigger</Template>
+                                            <Values>
+                                                <Action />
+                                                <ActionRegisterTrigger>
+                                                    <TriggerAsset>1440134807</TriggerAsset>
+                                                </ActionRegisterTrigger>
+                                            </Values>
+                                        </Action>
+                                    </Item>
+                                </Actions>
+                            </ActionList>
+                        </Values>
+                    </ItemActions>
+                    <DestroyOnClick>1</DestroyOnClick>
+                </ItemWithUI>
+                <Locked />
+                <ItemAction>
+                    <ActiveBuff>1440134804</ActiveBuff>
+                    <ActionDescription>1440134806</ActionDescription>
+                  </ItemAction>
+                <ExpeditionAttribute />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>VehicleBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134804</GUID>
+                    <Name>AfricaTreasureMapBuffMachine</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_worldmap_3d.png</IconFilename>
+                    <InfoDescription>1440134805</InfoDescription>
+                </Standard>
+                <Text />
+                <VehicleUpgrade />
+                <Buff>
+                    <PossibleFluffTexts>
+                        <Item>
+                            <FluffText>1440134805</FluffText>
+                        </Item>
+                    </PossibleFluffTexts>
+                </Buff>
+                <AttackerUpgrade>
+                    <UseProjectile>1440134808</UseProjectile>
+                </AttackerUpgrade>
+                <AttackableUpgrade />
+                <ProjectileUpgrade />
+                <TradeShipUpgrade />
+                <UpgradeList />
+                <ItemEffect />
+                <DivingBellUpgrade />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>ExplodingProjectile</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134808</GUID>
+                    <Name>TreasureMapProjectile_FakeInfo</Name>
+                    <InfoDescription>1440134806</InfoDescription>
+                </Standard>
+                <Projectile>
+                    <ShotHeight>0.5</ShotHeight>
+                </Projectile>
+                <Mesh />
+                <Object />
+                <Exploder />
+                <SoundEmitter />
+                <UpgradeList />
+                <ProjectileIncident />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Text</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134806</GUID>
+                    <Name>item fluff Reeds</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_worldmap_3d.png</IconFilename>
+                    <InfoDescription>1440134809</InfoDescription>
+                </Standard>
+                <Text />
+            </Values>
+        </Asset>
+        <Asset>
+            <Template>Text</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440134809</GUID>
+                    <Name>item fluff Reeds</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_worldmap_3d.png</IconFilename>
+                </Standard>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID = '117398' Path = "/Values/RewardPool/ItemsPool" Type = "add">
+        <Item>
+            <ItemLink>1440134800</ItemLink>
+            <Weight>3</Weight>
+        </Item>
+    </ModOp>
+</ModOps>

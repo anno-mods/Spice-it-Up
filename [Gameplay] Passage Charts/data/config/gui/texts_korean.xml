@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Path = "/TextExport/Texts" Type = "add">
+        <Text>
+            <GUID>1440134802</GUID>
+            <Text>쿠막은 지도 제작자의 메모를 보고 기뻐합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1440134800</GUID>
+            <Text>통로의 지도</Text>
+        </Text>
+        <Text>
+            <GUID>1440134803</GUID>
+            <Text>소문에 따르면 이 스케치는 오랫동안 잊혀진 원정대의 시체에서 주운 것입니다. 이 지도를 만든 사람은 거의 찾을 수 있었을 것입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1440134804</GUID>
+            <Text>차트</Text>
+        </Text>
+        <Text>
+            <GUID>1440134809</GUID>
+            <Text>지역 지도: 북극</Text>
+        </Text>
+        <Text>
+            <GUID>1440134806</GUID>
+            <Text>영구 안개를 포함하여 전체 북극 지역을 발견합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1440134808</GUID>
+            <Text>지역 지도: 북극</Text>
+        </Text>
+    </ModOp>
+</ModOps>

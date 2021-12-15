@@ -2342,6 +2342,7 @@
         </Asset>
     </ModOp>
 
+
     <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102467']">
         <Asset>
             <Template>OrnamentalBuilding</Template>

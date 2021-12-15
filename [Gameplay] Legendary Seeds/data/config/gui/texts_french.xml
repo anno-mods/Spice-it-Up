@@ -1,6 +1,43 @@
 <ModOps>
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
+      <GUID>190063</GUID>
+      <Text>Super semences de pommes de terre</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>Super semences de blé</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>Super semences de houblon</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>Super grains de paprika</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>Super fèves de cacao</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>Super semences de canne à sucre</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>Super pépins de raisin</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>Super semences de tabac</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>Super semences de coton</Text>
+    </Text>
+
+    <Text>
       <GUID>190150</GUID>
       <Text>Les superbes grains de café</Text>
     </Text>

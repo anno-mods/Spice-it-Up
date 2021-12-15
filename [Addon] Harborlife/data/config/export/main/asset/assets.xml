@@ -9108,29 +9108,6 @@
         </Maintenance>
     </ModOp>
 
-    <!-- ############################################################################################################### -->
-    <!-- ############# Free Placement in Harbor-Area / Harbor Area Expand ############################################## -->
-    <!--//////////// FREE PLACEMENT /////////////////// -->
-
-    <!--//////////// BLOCKING :: HarborAreaExpand ///// -->
-    <!-- Factories 
-        <ModOp Type = "remove" GUID = '1010278,1010560,1010310,1010339,101262' Path = "Values/Blocking/HarbourAreaExpand"/>
-        -->
-
-    <!-- Shipyards & Oil Harbor 101277,101329,101405,101406,-->
-    <ModOp Type="remove" GUID='1010520,1010521,100783,101403,101404,119259' Path="Values/Blocking/HarbourAreaExpand"/>
-
-    <!-- Piers 101642,101344,-->
-    <ModOp Type="remove" GUID='100429,102284,100519,125028,125191,125192,125193' Path="Values/Blocking/HarbourAreaExpand"/>
-
-    <!-- Kontore 101290,101291,101292,,101293,101294,101295 -->
-    <ModOp Type="remove" GUID='1010517,100510,100511,1010540,100514,100515,269867,269879' Path="Values/Blocking/HarbourAreaExpand"/>
-
-    <!-- Docklands 601460, 601470 -->
-    <ModOp Type="replace" GUID='601460,601470' Path="Values/Blocking/HarbourAreaExpand">
-        <HarbourAreaExpand>0</HarbourAreaExpand>
-    </ModOp>
-
     <!-- Ornaments -->
     <ModOp Type="addNextSibling" GUID='102159'>
         <Asset>
@@ -11428,7 +11405,7 @@
             <Template>Trigger</Template>
             <Values>
                 <Standard>
-                    <GUID>1440134514</GUID>
+                    <GUID>1440134518</GUID>
                     <Name>Trigger Unlock Level 1 Engineer Harbor Skyscrapers</Name>
                     <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
                 </Standard>
@@ -13538,4 +13515,5 @@
             </Values>
         </Asset>
     </ModOp>
+    <!-- 1440134604,1440134605-1440134610 used -->
 </ModOps>

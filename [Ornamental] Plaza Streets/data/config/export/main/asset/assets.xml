@@ -1,5 +1,187 @@
 <ModOps>
 
+    <!-- Paving -->
+    <ModOp GUID='114435' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>114435</BaseAssetGUID>
+            <AddedProperties>
+                <Street>
+                    <InternalID>300</InternalID>
+                </Street>
+            </AddedProperties>
+            <Values>
+                <Standard>
+                    <GUID>1440134606</GUID>
+                    <Name>Plaza (Street)</Name>
+                    <InfoDescription>1440134605</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <GroundDecalAsset>9898765</GroundDecalAsset>
+                    <GroundDecalInvisible>9898765</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building />
+                <Cost />
+                <Selection />
+                <Object />
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='501486' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440134606</Building>
+        </Item>
+    </ModOp>
+
+    <!-- Concrete Paving -->
+    <ModOp GUID='270038' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>270038</BaseAssetGUID>
+            <AddedProperties>
+                <Street>
+                    <InternalID>301</InternalID>
+                </Street>
+            </AddedProperties>
+            <Values>
+                <Standard>
+                    <GUID>1440134607</GUID>
+                    <Name>Concrete Floor (Street)</Name>
+                    <InfoDescription>1440134605</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <GroundDecalAsset>9898765</GroundDecalAsset>
+                    <GroundDecalInvisible>9898765</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building />
+                <Cost />
+                <Selection />
+                <Object />
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='269964' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440134607</Building>
+        </Item>
+    </ModOp>
+
+
+
+    <!-- Promenade Paving -->
+    <ModOp GUID='269303' Type="addNextSibling">
+        <Asset>
+            <BaseAssetGUID>269303</BaseAssetGUID>
+            <AddedProperties>
+                <Street>
+                    <InternalID>302</InternalID>
+                </Street>
+            </AddedProperties>
+            <Values>
+                <Standard>
+                    <GUID>1440134608</GUID>
+                    <Name>Promenade (Street)</Name>
+                    <InfoDescription>1440134605</InfoDescription>
+                </Standard>
+                <Text />
+                <Blocking>
+                    <GroundDecalAsset>9898765</GroundDecalAsset>
+                    <GroundDecalInvisible>9898765</GroundDecalInvisible>
+                    <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+                </Blocking>
+                <Building />
+                <Cost />
+                <Selection />
+                <Object />
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament />
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
+
+
+
+    <ModOp GUID='501411' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440134608</Building>
+        </Item>
+    </ModOp>
+
+
+    <!-- Base Tile -->
+    <ModOp Type="addNextSibling" GUID='101058'>
+        <Asset>
+            <Template>Street</Template>
+            <Values>
+                <Standard>
+                    <GUID>9898765</GUID>
+                    <Name>BasePlateFenceAgriculture04</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_farmfield_module.png</IconFilename>
+                </Standard>
+                <Cost />
+                <Street>
+                    <CfgFileName />
+                    <InvalidColor>-50116</InvalidColor>
+                    <InternalID>134</InternalID>
+                    <DecalMapping />
+                    <DecalVariation />
+                    <GroupBits>512</GroupBits>
+                    <IsLogicRoad>1</IsLogicRoad>
+                    <IsGroundDecal>1</IsGroundDecal>
+                    <IsPlazza>1</IsPlazza>
+                    <IsDeletable>0</IsDeletable>
+                    <HasFeedbackPathPlanningPenalty>0</HasFeedbackPathPlanningPenalty>
+                </Street>
+                <Constructable>
+                    <DestructionCategory>StreetsAndBridges</DestructionCategory>
+                </Constructable>
+                <Locked />
+                <SoundEmitter />
+                <Text />
+                <Building>
+                    <AssociatedRegions>Moderate;Meta;Africa;Arctic;Colony01</AssociatedRegions>
+                </Building>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- DEPRACATED - Keep for Compability -->
+
     <ModOp Type="addNextSibling" GUID="102114">
         <Asset>
             <Template>Street</Template>
@@ -89,130 +271,10 @@
         </Asset>
     </ModOp>
 
-    <ModOp Type="addNextSibling" GUID='25000193' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501577']">
-        <Item>
-            <Building>987002</Building>
-        </Item>
-    </ModOp>
-
-    <ModOp Type="add" GUID='501486,501496,501589' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>987000</Building>
-        </Item>
-    </ModOp>
-
-    <ModOp Path = "//CoastGUIDReplacements" Type = "add">
+    <ModOp Path="//CoastGUIDReplacements" Type="add">
         <Item>
             <OldGUID>987000</OldGUID>
             <NewGUID>0</NewGUID>
-          </Item>
-    </ModOp>
-
-    <ModOp Type="addNextSibling" GUID='25000193'>
-        <Asset>
-            <Template>ConstructionCategory</Template>
-            <Values>
-                <Standard>
-                    <GUID>987002</GUID>
-                    <Name>sa jornalero city (tier)</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_city_ornament_base.png</IconFilename>
-                </Standard>
-                <ConstructionCategory>
-                    <BuildingList>
-                        <Item>
-                            <Building>987000</Building>
-                        </Item>
-                    </BuildingList>
-                    <CategoryDescription>19564</CategoryDescription>
-                </ConstructionCategory>
-                <Text />
-                <Locked />
-            </Values>
-        </Asset>
-    </ModOp>
-
-    <ModOp Type="addNextSibling" GUID='130248'>
-        <Asset>
-            <Template>Trigger</Template>
-            <Values>
-                <Standard>
-                    <GUID>9789002</GUID>
-                    <Name>intermediate moderate 3.1 (2)</Name>
-                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
-                </Standard>
-                <Trigger>
-                    <TriggerCondition>
-                        <Template>ConditionPlayerCounter</Template>
-                        <Values>
-                            <Condition />
-                            <ConditionPlayerCounter>
-                                <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>15000002</Context>
-                                <CounterAmount>250</CounterAmount>
-                            </ConditionPlayerCounter>
-                        </Values>
-                    </TriggerCondition>
-                    <TriggerActions>
-                        <Item>
-                            <TriggerAction>
-                                <Template>ActionUnlockAsset</Template>
-                                <Values>
-                                    <Action />
-                                    <ActionUnlockAsset>
-                                        <UnhideAssets>
-                                            <Item>
-                                                <Asset>987000</Asset>
-                                            </Item>
-                                        </UnhideAssets>
-                                    </ActionUnlockAsset>
-                                </Values>
-                            </TriggerAction>
-                        </Item>
-                    </TriggerActions>
-                </Trigger>
-                <TriggerSetup />
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>Trigger</Template>
-            <Values>
-                <Standard>
-                    <GUID>9789003</GUID>
-                    <Name>intermediate moderate 3.2 (2)</Name>
-                    <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
-                </Standard>
-                <Trigger>
-                    <TriggerCondition>
-                        <Template>ConditionPlayerCounter</Template>
-                        <Values>
-                            <Condition />
-                            <ConditionPlayerCounter>
-                                <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>15000002</Context>
-                                <CounterAmount>500</CounterAmount>
-                            </ConditionPlayerCounter>
-                        </Values>
-                    </TriggerCondition>
-                    <TriggerActions>
-                        <Item>
-                            <TriggerAction>
-                                <Template>ActionUnlockAsset</Template>
-                                <Values>
-                                    <Action />
-                                    <ActionUnlockAsset>
-                                        <UnlockAssets>
-                                            <Item>
-                                                <Asset>987000</Asset>
-                                            </Item>
-                                        </UnlockAssets>
-                                    </ActionUnlockAsset>
-                                </Values>
-                            </TriggerAction>
-                        </Item>
-                    </TriggerActions>
-                </Trigger>
-                <TriggerSetup />
-            </Values>
-        </Asset>
+        </Item>
     </ModOp>
 </ModOps>
