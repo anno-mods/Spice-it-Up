@@ -3634,7 +3634,7 @@
     </ModOp>
 
     <!-- all Buildings with Maintenance -->
-    <ModOp Type="add" GUID='190611' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <ModOp Type="add" GUID='193879' Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
         <Item>
             <GUID>8855001</GUID>
         </Item>
@@ -3847,6 +3847,22 @@
                             <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier01_estate04/residence_tier01_estate04.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_tier01_default.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1440135000</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135002</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135001</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
                 </Object>
                 <Selection>
                     <ParticipantMessageArcheType>Resident_tier01</ParticipantMessageArcheType>
@@ -4099,6 +4115,22 @@
                             <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier02_estate05/residence_tier02_estate05.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_tier02_default.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1440135003</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135004</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135005</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
                 </Object>
                 <Selection>
                     <ParticipantMessageArcheType>Resident_tier02</ParticipantMessageArcheType>
@@ -4331,6 +4363,22 @@
                             <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier03_estate04/residence_tier03_estate04.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_tier03_default.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1440135007</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135008</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135009</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
                 </Object>
                 <Selection>
                     <ParticipantMessageArcheType>Resident_tier03</ParticipantMessageArcheType>
@@ -4700,6 +4748,23 @@
                             <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier04_08/residence_tier04_08.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_tier04_default.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1440135010</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135011</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135012</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
+
                 </Object>
                 <Selection>
                     <ParticipantMessageArcheType>Resident_tier04</ParticipantMessageArcheType>
@@ -5102,6 +5167,22 @@
                             <Filename>data/graphics/hc/buildings/residence/oldworld/residence_tier05_07/residence_tier05_07.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_tier05_default.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1440135013</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135014</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1440135015</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
                 </Object>
                 <Selection>
                     <ParticipantMessageArcheType>Resident_tier05</ParticipantMessageArcheType>
@@ -8751,7 +8832,7 @@
     <!-- ########### [Harbor City] Item Pools ########################################################################## -->
     <!-- MAINTENANCE -->
     <!-- All Buildings with Maintenance -->
-    <ModOp Type="add" GUID='190611' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <ModOp Type="add" GUID='193879' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
         <Item>
             <GUID>8856008</GUID>
         </Item>
@@ -12312,6 +12393,90 @@
                 <TriggerSetup />
             </Values>
         </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440135006</GUID>
+                    <Name>Trigger Unlock Residence Skins</Name>
+                    <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>716</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1440135000</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135001</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135002</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135003</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135004</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135005</Asset>
+                                            </Item>
+
+                                            <Item>
+                                                <Asset>1440135007</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135008</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135009</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135010</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135011</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135012</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135013</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135014</Asset>
+                                            </Item>
+                                            <Item>
+                                                <Asset>1440135015</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                        <UnhideAssets/>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
     </ModOp>
 
     <!-- Scholar Build Permits -->
@@ -13516,4 +13681,536 @@
         </Asset>
     </ModOp>
     <!-- 1440134604,1440134605-1440134610 used -->
+    1.440.135.000
+    <ModOp GUID = '694' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>694</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135000</GUID>
+                    <Name>Skin T01_S01 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_01_estate01/residence_tier01_01_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_01_estate02/residence_tier01_01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_01_estate03/residence_tier01_01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_01_estate04/residence_tier01_01_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '716' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>716</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135001</GUID>
+                    <Name>Skin T01_S04 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_04_estate01/residence_tier01_04_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_04_estate02/residence_tier01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_04_estate03/residence_tier01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_04_estate04/residence_tier01_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '702' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>702</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135002</GUID>
+                    <Name>Skin T01_S03 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_03_estate01/residence_tier01_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_03_estate02/residence_tier01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_03_estate03/residence_tier01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier01_03_estate04/residence_tier01_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Tier 2 Skins -->
+    <ModOp GUID = '698' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>698</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135003</GUID>
+                    <Name>Skin T02_S01 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_01_estate01/residence_tier02_01_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_01_estate02/residence_tier02_01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_01_estate03/residence_tier02_01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_01_estate04/residence_tier02_01_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '709' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>709</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135004</GUID>
+                    <Name>Skin T02_S03 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_03_estate02/residence_tier02_estate01_skin03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_03_estate01/residence_tier02_estate02_skin03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_03_estate03/residence_tier02_estate03_skin03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_03_estate04/residence_tier02_estate04_skin03.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '717' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>717</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135005</GUID>
+                    <Name>Skin T02_S04 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_04_estate01/residence_tier02_estate01_wood.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_04_estate02/residence_tier02_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_04_estate03/residence_tier02_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier02_04_estate04/residence_tier02_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID = '699' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>699</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135007</GUID>
+                    <Name>Skin T03_S01 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_01_estate01/residence_tier03_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_01_estate02/residence_tier03_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_01_estate03/residence_tier03_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_01_estate04/residence_tier03_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '710' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>710</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135008</GUID>
+                    <Name>Skin T03_S03 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_03_estate01/residence_tier03_estate01_skin03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_03_estate02/residence_tier03_estate02_skin03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_03_estate03/residence_tier03_estate03_skin03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_03_estate04/residence_tier03_estate04_skin03.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '718' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>718</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135009</GUID>
+                    <Name>Skin T03_S03 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_04_estate01/residence_tier03_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_04_estate02/residence_tier03_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_04_estate03/residence_tier03_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier03_04_estate04/residence_tier03_estate04.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '700' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>700</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135010</GUID>
+                    <Name>Skin T04_S01 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate01/residence_tier04_01_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate02/residence_tier04_01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate01/residence_tier04_01_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate03/residence_tier04_01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate03/residence_tier04_01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate04/residence_tier04_01_estate04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate05/residence_tier04_01_estate05.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_01_estate06/residence_tier04_01_estate06.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '722' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>722</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135011</GUID>
+                    <Name>Skin T04_S02 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate01/residence_tier04_02_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate02/residence_tier04_02_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate03/residence_tier04_02_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate04/residence_tier04_02_estate04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate05/residence_tier04_02_estate05.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate06/residence_tier04_02_estate06.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate07/residence_tier04_02_estate07.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_02_estate08/residence_tier04_02_estate08.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '711' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>711</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135012</GUID>
+                    <Name>Skin T04_S03 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_01/residence_tier04_01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_02/residence_tier04_02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_01/residence_tier04_01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_04/residence_tier04_04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_04/residence_tier04_04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_06/residence_tier04_06.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_07/residence_tier04_07.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier04_03_08/residence_tier04_08.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '701' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>701</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135013</GUID>
+                    <Name>Skin T05_S01 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate02/residence_tier05_01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate01/residence_tier05_01_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate02/residence_tier05_01_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate03/residence_tier05_01_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate04/residence_tier05_01_estate04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate05/residence_tier05_01_estate05.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_01_estate06/residence_tier05_01_estate06.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '723' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>723</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135014</GUID>
+                    <Name>Skin T05_S02 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate01/residence_tier05_02_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate02/residence_tier05_02_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate03/residence_tier05_02_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate04/residence_tier05_02_estate04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate05/residence_tier05_02_estate05.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate06/residence_tier05_02_estate06.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_02_estate07/residence_tier05_02_estate07.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '712' Type = "addNextSibling">
+        <Asset>
+            <BaseAssetGUID>712</BaseAssetGUID>
+            <Values>
+                <Standard>
+                    <GUID>1440135015</GUID>
+                    <Name>Skin T05_S02 HARBORLIFE</Name>
+                </Standard>
+                <Skin>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate02/residence_tier05_03_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate01/residence_tier05_03_estate01.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate02/residence_tier05_03_estate02.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate03/residence_tier05_03_estate03.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate04/residence_tier05_03_estate04.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate05/residence_tier05_03_estate05.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/cdlc06/residence_skins/residence_tier05_03_estate06/residence_tier05_03_estate06.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>1</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
 </ModOps>
