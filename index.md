@@ -60,8 +60,8 @@ After Installing the Modloader, you need to add your mods into `C:\Program Files
 **Southern Rivers removed**
 - Completly removes all river islands from the southern region.
 
-**Smaller Harbor Blocking**
-- Removes the Extended Harbor Blocking for harbor buildings - Stuff like piers will not extend across your harbor and only block a fixed area in fron of them. 
+**Harbor Blocking**
+- Removes the Extended Harbor Blocking for harbor buildings - Stuff like piers will not extend across your harbor and only block a fixed area in front of them. 
 
 ---
 
