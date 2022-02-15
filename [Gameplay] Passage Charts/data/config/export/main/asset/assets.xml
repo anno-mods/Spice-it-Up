@@ -257,7 +257,7 @@
         </Asset>
     </ModOp>
 
-    <ModOp GUID = '117398' Path = "/Values/RewardPool/ItemsPool" Type = "add">
+    <ModOp GUID = '117398,193835' Path = "/Values/RewardPool/ItemsPool" Type = "add">
         <Item>
             <ItemLink>1440134800</ItemLink>
             <Weight>3</Weight>
