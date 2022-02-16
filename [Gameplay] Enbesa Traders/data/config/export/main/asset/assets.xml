@@ -169,6 +169,8 @@
 					</PreferedGoods>
 				</EndGame>
 			</Progression>
+			<ProvidesShipReplacements>None</ProvidesShipReplacements>
+			<UseSessionSpecificProgressLevel>1</UseSessionSpecificProgressLevel>
 		</Trader>
 	</ModOp>
 
@@ -294,6 +296,8 @@
 					</PreferedGoods>
 				</EndGame>
 			</Progression>
+			<ProvidesShipReplacements>None</ProvidesShipReplacements>
+			<UseSessionSpecificProgressLevel>1</UseSessionSpecificProgressLevel>
 		</Trader>
 	</ModOp>
 	<!-- Trader Chieftain (Waha Desher)-->
@@ -535,6 +539,8 @@
 					</PreferedGoods>
 				</EndGame>
 			</Progression>
+			<ProvidesShipReplacements>None</ProvidesShipReplacements>
+			<UseSessionSpecificProgressLevel>1</UseSessionSpecificProgressLevel>
 		</Trader>
 	</ModOp>
 </ModOps>

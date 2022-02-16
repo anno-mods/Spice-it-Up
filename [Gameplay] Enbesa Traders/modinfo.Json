@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "1.1",
   "ModID": "Spice_EnbesaTraders",
   "IncompatibleIds": [
     "NewHorizons"
@@ -20,9 +20,9 @@
   },
   "ModName": {
     "Chinese": null,
-    "English": "Gas Heater",
+    "English": "Enbesa Traders",
     "French": null,
-    "German": "Gasheizung",
+    "German": "Enbesianische Händler",
     "Italian": null,
     "Japanese": null,
     "Korean": null,

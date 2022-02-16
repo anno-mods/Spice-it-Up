@@ -7943,7 +7943,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1440134604</GUID>
+					<GUID>1440134669</GUID>
 					<Name>Trigger Script Restart</Name>
 				</Standard>
 				<Trigger>
@@ -7952,7 +7952,7 @@
 						<Values>
 							<Condition />
 							<ConditionEvent>
-								<ConditionEvent>ProfileLoaded</ConditionEvent>
+								<ConditionEvent>SessionEnter</ConditionEvent>
 							</ConditionEvent>
 						</Values>
 					</TriggerCondition>
