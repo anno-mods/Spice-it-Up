@@ -1,57 +1,60 @@
 {
-  "Version": "1.2",
-  "ModID": "Spice_AIShipyard",
-  "IncompatibleIds": [
-    "NewHorizons"
-  ],
-  "ModDependencies": null,
-  "Category": {
-    "Chinese": null,
-    "English": "Gameplay",
-    "French": null,
-    "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
-  },
-  "ModName": {
-    "Chinese": null,
-    "English": "AI Shipyard",
-    "French": null,
-    "German": "KI-Schiffswerft",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
-  },
-  "Description": {
-    "Chinese": null,
-    "English": "Add AI into existing savegames by building a ship for them. Building an embassy (the courthouse from the campaign) is the only way to unlock three-star AI and Dr. Hugo Mercier.",
-    "French": null,
-    "German": "Ermöglicht es, eine KI im laufenden Spiel in den Sektor zu holen. um die Drei-Sterne Gegner und Dr. Hugo Mercier freizuschalten, wird eine Botschaft (Das Gerichtsgebäude der Kampagne) benötigt.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
-  },
-  "KnownIssues": null,
-  "DLCDependencies": [
-    {
-      "DLC": "Anarchist",
-      "Dependant": "partly"
-    }
-  ],
-  "CreatorName": "Spice it up-Team: kskudlik",
-  "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null
+    "Version": "1.3",
+    "ModID": "Spice_AIShipyard",
+    "IncompatibleIds": [
+        "NewHorizons"
+    ],
+    "ModDependencies": null,
+    "Category": {
+        "Chinese": null,
+        "English": "Gameplay",
+        "French": null,
+        "German": "Spielablauf",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": "Rozgrywka",
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "ModName": {
+        "Chinese": null,
+        "English": "AI Shipyard",
+        "French": null,
+        "German": "KI-Schiffswerft",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "Description": {
+        "Chinese": null,
+        "English": "Add AI into existing savegames by building a ship for them. Building an embassy (the courthouse from the campaign) is the only way to unlock three-star AI and Dr. Hugo Mercier.",
+        "French": null,
+        "German": "Ermöglicht es, eine KI im laufenden Spiel in den Sektor zu holen. um die Drei-Sterne Gegner und Dr. Hugo Mercier freizuschalten, wird eine Botschaft (Das Gerichtsgebäude der Kampagne) benötigt.",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [
+        {
+            "DLC": "Anarchist",
+            "Dependant": "partly"
+        }
+    ],
+    "CreatorName": "Spice it up-Team: kskudlik",
+    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
+    "Image": null
 }

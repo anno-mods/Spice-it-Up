@@ -1,0 +1,1 @@
+AISpawner.SpawnParticipant("qing")

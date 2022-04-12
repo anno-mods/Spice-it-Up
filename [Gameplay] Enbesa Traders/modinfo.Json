@@ -1,57 +1,60 @@
 {
-  "Version": "1.1",
-  "ModID": "Spice_EnbesaTraders",
-  "IncompatibleIds": [
-    "NewHorizons"
-  ],
-  "ModDependencies": null,
-  "Category": {
-    "Chinese": null,
-    "English": "Gameplay",
-    "French": null,
-    "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
-  },
-  "ModName": {
-    "Chinese": null,
-    "English": "Enbesa Traders",
-    "French": null,
-    "German": "Enbesianische Händler",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
-  },
-  "Description": {
-    "Chinese": null,
-    "English": "Waha Desher and Kidusi Anitoni offer their own set of goods like other NPCs.",
-    "French": null,
-    "German": "Waha Desher und Kidusi Anitoni bieten Waren zum Verkauf an.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
-  },
-  "KnownIssues": null,
-  "DLCDependencies": [
-    {
-      "DLC": "LandOfLions",
-      "Dependant": "required"
-    }
-  ],
-  "CreatorName": "Spice it up-Team: Taubenangriff",
-  "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null
+    "Version": "1.2",
+    "ModID": "Spice_EnbesaTraders",
+    "IncompatibleIds": [
+        "NewHorizons"
+    ],
+    "ModDependencies": null,
+    "Category": {
+        "Chinese": null,
+        "English": "Gameplay",
+        "French": null,
+        "German": "Spielablauf",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "ModName": {
+        "Chinese": null,
+        "English": "Enbesa Traders",
+        "French": null,
+        "German": "Enbesianische Händler",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "Description": {
+        "Chinese": null,
+        "English": "Waha Desher and Kidusi Anitoni offer their own set of goods like other NPCs.",
+        "French": null,
+        "German": "Waha Desher und Kidusi Anitoni bieten Waren zum Verkauf an.",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [
+        {
+            "DLC": "LandOfLions",
+            "Dependant": "required"
+        }
+    ],
+    "CreatorName": "Spice it up-Team: Taubenangriff",
+    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
+    "Image": null
 }

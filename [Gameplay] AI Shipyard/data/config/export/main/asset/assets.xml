@@ -175,14 +175,14 @@
 						</Item>
 					</BuildingRepaired>
 				</SoundEmitter>
-				<IncidentInfectable />
-				<FeedbackController />
-				<Industrializable />
-				<UpgradeList />
-				<LogisticNode />
-				<StreetActivation />
-				<QuestObject />
-				<Electrifiable />
+				<IncidentInfectable/>
+				<FeedbackController/>
+				<Industrializable/>
+				<UpgradeList/>
+				<LogisticNode/>
+				<StreetActivation/>
+				<QuestObject/>
+				<Electrifiable/>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -404,7 +404,7 @@
 					<WindSpeedupEffectOnTurningSpeed>0.85</WindSpeedupEffectOnTurningSpeed>
 					<CurveSegmentDensity>High</CurveSegmentDensity>
 				</Walking>
-				<Text />
+				<Text/>
 				<CommandQueue>
 					<IsFlagship>0</IsFlagship>
 					<FormationPriority>4</FormationPriority>
@@ -415,7 +415,7 @@
 					<OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
 					<Length>4.5</Length>
 				</Drifting>
-				<Collector />
+				<Collector/>
 				<Attackable>
 					<MaximumHitPoints>2000</MaximumHitPoints>
 					<HPBarOffset>7.5</HPBarOffset>
@@ -452,15 +452,15 @@
 						</MovementStart>
 					</VehicleSounds>
 				</SoundEmitter>
-				<UpgradeList />
-				<QuestObject />
-				<Infolayer />
+				<UpgradeList/>
+				<QuestObject/>
+				<Infolayer/>
 				<ItemContainer>
 					<SocketCount>2</SocketCount>
 					<SlotCount>3</SlotCount>
 				</ItemContainer>
-				<FeedbackController />
-				<Draggable />
+				<FeedbackController/>
+				<Draggable/>
 				<Cost>
 					<Costs>
 						<Item>
@@ -477,10 +477,10 @@
 				<Craftable>
 					<CraftingTime>1</CraftingTime>
 				</Craftable>
-				<TradeRouteVehicle />
-				<Locked />
-				<Nameable />
-				<MetaPersistent />
+				<TradeRouteVehicle/>
+				<Locked/>
+				<Nameable/>
+				<MetaPersistent/>
 				<ExpeditionAttribute>
 					<BaseMorale>0</BaseMorale>
 					<ExpeditionAttributes>
@@ -504,11 +504,11 @@
 				<Sellable>
 					<CanBeSoldToTrader>0</CanBeSoldToTrader>
 				</Sellable>
-				<Stance />
-				<Rentable />
-				<WorldMapSound />
-				<Pausable />
-				<ShipIncident />
+				<Stance/>
+				<Rentable/>
+				<WorldMapSound/>
+				<Pausable/>
+				<ShipIncident/>
 				<SoundEmitterCommandBarks>
 					<BarkMapping>
 						<Selection>
@@ -1273,7 +1273,7 @@
 				<Draggable/>
 				<Cost>
 					<Costs>
-						<Item />
+						<Item/>
 						<Item>
 							<Ingredient>1010017</Ingredient>
 							<Amount>120000</Amount>
@@ -2243,7 +2243,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2257,7 +2257,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334101</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2266,7 +2266,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2281,7 +2281,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2298,7 +2298,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/bente_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/bente_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2324,7 +2324,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2338,7 +2338,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334103</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2347,7 +2347,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2362,7 +2362,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2379,7 +2379,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/qing_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/qing_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2405,7 +2405,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2419,7 +2419,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334105</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2428,7 +2428,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2443,7 +2443,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2460,7 +2460,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/willie_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/willie_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2486,7 +2486,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2500,7 +2500,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334107</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2509,7 +2509,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2524,7 +2524,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2541,7 +2541,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/smith_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/smith_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2567,7 +2567,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2581,7 +2581,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334109</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2590,7 +2590,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2605,7 +2605,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2622,7 +2622,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/beryl_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/beryl_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2648,7 +2648,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2662,7 +2662,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334111</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2671,7 +2671,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2686,7 +2686,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2703,7 +2703,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/artur_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/artur_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2729,7 +2729,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2743,7 +2743,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334113</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2752,7 +2752,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2767,7 +2767,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2784,7 +2784,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/carl_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/carl_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2810,7 +2810,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2824,7 +2824,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334115</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2833,7 +2833,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2848,7 +2848,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2865,7 +2865,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/gravez_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/gravez_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2891,7 +2891,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2905,7 +2905,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334117</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2914,7 +2914,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -2929,7 +2929,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -2946,7 +2946,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/silva_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/silva_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2972,7 +2972,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -2986,7 +2986,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334119</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -2995,7 +2995,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -3010,7 +3010,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -3027,7 +3027,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hunt_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hunt_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -3053,7 +3053,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>1</CounterAmount>
@@ -3067,7 +3067,7 @@
 							<TriggerAction>
 								<Template>ActionRegisterTrigger</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionRegisterTrigger>
 										<TriggerAsset>99334121</TriggerAsset>
 									</ActionRegisterTrigger>
@@ -3076,7 +3076,7 @@
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 		<Asset>
@@ -3091,7 +3091,7 @@
 					<TriggerCondition>
 						<Template>ConditionPlayerCounter</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionPlayerCounter>
 								<PlayerCounter>IslandSettled</PlayerCounter>
 								<CounterAmount>0</CounterAmount>
@@ -3108,7 +3108,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo_delete.py</ScriptFileName>
+										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -3211,7 +3211,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/bente.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/bente.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3244,7 +3244,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/qing.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/qing.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3277,7 +3277,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/willie.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/willie.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3310,7 +3310,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/smith.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/smith.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3343,7 +3343,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/beryl.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/beryl.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3376,7 +3376,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/artur.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/artur.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3409,7 +3409,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/carl.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/carl.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3442,7 +3442,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/gravez.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/gravez.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3475,7 +3475,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/silva.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/silva.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3508,7 +3508,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hunt.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hunt.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3541,7 +3541,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3574,7 +3574,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/nate.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/nate.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -4130,7 +4130,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334100</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4141,7 +4141,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334122</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4239,7 +4239,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334102</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4250,7 +4250,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334123</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4348,7 +4348,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334104</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4359,7 +4359,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334124</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4463,7 +4463,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334106</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4474,7 +4474,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334125</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4578,7 +4578,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334108</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4589,7 +4589,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334126</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4693,7 +4693,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334110</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4704,7 +4704,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334127</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4802,7 +4802,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334112</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4813,7 +4813,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334128</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4917,7 +4917,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334114</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -4928,7 +4928,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334129</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -5026,7 +5026,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334116</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -5037,7 +5037,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334130</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -5135,7 +5135,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334118</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -5146,7 +5146,7 @@
 										<Action>
 											<Template>ActionRegisterTrigger</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionRegisterTrigger>
 													<TriggerAsset>99334131</TriggerAsset>
 												</ActionRegisterTrigger>
@@ -5197,7 +5197,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo_addToSavegame.py</ScriptFileName>
+													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo_addToSavegame.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -5206,7 +5206,7 @@
 										<Action>
 											<Template>ActionDelayedActions</Template>
 											<Values>
-												<Action />
+												<Action/>
 												<ActionDelayedActions>
 													<ExecutionDelay>1000</ExecutionDelay>
 													<DelayedActions>
@@ -5273,7 +5273,7 @@
 																		<Action>
 																			<Template>ActionRegisterTrigger</Template>
 																			<Values>
-																				<Action />
+																				<Action/>
 																				<ActionRegisterTrigger>
 																					<TriggerAsset>99334120</TriggerAsset>
 																				</ActionRegisterTrigger>
@@ -5284,7 +5284,7 @@
 																		<Action>
 																			<Template>ActionRegisterTrigger</Template>
 																			<Values>
-																				<Action />
+																				<Action/>
 																				<ActionRegisterTrigger>
 																					<TriggerAsset>99334132</TriggerAsset>
 																				</ActionRegisterTrigger>
@@ -7186,7 +7186,7 @@
 					<ObjectmenuHeaderImage>data/ui/2kimages/main/3dicons/campaign/icon_court_of_justice.png</ObjectmenuHeaderImage>
 					<ParticipantMessageArcheType>Resident_tier01_atWork</ParticipantMessageArcheType>
 				</Selection>
-				<Text />
+				<Text/>
 				<Constructable/>
 				<Locked/>
 				<SoundEmitter/>
@@ -7366,8 +7366,7 @@
 				<UpgradeList/>
 				<Industrializable/>
 				<QuestObject/>
-				
-				<Electrifiable />
+				<Electrifiable/>
 				<BusActivation>
 					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
 				</BusActivation>
@@ -7484,8 +7483,7 @@
 				<UpgradeList/>
 				<Industrializable/>
 				<QuestObject/>
-				
-				<Electrifiable />
+				<Electrifiable/>
 				<BusActivation>
 					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
 				</BusActivation>
@@ -7557,8 +7555,7 @@
 				<UpgradeList/>
 				<Industrializable/>
 				<QuestObject/>
-				
-				<Electrifiable />
+				<Electrifiable/>
 				<BusActivation>
 					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
 				</BusActivation>
@@ -7950,7 +7947,7 @@
 					<TriggerCondition>
 						<Template>ConditionEvent</Template>
 						<Values>
-							<Condition />
+							<Condition/>
 							<ConditionEvent>
 								<ConditionEvent>SessionEnter</ConditionEvent>
 							</ConditionEvent>
@@ -7961,7 +7958,7 @@
 							<TriggerAction>
 								<Template>ActionExecuteScript</Template>
 								<Values>
-									<Action />
+									<Action/>
 									<ActionExecuteScript>
 										<ScriptFileName>mods/[Gameplay] AI Shipyard/start_script.py</ScriptFileName>
 									</ActionExecuteScript>
@@ -7972,14 +7969,14 @@
 							<TriggerAction>
 								<Template>ActionResetTrigger</Template>
 								<Values>
-									<Action />
-									<ActionResetTrigger />
+									<Action/>
+									<ActionResetTrigger/>
 								</Values>
 							</TriggerAction>
 						</Item>
 					</TriggerActions>
 				</Trigger>
-				<TriggerSetup />
+				<TriggerSetup/>
 			</Values>
 		</Asset>
 	</ModOp>

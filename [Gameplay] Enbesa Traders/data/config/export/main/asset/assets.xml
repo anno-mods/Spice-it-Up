@@ -1,6 +1,6 @@
 <ModOps>
-    <!-- Trader Caleb (Angereb)-->
-	<ModOp Type="replace" GUID='120283' Path="/Values/Trader">
+	<!-- Trader Caleb (Angereb)-->
+	<ModOp Type="replace" GUID="120283" Path="/Values/Trader">
 		<Trader>
 			<GoodsTrader>1</GoodsTrader>
 			<ShipTrader>1</ShipTrader>
@@ -173,9 +173,8 @@
 			<UseSessionSpecificProgressLevel>1</UseSessionSpecificProgressLevel>
 		</Trader>
 	</ModOp>
-
 	<!-- Trader Priestress (Kidusi)-->
-	<ModOp Type="replace" GUID='120282' Path="/Values/Trader">
+	<ModOp Type="replace" GUID="120282" Path="/Values/Trader">
 		<Trader>
 			<GoodsTrader>1</GoodsTrader>
 			<Progression>
@@ -191,9 +190,7 @@
 							<Good>114391</Good>
 						</Item>
 					</OfferingGoods>
-					<PreferedGoods />
-					<OfferingItems>1414005015</OfferingItems>
-					<MaxItemsToOffer>3</MaxItemsToOffer>
+					<PreferedGoods/>
 				</LateMidGame>
 				<LateGame>
 					<GoodsProduction>
@@ -225,7 +222,6 @@
 							</GoodSets>
 						</Item>
 					</OfferingGoods>
-					<OfferingItems>1414005016</OfferingItems>
 					<MaxItemsToOffer>3</MaxItemsToOffer>
 					<PreferedGoods>
 						<Item>
@@ -275,7 +271,6 @@
 							</GoodSets>
 						</Item>
 					</OfferingGoods>
-					<OfferingItems>1414005017</OfferingItems>
 					<MaxItemsToOffer>3</MaxItemsToOffer>
 					<PreferedGoods>
 						<Item>
@@ -301,10 +296,10 @@
 		</Trader>
 	</ModOp>
 	<!-- Trader Chieftain (Waha Desher)-->
-	<ModOp Type="add" GUID='119408,123720,119404' Path="/Values/Selection">
+	<ModOp Type="add" GUID="119408,123720,119404" Path="/Values/Selection">
 		<GUIType>Kontor</GUIType>
 	</ModOp>
-	<ModOp Type="replace" GUID='120284' Path="/Values/Trader">
+	<ModOp Type="replace" GUID="120284" Path="/Values/Trader">
 		<Trader>
 			<GoodsTrader>1</GoodsTrader>
 			<ShipTrader>1</ShipTrader>
