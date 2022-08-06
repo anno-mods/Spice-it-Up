@@ -294,6 +294,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 - Adds the music pavilion for free construction. 
 
 **No Cultural Module Limits**
+
 - Build infinite Modules to all Cultural Buildings. 
 
 **Ornamental Docklands**
