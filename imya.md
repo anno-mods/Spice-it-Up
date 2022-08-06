@@ -28,30 +28,39 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 ## Adjustments
 
 **Airship Hangar Without Quest**
+
 - Unlocks the airship hangar without having to play the story. 
 
 **Bad language filter removed**
+
 - removes the bad language filter completly.
 
 **Map Seeds Patch 3**
+
 - Adds additional map seeds that briefly were in the game in Patch 3. 
 
 **Mine Infolayers**
+
 - Changes the mine slot's infolayer to show what resource can be built on them. 
 
 **Northern Rivers removed**
+
 - This edit completly removes all river islands from the Northern region.
 
 **Remove Third Party Messages**
+
 - Removes the chatter and overall voice of the NPC.
 
 **Southern Rivers reduced**
+
 - Enables non river variants of the southern islands to be used again in the mapgenerator, so you get a mix of river variants and non river variants.
 
 **Southern Rivers removed**
+
 - Completly removes all river islands from the southern region.
 
 **Harbor Blocking**
+
 - Removes the Extended Harbor Blocking for harbor buildings - Stuff like piers will not extend across your harbor and only block a fixed area in front of them. 
 
 ---
