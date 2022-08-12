@@ -1,10 +1,8 @@
 {
-  "Version": "1",
+  "Version": "1.0.1",
   "ModID": "Spice_ArcticQuay",
   "IncompatibleIds": null,
-  "ModDependencies": [
-    "ThePassage"
-  ],
+  "ModDependencies": null,
   "Category": {
     "Chinese": null,
     "English": "Ornamental",
