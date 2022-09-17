@@ -1087,7 +1087,7 @@
 					<CraftingTime>2400000</CraftingTime>
 				</Craftable>
 				<TradeRouteVehicle/>
-				<Locked/>
+				<Locked />
 				<Nameable/>
 				<MetaPersistent/>
 				<ExpeditionAttribute/>

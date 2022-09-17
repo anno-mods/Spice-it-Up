@@ -3999,6 +3999,14 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio>
+					<ClusterEvent>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+						<AudioLink />
+						</Values>
+					</ClusterEvent>
+				</Audio>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -4248,6 +4256,14 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio>
+					<ClusterEvent>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<AudioLink />
+						</Values>
+					</ClusterEvent>
+				</Audio>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -4498,6 +4514,14 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio>
+					<ClusterEvent>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<AudioLink />
+						</Values>
+					</ClusterEvent>
+				</Audio>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -4925,6 +4949,14 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio>
+					<ClusterEvent>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<AudioLink />
+						</Values>
+					</ClusterEvent>
+				</Audio>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -5312,6 +5344,14 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio>
+					<ClusterEvent>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<AudioLink />
+						</Values>
+					</ClusterEvent>
+				</Audio>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -5422,6 +5462,9 @@
 				</Cost>
 				<Mesh/>
 				<Object>
+					<Skins>
+						<SkinList />
+					</Skins>
 					<Variations>
 						<Item>
 							<Filename>data/graphics/hc/buildings/residence/south/residence_colony01_tier01_estate01/residence_colony01_tier01_estate01.cfg</Filename>
@@ -5515,6 +5558,7 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio />
 			</Values>
 		</Asset>
 	</ModOp>
@@ -5564,6 +5608,9 @@
 				</Cost>
 				<Mesh/>
 				<Object>
+					<Skins>
+						<SkinList />
+					</Skins>
 					<Variations>
 						<Item>
 							<Filename>data/graphics/hc/buildings/residence/south/residence_colony01_tier02_estate01/residence_colony01_tier02_estate01.cfg</Filename>
@@ -5643,6 +5690,7 @@
 				<Maintenance>
 					<IncomeCategory>Skyscrapers</IncomeCategory>
 				</Maintenance>
+				<Audio />
 			</Values>
 		</Asset>
 	</ModOp>
@@ -5753,6 +5801,7 @@
 					<UpgradeTargetGUID>1440134501</UpgradeTargetGUID>
 				</FloorStackOwner>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -5861,6 +5910,7 @@
 					<UpgradeTargetGUID>1440134502</UpgradeTargetGUID>
 				</FloorStackOwner>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -5969,6 +6019,7 @@
 					<UpgradeTargetGUID>1440134503</UpgradeTargetGUID>
 				</FloorStackOwner>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -6077,6 +6128,7 @@
 					<UpgradeTargetGUID>1440134504</UpgradeTargetGUID>
 				</FloorStackOwner>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -6183,6 +6235,7 @@
 				<InfluenceSource/>
 				<FloorStackOwner/>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -6294,6 +6347,7 @@
 					<UpgradeTargetGUID>1440134506</UpgradeTargetGUID>
 				</FloorStackOwner>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -6405,6 +6459,7 @@
 					<UpgradeTargetGUID>1440134507</UpgradeTargetGUID>
 				</FloorStackOwner>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 		<Asset>
@@ -6514,6 +6569,7 @@
 				<InfluenceSource/>
 				<FloorStackOwner/>
 				<Maintenance/>
+				<Audio />
 			</Values>
 		</Asset>
 	</ModOp>
@@ -13584,15 +13640,7 @@
 	</ModOp>
 	<!-- 1440134604,1440134605-1440134610 used -->
 
-
-
-
-
-
-
-
-    1.440.135.000
-                    <ModOp GUID="694" Type="addNextSibling">
+	<ModOp GUID="694" Type="addNextSibling">
 		<Asset>
 			<BaseAssetGUID>694</BaseAssetGUID>
 			<Values>
@@ -14122,18 +14170,35 @@
 		</Asset>
 	</ModOp>
 
-	<ModOp GUID = '15000005' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']" Type = "addNextSibling">
+	<ModOp GUID = '15000005' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/RequiredBuildings" Type = "add">
 		<Item>
-                          <Product>120020</Product>
-                          <SupplyWeight>5</SupplyWeight>
-                          <RequiredToBeBuilding>8856006</RequiredToBeBuilding>
-                        </Item>
+			<RequiredBuilding>8856006</RequiredBuilding>
+		</Item>
 	</ModOp>
-	<ModOp GUID = '15000006' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']" Type = "addNextSibling">
+	<ModOp GUID = '15000006' Path = "/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/RequiredBuildings" Type = "add">
 		<Item>
-                          <Product>120020</Product>
-                          <SupplyWeight>5</SupplyWeight>
-                          <RequiredToBeBuilding>8856007</RequiredToBeBuilding>
-                        </Item>
+			<RequiredBuilding>8856007</RequiredBuilding>
+		</Item>
+	</ModOp>
+
+	<ModOp GUID = '15000004' Path = "/Values/PopulationLevel7/PopulationInputs/Item[IsBonusNeed = 1]/RequiredBuildings" Type = "add">
+		<Item>
+			<RequiredBuilding>8856005</RequiredBuilding>
+		</Item>
+		<Item>
+			<RequiredBuilding>1440134500</RequiredBuilding>
+		</Item>
+		<Item>
+			<RequiredBuilding>1440134501</RequiredBuilding>
+		</Item>
+		<Item>
+			<RequiredBuilding>1440134502</RequiredBuilding>
+		</Item>
+		<Item>
+			<RequiredBuilding>1440134503</RequiredBuilding>
+		</Item>
+		<Item>
+			<RequiredBuilding>1440134504</RequiredBuilding>
+		</Item>
 	</ModOp>
 </ModOps>

@@ -45,6 +45,7 @@
           <FormationPriority>1</FormationPriority>
           <TradeShipPoints>4</TradeShipPoints>
           <PriorityShipList>2</PriorityShipList>
+          <AirShipPoints>200</AirShipPoints>
         </CommandQueue>
         <Drifting>
           <OverrideAssetWidthAndLength>1</OverrideAssetWidthAndLength>
@@ -75,14 +76,15 @@
             </MovementStart>
           </VehicleSounds>
         </SoundEmitter>
-        <UpgradeList />
+        <UpgradeList>
+          <DefaultBuff>1751</DefaultBuff>
+        </UpgradeList>
         <QuestObject />
         <Infolayer />
         <ItemContainer>
           <SocketCount>2</SocketCount>
           <SocketAllocation>Ship;AirShip</SocketAllocation>
           <SlotCount>6</SlotCount>
-          <StackLimit>30</StackLimit>
         </ItemContainer>
         <FeedbackController />
         <Draggable />
@@ -117,12 +119,12 @@
         <Craftable>
           <CraftingTime>900000</CraftingTime>
         </Craftable>
-        <TradeRouteVehicle />
         <Nameable />
         <MetaPersistent />
         <ExpeditionAttribute />
         <ShipMaintenance>
           <Maintenance>1500</Maintenance>
+          <DisableEscort>0</DisableEscort>
         </ShipMaintenance>
         <Sellable>
           <Baseprice>
@@ -147,28 +149,95 @@
         <SoundEmitterCommandBarks>
           <BarkMapping>
             <Selection>
-              <AudioPool>117310</AudioPool>
+              <AudioPool>4806</AudioPool>
             </Selection>
+            <SelectionDamaged>
+              <AudioPool>4808</AudioPool>
+            </SelectionDamaged>
             <AttackCommand>
-              <AudioPool>117311</AudioPool>
+              <AudioPool>0</AudioPool>
             </AttackCommand>
             <MoveCommand>
-              <AudioPool>117312</AudioPool>
+              <AudioPool>4807</AudioPool>
             </MoveCommand>
             <EscortCommand>
-              <AudioPool>117314</AudioPool>
+              <AudioPool>4811</AudioPool>
             </EscortCommand>
             <PatrolCommand>
-              <AudioPool>117313</AudioPool>
+              <AudioPool>4807</AudioPool>
             </PatrolCommand>
-            <SelectionDamaged>
-              <AudioPool>117309</AudioPool>
-            </SelectionDamaged>
+            <DropCommand>
+              <AudioPool>4812</AudioPool>
+            </DropCommand>
           </BarkMapping>
         </SoundEmitterCommandBarks>
         <ItemReplacer>
           <ItemReplacementPools>193855</ItemReplacementPools>
         </ItemReplacer>
+        <Bombarder>
+          <Shafts>2</Shafts>
+        </Bombarder>
+      </Values>
+    </Asset>
+    <Asset>
+      <BaseAssetGUID>901999</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1440136001</GUID>
+        </Standard>
+        <Object />
+        <Mesh />
+        <Selection />
+        <Walking />
+        <Text />
+        <CommandQueue />
+        <Drifting />
+        <Collector />
+        <Attackable />
+        <MinimapToken />
+        <SoundEmitter />
+        <UpgradeList>
+          <DefaultBuff>721</DefaultBuff>
+        </UpgradeList>
+        <QuestObject />
+        <Infolayer />
+        <ItemContainer />
+        <FeedbackController />
+        <Draggable/>
+        <TradeRouteVehicle/>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>838</Ingredient>
+              <Amount>30</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010224</Ingredient>
+              <Amount>15</Amount>
+            </Item>
+            <Item>
+              <Ingredient>840</Ingredient>
+              <Amount>40</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010221</Ingredient>
+            </Item>
+          </Costs>
+        </Cost>
+        <Craftable />
+        <Nameable />
+        <MetaPersistent/>
+        <ExpeditionAttribute />
+        <ShipMaintenance />
+        <Sellable />
+        <Stance />
+        <Rentable />
+        <WorldMapSound />
+        <Pausable/>
+        <ShipIncident />
+        <SoundEmitterCommandBarks />
+        <ItemReplacer />
+        <Bombarder />
       </Values>
     </Asset>
   </ModOp>
@@ -204,13 +273,19 @@
     <ShipsForSaleAmount>1</ShipsForSaleAmount>
   </ModOp>
 
-  <ModOp Type="add" GUID='112689' Path="/Values/Shipyard/AssemblyOptions">
+  <ModOp Type="add" GUID='112689,636,635' Path="/Values/Shipyard/AssemblyOptions">
     <Item>
       <Vehicle>901999</Vehicle>
     </Item>
   </ModOp>
   <ModOp Type="replace" GUID='112689' Path="/Values/Selection/GUIType">
     <GUIType>Shipyard</GUIType>
+  </ModOp>
+
+  <ModOp GUID = '636,635' Type = "add" Path ="/Values/Shipyard/AssemblyOptions">
+    <Item>
+      <Vehicle>1440136001</Vehicle>
+    </Item>
   </ModOp>
 
   <ModOp Type="addNextSibling" GUID='130248'>
@@ -232,6 +307,46 @@
                 <Context>112643</Context>
                 <CounterAmount>900</CounterAmount>
               </ConditionPlayerCounter>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>901999</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1440136000</GUID>
+          <Name>intermediate moderate 1.0</Name>
+          <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionUnlocked</Template>
+            <Values>
+              <Condition />
+              <ConditionUnlocked>
+                <UnlockNeeded>1060</UnlockNeeded>
+              </ConditionUnlocked>
+              <ConditionPropsNegatable />
             </Values>
           </TriggerCondition>
           <TriggerActions>
