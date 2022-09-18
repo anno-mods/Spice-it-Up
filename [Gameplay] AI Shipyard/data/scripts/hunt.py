@@ -1,1 +1,0 @@
-ai_spawner.trigger(930210)
