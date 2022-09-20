@@ -7979,6 +7979,75 @@
 				<TriggerSetup/>
 			</Values>
 		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440136010</GUID>
+					<Name>Trigger Unhide</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionAlwaysTrue</Template>
+						<Values>
+							<Condition/>
+							<ConditionAlwaysTrue />
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action/>
+									<ActionUnlockAsset>
+										<UnhideAssets>
+											<Item>
+												<Asset>930001</Asset>
+											</Item>
+											<Item>
+												<Asset>930002</Asset>
+											</Item>
+											<Item>
+												<Asset>930003</Asset>
+											</Item>
+											<Item>
+												<Asset>930004</Asset>
+											</Item>
+											<Item>
+												<Asset>930005</Asset>
+											</Item>
+											<Item>
+												<Asset>930006</Asset>
+											</Item>
+											<Item>
+												<Asset>930007</Asset>
+											</Item>
+											<Item>
+												<Asset>930008</Asset>
+											</Item>
+											<Item>
+												<Asset>930009</Asset>
+											</Item>
+											<Item>
+												<Asset>930010</Asset>
+											</Item>
+											<Item>
+												<Asset>930011</Asset>
+											</Item>
+											<Item>
+												<Asset>930012</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup/>
+			</Values>
+		</Asset>
 	</ModOp>
 	<ModOp GUID="500447" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010489']" Type="addNextSibling">
 		<Item>
