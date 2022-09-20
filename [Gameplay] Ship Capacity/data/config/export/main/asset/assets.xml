@@ -26,7 +26,7 @@
 		<MaxGoodTransferAmount>500</MaxGoodTransferAmount>
 	</ModOp>
 
-	<ModOp Type = "add" Path = "/Asset[Template='AirShip']/Values/ItemContainer">
+	<ModOp Type = "add" Path = "//Asset[Template='AirShip' or Template = 'WarAirShip']/Values/ItemContainer">
 		<StackLimit>100</StackLimit>
 	</ModOp>
 	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/DefaultGoodTransferAmount">
