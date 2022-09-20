@@ -255,7 +255,7 @@
         <BuildingUnique>
           <Uniques>
             <Item>
-              <UniqueType>WorkforceConnector</UniqueType>
+              <UniqueType>AirshipPlatformWorkforceTransferModule</UniqueType>
               <UniqueScope>Area</UniqueScope>
             </Item>
           </Uniques>
@@ -265,16 +265,12 @@
       </Values>
     </Asset>
   </ModOp>
-  <ModOp Type="add" GUID='501065' Path="/Values/ObjectmenuCommuterHarbourScene/WorkforceToRegion">
-    <Colony01>
-      <WorkforceList>
-        <Item>
-          <Workforce>1010366</Workforce>
-        </Item>
-        <Item>
-          <Workforce>1010367</Workforce>
-        </Item>
-      </WorkforceList>
-    </Colony01>
+  <ModOp Type="add" GUID='501065' Path="/Values/ObjectmenuCommuterHarbourScene/BuildingSpecificData">
+    <Item>
+      <Building>901008</Building>
+      <PortraitParticipant>Captain</PortraitParticipant>
+      <PauseText>13160</PauseText>
+      <NoOtherHarborText>13158</NoOtherHarborText>
+    </Item>
   </ModOp>
 </ModOps>

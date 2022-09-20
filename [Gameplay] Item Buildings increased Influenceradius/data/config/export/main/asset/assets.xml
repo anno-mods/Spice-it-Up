@@ -8,9 +8,6 @@
     <ModOp Type="merge" GUID='1010516' Path="/Values/ItemContainer/SocketScopeRadius">
         <SocketScopeRadius>30</SocketScopeRadius>
     </ModOp>
-    <ModOp Type="add" GUID='100415' Path="/Values/ItemContainer">
-        <SocketScopeRadius>30</SocketScopeRadius>
-    </ModOp>
     <!-- Harbor Office -->
     <ModOp Type="add" GUID='100586' Path="/Values/ItemContainer">
         <SocketScopeRadius>30</SocketScopeRadius>
