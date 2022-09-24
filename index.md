@@ -99,7 +99,7 @@ After Installing the Modloader, you need to add your mods into `C:\Program Files
 - Adds a Commuter Pier to the Arctic, unlocked with 1.500 Technicians. They can only be built on normal islands, cliffs cannot be reached. 
 
 **Commuter pier for New World**
-- Adds a Commuter Pier to the New World, unlocked with 1.500 Obrera.
+- Adds a Commuter Pier to the New World, unlocked with 1.500 Obrera. The pier is mutually exclusive with the commuter airship module.
 
 **Commuter Pier for Enbesa**
 - Adds a Commuter Pier to Enbesa, unlocked with 1.500 Elders.
@@ -153,7 +153,7 @@ After Installing the Modloader, you need to add your mods into `C:\Program Files
 - Adds Trade Contracts for Bricks, Steelbeams, Windows, Reinforced Concrete, Polarbear Fur, Sealskin, Paper, Lobster, Illuminated Scripts and Gas
 
 **Nate's Airship**
-- Old Nate will now sell his invention, the airship. You can also build them in the airship Hangar that comes with the arctic region. 
+- Old Nate will now sell his invention, the airship. You can also build them in the airship Hangar that comes with the arctic region, or in the Empire-of-the-Skies Rigid Airship Hangar.
 
 **NPC Dice Improved**
 - The diceroll at the NPC has been updated, you can also reroll legendary Items
