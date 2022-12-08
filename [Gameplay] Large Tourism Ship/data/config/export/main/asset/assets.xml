@@ -2,7 +2,7 @@
 	<!-- Buildmenu Steamshipyard -->
 	<ModOp Type="add" GUID='1010521' Path="/Values/Shipyard/AssemblyOptions">
 		<Item>
-			<Vehicle>101373</Vehicle>
+			<Vehicle>1440137001</Vehicle>
 		</Item>
 	</ModOp>
 	<!-- Modified Great Eastern -->
@@ -11,7 +11,7 @@
 			<Template>TradeShip</Template>
 			<Values>
 				<Standard>
-					<GUID>101373</GUID>
+					<GUID>1440137001</GUID>
 					<Name>Tourism Ship Number 3</Name>
 					<IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_great_eastern.png</IconFilename>
 					<InfoDescription>1089</InfoDescription>
@@ -173,7 +173,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1440133039</GUID>
+					<GUID>1440137002</GUID>
 					<Name>TRIGGER Unlock Great Eastern</Name>
 				</Standard>
 				<Trigger>
@@ -198,9 +198,45 @@
 									<ActionUnlockAsset>
 										<UnlockAssets>
 											<Item>
-												<Asset>101373</Asset>
+												<Asset>1440137001</Asset>
 											</Item>
 										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup />
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440137003</GUID>
+					<Name>TRIGGER Unlock Great Eastern</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionAlwaysTrue</Template>
+						<Values>
+							<Condition/>
+							<ConditionAlwaysTrue />
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnhideAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnhideAssets>
+											<Item>
+												<Asset>1440137001</Asset>
+											</Item>
+										</UnhideAssets>
 									</ActionUnlockAsset>
 								</Values>
 							</TriggerAction>
@@ -215,7 +251,7 @@
 	<!-- Influence Effect Pool -->
 	<ModOp Type="add" GUID='191457' Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
 		<Item>
-			<GUID>101373</GUID>
+			<GUID>1440137001</GUID>
 		</Item>
 	</ModOp>
 </ModOps>

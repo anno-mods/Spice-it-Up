@@ -417,5 +417,22 @@
       <GUID>1440134580</GUID>
       <Text>Pomada</Text>
     </Text>
+    <!-- Artista Update -->
+    <Text>
+      <GUID>1440137000</GUID>
+      <Text>[AssetData(5405) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440137006</GUID>
+      <Text>[AssetData(5840) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440137004</GUID>
+      <Text>[AssetData(6018) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440137008</GUID>
+      <Text>[AssetData(5164) Text]</Text>
+    </Text>
   </ModOp>
 </ModOps>

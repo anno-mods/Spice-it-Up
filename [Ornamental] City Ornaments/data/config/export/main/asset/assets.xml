@@ -876,16 +876,6 @@
         </Asset>
     </ModOp>
 
-    <!-- moderate construction menu culture (category) -->
-    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>977020</Building>
-        </Item>
-        <Item>
-            <Building>977021</Building>
-        </Item>
-    </ModOp>
-
     <ModOp Type="addNextSibling" GUID='102159'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
@@ -1172,8 +1162,6 @@
                 <Mesh />
                 <SoundEmitter />
                 <Locked />
-
-
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
@@ -1184,12 +1172,10 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500069' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>977020</Building>
         </Item>
-    </ModOp>
-    <ModOp Type="add" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>977021</Building>
         </Item>
@@ -1256,8 +1242,7 @@
             </Values>
         </Asset>
     </ModOp>
-
-    <ModOp Type="add" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500079' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>977460</Building>
         </Item>

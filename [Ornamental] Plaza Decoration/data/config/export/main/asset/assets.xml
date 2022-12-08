@@ -455,7 +455,7 @@
     </Item>
   </ModOp>
   <!-- Add Construction Category to the Building Menu-->
-  <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
+  <ModOp Type="add" GUID='500068' Path="/Values/ConstructionCategory/BuildingList">
     <Item>
       <Building>8853621</Building>
     </Item>

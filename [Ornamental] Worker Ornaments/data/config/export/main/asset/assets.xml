@@ -3756,25 +3756,13 @@
         </Asset>
     </ModOp>
     <!-- moderate construction menu 3 (tier) -->
-    <ModOp Type="add" GUID='25000190' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500068' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902230</Building>
         </Item>
     </ModOp>
-    <!-- moderate construction menu culture (category) -->
-    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>902230</Building>
-        </Item>
-    </ModOp>
-    <!-- sa construction menu 1 (tier) -->
-    <ModOp Type="addNextSibling" GUID='25000193' Path="/Values/ConstructionCategory/BuildingList/Item[Building='101274']">
-        <Item>
-            <Building>902231</Building>
-        </Item>
-    </ModOp>
-    <!-- sa construction menu culture (category) -->
-    <ModOp Type="add" GUID='500951' Path="/Values/ConstructionCategory/BuildingList">
+    <!-- sa construction menu -->
+    <ModOp Type="addNextSibling" GUID='500055' Path="/Values/ConstructionCategory/BuildingList/Item[Building='101274']">
         <Item>
             <Building>902231</Building>
         </Item>

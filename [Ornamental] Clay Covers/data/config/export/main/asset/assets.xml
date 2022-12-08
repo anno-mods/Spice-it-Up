@@ -543,12 +543,12 @@
         </Asset>
     </ModOp>
 
-    <ModOp GUID='25000190' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp GUID='500068' Type="add" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133020</Building>
         </Item>
     </ModOp>
-    <ModOp GUID='25000194' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp GUID='500055' Type="add" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133021</Building>
         </Item>

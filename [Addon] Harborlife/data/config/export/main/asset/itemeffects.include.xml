@@ -1,0 +1,578 @@
+<ModOps>
+    <ModOp Type="add" GUID="191508" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8855001</GUID>
+		</Item>
+		<!-- WH Depot OW T1-->
+		<Item>
+			<GUID>8855002</GUID>
+		</Item>
+		<!-- WH Depot OW T2-->
+		<Item>
+			<GUID>8855004</GUID>
+		</Item>
+		<!-- WH Depot OW T3-->
+		<Item>
+			<GUID>8855005</GUID>
+		</Item>
+		<!-- WH Depot SA T1-->
+		<Item>
+			<GUID>8855006</GUID>
+		</Item>
+		<!-- WH Depot SA T2-->
+		<Item>
+			<GUID>8855007</GUID>
+		</Item>
+		<!-- WH Depot SA T3-->
+		<Item>
+			<GUID>8855008</GUID>
+		</Item>
+		<!-- WH OW T1 -->
+		<Item>
+			<GUID>8855009</GUID>
+		</Item>
+		<!-- WH OW T2 -->
+		<Item>
+			<GUID>8855010</GUID>
+		</Item>
+		<!-- WH OW T3 -->
+		<Item>
+			<GUID>8855011</GUID>
+		</Item>
+		<Item>
+			<GUID>1440133082</GUID>
+		</Item>
+		<!-- WH SA T1 -->
+		<Item>
+			<GUID>8855012</GUID>
+		</Item>
+		<!-- WH SA T2 -->
+		<Item>
+			<GUID>8855013</GUID>
+		</Item>
+		<!-- WH SA T3 -->
+		<Item>
+			<GUID>1440133083</GUID>
+		</Item>
+		<!-- Med. Depot OW -->
+		<Item>
+			<GUID>8855015</GUID>
+		</Item>
+		<!-- Med. Depot SA -->
+		<Item>
+			<GUID>8855016</GUID>
+		</Item>
+		<!-- Sm. Depot OW -->
+		<Item>
+			<GUID>8855017</GUID>
+		</Item>
+		<!-- Sm. Depot SA -->
+		<Item>
+			<GUID>8855018</GUID>
+		</Item>
+		<!-- Sm. Storage OW -->
+		<Item>
+			<GUID>8855019</GUID>
+		</Item>
+		<!-- Sm. Storage SA -->
+		<Item>
+			<GUID>901006</GUID>
+		</Item>
+		<!-- Lighthouse OW -->
+		<Item>
+			<GUID>901007</GUID>
+		</Item>
+		<!-- Lighthouse SA -->
+		<Item>
+			<GUID>8855050</GUID>
+		</Item>
+		<!-- Fire Dep. OW -->
+		<Item>
+			<GUID>8855051</GUID>
+		</Item>
+		<!-- Fire Dep. SA -->
+		<Item>
+			<GUID>8855052</GUID>
+		</Item>
+		<!-- Police Dep. OW -->
+		<Item>
+			<GUID>8855053</GUID>
+		</Item>
+		<!-- Police Dep. SA -->
+		<Item>
+			<GUID>8855054</GUID>
+		</Item>
+		<!-- Hospital OW -->
+		<Item>
+			<GUID>8855055</GUID>
+		</Item>
+		<!-- Hospital SA -->
+	</ModOp>
+    
+	<!-- all Buildings with Maintenance -->
+    <ModOp Type="add" GUID="193879" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8855001</GUID>
+		</Item>
+		<!-- WH Depot OW T1-->
+		<Item>
+			<GUID>8855002</GUID>
+		</Item>
+		<!-- WH Depot OW T2-->
+		<Item>
+			<GUID>8855004</GUID>
+		</Item>
+		<!-- WH Depot OW T3-->
+		<Item>
+			<GUID>8855005</GUID>
+		</Item>
+		<!-- WH Depot SA T1-->
+		<Item>
+			<GUID>8855006</GUID>
+		</Item>
+		<!-- WH Depot SA T2-->
+		<Item>
+			<GUID>8855007</GUID>
+		</Item>
+		<!-- WH Depot SA T3-->
+		<Item>
+			<GUID>8855008</GUID>
+		</Item>
+		<!-- WH OW T1 -->
+		<Item>
+			<GUID>8855009</GUID>
+		</Item>
+		<!-- WH OW T2 -->
+		<Item>
+			<GUID>8855010</GUID>
+		</Item>
+		<!-- WH OW T3 -->
+		<Item>
+			<GUID>8855011</GUID>
+		</Item>
+		<Item>
+			<GUID>1440133082</GUID>
+		</Item>
+		<!-- WH SA T1 -->
+		<Item>
+			<GUID>8855012</GUID>
+		</Item>
+		<!-- WH SA T2 -->
+		<Item>
+			<GUID>8855013</GUID>
+		</Item>
+		<!-- WH SA T3 -->
+		<Item>
+			<GUID>1440133083</GUID>
+		</Item>
+		<!-- Med. Depot OW -->
+		<Item>
+			<GUID>8855015</GUID>
+		</Item>
+		<!-- Med. Depot SA -->
+		<Item>
+			<GUID>8855016</GUID>
+		</Item>
+		<!-- Sm. Depot OW -->
+		<Item>
+			<GUID>8855017</GUID>
+		</Item>
+		<!-- Sm. Depot SA -->
+		<Item>
+			<GUID>8855018</GUID>
+		</Item>
+		<!-- Sm. Storage OW -->
+		<Item>
+			<GUID>8855019</GUID>
+		</Item>
+		<!-- Sm. Storage SA -->
+		<Item>
+			<GUID>901006</GUID>
+		</Item>
+		<!-- Lighthouse OW -->
+		<Item>
+			<GUID>901007</GUID>
+		</Item>
+		<!-- Lighthouse SA -->
+		<Item>
+			<GUID>8855050</GUID>
+		</Item>
+		<!-- Fire Dep. OW -->
+		<Item>
+			<GUID>8855051</GUID>
+		</Item>
+		<!-- Fire Dep. SA -->
+		<Item>
+			<GUID>8855052</GUID>
+		</Item>
+		<!-- Police Dep. OW -->
+		<Item>
+			<GUID>8855053</GUID>
+		</Item>
+		<!-- Police Dep. SA -->
+		<Item>
+			<GUID>8855054</GUID>
+		</Item>
+		<!-- Hospital OW -->
+		<Item>
+			<GUID>8855055</GUID>
+		</Item>
+		<!-- Hospital SA -->
+	</ModOp>
+
+    <!-- All Buildings with Maintenance -->
+	<ModOp Type="add" GUID="193879" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856008</GUID>
+		</Item>
+		<!-- Market OW -->
+		<Item>
+			<GUID>8856009</GUID>
+		</Item>
+		<!-- Pub -->
+		<Item>
+			<GUID>8856010</GUID>
+		</Item>
+		<!-- Church -->
+		<Item>
+			<GUID>8856011</GUID>
+		</Item>
+		<!-- School -->
+		<Item>
+			<GUID>8856012</GUID>
+		</Item>
+		<!-- Variete -->
+		<Item>
+			<GUID>8856013</GUID>
+		</Item>
+		<!-- University -->
+		<Item>
+			<GUID>8856014</GUID>
+		</Item>
+		<!-- Bank -->
+		<Item>
+			<GUID>8856015</GUID>
+		</Item>
+		<!-- Club House -->
+		<Item>
+			<GUID>8856016</GUID>
+		</Item>
+		<!-- Power Plant -->
+		<Item>
+			<GUID>8856017</GUID>
+		</Item>
+		<!-- Market SA -->
+		<Item>
+			<GUID>8860018</GUID>
+		</Item>
+		<!-- Chapel -->
+		<Item>
+			<GUID>8860019</GUID>
+		</Item>
+		<!-- Boxing Arena -->
+		<Item>
+			<GUID>8856020</GUID>
+		</Item>
+		<!-- Townhall OW -->
+		<Item>
+			<GUID>8856021</GUID>
+		</Item>
+		<!-- Townhall SA -->
+	</ModOp>
+
+    
+	<!-- RESIDENCES-->
+	<!-- Farmer Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010343']">
+		<Item>
+			<GUID>8856001</GUID>
+		</Item>
+	</ModOp>
+	<!-- Worker Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010344']">
+		<Item>
+			<GUID>8856002</GUID>
+		</Item>
+	</ModOp>
+	<!-- Artisan Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010345']">
+		<Item>
+			<GUID>8856003</GUID>
+		</Item>
+	</ModOp>
+	<!-- Engineer Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010346']">
+		<Item>
+			<GUID>8856004</GUID>
+		</Item>
+	</ModOp>
+	<!-- Investor Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010346']">
+		<Item>
+			<GUID>8856005</GUID>
+		</Item>
+	</ModOp>
+	<!-- Jornalero Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '101254']">
+		<Item>
+			<GUID>8856006</GUID>
+		</Item>
+	</ModOp>
+	<!-- Obrero Residence -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '101255']">
+		<Item>
+			<GUID>8856007</GUID>
+		</Item>
+	</ModOp>
+    <!-- Artista Residences -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '5405']">
+		<Item>
+			<GUID>1440137000</GUID>
+		</Item>
+	</ModOp>
+	<!-- Scholar Residences -->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '114445']">
+		<Item>
+			<GUID>1440133040</GUID>
+		</Item>
+	</ModOp>
+	<!-- Add Skyscraper Levels in every location of their island counterpart-->
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601882']">
+		<Item>
+			<GUID>1440134500</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601883']">
+		<Item>
+			<GUID>1440134501</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601884']">
+		<Item>
+			<GUID>1440134502</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601886']">
+		<Item>
+			<GUID>1440134503</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601891']">
+		<Item>
+			<GUID>1440134504</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601888']">
+		<Item>
+			<GUID>1440134505</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601889']">
+		<Item>
+			<GUID>1440134506</GUID>
+		</Item>
+	</ModOp>
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '601890']">
+		<Item>
+			<GUID>1440134507</GUID>
+		</Item>
+	</ModOp>
+	<!-- all Engineer Buildings -->
+	<ModOp Type="add" GUID="192423" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856016</GUID>
+		</Item>
+		<!-- Power Plant -->
+	</ModOp>
+
+    <!-- all Fire Stations -->
+	<ModOp Type="add" GUID="190775" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8855050</GUID>
+		</Item>
+		<!-- Fire Dep. OW -->
+		<Item>
+			<GUID>8855051</GUID>
+		</Item>
+		<!-- Fire Dep. SA -->
+	</ModOp>
+	<!-- all Police Stations -->
+	<ModOp Type="add" GUID="190776" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8855052</GUID>
+		</Item>
+		<!-- Police Dep. OW -->
+		<Item>
+			<GUID>8855053</GUID>
+		</Item>
+		<!-- Police Dep. SA -->
+	</ModOp>
+	<!-- all Hospitals -->
+	<ModOp Type="add" GUID="190777" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8855054</GUID>
+		</Item>
+		<!-- Hospital OW -->
+		<Item>
+			<GUID>8855055</GUID>
+		</Item>
+		<!-- Hospital SA -->
+	</ModOp>
+
+    <!-- all Public Services -->
+	<ModOp Type="add" GUID="191501" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856008</GUID>
+		</Item>
+		<!-- Market OW -->
+		<Item>
+			<GUID>1010358</GUID>
+		</Item>
+		<!-- Pub Org. -->
+		<Item>
+			<GUID>8856009</GUID>
+		</Item>
+		<!-- Pub -->
+		<Item>
+			<GUID>8856010</GUID>
+		</Item>
+		<!-- Church -->
+		<Item>Or
+			<GUID>8856011</GUID>
+		</Item>
+		<!-- School -->
+		<Item>
+			<GUID>8856012</GUID>
+		</Item>
+		<!-- Variete -->
+		<Item>
+			<GUID>8856013</GUID>
+		</Item>
+		<!-- University -->
+		<Item>
+			<GUID>8856014</GUID>
+		</Item>
+		<!-- Bank -->
+		<Item>
+			<GUID>8856015</GUID>
+		</Item>
+		<!-- Club House -->
+		<Item>
+			<GUID>8856017</GUID>
+		</Item>
+		<!-- Market SA -->
+		<Item>
+			<GUID>8860018</GUID>
+		</Item>
+		<!-- Chapel -->
+		<Item>
+			<GUID>8860019</GUID>
+		</Item>
+		<!-- Boxing Arena -->
+	</ModOp>
+	<!-- all Public Buildings OW -->
+	<ModOp Type="add" GUID="190136" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856008</GUID>
+		</Item>
+		<!-- Market OW -->
+		<Item>
+			<GUID>8856009</GUID>
+		</Item>
+		<!-- Pub -->
+		<Item>
+			<GUID>8856010</GUID>
+		</Item>
+		<!-- Church -->
+		<Item>
+			<GUID>8856011</GUID>
+		</Item>
+		<!-- School -->
+		<Item>
+			<GUID>8856012</GUID>
+		</Item>
+		<!-- Variete -->
+		<Item>
+			<GUID>8856013</GUID>
+		</Item>
+		<!-- University -->
+		<Item>
+			<GUID>8856014</GUID>
+		</Item>
+		<!-- Bank -->
+		<Item>
+			<GUID>8856015</GUID>
+		</Item>
+		<!-- Club House -->
+		<Item>
+			<GUID>8856017</GUID>
+		</Item>
+		<!-- Market SA -->
+		<Item>
+			<GUID>8860018</GUID>
+		</Item>
+		<!-- Chapel -->
+		<Item>
+			<GUID>8860019</GUID>
+		</Item>
+		<!-- Boxing Arena -->
+	</ModOp>
+	<!-- all Townhalls -->
+	<ModOp Type="add" GUID="190781" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856020</GUID>
+		</Item>
+		<!-- Townhall OW -->
+		<Item>
+			<GUID>8856021</GUID>
+		</Item>
+		<!-- Townhall SA -->
+	</ModOp>
+	<!-- all Market Places -->
+	<ModOp Type="add" GUID="191540" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856008</GUID>
+		</Item>
+		<!-- Market OW -->
+		<Item>
+			<GUID>8856017</GUID>
+		</Item>
+		<!-- Market SA -->
+	</ModOp>
+	<!-- all Pubs -->
+	<ModOp Type="add" GUID="190782" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856009</GUID>
+		</Item>
+	</ModOp>
+	<!-- all Churches -->
+	<ModOp Type="add" GUID="190784" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856010</GUID>
+		</Item>
+		<!--Church OW -->
+		<Item>
+			<GUID>8860018</GUID>
+		</Item>
+		<!-- Chapel -->
+	</ModOp>
+	<!-- all Pubs & Boxing Arenas -->
+	<ModOp Type="add" GUID="192418" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856009</GUID>
+		</Item>
+		<!-- Pub OW -->
+		<Item>
+			<GUID>8860019</GUID>
+		</Item>
+		<!-- Boxing Arena -->
+	</ModOp>
+	<!-- all Productions -->
+	<ModOp Type="add" GUID="6000018" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>8856016</GUID>
+		</Item>
+		<!-- Power Plant -->
+	</ModOp>
+	<!-- Factories OW -->
+</ModOps>
