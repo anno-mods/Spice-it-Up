@@ -14,7 +14,8 @@
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
 
 	<!-- Market -->
-	<ModOp Type="addNextSibling" GUID="1010372">		<!-- Building GUID 8856008 -->
+	<ModOp Type="addNextSibling" GUID="1010372">
+		<!-- Building GUID 8856008 -->
 		<Asset>
 			<BaseAssetGUID>1010372</BaseAssetGUID>
 			<Values>
@@ -41,15 +42,15 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Constructable/>
-				<Mesh/>
-				<Text/>
+				<Constructable />
+				<Mesh />
+				<Text />
 				<SoundEmitter />
-				<Locked/>
-				<Infolayer/>
-				<FeedbackController/>
-				<UpgradeList/>
-				<AmbientMoodProvider/>
+				<Locked />
+				<Infolayer />
+				<FeedbackController />
+				<UpgradeList />
+				<AmbientMoodProvider />
 				<Maintenance />
 				<Market />
 				<StorageBase />
@@ -59,16 +60,17 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<LogisticNode/>
+				<LogisticNode />
 				<PublicService />
-				<Culture/>
-				<StreetActivation/>
+				<Culture />
+				<StreetActivation />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Pub -->
-	<ModOp Type="addNextSibling" GUID="1010358">		<!-- Building GUID 8856009 -->
+	</ModOp> <!-- Pub -->
+	<ModOp Type="addNextSibling" GUID="1010358">
+		<!-- Building GUID 8856009 -->
 		<Asset>
 			<BaseAssetGUID>1010358</BaseAssetGUID>
 			<Values>
@@ -94,33 +96,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Church -->
-	<ModOp Type="addNextSibling" GUID="1010359">		<!-- Building GUID 8856010 -->
+	</ModOp> <!-- Church -->
+	<ModOp Type="addNextSibling" GUID="1010359">
+		<!-- Building GUID 8856010 -->
 		<Asset>
 			<BaseAssetGUID>1010359</BaseAssetGUID>
 			<Values>
@@ -138,7 +140,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -146,33 +148,34 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
+				<Mesh />
+				<Selection />
 				<Text />
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
 				<LogisticNode />
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<PublicService />
+				<AmbientMoodProvider />
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- School -->
-	<ModOp Type="addNextSibling" GUID="1010360">		<!-- Building GUID 8856011 -->
+	</ModOp> <!-- School -->
+	<ModOp Type="addNextSibling" GUID="1010360">
+		<!-- Building GUID 8856011 -->
 		<Asset>
 			<BaseAssetGUID>1010360</BaseAssetGUID>
 			<Values>
@@ -190,7 +193,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -198,33 +201,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Variete -->
-	<ModOp Type="addNextSibling" GUID="1010361">		<!-- Building GUID 8856012 -->
+	</ModOp> <!-- Variete -->
+	<ModOp Type="addNextSibling" GUID="1010361">
+		<!-- Building GUID 8856012 -->
 		<Asset>
 			<BaseAssetGUID>1010361</BaseAssetGUID>
 			<Values>
@@ -242,7 +245,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -250,33 +253,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- University -->
-	<ModOp Type="addNextSibling" GUID="1010362">		<!-- Building GUID 8856013 -->
+	</ModOp> <!-- University -->
+	<ModOp Type="addNextSibling" GUID="1010362">
+		<!-- Building GUID 8856013 -->
 		<Asset>
 			<BaseAssetGUID>1010362</BaseAssetGUID>
 			<Values>
@@ -294,7 +297,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -302,33 +305,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Bank -->
-	<ModOp Type="addNextSibling" GUID="1010365">		<!-- Building GUID 8856014 -->
+	</ModOp> <!-- Bank -->
+	<ModOp Type="addNextSibling" GUID="1010365">
+		<!-- Building GUID 8856014 -->
 		<Asset>
 			<BaseAssetGUID>1010365</BaseAssetGUID>
 			<Values>
@@ -346,7 +349,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -354,33 +357,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Club House -->
-	<ModOp Type="addNextSibling" GUID="1010364">		<!-- Building GUID 8856015 -->
+	</ModOp> <!-- Club House -->
+	<ModOp Type="addNextSibling" GUID="1010364">
+		<!-- Building GUID 8856015 -->
 		<Asset>
 			<BaseAssetGUID>1010364</BaseAssetGUID>
 			<Values>
@@ -398,7 +401,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -406,32 +409,31 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Radio Station -->
+	</ModOp> <!-- Radio Station -->
 	<ModOp Type="addNextSibling" GUID="118736">
 		<Asset>
 			<BaseAssetGUID>118736</BaseAssetGUID>
@@ -440,7 +442,7 @@
 					<GUID>1440133043</GUID>
 					<Name>service_moderate_LoL_01_Harbor (Radio Station)</Name>
 					<IconFilename>data/graphics/hc/__icons/icon_radio_station.png</IconFilename>
-					<ID/>
+					<ID />
 				</Standard>
 				<Building>
 					<TerrainType>Water_Including_Coast</TerrainType>
@@ -451,7 +453,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -459,32 +461,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Maintenance/>
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
-				<IncidentInfectable/>
-				<Culture/>
+				<Pausable />
+				<IncidentInfectable />
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Power Plant -->
-	<ModOp Type="addNextSibling" GUID="100780">		<!-- Building GUID 8856016 -->
+	</ModOp> <!-- Power Plant -->
+	<ModOp Type="addNextSibling" GUID="100780">
+		<!-- Building GUID 8856016 -->
 		<Asset>
 			<Template>PowerplantBuilding</Template>
 			<Values>
@@ -540,13 +543,13 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection>
 					<ParticipantMessageArcheType>Resident_tier04_atWork</ParticipantMessageArcheType>
 				</Selection>
 				<Text />
-				<Constructable/>
-				<Locked/>
+				<Constructable />
+				<Locked />
 				<SoundEmitter>
 					<ActiveSounds>
 						<Item>
@@ -566,14 +569,14 @@
 						</Item>
 					</BuildingRepaired>
 				</SoundEmitter>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<LogisticNode>
 					<TransporterCountMax>1</TransporterCountMax>
 					<PathLayers>Street</PathLayers>
 				</LogisticNode>
-				<AmbientMoodProvider/>
+				<AmbientMoodProvider />
 				<Maintenance>
 					<Maintenances>
 						<Item>
@@ -594,7 +597,7 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable>
 					<Infectable>
 						<Fire>
@@ -628,7 +631,7 @@
 					</FactoryInputs>
 					<CycleTime>45</CycleTime>
 				</FactoryBase>
-				<Culture/>
+				<Culture />
 				<PublicService>
 					<FullSatisfactionDistance>30</FullSatisfactionDistance>
 					<NoSatisfactionDistance>30</NoSatisfactionDistance>
@@ -659,29 +662,30 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
 				<Text />
-				<Constructable/>
-				<Locked/>
+				<Constructable />
+				<Locked />
 				<SoundEmitter />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<LogisticNode />
-				<AmbientMoodProvider/>
+				<AmbientMoodProvider />
 				<Maintenance />
 				<Attackable />
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
 				<Powerplant />
 				<FactoryBase />
-				<Culture/>
+				<Culture />
 				<PublicService />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Townhall -->
-	<ModOp Type="addNextSibling" GUID="100415">		<!-- Building GUID 8856020 -->
+	</ModOp> <!-- Townhall -->
+	<ModOp Type="addNextSibling" GUID="100415">
+		<!-- Building GUID 8856020 -->
 		<Asset>
 			<BaseAssetGUID>100415</BaseAssetGUID>
 			<Values>
@@ -699,7 +703,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -707,35 +711,43 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
+				<Mesh />
+				<Selection />
 				<Text />
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<RandomDummySpawner/>
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
 				<ItemContainer>
 					<SocketAllocation>RadiusBuilding;TownHall</SocketAllocation>
 				</ItemContainer>
-				<UpgradeList/>
+				<UpgradeList />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
-				<Mainenance />
-				<IncidentInfluencer/>
+				<Pausable />
+				<Maintenance />
+				<IncidentInfluencer />
 				<Culture>
 					<CultureType>Cyclideon</CultureType>
 				</Culture>
+				<StorageBase />
+				<Warehouse />
+				<LogisticNode />
+				<Distribution />
+				<InfluenceSource>
+					<InfluenceSource>Culture</InfluenceSource>
+				</InfluenceSource>
+				<BuildingUnique />
 			</Values>
 		</Asset>
-	</ModOp>	<!--////////// SOUTH /////////////// -->	<!-- Market -->
-	<ModOp Type="addNextSibling" GUID="101257">		<!-- Building GUID 8856017 -->
+	</ModOp> <!--////////// SOUTH /////////////// --> <!-- Market -->
+	<ModOp Type="addNextSibling" GUID="101257">
+		<!-- Building GUID 8856017 -->
 		<Asset>
 			<Template>Market</Template>
 			<Values>
@@ -753,8 +765,8 @@
 					<GroundDecalInvisible>132529</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
-				<Selection/>
+				<Cost />
+				<Selection />
 				<Object>
 					<Variations>
 						<Item>
@@ -762,16 +774,16 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Constructable/>
-				<Mesh/>
+				<Constructable />
+				<Mesh />
 				<Text />
-				<Mainenance />
-				<Locked/>
-				<Infolayer/>
-				<FeedbackController/>
-				<UpgradeList/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Maintenance />
+				<Locked />
+				<Infolayer />
+				<FeedbackController />
+				<UpgradeList />
+				<AmbientMoodProvider />
+				<Maintenance />
 				<Market>
 					<FullSupplyDistance>35</FullSupplyDistance>
 					<NoSupplyDistance>70</NoSupplyDistance>
@@ -785,16 +797,17 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<LogisticNode/>
-				<PublicService/>
-				<Culture/>
-				<StreetActivation/>
+				<LogisticNode />
+				<PublicService />
+				<Culture />
+				<StreetActivation />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Chapel -->
-	<ModOp Type="addNextSibling" GUID="101258">		<!-- Building GUID 8856018 -->
+	</ModOp> <!-- Chapel -->
+	<ModOp Type="addNextSibling" GUID="101258">
+		<!-- Building GUID 8856018 -->
 		<Asset>
 			<BaseAssetGUID>101258</BaseAssetGUID>
 			<Values>
@@ -812,7 +825,7 @@
 					<GroundDecalInvisible>132529</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -820,33 +833,33 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
+				<Mesh />
+				<Selection />
 				<Text />
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
-	</ModOp>	<!-- Boxing Arena -->
-	<ModOp Type="addNextSibling" GUID="101259">		<!-- Building GUID 8856019 -->
+	</ModOp> <!-- Boxing Arena -->
+	<ModOp Type="addNextSibling" GUID="101259">
+		<!-- Building GUID 8856019 -->
 		<Asset>
 			<BaseAssetGUID>101259</BaseAssetGUID>
 			<Values>
@@ -864,7 +877,7 @@
 					<GroundDecalInvisible>132529</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -872,34 +885,34 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<LogisticNode/>
-				<PublicService/>
-				<AmbientMoodProvider/>
-				<Mainenance />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<SoundEmitter />
+				<LogisticNode />
+				<PublicService />
+				<AmbientMoodProvider />
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfectable />
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 	</ModOp>
 
-	<ModOp GUID = '6018' Type = "addNextSibling">
+	<ModOp GUID='6018' Type="addNextSibling">
 		<Asset>
 			<Template>BuffFactory</Template>
 			<Values>
@@ -949,7 +962,7 @@
 			</Values>
 		</Asset>
 	</ModOp>
-	<ModOp GUID = '5840' Type = "addNextSibling">
+	<ModOp GUID='5840' Type="addNextSibling">
 		<Asset>
 			<BaseAssetGUID>5840</BaseAssetGUID>
 			<Values>
@@ -1000,7 +1013,8 @@
 		</Asset>
 	</ModOp>
 	<!-- Townhall -->
-	<ModOp Type="addNextSibling" GUID="101285">		<!-- Building GUID 8856021 -->
+	<ModOp Type="addNextSibling" GUID="101285">
+		<!-- Building GUID 8856021 -->
 		<Asset>
 			<BaseAssetGUID>101285</BaseAssetGUID>
 			<Values>
@@ -1018,7 +1032,7 @@
 					<GroundDecalInvisible>132529</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -1026,29 +1040,36 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
+				<Mesh />
+				<Selection />
 				<Text />
-				<Constructable/>
-				<Locked/>
-				<Mainenance />
-				<FeedbackController/>
-				<Infolayer/>
-				<RandomDummySpawner/>
+				<Constructable />
+				<Locked />
+				<Maintenance />
+				<FeedbackController />
+				<Infolayer />
 				<ItemContainer />
-				<UpgradeList/>
+				<UpgradeList />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
-				<Mainenance />
-				<IncidentInfluencer/>
+				<Pausable />
+				<Maintenance />
+				<IncidentInfluencer />
 				<Culture>
 					<CultureType>Cyclideon</CultureType>
 				</Culture>
+				<StorageBase />
+				<Warehouse />
+				<LogisticNode />
+				<Distribution />
+				<InfluenceSource>
+					<InfluenceSource>Culture</InfluenceSource>
+				</InfluenceSource>
+				<BuildingUnique />
 			</Values>
 		</Asset>
 	</ModOp>
@@ -1081,16 +1102,15 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<IncidentResolver />
 				<Maintenance />
 				<Attackable>
@@ -1099,12 +1119,12 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfluencer />
-				<DelayedConstruction/>
+				<DelayedConstruction />
 				<AmbientMoodProvider />
-				<Culture/>
-				<QuestObject/>
+				<Culture />
+				<QuestObject />
 				<Upgradable>
 					<NextGUID>0</NextGUID>
 				</Upgradable>
@@ -1139,30 +1159,29 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<IncidentResolver />
-				<Maintenance/>
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfluencer />
-				<DelayedConstruction/>
-				<AmbientMoodProvider/>
-				<Culture/>
-				<QuestObject/>
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
 				<Upgradable>
 					<NextGUID>0</NextGUID>
 				</Upgradable>
@@ -1197,16 +1216,15 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
+				<Text />
+				<Constructable />
+				<Locked />
 				<SoundEmitter />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<IncidentResolver />
 				<Maintenance />
 				<Attackable>
@@ -1215,12 +1233,12 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfluencer />
-				<DelayedConstruction/>
-				<AmbientMoodProvider/>
-				<Culture/>
-				<QuestObject/>
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
 				<Upgradable>
 					<NextGUID>0</NextGUID>
 				</Upgradable>
@@ -1256,17 +1274,16 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
-				<IncidentResolver/>
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
 				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
@@ -1274,12 +1291,12 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfluencer />
 				<DelayedConstruction />
 				<AmbientMoodProvider />
-				<Culture/>
-				<QuestObject/>
+				<Culture />
+				<QuestObject />
 				<Upgradable>
 					<NextGUID>0</NextGUID>
 				</Upgradable>
@@ -1314,30 +1331,29 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<IncidentResolver />
-				<Maintenance/>
+				<Maintenance />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfluencer />
-				<DelayedConstruction/>
+				<DelayedConstruction />
 				<AmbientMoodProvider />
-				<Culture/>
-				<QuestObject/>
+				<Culture />
+				<QuestObject />
 				<Upgradable>
 					<NextGUID>0</NextGUID>
 				</Upgradable>
@@ -1373,16 +1389,15 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
+				<Mesh />
 				<Selection />
-				<Text/>
-				<Constructable/>
-				<Locked/>
+				<Text />
+				<Constructable />
+				<Locked />
 				<SoundEmitter />
-				<FeedbackController/>
-				<Infolayer/>
-				<UpgradeList/>
-				<RandomDummySpawner/>
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
 				<IncidentResolver />
 				<Maintenance />
 				<Attackable>
@@ -1391,12 +1406,12 @@
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<Pausable/>
+				<Pausable />
 				<IncidentInfluencer />
-				<DelayedConstruction/>
+				<DelayedConstruction />
 				<AmbientMoodProvider />
-				<Culture/>
-				<QuestObject/>
+				<Culture />
+				<QuestObject />
 			</Values>
 		</Asset>
 	</ModOp>
@@ -1418,35 +1433,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134541</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1464,35 +1479,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134541</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1510,35 +1525,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134541</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1556,35 +1571,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134541</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1602,35 +1617,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134541</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1648,35 +1663,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134541</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1694,35 +1709,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134561</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1740,35 +1755,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134561</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1786,35 +1801,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134561</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1832,35 +1847,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134561</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1878,35 +1893,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134561</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1924,35 +1939,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134561</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -1970,35 +1985,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134581</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2016,35 +2031,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134581</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2062,35 +2077,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134581</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2108,35 +2123,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134581</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2154,35 +2169,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134581</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2200,35 +2215,35 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Object/>
-				<Cost/>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FactoryBase/>
-				<LogisticNode/>
-				<Maintenance/>
-				<Industrializable/>
-				<Electrifiable/>
-				<AmbientMoodProvider/>
+				<Object />
+				<Cost />
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FactoryBase />
+				<LogisticNode />
+				<Maintenance />
+				<Industrializable />
+				<Electrifiable />
+				<AmbientMoodProvider />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
 					<DefenseByAIFactor>0</DefenseByAIFactor>
 					<MoralePower>0</MoralePower>
 				</Attackable>
-				<UpgradeList/>
-				<Pausable/>
-				<FeedbackController/>
-				<Infolayer/>
-				<BuffFactory/>
+				<UpgradeList />
+				<Pausable />
+				<FeedbackController />
+				<Infolayer />
+				<BuffFactory />
 				<RecipeBuilding>
 					<RecipeList>1440134581</RecipeList>
 				</RecipeBuilding>
-				<Culture/>
+				<Culture />
 			</Values>
 		</Asset>
 	</ModOp>
@@ -2241,11 +2256,11 @@
 					<GUID>1440134536</GUID>
 					<Name>Recipe_Toaster</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134531</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2255,11 +2270,11 @@
 					<GUID>1440134537</GUID>
 					<Name>Recipe_TableWare</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134532</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2269,11 +2284,11 @@
 					<GUID>1440134538</GUID>
 					<Name>Recipe_VacuumCleaner</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134533</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2283,11 +2298,11 @@
 					<GUID>1440134539</GUID>
 					<Name>Recipe_Fridge</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134534</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2297,11 +2312,11 @@
 					<GUID>1440134540</GUID>
 					<Name>Recipe_Bags</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134535</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2340,11 +2355,11 @@
 					<GUID>1440134556</GUID>
 					<Name>Recipe_BankersLamp</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134551</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2354,11 +2369,11 @@
 					<GUID>1440134557</GUID>
 					<Name>Recipe_Paravent</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134552</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2368,11 +2383,11 @@
 					<GUID>1440134558</GUID>
 					<Name>Recipe_Desk</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134553</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2382,11 +2397,11 @@
 					<GUID>1440134559</GUID>
 					<Name>Recipe_Bed</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134554</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2396,11 +2411,11 @@
 					<GUID>1440134560</GUID>
 					<Name>Recipe_Chair</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134555</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2439,11 +2454,11 @@
 					<GUID>1440134576</GUID>
 					<Name>Recipe_Toothpaste</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134571</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2453,11 +2468,11 @@
 					<GUID>1440134577</GUID>
 					<Name>Recipe_Cleaner</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134572</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2467,11 +2482,11 @@
 					<GUID>1440134578</GUID>
 					<Name>Recipe_Lipstick</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134573</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2481,11 +2496,11 @@
 					<GUID>1440134579</GUID>
 					<Name>Recipe_FaceCream</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134574</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2495,11 +2510,11 @@
 					<GUID>1440134580</GUID>
 					<Name>Recipe_Pomade</Name>
 				</Standard>
-				<Text/>
+				<Text />
 				<Recipe>
 					<RecipeBuilding>1440134575</RecipeBuilding>
 				</Recipe>
-				<Locked/>
+				<Locked />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2550,7 +2565,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -2561,20 +2576,20 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<AmbientMoodProvider/>
-				<BusStop/>
-				<Pausable/>
-				<Culture/>
-				<Maintenance/>
-				<Nameable/>
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<AmbientMoodProvider />
+				<BusStop />
+				<Pausable />
+				<Culture />
+				<Maintenance />
+				<Nameable />
 			</Values>
 		</Asset>
 		<Asset>
@@ -2593,7 +2608,7 @@
 					<GroundDecalInvisible>601493</GroundDecalInvisible>
 					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
 				</Blocking>
-				<Cost/>
+				<Cost />
 				<Object>
 					<Variations>
 						<Item>
@@ -2604,15 +2619,15 @@
 						</Item>
 					</Variations>
 				</Object>
-				<Mesh/>
-				<Selection/>
-				<Text/>
-				<Constructable/>
-				<Locked/>
-				<SoundEmitter/>
-				<FeedbackController/>
-				<Infolayer/>
-				<AmbientMoodProvider/>
+				<Mesh />
+				<Selection />
+				<Text />
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<AmbientMoodProvider />
 				<BusStop>
 					<ShowNeeds>
 						<Item>
@@ -2644,10 +2659,10 @@
 						</Item>
 					</ShowNeeds>
 				</BusStop>
-				<Pausable/>
-				<Culture/>
-				<Maintenance/>
-				<Nameable/>
+				<Pausable />
+				<Culture />
+				<Maintenance />
+				<Nameable />
 			</Values>
 		</Asset>
 	</ModOp>
