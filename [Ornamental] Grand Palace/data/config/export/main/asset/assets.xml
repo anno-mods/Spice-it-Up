@@ -63,30 +63,54 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" GUID='269667' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="addNextSibling" GUID='7431'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440137020</GUID>
+                    <Name>palace and local department ORNAMENTAL</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_palace.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>99334134</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334135</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334136</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334137</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334138</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334139</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334140</Building>
+                        </Item>
+                        <Item>
+                            <Building>99334142</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <TextOverride>7431</TextOverride>
+                </Text>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building='7431']">
         <Item>
-            <Building>99334134</Building>
-        </Item>
-        <Item>
-            <Building>99334135</Building>
-        </Item>
-        <Item>
-            <Building>99334136</Building>
-        </Item>
-        <Item>
-            <Building>99334137</Building>
-        </Item>
-        <Item>
-            <Building>99334138</Building>
-        </Item>
-        <Item>
-            <Building>99334139</Building>
-        </Item>
-        <Item>
-            <Building>99334140</Building>
-        </Item>
-        <Item>
-            <Building>99334142</Building>
+            <Building>1440137020</Building>
         </Item>
     </ModOp>
     <ModOp Type="addNextSibling" GUID='102159'>
@@ -189,16 +213,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>5000</Amount>
-                            <InactiveAmount>2500</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -321,16 +335,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>250</Amount>
-                            <InactiveAmount>125</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -444,16 +448,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>250</Amount>
-                            <InactiveAmount>125</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -567,16 +561,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>250</Amount>
-                            <InactiveAmount>125</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -690,16 +674,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>250</Amount>
-                            <InactiveAmount>125</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -815,16 +789,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>250</Amount>
-                            <InactiveAmount>125</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -938,16 +902,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>250</Amount>
-                            <InactiveAmount>125</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
         <Asset>
@@ -1070,16 +1024,6 @@
                 </AmbientMoodProvider>
                 <Pausable />
                 <Infolayer />
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>1000</Amount>
-                            <InactiveAmount>500</InactiveAmount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
             </Values>
         </Asset>
     </ModOp>
