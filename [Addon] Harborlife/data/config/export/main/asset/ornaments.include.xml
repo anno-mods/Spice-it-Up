@@ -72,7 +72,6 @@
 					<OrnamentDescritpion>8855903</OrnamentDescritpion>
 				</Ornament>
 				<AmbientMoodProvider/>
-				<Pausable/>
 				<Infolayer/>
 			</Values>
 		</Asset>
@@ -182,7 +181,6 @@
 					<OrnamentDescritpion>8855904</OrnamentDescritpion>
 				</Ornament>
 				<AmbientMoodProvider/>
-				<Pausable/>
 				<Infolayer/>
 			</Values>
 		</Asset>
@@ -200,6 +198,9 @@
 				<Building>
 					<AssociatedRegions>Colony01</AssociatedRegions>
 				</Building>
+				<Text>
+					<TextOverride>8855907</TextOverride>
+				</Text>
 			</Values>
 		</Asset>
 		<Asset>
@@ -216,6 +217,9 @@
 				<Building>
 					<AssociatedRegions>Colony01</AssociatedRegions>
 				</Building>
+				<Text>
+					<TextOverride>8855906</TextOverride>
+				</Text>
 			</Values>
 		</Asset>
 	</ModOp>
@@ -344,7 +348,6 @@
 				</SoundEmitter>
 				<FeedbackController/>
 				<Locked/>
-				<Pausable/>
 				<Infolayer/>
 			</Values>
 		</Asset>
@@ -472,7 +475,6 @@
 				</SoundEmitter>
 				<FeedbackController/>
 				<Locked/>
-				<Pausable/>
 				<Infolayer/>
 			</Values>
 		</Asset>

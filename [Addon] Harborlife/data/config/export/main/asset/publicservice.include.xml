@@ -639,7 +639,7 @@
 			</Values>
 		</Asset>
 		<Asset>
-			<Template>PowerplantBuilding</Template>
+			<BaseAssetGUID>8856016</BaseAssetGUID>
 			<Values>
 				<Standard>
 					<GUID>1440137008</GUID>
@@ -663,17 +663,36 @@
 					</Variations>
 				</Object>
 				<Mesh />
-				<Selection />
+				<Selection>
+				  <StaticHelpEntryPoint>NewWorldRising_Electricity</StaticHelpEntryPoint>
+				  <ParticipantMessageArcheType>SA_Resident_tier02_atWork</ParticipantMessageArcheType>
+				</Selection>
 				<Text />
 				<Constructable />
-				<Locked />
+				<Locked>
+					<DLCDependency>24963</DLCDependency>
+				</Locked>
 				<SoundEmitter />
 				<FeedbackController />
 				<Infolayer />
 				<UpgradeList />
 				<LogisticNode />
 				<AmbientMoodProvider />
-				<Maintenance />
+				<Maintenance>
+					<Maintenances>
+					  <Item>
+						<VectorElement>
+							<InheritedIndex>0</InheritedIndex>
+						</VectorElement>
+					  </Item>
+					  <Item>
+						<VectorElement>
+							<InheritedIndex>1</InheritedIndex>
+						</VectorElement>
+						<Product>1010367</Product>
+					  </Item>
+					</Maintenances>
+				  </Maintenance>
 				<Attackable />
 				<Pausable />
 				<IncidentInfectable />
@@ -749,7 +768,7 @@
 	<ModOp Type="addNextSibling" GUID="101257">
 		<!-- Building GUID 8856017 -->
 		<Asset>
-			<Template>Market</Template>
+			<BaseAssetGUID>101257</BaseAssetGUID>
 			<Values>
 				<Standard>
 					<GUID>8856017</GUID>
@@ -784,13 +803,8 @@
 				<UpgradeList />
 				<AmbientMoodProvider />
 				<Maintenance />
-				<Market>
-					<FullSupplyDistance>35</FullSupplyDistance>
-					<NoSupplyDistance>70</NoSupplyDistance>
-				</Market>
-				<StorageBase>
-					<ProductStorageList>120058</ProductStorageList>
-				</StorageBase>
+				<Market />
+				<StorageBase />
 				<Attackable>
 					<AttackableType>HarbourBuilding</AttackableType>
 					<MaximumHitPoints>600</MaximumHitPoints>
@@ -914,7 +928,7 @@
 
 	<ModOp GUID='6018' Type="addNextSibling">
 		<Asset>
-			<Template>BuffFactory</Template>
+			<BaseAssetGUID>6018</BaseAssetGUID>
 			<Values>
 				<Standard>
 					<GUID>1440137004</GUID>
@@ -1001,7 +1015,7 @@
 				<Object>
 					<Variations>
 						<Item>
-							<Filename>data/dlc12/graphics/harborlife/public/movie_theater/movie_theater.cfg</Filename>
+							<Filename>data/dlc12/graphics/harborlife/public/dance_school/dance_school.cfg</Filename>
 						</Item>
 					</Variations>
 				</Object>
@@ -1412,6 +1426,9 @@
 				<AmbientMoodProvider />
 				<Culture />
 				<QuestObject />
+				<Upgradable>
+					<NextGUID>0</NextGUID>
+				</Upgradable>
 			</Values>
 		</Asset>
 	</ModOp>

@@ -336,30 +336,4 @@
       <zf>2.25</zf>
     </Position>
   </FeedbackBlocker>
-  <UnevenBlocker>
-    <Position>
-      <xf>-1</xf>
-      <zf>-2.25</zf>
-    </Position>
-    <Position>
-      <xf>-2.25</xf>
-      <zf>-1.75</zf>
-    </Position>
-    <Position>
-      <xf>-2.25</xf>
-      <zf>1.5</zf>
-    </Position>
-    <Position>
-      <xf>-1</xf>
-      <zf>2.25</zf>
-    </Position>
-    <Position>
-      <xf>2.25</xf>
-      <zf>2.25</zf>
-    </Position>
-    <Position>
-      <xf>2.25</xf>
-      <zf>-2.25</zf>
-    </Position>
-  </UnevenBlocker>
 </Info>
