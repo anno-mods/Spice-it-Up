@@ -619,13 +619,13 @@
     </ModOp>
 
     <!-- moderate ornaments menu -->
-    <ModOp Type="add" GUID='500059' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500069' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133026</Building>
         </Item>
     </ModOp>
     <!-- sa construction menu culture (category) -->
-    <ModOp Type="add" GUID='500058' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500079' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133027</Building>
         </Item>
