@@ -1,5 +1,5 @@
 <ModOps>
-    <ModOp Type="replace" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig/GuildHouse">
+    <ModOp Type="replace" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig">
         <InfluenceConfig>
             <Propaganda>
                 <InfluenceCosts>1</InfluenceCosts>
