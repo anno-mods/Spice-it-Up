@@ -9760,32 +9760,22 @@
         </Asset>
     </ModOp>
     <!-- New Construction Category North -->
-    <!-- moderate construction menu 1 (tier) -->
-    <ModOp Type="addNextSibling" Path="//ConstructionCategory/BuildingList/Item[Building='501412']">
+    <ModOp Type="add" GUID = '500069,500067' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902099</Building>
         </Item>
-    </ModOp>
-    <!-- moderate construction menu 2 (tier) -->
-    <ModOp Type="addNextSibling" Path="//ConstructionCategory/BuildingList/Item[Building='501482']">
         <Item>
             <Building>902100</Building>
         </Item>
-    </ModOp>    
-    <!-- moderate construction menu 4 (tier) -->
-    <ModOp Type="addNextSibling" Path="//ConstructionCategory/BuildingList/Item[Building='501484']">
         <Item>
             <Building>902101</Building>
         </Item>
     </ModOp>
     <!-- sa construction menu 1 (tier) -->
-    <ModOp Type="addNextSibling" Path="//ConstructionCategory/BuildingList/Item[Building='501577']">
+    <ModOp Type="add" GUID = '500079,500053' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902102</Building>
         </Item>
-    </ModOp>
-    <!-- sa construction menu 1 (tier) -->
-    <ModOp Type="addNextSibling" Path="//ConstructionCategory/BuildingList/Item[Building='501577']">
         <Item>
             <Building>902103</Building>
         </Item>

@@ -430,6 +430,9 @@
             </Item>
           </BuildingList>
         </ConstructionCategory>
+        <Text>
+          <TextOverride>17703</TextOverride>
+        </Text>
       </Values>
     </Asset>
   </ModOp>
