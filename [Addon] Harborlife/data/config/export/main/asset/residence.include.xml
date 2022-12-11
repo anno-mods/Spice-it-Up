@@ -84,7 +84,9 @@
                 <Culture/>
                 <StreetActivation/>
                 <InfluenceSource/>
-                <FloorStackOwner/>
+                <FloorStackOwner>
+  <UpgradeTargetGUID>0</UpgradeTargetGUID>
+</FloorStackOwner>
                 <Maintenance />
                 <Audio />
             </Values>
@@ -170,7 +172,9 @@
                 <Culture/>
                 <StreetActivation/>
                 <InfluenceSource/>
-                <FloorStackOwner/>
+                <FloorStackOwner>
+  <UpgradeTargetGUID>0</UpgradeTargetGUID>
+</FloorStackOwner>
                 <Maintenance />
                 <Audio />
             </Values>
@@ -254,7 +258,9 @@
                 <Culture/>
                 <StreetActivation/>
                 <InfluenceSource/>
-                <FloorStackOwner/>
+                <FloorStackOwner>
+  <UpgradeTargetGUID>0</UpgradeTargetGUID>
+</FloorStackOwner>
                 <Maintenance />
                 <Audio />
             </Values>
