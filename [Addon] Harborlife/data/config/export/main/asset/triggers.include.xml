@@ -2541,8 +2541,8 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1440137005</GUID>
-					<Name>Trigger Unlock Cinema</Name>
+					<GUID>1440137022</GUID>
+					<Name>Trigger Unlock Artista House</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
 				</Standard>
 				<Trigger>
@@ -2551,7 +2551,7 @@
 						<Values>
 							<Condition/>
 							<ConditionUnlocked>
-								<UnlockNeeded>6018</UnlockNeeded>
+								<UnlockNeeded>5405</UnlockNeeded>
 							</ConditionUnlocked>
 							<ConditionPropsNegatable/>
 						</Values>
@@ -2565,7 +2565,7 @@
 									<ActionUnlockAsset>
 										<UnlockAssets>
 											<Item>
-												<Asset>1440137004</Asset>
+												<Asset>1440137000</Asset>
 											</Item>
 										</UnlockAssets>
 										<UnhideAssets/>
@@ -2624,7 +2624,7 @@
 			<Values>
 				<Standard>
 					<GUID>1440137009</GUID>
-					<Name>Trigger Unlock Samba School</Name>
+					<Name>Trigger Unlock powerplant</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
 				</Standard>
 				<Trigger>
@@ -2648,6 +2648,62 @@
 										<UnlockAssets>
 											<Item>
 												<Asset>1440137008</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets/>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup/>
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440137031</GUID>
+					<Name>Trigger Unlock Advanced Harbor Institutions</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionUnlocked</Template>
+						<Values>
+							<Condition/>
+							<ConditionUnlocked>
+								<UnlockNeeded>7337</UnlockNeeded>
+							</ConditionUnlocked>
+							<ConditionPropsNegatable/>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action/>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1440137025</Asset>
+											</Item>
+											<Item>
+												<Asset>1440137026</Asset>
+											</Item>
+											<Item>
+												<Asset>1440137027</Asset>
+											</Item>
+											<Item>
+												<Asset>1440137028</Asset>
+											</Item>
+											<Item>
+												<Asset>1440137029</Asset>
+											</Item>
+											<Item>
+												<Asset>1440137030</Asset>
 											</Item>
 										</UnlockAssets>
 										<UnhideAssets/>

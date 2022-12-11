@@ -664,8 +664,8 @@
 				</Object>
 				<Mesh />
 				<Selection>
-				  <StaticHelpEntryPoint>NewWorldRising_Electricity</StaticHelpEntryPoint>
-				  <ParticipantMessageArcheType>SA_Resident_tier02_atWork</ParticipantMessageArcheType>
+					<StaticHelpEntryPoint>NewWorldRising_Electricity</StaticHelpEntryPoint>
+					<ParticipantMessageArcheType>SA_Resident_tier02_atWork</ParticipantMessageArcheType>
 				</Selection>
 				<Text />
 				<Constructable />
@@ -680,19 +680,19 @@
 				<AmbientMoodProvider />
 				<Maintenance>
 					<Maintenances>
-					  <Item>
-						<VectorElement>
-							<InheritedIndex>0</InheritedIndex>
-						</VectorElement>
-					  </Item>
-					  <Item>
-						<VectorElement>
-							<InheritedIndex>1</InheritedIndex>
-						</VectorElement>
-						<Product>1010367</Product>
-					  </Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>0</InheritedIndex>
+							</VectorElement>
+						</Item>
+						<Item>
+							<VectorElement>
+								<InheritedIndex>1</InheritedIndex>
+							</VectorElement>
+							<Product>1010367</Product>
+						</Item>
 					</Maintenances>
-				  </Maintenance>
+				</Maintenance>
 				<Attackable />
 				<Pausable />
 				<IncidentInfectable />
@@ -1140,7 +1140,7 @@
 				<Culture />
 				<QuestObject />
 				<Upgradable>
-					<NextGUID>0</NextGUID>
+					<NextGUID>1440137026</NextGUID>
 				</Upgradable>
 			</Values>
 		</Asset>
@@ -1197,7 +1197,7 @@
 				<Culture />
 				<QuestObject />
 				<Upgradable>
-					<NextGUID>0</NextGUID>
+					<NextGUID>1440137025</NextGUID>
 				</Upgradable>
 			</Values>
 		</Asset>
@@ -1254,7 +1254,7 @@
 				<Culture />
 				<QuestObject />
 				<Upgradable>
-					<NextGUID>0</NextGUID>
+					<NextGUID>1440137027</NextGUID>
 				</Upgradable>
 			</Values>
 		</Asset>
@@ -1312,7 +1312,7 @@
 				<Culture />
 				<QuestObject />
 				<Upgradable>
-					<NextGUID>0</NextGUID>
+					<NextGUID>1440137029</NextGUID>
 				</Upgradable>
 			</Values>
 		</Asset>
@@ -1369,7 +1369,7 @@
 				<Culture />
 				<QuestObject />
 				<Upgradable>
-					<NextGUID>0</NextGUID>
+					<NextGUID>1440137028</NextGUID>
 				</Upgradable>
 			</Values>
 		</Asset>
@@ -1427,7 +1427,7 @@
 				<Culture />
 				<QuestObject />
 				<Upgradable>
-					<NextGUID>0</NextGUID>
+					<NextGUID>1440137030</NextGUID>
 				</Upgradable>
 			</Values>
 		</Asset>
@@ -2680,6 +2680,345 @@
 				<Culture />
 				<Maintenance />
 				<Nameable />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Advanced City Institutions Harbor -->
+	<ModOp Type="addNextSibling" GUID='6353'>
+		<Asset>
+			<BaseAssetGUID>6353</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137025</GUID>
+					<Name>institution_moderate_01 Advanced (Police, Harbor)</Name>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc12/graphics/harborlife/public/institution_advanced_01/institution_advanced_01.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Mesh />
+				<Selection />
+				<Text>
+					<TextOverride>6353</TextOverride>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
+				<Maintenance />
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>1500</MaximumHitPoints>
+				</Attackable>
+				<Pausable />
+				<IncidentInfluencer />
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
+				<Upgradable />
+				<FactoryBase />
+				<Factory7 />
+				<LogisticNode />
+				<BuffFactory />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='6354'>
+		<Asset>
+			<BaseAssetGUID>6354</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137026</GUID>
+					<Name>institution_moderate_02 Advanced (Fire Department, Harbor)</Name>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc12/graphics/harborlife/public/institution_advanced_02/institution_advanced_02.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Mesh />
+				<Selection />
+				<Text>
+					<TextOverride>6354</TextOverride>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
+				<Maintenance />
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>1500</MaximumHitPoints>
+				</Attackable>
+				<Pausable />
+				<IncidentInfluencer />
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
+				<Upgradable />
+				<FactoryBase />
+				<Factory7 />
+				<LogisticNode />
+				<BuffFactory />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='6355'>
+		<Asset>
+			<BaseAssetGUID>6355</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137027</GUID>
+					<Name>institution_moderate_03 Advanced (Hospital, Harbor)</Name>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc12/graphics/harborlife/public/institution_advanced_03/institution_advanced_03.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Mesh />
+				<Selection />
+				<Text>
+					<TextOverride>6355</TextOverride>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
+				<Maintenance />
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>1500</MaximumHitPoints>
+				</Attackable>
+				<Pausable />
+				<IncidentInfluencer />
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
+				<Upgradable />
+				<FactoryBase />
+				<Factory7 />
+				<LogisticNode />
+				<BuffFactory />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<ModOp Type="addNextSibling" GUID='6258'>
+		<Asset>
+			<BaseAssetGUID>6258</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137028</GUID>
+					<Name>institution_colony01_01 Advanced (Police, Harbor)</Name>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc12/graphics/harborlife/public/institution_advanced_colony01_01/institution_advanced_colony01_01.cfg</Filename>
+						  </Item>
+					</Variations>
+				</Object>
+				<Mesh />
+				<Selection />
+				<Text>
+					<TextOverride>6258</TextOverride>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
+				<Maintenance />
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>1500</MaximumHitPoints>
+				</Attackable>
+				<Pausable />
+				<IncidentInfluencer />
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
+				<Upgradable />
+				<FactoryBase />
+				<Factory7 />
+				<LogisticNode />
+				<BuffFactory />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='6259'>
+		<Asset>
+			<BaseAssetGUID>6259</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137029</GUID>
+					<Name>institution_colony01_02 Advanced (Fire Department, Harbor)</Name>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc12/graphics/harborlife/public/institution_advanced_colony01_02/institution_advanced_colony01_02.cfg</Filename>
+						  </Item>
+					</Variations>
+				</Object>
+				<Mesh />
+				<Selection />
+				<Text>
+					<TextOverride>6259</TextOverride>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
+				<Maintenance />
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>1500</MaximumHitPoints>
+				</Attackable>
+				<Pausable />
+				<IncidentInfluencer />
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
+				<Upgradable />
+				<FactoryBase />
+				<Factory7 />
+				<LogisticNode />
+				<BuffFactory />
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="addNextSibling" GUID='6260'>
+		<Asset>
+			<BaseAssetGUID>6260</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137030</GUID>
+					<Name>institution_colony01_03 Advanced (Hospital, Harbor)</Name>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc12/graphics/harborlife/public/institution_advanced_colony01_03/institution_advanced_colony01_03.cfg</Filename>
+						  </Item>
+					</Variations>
+				</Object>
+				<Mesh />
+				<Selection />
+				<Text>
+					<TextOverride>6260</TextOverride>
+				</Text>
+				<Constructable />
+				<Locked />
+				<SoundEmitter />
+				<FeedbackController />
+				<Infolayer />
+				<UpgradeList />
+				<IncidentResolver />
+				<Maintenance />
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>1500</MaximumHitPoints>
+				</Attackable>
+				<Pausable />
+				<IncidentInfluencer />
+				<DelayedConstruction />
+				<AmbientMoodProvider />
+				<Culture />
+				<QuestObject />
+				<Upgradable />
+				<FactoryBase />
+				<Factory7 />
+				<LogisticNode />
+				<BuffFactory />
 			</Values>
 		</Asset>
 	</ModOp>
