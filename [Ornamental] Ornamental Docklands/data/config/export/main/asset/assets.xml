@@ -156,7 +156,8 @@
                         <Item>
                             <Building>1440134037</Building>
                         </Item>
-                    </BuildingList>
+                    </BuildingList>                    
+                    <CategoryDescription>19564</CategoryDescription>
                 </ConstructionCategory>
                 <Text>
                     <TextOverride>7291</TextOverride>
