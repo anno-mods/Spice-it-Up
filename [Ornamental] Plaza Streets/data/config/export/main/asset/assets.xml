@@ -1,5 +1,40 @@
 <ModOps>
 
+    <ModOp Type="addNextSibling" GUID='501579'>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440137034</GUID>
+                    <Name>Obrero City Ornamentals</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/cultural_1x1_01.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>1440134606</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134607</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134608</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <TextOverride>5490</TextOverride>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp GUID = '500069,500068,500055,500079' Type="add" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440137034</Building>
+        </Item>
+    </ModOp>
+
     <!-- Paving -->
     <ModOp GUID='114435' Type="addNextSibling">
         <Asset>
@@ -21,7 +56,9 @@
                     <GroundDecalInvisible>9898765</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Building />
+                <Building>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
                 <Cost />
                 <Selection />
                 <Object />
@@ -38,12 +75,6 @@
                 <BuildingModule />
             </Values>
         </Asset>
-    </ModOp>
-
-    <ModOp GUID='501486' Type="add" Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>1440134606</Building>
-        </Item>
     </ModOp>
 
     <!-- Concrete Paving -->
@@ -67,7 +98,9 @@
                     <GroundDecalInvisible>9898765</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Building />
+                <Building>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
                 <Cost />
                 <Selection />
                 <Object />
@@ -81,18 +114,9 @@
                 <Ornament />
                 <AmbientMoodProvider />
                 <Pausable />
-                <BuildingModule />
             </Values>
         </Asset>
     </ModOp>
-
-    <ModOp GUID='269964' Type="add" Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>1440134607</Building>
-        </Item>
-    </ModOp>
-
-
 
     <!-- Promenade Paving -->
     <ModOp GUID='269303' Type="addNextSibling">
@@ -115,7 +139,9 @@
                     <GroundDecalInvisible>9898765</GroundDecalInvisible>
                     <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
                 </Blocking>
-                <Building />
+                <Building>
+                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                </Building>
                 <Cost />
                 <Selection />
                 <Object />
@@ -129,19 +155,9 @@
                 <Ornament />
                 <AmbientMoodProvider />
                 <Pausable />
-                <BuildingModule />
             </Values>
         </Asset>
     </ModOp>
-
-
-
-    <ModOp GUID='501411' Type="add" Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>1440134608</Building>
-        </Item>
-    </ModOp>
-
 
     <!-- Base Tile -->
     <ModOp Type="addNextSibling" GUID='101058'>

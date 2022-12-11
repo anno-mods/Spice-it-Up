@@ -156,7 +156,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102115']">
+    <ModOp Type="addNextSibling" GUID='102115'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -313,7 +313,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102116']">
+    <ModOp Type="addNextSibling" GUID='102116'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -470,7 +470,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102119']">
+    <ModOp Type="addNextSibling" GUID='102119'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -627,7 +627,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102120']">
+    <ModOp Type="addNextSibling" GUID='102120'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -784,7 +784,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102121']">
+    <ModOp Type="addNextSibling" GUID='102121'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -941,7 +941,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102124']">
+    <ModOp Type="addNextSibling" GUID='102124'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1098,7 +1098,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102125']">
+    <ModOp Type="addNextSibling" GUID='102125'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1256,7 +1256,7 @@
         </Asset>
     </ModOp>
     <!-- Investor Gazeebo Tiles -->
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103052']">
+    <ModOp Type="addNextSibling" GUID='103052'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1350,7 +1350,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103055']">
+    <ModOp Type="addNextSibling" GUID='103055'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1444,7 +1444,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103056']">
+    <ModOp Type="addNextSibling" GUID='103056'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1538,7 +1538,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103057']">
+    <ModOp Type="addNextSibling" GUID='103057'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1632,7 +1632,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103058']">
+    <ModOp Type="addNextSibling" GUID='103058'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1727,7 +1727,7 @@
         </Asset>
     </ModOp>
     <!-- Jornaleros Plaza Tiles -->
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102114']">
+    <ModOp Type="addNextSibling" GUID='102114'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -1883,7 +1883,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102115']">
+    <ModOp Type="addNextSibling" GUID='102115'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2040,7 +2040,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102116']">
+    <ModOp Type="addNextSibling" GUID='102116'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2197,7 +2197,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102119']">
+    <ModOp Type="addNextSibling" GUID='102119'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2354,7 +2354,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102120']">
+    <ModOp Type="addNextSibling" GUID='102120'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2511,7 +2511,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102121']">
+    <ModOp Type="addNextSibling" GUID='102121'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2668,7 +2668,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102124']">
+    <ModOp Type="addNextSibling" GUID='102124'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2825,7 +2825,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='102125']">
+    <ModOp Type="addNextSibling" GUID='102125'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -2983,7 +2983,7 @@
         </Asset>
     </ModOp>
     <!-- Obrero Gazeebo Tiles -->
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103052']">
+    <ModOp Type="addNextSibling" GUID='103052'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -3077,7 +3077,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103055']">
+    <ModOp Type="addNextSibling" GUID='103055'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -3171,7 +3171,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103056']">
+    <ModOp Type="addNextSibling" GUID='103056'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -3265,7 +3265,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103057']">
+    <ModOp Type="addNextSibling" GUID='103057'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -3359,7 +3359,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='103058']">
+    <ModOp Type="addNextSibling" GUID='103058'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
             <Values>
@@ -3454,7 +3454,7 @@
         </Asset>
     </ModOp>
     <!-- Assetpools -->
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130154']">
+    <ModOp Type="addNextSibling" GUID='130154'>
         <Asset>
             <Template>AssetPool</Template>
             <Values>
@@ -3494,7 +3494,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130156']">
+    <ModOp Type="addNextSibling" GUID='130156'>
         <Asset>
             <Template>AssetPool</Template>
             <Values>
@@ -3525,7 +3525,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130154']">
+    <ModOp Type="addNextSibling" GUID='130154'>
         <Asset>
             <Template>AssetPool</Template>
             <Values>
@@ -3565,7 +3565,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='130156']">
+    <ModOp Type="addNextSibling" GUID='130156'>
         <Asset>
             <Template>AssetPool</Template>
             <Values>
@@ -3621,7 +3621,7 @@
         </Item>
     </ModOp>
     <!-- Buildmenus Plaza North -->
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501486']">
+    <ModOp Type="addNextSibling" GUID="501486">
         <Asset>
             <Template>ConstructionCategory</Template>
             <Values>
@@ -3691,7 +3691,7 @@
         </Item>
     </ModOp>
     <!-- Buildmenus Plaza South -->
-    <ModOp Type="add" Path="//Assets[Asset/Values/Standard/GUID='501577']">
+    <ModOp Type="addNextSibling" GUID='501577'>
         <Asset>
             <Template>ConstructionCategory</Template>
             <Values>
@@ -3756,25 +3756,13 @@
         </Asset>
     </ModOp>
     <!-- moderate construction menu 3 (tier) -->
-    <ModOp Type="add" GUID='25000190' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500068,500069' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902230</Building>
         </Item>
     </ModOp>
-    <!-- moderate construction menu culture (category) -->
-    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>902230</Building>
-        </Item>
-    </ModOp>
-    <!-- sa construction menu 1 (tier) -->
-    <ModOp Type="addNextSibling" GUID='25000193' Path="/Values/ConstructionCategory/BuildingList/Item[Building='101274']">
-        <Item>
-            <Building>902231</Building>
-        </Item>
-    </ModOp>
-    <!-- sa construction menu culture (category) -->
-    <ModOp Type="add" GUID='500951' Path="/Values/ConstructionCategory/BuildingList">
+    <!-- sa construction menu -->
+    <ModOp Type="add" GUID='500055,500079' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902231</Building>
         </Item>

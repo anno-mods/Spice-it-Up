@@ -2774,28 +2774,11 @@
         </Asset>
     </ModOp>
 
-    <ModOp Type="remove" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501499']"/>
     <!-- remove og construction menu of world fair monuments -->
-    <ModOp Type="remove" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501488']"/>
-    <ModOp Type="remove" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501695']"/>
-    <ModOp Type="remove" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building ='501694']"/>
-    <!-- moderate construction menu 5 (tier) -->
-    <ModOp Type="addNextSibling" GUID='500447' Path="/Values/ConstructionCategory/BuildingList/Item[Building='500021']">
-        <Item>
-            <Building>976500</Building>
-        </Item>
-        <Item>
-            <Building>976501</Building>
-        </Item>
-        <Item>
-            <Building>976502</Building>
-        </Item>
-        <Item>
-            <Building>976503</Building>
-        </Item>
-    </ModOp>
-    <!-- moderate construction menu culture (category) -->
-    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building ='501488']"/>
+    <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building ='501695']"/>
+    <!-- moderate construction menu ornamental -->
+    <ModOp Type="add" GUID='500068' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>976500</Building>
         </Item>
@@ -2810,14 +2793,8 @@
         </Item>
     </ModOp>
 
-    <!-- sa construction menu 2 (tier) -->
-    <ModOp Type="addNextSibling" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList/Item[Building='501578']">
-        <Item>
-            <Building>902263</Building>
-        </Item>
-    </ModOp>
-    <!-- sa construction menu culture (category) -->
-    <ModOp Type="addNextSibling" GUID='500951' Path="/Values/ConstructionCategory/BuildingList/Item[Building='102284']">
+    <!-- sa construction menu 2 ornamental -->
+    <ModOp Type="add" GUID='500055' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902263</Building>
         </Item>

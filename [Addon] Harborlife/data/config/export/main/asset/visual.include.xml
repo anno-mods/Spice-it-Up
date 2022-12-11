@@ -1,0 +1,110 @@
+<ModOps>
+	<!-- Visual Feedback  -->
+	<ModOp Type="add" GUID="142785" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>8856001</Building>
+		</Item>
+		<Item>
+			<Building>8856002</Building>
+		</Item>
+		<Item>
+			<Building>8856003</Building>
+		</Item>
+		<Item>
+			<Building>8856004</Building>
+		</Item>
+		<Item>
+			<Building>8856005</Building>
+		</Item>
+		<Item>
+			<Building>8856006</Building>
+		</Item>
+		<Item>
+			<Building>8856007</Building>
+		</Item>
+		<Item>
+			<Building>1440134500</Building>
+		</Item>
+		<Item>
+			<Building>1440134501</Building>
+		</Item>
+		<Item>
+			<Building>1440134502</Building>
+		</Item>
+		<Item>
+			<Building>1440134503</Building>
+		</Item>
+		<Item>
+			<Building>1440134504</Building>
+		</Item>
+		<Item>
+			<Building>1440134505</Building>
+		</Item>
+		<Item>
+			<Building>1440134506</Building>
+		</Item>
+		<Item>
+			<Building>1440134507</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="add" GUID="2001013" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>8856001</Building>
+		</Item>
+		<Item>
+			<Building>8856006</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="add" GUID="2001089" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>8856002</Building>
+		</Item>
+		<Item>
+			<Building>8856007</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="add" GUID="2001090" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>8856003</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="add" GUID="2001091" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>8856004</Building>
+		</Item>
+		<Item>
+			<Building>1440134505</Building>
+		</Item>
+		<Item>
+			<Building>1440134506</Building>
+		</Item>
+		<Item>
+			<Building>1440134507</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="add" GUID="2001092" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>8856005</Building>
+		</Item>
+		<Item>
+			<Building>1440134500</Building>
+		</Item>
+		<Item>
+			<Building>1440134501</Building>
+		</Item>
+		<Item>
+			<Building>1440134502</Building>
+		</Item>
+		<Item>
+			<Building>1440134503</Building>
+		</Item>
+		<Item>
+			<Building>1440134504</Building>
+		</Item>
+	</ModOp>
+	<ModOp Type="add" GUID="142933" Path="/Values/FeedbackBuildingGroup/Buildings">
+		<Item>
+			<Building>1440133040</Building>
+		</Item>
+	</ModOp>
+</ModOps>

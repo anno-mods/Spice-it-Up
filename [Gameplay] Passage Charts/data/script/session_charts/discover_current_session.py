@@ -1,1 +1,0 @@
-TextSources.TextSourceRoots.Discovery.ShowAll()

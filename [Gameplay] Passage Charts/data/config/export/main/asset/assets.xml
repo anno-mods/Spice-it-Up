@@ -24,7 +24,7 @@
                                 <Values>
                                     <Action />
                                     <ActionExecuteScript>
-                                        <ScriptFileName>mods/[Gameplay] Passage Charts/data/script/session_charts/discover_current_session.py</ScriptFileName>
+                                        <ScriptFileName>mods/[Gameplay] Passage Charts/data/script/session_charts/discover_current_session.lua</ScriptFileName>
                                     </ActionExecuteScript>
                                 </Values>
                             </TriggerAction>
@@ -60,7 +60,7 @@
                                 <Values>
                                     <Action />
                                     <ActionExecuteScript>
-                                        <ScriptFileName>mods/[Gameplay] Passage Charts/data/script/session_charts/discover_current_session.py</ScriptFileName>
+                                        <ScriptFileName>mods/[Gameplay] Passage Charts/data/script/session_charts/discover_current_session.lua</ScriptFileName>
                                     </ActionExecuteScript>
                                 </Values>
                             </TriggerAction>

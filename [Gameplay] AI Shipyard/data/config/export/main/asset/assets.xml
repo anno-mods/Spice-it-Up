@@ -7192,7 +7192,6 @@
 				<SoundEmitter/>
 				<FeedbackController/>
 				<Infolayer/>
-				<RandomDummySpawner/>
 				<FactoryBase>
 					<FactoryInputs>
 						<Item>
@@ -7250,6 +7249,7 @@
 					<BoostedByIndustrialization>0</BoostedByIndustrialization>
 				</Industrializable>
 				<QuestObject/>
+				<Electrifiable />
 				<BusActivation>
 					<ShowInfolayerOnlyIfRelevant>1</ShowInfolayerOnlyIfRelevant>
 				</BusActivation>
@@ -7308,7 +7308,7 @@
 				</SoundEmitter>
 				<FeedbackController/>
 				<Infolayer/>
-				<RandomDummySpawner/>
+				<Electrifiable />
 				<FactoryBase>
 					<FactoryInputs>
 						<Item>
@@ -7425,7 +7425,7 @@
 				</SoundEmitter>
 				<FeedbackController/>
 				<Infolayer/>
-				<RandomDummySpawner/>
+				<Electrifiable />
 				<FactoryBase>
 					<FactoryInputs>
 						<Item>
@@ -7526,7 +7526,7 @@
 				<SoundEmitter/>
 				<FeedbackController/>
 				<Infolayer/>
-				<RandomDummySpawner/>
+				<Electrifiable />
 				<FactoryBase/>
 				<LogisticNode>
 					<TransporterCountMax>0</TransporterCountMax>

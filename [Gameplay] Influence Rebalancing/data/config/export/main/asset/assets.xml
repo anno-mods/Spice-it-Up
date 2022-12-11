@@ -1,96 +1,178 @@
 <ModOps>
-    <ModOp Type="replace" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig">
+    <ModOp Type="replace" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig/GuildHouse">
         <InfluenceConfig>
-            <GuildHouse>
-                <FreeAmount>3</FreeAmount>
-                <InfluenceCosts>15</InfluenceCosts>
-                <SubCategoryName>12001</SubCategoryName>
-                <SubCategoryInfotip>501675</SubCategoryInfotip>
-            </GuildHouse>
-            <Townhall>
-                <FreeAmount>3</FreeAmount>
-                <InfluenceCosts>15</InfluenceCosts>
-                <SubCategoryName>12002</SubCategoryName>
-                <SubCategoryInfotip>501676</SubCategoryInfotip>
-            </Townhall>
-            <HarborOffice>
-                <FreeAmount>3</FreeAmount>
-                <InfluenceCosts>15</InfluenceCosts>
-                <SubCategoryName>12003</SubCategoryName>
-                <SubCategoryInfotip>501677</SubCategoryInfotip>
-            </HarborOffice>
-            <WarShip>
-                <FreeAmount>45</FreeAmount>
-                <InfluenceCosts>0.5</InfluenceCosts>
-                <SubCategoryName>12812</SubCategoryName>
-                <SubCategoryInfotip>501667</SubCategoryInfotip>
-            </WarShip>
-            <DefenseBuilding>
-                <FreeAmount>40</FreeAmount>
-                <InfluenceCosts>1</InfluenceCosts>
-                <SubCategoryName>12005</SubCategoryName>
-                <SubCategoryInfotip>501668</SubCategoryInfotip>
-            </DefenseBuilding>
-            <TradeShip>
-                <FreeAmount>24</FreeAmount>
-                <InfluenceCosts>0.5</InfluenceCosts>
-                <SubCategoryName>12006</SubCategoryName>
-                <SubCategoryInfotip>501669</SubCategoryInfotip>
-            </TradeShip>
-            <ZooModule>
-                <FreeAmount>20</FreeAmount>
-                <InfluenceCosts>3</InfluenceCosts>
-                <SubCategoryName>12008</SubCategoryName>
-                <SubCategoryInfotip>501673</SubCategoryInfotip>
-            </ZooModule>
-            <MuseumModule>
-                <FreeAmount>20</FreeAmount>
-                <InfluenceCosts>3</InfluenceCosts>
-                <SubCategoryName>12072</SubCategoryName>
-                <SubCategoryInfotip>501674</SubCategoryInfotip>
-            </MuseumModule>
             <Propaganda>
                 <InfluenceCosts>1</InfluenceCosts>
                 <SubCategoryName>12007</SubCategoryName>
             </Propaganda>
-            <Kontor>
-                <FreeAmount>60000</FreeAmount>
-                <InfluenceCosts>0.0005</InfluenceCosts>
-                <SubCategoryName>14797</SubCategoryName>
-                <SubCategoryInfotip>501671</SubCategoryInfotip>
-            </Kontor>
             <WorkforceTransfer>
                 <FreeAmount>2</FreeAmount>
                 <InfluenceCosts>30</InfluenceCosts>
                 <SubCategoryName>14798</SubCategoryName>
                 <SubCategoryInfotip>501672</SubCategoryInfotip>
             </WorkforceTransfer>
-            <CharterRoutes>
-                <FreeAmount>3</FreeAmount>
-                <InfluenceCosts>10</InfluenceCosts>
-                <SubCategoryName>21724</SubCategoryName>
-                <SubCategoryInfotip>501670</SubCategoryInfotip>
-            </CharterRoutes>
             <Shares>
                 <InfluenceCosts>1</InfluenceCosts>
                 <SubCategoryName>21984</SubCategoryName>
                 <SubCategoryInfotip>501690</SubCategoryInfotip>
             </Shares>
+            <ZooModule>
+                <SubCategoryName>12008</SubCategoryName>
+                <SubCategoryInfotip>501673</SubCategoryInfotip>
+            </ZooModule>
+            <MuseumModule>
+                <SubCategoryName>12072</SubCategoryName>
+                <SubCategoryInfotip>501674</SubCategoryInfotip>
+            </MuseumModule>
             <BotanicModule>
-                <FreeAmount>20</FreeAmount>
-                <InfluenceCosts>3</InfluenceCosts>
                 <SubCategoryName>114324</SubCategoryName>
                 <SubCategoryInfotip>114325</SubCategoryInfotip>
             </BotanicModule>
-            <AirShip>
-                <FreeAmount>2</FreeAmount>
-                <InfluenceCosts>10</InfluenceCosts>
-                <SubCategoryName>115182</SubCategoryName>
-                <SubCategoryInfotip>115183</SubCategoryInfotip>
-            </AirShip>
         </InfluenceConfig>
     </ModOp>
-    <ModOp Type = "replace" GUID = '269118,269117' Path = "/Values/InfluenceSourceUpgrade/InfluencePerModuleUpgrade/Value">
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig" ModOpID="ItemBuildings">
+        <GuildHouse>
+            <FreeAmount>3</FreeAmount>
+            <InfluenceCosts>15</InfluenceCosts>
+            <SubCategoryName>12001</SubCategoryName>
+            <SubCategoryInfotip>501675</SubCategoryInfotip>
+        </GuildHouse>
+        <Townhall>
+            <FreeAmount>3</FreeAmount>
+            <InfluenceCosts>15</InfluenceCosts>
+            <SubCategoryName>12001</SubCategoryName>
+            <SubCategoryInfotip>501675</SubCategoryInfotip>
+        </Townhall>
+        <HarborOffice>
+            <FreeAmount>3</FreeAmount>
+            <InfluenceCosts>15</InfluenceCosts>
+            <SubCategoryName>12003</SubCategoryName>
+            <SubCategoryInfotip>501677</SubCategoryInfotip>
+        </HarborOffice>
+    </ModOp>
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig" ModOpID="Ships">
+        <TradeShip>
+            <FreeAmount>24</FreeAmount>
+            <InfluenceCosts>0.5</InfluenceCosts>
+            <SubCategoryName>12006</SubCategoryName>
+            <SubCategoryInfotip>501669</SubCategoryInfotip>
+        </TradeShip>
+        <WarShip>
+            <FreeAmount>45</FreeAmount>
+            <InfluenceCosts>0.5</InfluenceCosts>
+            <SubCategoryName>12812</SubCategoryName>
+            <SubCategoryInfotip>501667</SubCategoryInfotip>
+        </WarShip>
+    </ModOp>
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig" ModOpID="Cannons">
+        <DefenseBuilding>
+            <FreeAmount>40</FreeAmount>
+            <InfluenceCosts>1</InfluenceCosts>
+            <SubCategoryName>12005</SubCategoryName>
+            <SubCategoryInfotip>501668</SubCategoryInfotip>
+        </DefenseBuilding>
+    </ModOp>
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig" ModOpID="Charters">
+        <CharterRoutes>
+            <FreeAmount>3</FreeAmount>
+            <InfluenceCosts>10</InfluenceCosts>
+            <SubCategoryName>21724</SubCategoryName>
+            <SubCategoryInfotip>501670</SubCategoryInfotip>
+        </CharterRoutes>
+    </ModOp>
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig" ModOpID="Airships">
+        <AirshipTrade>
+            <FreeAmount>30</FreeAmount>
+            <InfluenceCosts>0.5</InfluenceCosts>
+            <SubCategoryName>115182</SubCategoryName>
+            <SubCategoryInfotip>115183</SubCategoryInfotip>
+        </AirshipTrade>
+        <AirshipCombat>
+            <FreeAmount>20</FreeAmount>
+            <InfluenceCosts>0.5</InfluenceCosts>
+            <SubCategoryName>4095</SubCategoryName>
+            <SubCategoryInfotip>4100</SubCategoryInfotip>
+        </AirshipCombat>
+    </ModOp>
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig" ModOpID="Islands">
+        <Kontor>
+            <FreeAmount>60000</FreeAmount>
+            <InfluenceCosts>0.0005</InfluenceCosts>
+            <SubCategoryName>14797</SubCategoryName>
+            <SubCategoryInfotip>501671</SubCategoryInfotip>
+        </Kontor>
+    </ModOp>
+
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig/*[self::ZooModule or self::MuseumModule or self::BotanicModule]" ModOpID="CulturalFreeAmount">
+        <FreeAmount>20</FreeAmount>
+    </ModOp>
+    <ModOp Type="add" GUID='140797' Path="/Values/InfluenceFeature/InfluenceConfig/*[self::ZooModule or self::MuseumModule or self::BotanicModule]" ModOpID="CulturalPerModuleCost">
+        <InfluenceCosts>3</InfluenceCosts>
+    </ModOp>
+    <ModOp Type = "replace" GUID = '269118,269117' Path = "/Values/InfluenceSourceUpgrade/InfluencePerModuleUpgrade/Value" ModOpID="CulturalPerModuleCost">
         <Value>3</Value>
     </ModOp>
+
+    <!-- Cultural Costs -->
+    <ImyaExpose Path="self::InfluenceCosts | self::Value" ModOpID="CulturalPerModuleCost" ExposeID="ModuleCost" Description="The cost per cultural module" Kind="Slider">
+        <SliderDefinition Min="0" Max="20" Stepping="1" />
+    </ImyaExpose>
+    <!-- Free Amount of Cultural Modules-->
+    <ImyaExpose Path="self::FreeAmount" ModOpID="CulturalFreeAmount" ExposeID="FreeModules" Description="The free amount of modules per cultural building type" Kind="Slider">
+        <SliderDefinition Min="0" Max="50" Stepping="1" />
+    </ImyaExpose>
+
+    <!-- Island Tile Free Amount-->
+    <ImyaExpose Path="self::Kontor/FreeAmount" ModOpID="Islands" ExposeID="FreeIslandTiles" Description="The free amount of tiles per island" Kind="Enum">
+        <FixedValues>
+            <Value>25000</Value>
+            <Value>50000</Value>
+            <Value>60000</Value>
+            <Value>75000</Value>
+            <Value>100000</Value>
+          </FixedValues>
+    </ImyaExpose>
+
+    <!-- Free Item Buildings -->
+    <ImyaExpose Path="./FreeAmount" ModOpID="ItemBuildings" ExposeID="FreeItemBuildings" Description="The free amount of item buildings of each type" Kind="Slider">
+        <SliderDefinition Min="0" Max="10" Stepping="1" />
+    </ImyaExpose>
+
+    <!-- Airship Cost Factor -->
+    <ImyaExpose Path="./InfluenceCosts" ModOpID="Airships" ExposeID="AirshipCostFactor" Description="Factor on Airship Influence Costs" Kind="Enum">
+        <FixedValues>
+            <Value>0.25</Value>
+            <Value>0.5</Value>
+            <Value>0.75</Value>
+            <Value>1</Value>
+            <Value>1.25</Value>
+        </FixedValues>
+    </ImyaExpose>
+
+    <!-- Ship Cost Factor -->
+    <ImyaExpose Path="./InfluenceCosts" ModOpID="Ships" ExposeID="ShipCostFactor" Description="Factor on Ship Influence Costs" Kind="Enum">
+        <FixedValues>
+            <Value>0.25</Value>
+            <Value>0.5</Value>
+            <Value>0.75</Value>
+            <Value>1</Value>
+            <Value>1.25</Value>
+        </FixedValues>
+    </ImyaExpose>
+
+    <!-- Cannons Cost Factor -->
+    <ImyaExpose Path="./InfluenceCosts" ModOpID="Cannons" ExposeID="CannonCostFactor" Description="Factor on Cannon Costs" Kind="Enum">
+        <FixedValues>
+            <Value>0.5</Value>
+            <Value>0.75</Value>
+            <Value>1</Value>
+            <Value>1.25</Value>
+            <Value>1.5</Value>
+        </FixedValues>
+    </ImyaExpose>
+
+    <!-- Charter Routes -->
+    <ImyaExpose Path="self::CharterRoutes/FreeAmount" ModOpID="Charters" ExposeID="FreeCharterRoutes" Description="Amount of free Charter Routes" Kind="Slider">
+        <SliderDefinition Min="0" Max="20" Stepping="1" />
+    </ImyaExpose>
 </ModOps>

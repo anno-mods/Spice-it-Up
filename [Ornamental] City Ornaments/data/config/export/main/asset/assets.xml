@@ -876,16 +876,6 @@
         </Asset>
     </ModOp>
 
-    <!-- moderate construction menu culture (category) -->
-    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>977020</Building>
-        </Item>
-        <Item>
-            <Building>977021</Building>
-        </Item>
-    </ModOp>
-
     <ModOp Type="addNextSibling" GUID='102159'>
         <Asset>
             <Template>OrnamentalBuilding</Template>
@@ -1172,8 +1162,6 @@
                 <Mesh />
                 <SoundEmitter />
                 <Locked />
-
-
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
@@ -1184,14 +1172,17 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" GUID='25000191' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500069,500068' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>977020</Building>
         </Item>
-    </ModOp>
-    <ModOp Type="add" GUID='25000192' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>977021</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type = "add" GUID ='500068' Path = "/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>1440137033</Building>
         </Item>
     </ModOp>
 
@@ -1255,9 +1246,44 @@
                 </ConstructionCategory>
             </Values>
         </Asset>
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1440137033</GUID>
+                    <Name>OW City Ornamentals</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_city_ornament_base.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>977030</Building>
+                        </Item>
+                        <Item>
+                            <Building>977400</Building>
+                        </Item>
+                        <Item>
+                            <Building>977403</Building>
+                        </Item>
+                        <Item>
+                            <Building>977401</Building>
+                        </Item>
+                        <Item>
+                            <Building>977402</Building>
+                        </Item>
+                        <Item>
+                            <Building>977404</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>19564</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <TextOverride>102117</TextOverride>
+                </Text>
+            </Values>
+        </Asset>
     </ModOp>
-
-    <ModOp Type="add" GUID='25000194' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500079,500055' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>977460</Building>
         </Item>

@@ -618,26 +618,14 @@
         </Asset>
     </ModOp>
 
-    <!-- moderate workers park (tier) -->
-    <ModOp Type="add" GUID='25000190' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>1440133026</Building>
-        </Item>
-    </ModOp>
-    <!-- moderate construction menu culture (category) -->
-    <ModOp Type="add" GUID='25000197' Path="/Values/ConstructionCategory/BuildingList">
+    <!-- moderate ornaments menu -->
+    <ModOp Type="add" GUID='500069,500059' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133026</Building>
         </Item>
     </ModOp>
     <!-- sa construction menu culture (category) -->
-    <ModOp Type="add" GUID='500951' Path="/Values/ConstructionCategory/BuildingList">
-        <Item>
-            <Building>1440133027</Building>
-        </Item>
-    </ModOp>
-    <!-- sa jornalero (tier) -->
-    <ModOp Type="add" GUID='25000193' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500079,500058' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>1440133027</Building>
         </Item>

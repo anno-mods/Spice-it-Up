@@ -1,0 +1,390 @@
+<ModOps>
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
+    <!-- Constr. Menu    GUIDS 8855888,8855889,8855890   - TXT 8850888,8850889,8850890   (Harbor City)                   # -->
+    <!-- Constr. Menu    GUIDS 8855884,8855885,8855886   - TXT 8850884,8850885,8850886   (Harbor Ornaments)              # -->
+    <!-- Constr. Menu    GUIDS 8855891,8855892,8855893   - TXT 8850890,8850891,8850893   (Wooden Docks)                  # -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
+    <!-- New Category :: Harbor Depots - GUID: 8855881 -->
+    <ModOp Type="addNextSibling" GUID="500952">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>8855881</GUID>
+                    <Name>harbor_depots_ow</Name>
+                    <IconFilename>data/graphics/hc/__icons/harbor_storage.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>8855018</Building>
+                            <!-- Sm. Storage-->
+                        </Item>
+                        <Item>
+                            <Building>8855016</Building>
+                            <!-- Sm. Depot -->
+                        </Item>
+                        <Item>
+                            <Building>8855014</Building>
+                            <!-- Med. Depot -->
+                        </Item>
+                        <Item>
+                            <Building>1010519</Building>
+                            <!-- Depot -->
+                        </Item>
+                        <Item>
+                            <Building>8855001</Building>
+                            <!-- WH Depot -->
+                        </Item>
+                        <Item>
+                            <Building>8855008</Building>
+                            <!-- Warehouse -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>8850881</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Harbor Depots</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID/>
+                </Text>
+                <Locked/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="add" GUID="500953" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>8855900</Building>
+        </Item>
+        <Item>
+            <Building>8855902</Building>
+        </Item>
+    </ModOp>
+    <ModOp Type="add" GUID="501008" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>8855906</Building>
+        </Item>
+        <Item>
+            <Building>8855907</Building>
+        </Item>
+    </ModOp>
+    <!-- Workers - after harbor -->
+    <ModOp Type="addNextSibling" GUID="25000190" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500952']">
+        <Item>
+            <Building>8855881</Building>
+        </Item>
+    </ModOp>
+    <!-- harbor category before Sailing Shipyard -->
+    <ModOp Type="addPrevSibling" GUID="500903" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010520']">
+        <Item>
+            <Building>8855881</Building>
+        </Item>
+    </ModOp>
+    <!-- Remove Depot from "harbor t1" & "Cat. Harbor"-->
+    <ModOp Type="remove" GUID="500952" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010519']"/>
+    <ModOp Type="remove" GUID="500903" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010519']"/>
+    <!-- Lighthouse                      (at the end)  -->
+    <!-- harbour tier02 -->
+    <ModOp Type="add" GUID="500953" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>901006</Building>
+        </Item>
+    </ModOp>
+    <!-- harbor category -->
+    <ModOp Type="add" GUID="500903" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>901006</Building>
+        </Item>
+    </ModOp>
+    <!--////////// SOUTH /////////////// -->
+    <!-- New Category :: Harbor Depots - GUID: 8855882 -->
+    <ModOp Type="addNextSibling" GUID="501007">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>8855882</GUID>
+                    <Name>harbor_depots_sa</Name>
+                    <IconFilename>data/graphics/hc/__icons/harbor_storage.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>8855019</Building>
+                            <!-- Sm. Storage-->
+                        </Item>
+                        <Item>
+                            <Building>8855017</Building>
+                            <!-- Sm. Depot -->
+                        </Item>
+                        <Item>
+                            <Building>8855015</Building>
+                            <!-- Med. Depot -->
+                        </Item>
+                        <Item>
+                            <Building>101278</Building>
+                            <!-- Depot -->
+                        </Item>
+                        <Item>
+                            <Building>8855005</Building>
+                            <!-- WH Depot -->
+                        </Item>
+                        <Item>
+                            <Building>8855011</Building>
+                            <!-- Warehouse -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>8850882</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Harbor Depots</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID/>
+                </Text>
+                <Locked/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Jornaleros - behind harbor -->
+    <ModOp Type="addNextSibling" GUID="25000193" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501007']">
+        <Item>
+            <Building>8855882</Building>
+        </Item>
+    </ModOp>
+    <!-- harbor category before Sailing Shipyard -->
+    <ModOp Type="addPrevSibling" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101277']">
+        <Item>
+            <Building>8855882</Building>
+        </Item>
+    </ModOp>
+    <!-- Remove Depot from "harbor t1" & "Cat. Harbor"-->
+    <ModOp Type="remove" GUID="501007" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101278']"/>
+    <ModOp Type="remove" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101278']"/>
+    <!-- Lighthouse                      (at the end)  -->
+    <!-- harbour tier02 -->
+    <ModOp Type="add" GUID="501008" Path="/Values/ConstructionCategory/BuildingList">
+        <Item>
+            <Building>901007</Building>
+        </Item>
+    </ModOp>
+    <!-- harbor category -->
+    <ModOp Type="addPrevSibling" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101563']">
+        <Item>
+            <Building>901007</Building>
+        </Item>
+    </ModOp>
+
+    <!-- New Category :: Harbor City - GUID: 8855888-->
+    <ModOp Type="addNextSibling" GUID="500952">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>8855888</GUID>
+                    <Name>harbor_city_ow</Name>
+                    <IconFilename>data/graphics/hc/__icons/harbor_city.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>8856001</Building>
+                            <!-- Residence T1 -->
+                        </Item>
+                        <Item>
+                            <Building>1440133040</Building>
+                            <!-- Scholar Residence -->
+                        </Item>
+                        <Item>
+                            <Building>8856008</Building>
+                            <!-- Market -->
+                        </Item>
+                        <Item>
+                            <Building>8856009</Building>
+                            <!-- Pub -->
+                        </Item>
+                        <Item>
+                            <Building>8856010</Building>
+                            <!-- Church -->
+                        </Item>
+                        <Item>
+                            <Building>8856011</Building>
+                            <!-- School -->
+                        </Item>
+                        <Item>
+                            <Building>8856012</Building>
+                            <!-- Variete -->
+                        </Item>
+                        <Item>
+                            <Building>8856013</Building>
+                            <!-- University -->
+                        </Item>
+                        <Item>
+                            <Building>8856014</Building>
+                            <!-- Bank -->
+                        </Item>
+                        <Item>
+                            <Building>8856015</Building>
+                            <!-- Club House -->
+                        </Item>
+                        <Item>
+                            <Building>8856016</Building>
+                            <!-- Power Plant -->
+                        </Item>
+                        <Item>
+                            <Building>1440133043</Building>
+                            <!-- Scholar Residence -->
+                        </Item>
+                        <Item>
+                            <Building>8856020</Building>
+                            <!-- Townhall -->
+                        </Item>
+                        <Item>
+                            <Building>8855050</Building>
+                            <!-- Fire Dep. -->
+                        </Item>
+                        <Item>
+                            <Building>8855052</Building>
+                            <!-- Police Dep. -->
+                        </Item>
+                        <Item>
+                            <Building>8855054</Building>
+                            <!-- Hospital -->
+                        </Item>
+                        <Item>
+                            <Building>1440134520</Building>
+                            <!-- Bus Stop -->
+                        </Item>
+                        <Item>
+                            <Building>1440134530</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134550</Building>
+                        </Item>
+                        <Item>
+                            <Building>1440134570</Building>
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>8850888</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Harbor City</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID/>
+                </Text>
+                <Locked/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Artisans - before harbor  -->
+    <ModOp Type="addPrevSibling" GUID="25000191" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500953']">
+        <Item>
+            <Building>8855888</Building>
+        </Item>
+    </ModOp>
+    <!--City - after Residence  -->
+    <ModOp Type="addNextSibling" GUID="500944" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010343']">
+        <Item>
+            <Building>8855888</Building>
+        </Item>
+    </ModOp>
+    <!--////////// SOUTH /////////////// -->
+    <!-- New Category :: Harbor City - GUID: 8855889-->
+    <ModOp Type="addNextSibling" GUID="501007">
+        <Asset>
+            <Template>ConstructionCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>8855889</GUID>
+                    <Name>harbor_city_colony01</Name>
+                    <IconFilename>data/graphics/hc/__icons/harbor_city.png</IconFilename>
+                </Standard>
+                <ConstructionCategory>
+                    <BuildingList>
+                        <Item>
+                            <Building>8856006</Building>
+                            <!-- Residence T1 -->
+                        </Item>
+                        <Item>
+                            <Building>8856017</Building>
+                            <!-- Market -->
+                        </Item>
+                        <Item>
+                            <Building>8856018</Building>
+                            <!-- Chapel -->
+                        </Item>
+                        <Item>
+                            <Building>8856019</Building>
+                            <!-- Boxing Arena -->
+                        </Item>
+                        <Item>
+                            <Building>8856021</Building>
+                        </Item>
+                        <Item>
+                            <Building>8855051</Building>
+                            <!-- Fire Dep. -->
+                        </Item>
+                        <Item>
+                            <Building>8855053</Building>
+                            <!-- Police Dep. -->
+                        </Item>
+                        <Item>
+                            <Building>8855055</Building>
+                            <!-- Hospital -->
+                        </Item>
+                        <Item>
+                            <Building>1440137008</Building>
+                            <!-- Power Plant -->
+                        </Item>
+                        <Item>
+                            <Building>1440137006</Building>
+                            <!-- Samba School -->
+                        </Item>
+                        <Item>
+                            <Building>1440137004</Building>
+                            <!-- Cinema -->
+                        </Item>
+                    </BuildingList>
+                    <CategoryDescription>8850889</CategoryDescription>
+                </ConstructionCategory>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Harbor City</Text>
+                            <Status>Exported</Status>
+                            <ExportCount>1</ExportCount>
+                        </English>
+                    </LocaText>
+                    <LineID/>
+                </Text>
+                <Locked/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Obreros - before harbor -->
+    <ModOp Type="addPrevSibling" GUID="25000194" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501008']">
+        <Item>
+            <Building>8855889</Building>
+        </Item>
+    </ModOp>
+    <!-- City - after Residence -->
+    <ModOp Type="addNextSibling" GUID="500946" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101254']">
+        <Item>
+            <Building>8855889</Building>
+        </Item>
+    </ModOp>
+</ModOps>

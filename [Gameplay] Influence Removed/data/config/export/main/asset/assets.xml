@@ -83,12 +83,18 @@
                 <SubCategoryName>21984</SubCategoryName>
                 <SubCategoryInfotip>501690</SubCategoryInfotip>
             </Shares>
-            <AirShip>
+            <AirshipTrade>
                 <FreeAmount>0</FreeAmount>
                 <InfluenceCosts>0</InfluenceCosts>
                 <SubCategoryName>115182</SubCategoryName>
                 <SubCategoryInfotip>115183</SubCategoryInfotip>
-            </AirShip>
+              </AirshipTrade>
+              <AirshipCombat>
+                <FreeAmount>0</FreeAmount>
+                <InfluenceCosts>0</InfluenceCosts>
+                <SubCategoryName>4095</SubCategoryName>
+                <SubCategoryInfotip>4100</SubCategoryInfotip>
+              </AirshipCombat>
         </InfluenceConfig>
     </ModOp>
 </ModOps>
