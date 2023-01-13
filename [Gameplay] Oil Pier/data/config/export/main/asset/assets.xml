@@ -615,7 +615,7 @@
     </ModOp>
     <!-- Oil Pier -->
     <!-- harbour tier02 (behind oil depot) -->
-    <ModOp Type="addNextSibling" GUID='501008' Path="Values/ConstructionCategory/BuildingList/Item[Building = '101330']">
+    <ModOp Type="addNextSibling" GUID='501008' Path="Values/ConstructionCategory/BuildingList/Item[Building = '632']">
         <Item>
             <Building>8855081</Building>
         </Item>
