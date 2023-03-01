@@ -297,7 +297,7 @@
         </Item>
     </ModOp>
     <!--City - after Residence  -->
-    <ModOp Type="addNextSibling" GUID="500944" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010343']">
+    <ModOp Type="addNextSibling" GUID="500092" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010343']">
         <Item>
             <Building>8855888</Building>
         </Item>
@@ -382,7 +382,7 @@
         </Item>
     </ModOp>
     <!-- City - after Residence -->
-    <ModOp Type="addNextSibling" GUID="500946" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101254']">
+    <ModOp Type="addNextSibling" GUID="500137" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101254']">
         <Item>
             <Building>8855889</Building>
         </Item>
