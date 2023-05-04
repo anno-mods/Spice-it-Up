@@ -2298,7 +2298,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/bente_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/bente_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2379,7 +2379,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/qing_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/qing_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2460,7 +2460,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/willie_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/willie_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2541,7 +2541,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/smith_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/smith_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2622,7 +2622,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/beryl_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/beryl_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2703,7 +2703,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/artur_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/artur_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2784,7 +2784,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/carl_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/carl_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2865,7 +2865,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/gravez_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/gravez_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -2946,7 +2946,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/silva_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/silva_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -3027,7 +3027,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hunt_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/hunt_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -3108,7 +3108,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo_delete.lua</ScriptFileName>
+										<ScriptFileName>data/scripts/hugo_delete.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
@@ -3211,7 +3211,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/bente.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/bente.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3244,7 +3244,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/qing.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/qing.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3277,7 +3277,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/willie.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/willie.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3310,7 +3310,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/smith.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/smith.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3343,7 +3343,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/beryl.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/beryl.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3376,7 +3376,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/artur.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/artur.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3409,7 +3409,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/carl.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/carl.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3442,7 +3442,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/gravez.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/gravez.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3475,7 +3475,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/silva.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/silva.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3508,7 +3508,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hunt.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/hunt.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3541,7 +3541,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/hugo.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -3574,7 +3574,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/nate.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/nate.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -5197,7 +5197,7 @@
 											<Values>
 												<Action/>
 												<ActionExecuteScript>
-													<ScriptFileName>mods/[Gameplay] AI Shipyard/data/scripts/hugo_addToSavegame.lua</ScriptFileName>
+													<ScriptFileName>data/scripts/hugo_addToSavegame.lua</ScriptFileName>
 												</ActionExecuteScript>
 											</Values>
 										</Action>
@@ -7960,7 +7960,7 @@
 								<Values>
 									<Action/>
 									<ActionExecuteScript>
-										<ScriptFileName>mods/[Gameplay] AI Shipyard/start_script.py</ScriptFileName>
+										<ScriptFileName>ai_shipyard.lua</ScriptFileName>
 									</ActionExecuteScript>
 								</Values>
 							</TriggerAction>
