@@ -5,6 +5,7 @@
       <Command>session.startSequence(2)</Command>
       <Text>8855909</Text>
       <Active>Session</Active>
+      <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
     </Item>
   </ModOp>
 </ModOps>
