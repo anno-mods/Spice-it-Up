@@ -574,5 +574,16 @@
 		</Item>
 		<!-- Power Plant -->
 	</ModOp>
+  <!-- all SA Post Generators -->
+	<ModOp Type="add" GUID="4455" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+		<Item>
+			<GUID>1440137110</GUID>
+		</Item>
+		<!-- NW Harbor Post Office -->
+		<Item>
+			<GUID>1440137111</GUID>
+		</Item>
+		<!-- NW Harbor Mailbox -->
+	</ModOp>
 	<!-- Factories OW -->
 </ModOps>
