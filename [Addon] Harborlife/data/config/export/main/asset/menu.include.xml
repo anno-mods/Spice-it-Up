@@ -265,13 +265,24 @@
                             <!-- Bus Stop -->
                         </Item>
                         <Item>
+                            <Building>1440137100</Building>
+                            <!-- Post Office -->
+                        </Item>
+                        <Item>
+                            <Building>1440137101</Building>
+                            <!-- Mailbox -->
+                        </Item>
+                        <Item>
                             <Building>1440134530</Building>
+                            <!-- Department Store -->
                         </Item>
                         <Item>
                             <Building>1440134550</Building>
+                            <!-- Furniture Store -->
                         </Item>
                         <Item>
                             <Building>1440134570</Building>
+                            <!-- Pharmacy Store -->
                         </Item>
                     </BuildingList>
                     <CategoryDescription>8850888</CategoryDescription>
@@ -357,6 +368,14 @@
                         <Item>
                             <Building>1440137004</Building>
                             <!-- Cinema -->
+                        </Item>
+                        <Item>
+                            <Building>1440137110</Building>
+                            <!-- Post Office -->
+                        </Item>
+                        <Item>
+                            <Building>1440137111</Building>
+                            <!-- Mailbox -->
                         </Item>
                     </BuildingList>
                     <CategoryDescription>8850889</CategoryDescription>
