@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "调整",
     "English": "Adjustments",
     "French": null,
     "German": "Anpassung",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "Map seeds Patch 3",
     "French": null,
     "German": "Kartenseeds Patch 3",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "Changes the map seeds to those that were briefly in the game in patch 3.",
     "French": null,
     "German": "Ändert die Kartenseeds auf den Stand von Game Update 3.",

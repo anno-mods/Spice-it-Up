@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "按半径划分的文化模块",
     "English": "Culture Modules by Radius",
     "French": null,
     "German": "Radius für Kulturgebäude",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "文化建筑在一个半径内建造它们的模块，而不是必须连接起来。",
     "English": "Cultural Buildings build their Modules in a radius instead of having to be connected.",
     "French": null,
     "German": "Kulturgebäude bauen Module frei im Radius anstatt verbunden sein zu müssen.",

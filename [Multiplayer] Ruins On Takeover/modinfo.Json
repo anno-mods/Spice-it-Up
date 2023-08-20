@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "多人游戏",
     "English": "Multiplayer",
     "French": null,
     "German": "Mehrspieler",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "接管的岛屿是废墟",
     "English": "Ruins on island takeover",
     "French": null,
     "German": "Ruinen bei Inselübernahmen",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "当一个岛屿被占领时，所有的建筑都变成了废墟。",
     "English": "When an island is taken over, all the buildings persist as a ruin.",
     "French": null,
     "German": "Wenn eine Insel Übernommen wird, bleiben alle Gebäude als Ruine erhalten.",
@@ -44,7 +44,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "",
       "English": "The AI might run into problems when taking over a player's island.",
       "French": null,
       "German": "Die KI kann Probleme bekommen, wenn sie die Insel eines Spielers übernimmt.",

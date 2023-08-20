@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "燃气加热器",
     "English": "Gas Heater",
     "French": null,
     "German": "Gasheizung",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "为北极地区增加加热器，从气体中产生热量。它们的半径要大50%。",
     "English": "Adds heaters for the arctic region, which generate heat from gas. They have a 50% larger radius.",
     "French": null,
     "German": "Fügt Gasheizungen für die Arktisregion ein, die mit Gas heizen. Ihr Wärmeradius ist 50% größer als der der Kohleheizungen.",

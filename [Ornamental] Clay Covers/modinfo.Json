@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "粘土覆盖",
     "English": "Clay Covers",
     "French": null,
     "German": "Lehmgruben-Schleier",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加粘土(仓库)和油槽(住宅)的覆盖。它们的外观可以使用Shift+V来定制",
     "English": "Adds Covers for Clay (Warehouse) and Oil Slots (Residences). Their appearance can be customized using Shift+V",
     "French": null,
     "German": "Fügt Schleier für Lehmgruben (Warenhaus) und Ölquellen (Wohnhaus) hinzu. Das Aussehen kann mit Umschalt+V verändert werden.",

@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "杂项",
     "English": "Miscellanous",
     "French": null,
     "German": "Verschiedenes",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "关于Twitch视频掉帧反馈",
     "English": "Visual Feedback for Twitch drops",
     "French": null,
     "German": "Visuelles Feedback für Twitchdrops",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "视频直播，你懂的",
     "English": "Marketing is not always well received... #FckTwtchdrps",
     "French": null,
     "German": "Marketing zieht manchmal Unzufriedenheit nach sich... #FckTwtchdrps",

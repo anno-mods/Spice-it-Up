@@ -7,7 +7,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -20,7 +20,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "删除影响力系统",
     "English": "Influence Removed",
     "French": null,
     "German": "Entfernte Einflusskosten",
@@ -33,7 +33,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "从游戏中移除影响力系统。无法达到的影响力buff没有补偿。",
     "English": "Removes the Influence system from the game. No compensation for influence buffs you cannot reach.",
     "French": null,
     "German": "Entfernt das Einflusssystem aus dem Spiel. Die Verbesserungen durch Einfluss können allerdings nicht anders erreicht werden.",

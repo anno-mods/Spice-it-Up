@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "调整",
     "English": "Adjustments",
     "French": null,
     "German": "Anpassung",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "移除新大陆河流",
     "English": "Southern rivers removed",
     "French": null,
     "German": "Flüsse im Süden entfernt",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "将河流从新大陆移除",
     "English": "Removes rivers from the New World",
     "French": null,
     "German": "Entfernt die Flüsse aus der neuen Welt.",

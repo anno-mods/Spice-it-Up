@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "活跃的交易者老内特",
     "English": "Active Trader Nate",
     "French": null,
     "German": "Aktiver Handel im Kap",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "老内特的贸易舰队和销售预算增加。",
     "English": "Old Nate's trade fleet and Sell Budget is increased.",
     "French": null,
     "German": "Der alte Nate hat eine größere Handelsflotte und ein höheres Verkaufsbudget.",

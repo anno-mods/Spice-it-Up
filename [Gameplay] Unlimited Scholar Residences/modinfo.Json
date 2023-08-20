@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "无限学者住宅",
     "English": "Unlimited Scholar Residences",
     "French": null,
     "German": "Unbegrenzte Gelehrtenhäuser",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "取消学者住宅的施工许可证。",
     "English": "Removes construction permits for scholar residences.",
     "French": null,
     "German": "Entfernt Baugenehmigungen für Gelehrtenhäuser.",
@@ -44,7 +44,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "",
       "English": "Scholar Residences that were built without this mod will not return permits when demolished.",
       "French": null,
       "German": "Gelehrtenhäuser, die ohne diese Mod gebaut wurden, werden beim Abriss keine Genehmigungen zurückgeben.",
@@ -57,7 +57,7 @@
       "Taiwanese": null
     },
     {
-      "Chinese": null,
+      "Chinese": "",
       "English": "Scholar Residences that were built with this mod will return permits when demolished after deactivating this mod.",
       "French": null,
       "German": "Gelehrtenhäuser, die mit dieser Mod gebaut wurden, geben eine Genehmigung zurück, wenn man die Mod deaktiviert und die Häuser dann abreißt.",

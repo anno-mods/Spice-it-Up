@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "Addon",
     "French": null,
     "German": "Addon",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "沙盒模式",
     "English": "Sandbox mode",
     "French": null,
     "German": "Sandboxmodus",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "所有建筑从一开始就在建造菜单中。",
     "English": "All Buildings are in the construction menu from the start.",
     "French": null,
     "German": "Alle Gebäude sind von Beginn an im Baumenü verfügbar",
@@ -44,7 +44,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "",
       "English": "Only works in new savegames",
       "French": null,
       "German": "Only works in new savegames",

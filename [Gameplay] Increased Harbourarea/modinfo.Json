@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "增加港口面积",
     "English": "Increased Harbor Area",
     "French": null,
     "German": "Hafenbereich vergrößert",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加港口面积。",
     "English": "Increases the Harbor area.",
     "French": null,
     "German": "Erhöht den Hafenbereich.",
@@ -44,7 +44,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "当使用DirectX12时，会频繁地发生崩溃。",
       "English": "Crashes can happen more often when using DirectX12.",
       "French": null,
       "German": "DirectX12 kann Abstürze verursachen.",
@@ -57,7 +57,7 @@
       "Taiwanese": null
     },
     {
-      "Chinese": null,
+      "Chinese": "很少能在港口区域生成“死”像素。",
       "English": "Can rarely generate 'dead' pixels in the harbor area.",
       "French": null,
       "German": "Im Hafenbereich können vermehrt 'dead' Pixel auftreten.",

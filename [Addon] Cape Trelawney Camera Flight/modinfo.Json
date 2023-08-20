@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "插件",
     "English": "Addon",
     "French": null,
     "German": "Addon",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "开始相机自由飞行",
     "English": "Cape Trelawney Camera Flight",
     "French": null,
     "German": "Kameraflug durchs Kap",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加了一个可以通过自定义热键激活的相机飞行穿过特里罗尼角。",
     "English": "Adds a Camera Flight through Cape Trelawney which can be activated via a customizable hotkey.",
     "French": null,
     "German": "Fügt einen Kameraflug durch das Kap hinzu, welcher über einen frei einstellbaren Hotkey gestartet wird.",

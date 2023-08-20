@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "杂项",
     "English": "Miscellanous",
     "French": null,
     "German": "Verschiedenes",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "取代珍妮小姐/狄奥多拉的肖像",
     "English": "Miss Jenny Retextured",
     "French": null,
     "German": "Miss Jenny Retexturiert",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "取代珍妮小姐/狄奥多拉的肖像",
     "English": "Replaces the portrait of Miss Jenny / Theodora",
     "French": null,
     "German": "Ersetzt das Portrait von Miss Jenny / Theodora",

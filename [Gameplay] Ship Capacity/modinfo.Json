@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "船舶容量",
     "English": "Ship Capacity",
     "French": null,
     "German": "Frachtkapazität der Schiffe erhöht",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加船舶的容量。",
     "English": "Increases the Capacity of Ships.",
     "French": null,
     "German": "Erhöht die Kapazität der Schiffe.",

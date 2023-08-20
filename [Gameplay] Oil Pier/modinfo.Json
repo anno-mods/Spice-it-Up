@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "石油码头",
     "English": "Oil pier",
     "French": null,
     "German": "Öl-Verladestelle",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "为油轮增加一个码头。",
     "English": "Adds a pier for oil tankers.",
     "French": null,
     "German": "Fügt eine Anlegestelle zum Verladen von Öl hinzu.",

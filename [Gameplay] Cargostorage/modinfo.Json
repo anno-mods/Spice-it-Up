@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "陆地货物储存",
     "English": "Cargostorage on Land",
     "French": null,
     "German": "Lager an Land",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加新的货物仓库，可以建在陆地上。",
     "English": "Adds new cargostorages which can be built on land.",
     "French": null,
     "German": "Fügt neue Lager ein, welche an Land gebaut werden können.",

@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "老内特的飞艇",
     "English": "Nate's Airship",
     "French": null,
     "German": "Nate's Luftschiff",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "你可以在内特的贸易站购买他的飞艇，或者在北极飞艇机库建造它。",
     "English": "You can buy Nate's Airship at his trading post or build it in the arctic airship hangar.",
     "French": null,
     "German": "Nate verkauft Exemplare seines Luftschiffes an seinem Handelsposten. Alternativ kann es im Luftschiffhangar gebaut werden.",

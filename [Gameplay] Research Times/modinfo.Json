@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "更少的研究时间",
     "English": "Research Times",
     "French": null,
     "German": "Forschungszeiten",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "分配50,000名工程师时，将研究时间调整为最少一分钟。请记住，基础研究时间没有改变，缩放仍然是线性的。",
     "English": "Adjusts the research times to a minimum of one minute when assigning 50.000 Engineers. Keep in mind that base research times haven't been changed and scaling is still linear.",
     "French": null,
     "German": "Passt die Forschungszeiten auf minimal eine Minute bei 50.000 eingesetzten Ingenieuren an. Basis-Forschungszeiten wurden nicht geändert und Skalierung ist immer noch linear!.",

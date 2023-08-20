@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "增加建筑的影响半径",
     "English": "Increased influence radius of item buildings",
     "French": null,
     "German": "Erhöhter Einflussbereich von Itemgebäuden",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "工会、市政厅、港务局长办公室和北极小屋的影响半径更大。",
     "English": "Trade union, town hall, harbormaster's office and arctic lodge have a higher radius of effect. ",
     "French": null,
     "German": "Handelskammer, Rathaus, Hafenmeisterei und Quartier haben einen höheren Einflussbereich",

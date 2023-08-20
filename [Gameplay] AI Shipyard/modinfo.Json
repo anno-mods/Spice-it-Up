@@ -6,7 +6,7 @@
     ],
     "ModDependencies": null,
     "Category": {
-        "Chinese": null,
+        "Chinese": "游戏玩法",
         "English": "Gameplay",
         "French": null,
         "German": "Spielablauf",
@@ -20,7 +20,7 @@
         "Czech": null
     },
     "ModName": {
-        "Chinese": null,
+        "Chinese": "AI船厂",
         "English": "AI Shipyard",
         "French": null,
         "German": "KI-Schiffswerft",
@@ -34,7 +34,7 @@
         "Czech": null
     },
     "Description": {
-        "Chinese": null,
+        "Chinese": "在现有的存档游戏中添加AI，为它们建造一艘船。建造一个大使馆(游戏邦注:即游戏中的法院)是解锁三星AI和Hugo Mercier博士的唯一方法。",
         "English": "Add AI into existing savegames by building a ship for them. Building an embassy (the courthouse from the campaign) is the only way to unlock three-star AI and Dr. Hugo Mercier.",
         "French": null,
         "German": "Ermöglicht es, eine KI im laufenden Spiel in den Sektor zu holen. um die Drei-Sterne Gegner und Dr. Hugo Mercier freizuschalten, wird eine Botschaft (Das Gerichtsgebäude der Kampagne) benötigt.",

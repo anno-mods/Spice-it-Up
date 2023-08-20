@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "电灯代替电线",
     "English": "Electric Lighting instead of Electric Wires",
     "French": null,
     "German": "Beleuchtung anstatt Stromkabeln",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "用电灯代替电线杆和电线，即使在夜间也能工作。",
     "English": "Replaces Electric Poles and wires with Electric Lighting which even works at nighttime.",
     "French": null,
     "German": "Ersetzt Strommasten und Stromkabel durch Straßenbeleuchtung, die bei Nacht die Stadt erhellt.",

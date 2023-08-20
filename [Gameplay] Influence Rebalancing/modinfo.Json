@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "Influence Rebalancing",
     "English": "Influence Rebalancing",
     "French": null,
     "German": "Geänderte Einflusskosten",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "Tweaks the values of influence cost for multiple different things to make beauty building easier, while increasing the cost of things that you do not want to build as much.",
     "English": "Tweaks the values of influence cost for multiple different things to make beauty building easier, while increasing the cost of things that you do not want to build as much.",
     "French": null,
     "German": "Verändert die Einflusskosten von vielen Gebäuden etc. um Schönbau zu vereinfachen. Es gibt allerdings auch gesteigerte Kosten, bspw. für Pendler-Anlegestellen.",

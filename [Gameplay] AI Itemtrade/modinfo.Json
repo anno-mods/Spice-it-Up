@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "AI Itemtrade",
     "French": null,
     "German": "Itemhandel bei der KI",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "The AI sells Items from their secondary island takeover lootpools at their trading posts.",
     "French": null,
     "German": "Die KI verkauft an ihren Handelsposten Items aus ihrem Lootpool für das Übernehmen von Zweitinseln.",

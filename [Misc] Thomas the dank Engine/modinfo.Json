@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "杂项",
     "English": "Miscellanous",
     "French": null,
     "German": "Verschiedenes",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "坦克火车头皮肤",
     "English": "Thomas the Dank Engine",
     "French": null,
     "German": "Thomas, die Lokomotive",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "用坦克引擎托马斯代替默认的火车",
     "English": "Replaces the default train with Thomas the tank engine",
     "French": null,
     "German": "Ersetzt die Züge durch Thomas die Lokomotive",
