@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "可建造的大东方号",
     "English": "Buildable Great Eastern",
     "French": null,
     "German": "Baubare Great Eastern",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "通过装备罗希特巴尔加瓦，大东方号可以在蒸汽造船厂建造。",
     "English": "Great Easterns are available for construction in the steam shipyard by equipping Rohit Bhargava.",
     "French": null,
     "German": "Die Great Eastern kann mithilfe von Rohit Bhargava in der Dampfschiffswerft gebaut werden.",

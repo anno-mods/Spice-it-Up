@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "装饰宫殿",
     "English": "Ornamental Palace",
     "French": null,
     "German": "Zier-Palast",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加了宫殿的装饰版本，可以无限地建造和不连接。",
     "English": "Adds ornamental versions of the palace which can be built infinitly and unconnected.",
     "French": null,
     "German": "Fügt den Palastbausatz als Ornamente hinzu, die unbegrenzt und unverbunden gebaut werden können.",

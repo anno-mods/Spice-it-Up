@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "NPC提供的商品改进",
     "English": "NPC Diceroll improved",
     "French": null,
     "German": "Itemauswahl der NPC verbessert",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "NPC提供的商品有所改进。你可以购买传奇和史诗物品。请务必查看游戏商品概述，了解谁提供哪些商品。",
     "English": "The offered items of NPC were improved. You can also buy legendary and epic items. Make sure you check out the ingame item overview to see who offers which items.",
     "French": null,
     "German": "Die an den Handelsposten der NPC angebotenen Items wurden verbessert. Auch legendäre und epische Items sind kaufbar. In der Itemübersicht steht genau, wer welches Item anbietet.",

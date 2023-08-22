@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "围栏装饰",
     "English": "Fenced Ornaments",
     "French": null,
     "German": "Eingezäunte Ornamente",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加围栏草装饰在三个版本。",
     "English": "Adds fenced grass ornaments in three versions.",
     "French": null,
     "German": "Umzäunte Grasornamente in drei Varianten.",

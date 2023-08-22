@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "北极资源可变",
     "English": "Arctic Variable Resources",
     "French": null,
     "German": "Variable Ressourcen (Arktis)",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "用可变资源取代北极的金矿，在上面你可以建造铁、铜、锌和金矿。",
     "English": "Replaces Gold Deposits in the arctic with variable resources, on which you can build iron, copper, zinc and gold mines.",
     "French": null,
     "German": "Ersetzt Goldvorkommen in der Arktis durch variable Ressourcen, auf denen Eisen-, Zink-, Kupfer- und Goldminen gebaut werden können.",

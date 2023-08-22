@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "工人装饰品",
     "English": "Worker Ornaments",
     "French": null,
     "German": "Arbeiter-Ornamente",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "在工人阶层增加灰色铺砌的城市装饰。",
     "English": "Adds grey paved city ornaments on worker level.",
     "French": null,
     "German": "neue Ornamente mit grauem, gepflastertem Boden.",

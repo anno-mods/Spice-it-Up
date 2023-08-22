@@ -4,7 +4,7 @@
     "IncompatibleIds": null,
     "ModDependencies": null,
     "Category": {
-      "Chinese": null,
+      "Chinese": "游戏玩法",
       "English": "Gameplay",
       "French": null,
       "German": "Spielablauf",
@@ -17,7 +17,7 @@
       "Taiwanese": null
     },
     "ModName": {
-      "Chinese": null,
+      "Chinese": "",
       "English": "Harbor Blocking",
       "French": null,
       "German": "Hafenblocking",
@@ -30,7 +30,7 @@
       "Taiwanese": null
     },
     "Description": {
-      "Chinese": null,
+      "Chinese": "",
       "English": "Limits the harbor area blocking of Shipyards, Piers, Kontors etc.",
       "French": null,
       "German": "Begrenzt den blockierten Hafenbereich von Werften, Piers, Kontoren etc.",

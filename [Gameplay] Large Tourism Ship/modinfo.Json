@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "大型旅游船",
     "English": "Large Tourism Ship",
     "French": null,
     "German": "Großes Touristenschiff",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "蒸汽造船厂增加了一艘新的贸易船，通过建造一个世界博览会来解锁\u0027 .",
     "English": "Adds a new trade ship to the steam shipyard, which is unlocked by building a world\u0027s fair.",
     "French": null,
     "German": "Fügt ein neues Handelsschiff in der Dampfschiffswerft ein, was durch den Bau einer Weltausstellung freigeschaltet wird.",

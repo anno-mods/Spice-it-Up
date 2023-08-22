@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "调整",
     "English": "Adjustments",
     "French": null,
     "German": "Anpassung",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "移除旧大陆和崔老妮海角的河流",
     "English": "Northern rivers removed",
     "French": null,
     "German": "Flüsse im Norden entfernt",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "移除旧大陆和崔老妮海角的河流。",
     "English": "Removes rivers from the Old World and Cape Trelawney.",
     "French": null,
     "German": "Entfernt die Flüsse in der Alten Welt und Kap Trelawney.",
@@ -44,7 +44,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "",
       "English": "Does not work on Crown Falls",
       "French": null,
       "German": "Funktioniert nicht auf Crown Falls",

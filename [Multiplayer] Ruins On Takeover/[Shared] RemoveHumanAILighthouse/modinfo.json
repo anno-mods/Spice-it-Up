@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": "Shared",
+    "Chinese": "共享",
     "English": "Shared",
     "French": "Shared",
     "German": "Shared",
@@ -16,7 +16,7 @@
     "Taiwanese": "Shared"
   },
   "ModName": {
-    "Chinese": "Remove Human AI-Lighthouse",
+    "Chinese": "移除AI灯塔",
     "English": "Remove Human AI-Lighthouse",
     "French": "Remove Human AI-Lighthouse",
     "German": "Remove Human AI-Lighthouse",
@@ -28,7 +28,7 @@
     "Taiwanese": "Remove Human AI-Lighthouse"
   },
   "Description": {
-    "Chinese": "For Modders: Removes the AI-lighthouses, if they are owned by a human player, eg. by using the Ruin-on-Takeover Mod. The vanilla game does use the lighthouse GUIDs in many Quests and other stuff, without checking the owner, so it is better to never allow a human to control these specific GUIDs.",
+    "Chinese": "对于 Modders:移除ai灯塔，如果他们是由人类玩家，例如。游戏默认确实在许多任务和其他东西中使用灯塔guid，而不检查所有者，所以最好不要让人类控制这些特定的guid。",
     "English": "For Modders: Removes the AI-lighthouses, if they are owned by a human player, eg. by using the Ruin-on-Takeover Mod. The vanilla game does use the lighthouse GUIDs in many Quests and other stuff, without checking the owner, so it is better to never allow a human to control these specific GUIDs.",
     "French": "For Modders: Removes the AI-lighthouses, if they are owned by a human player, eg. by using the Ruin-on-Takeover Mod. The vanilla game does use the lighthouse GUIDs in many Quests and other stuff, without checking the owner, so it is better to never allow a human to control these specific GUIDs.",
     "German": "Für Modder: Entfernt KI-Leuchtürme, falls sie zb. durch einen Ruin-on-Takeover Mod oder sonst wie in den Besitz eines menschlichen Spielers geraten sind. Denn das vanilla Spiel nutzt diesen oft in Quests und prüft den Besitzer nicht, sodass es am Besten ist wenn der Mensch diese GUIDs niemals besitzt.",
@@ -41,7 +41,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "",
       "English": null,
       "French": null,
       "German": null,

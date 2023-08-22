@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "杂项",
     "English": "Miscellanous",
     "French": null,
     "German": "Verschiedenes",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "红色的玩家颜色代替黑色",
     "English": "Player color Red",
     "French": null,
     "German": "Rote Spielerfarbe",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "当创建一个新的存档时，用红色的玩家颜色代替黑色。",
     "English": "Replaces black with red player color when creating a new savegame.",
     "French": null,
     "German": "Ersetzt schwarze durch rote Spielerfarbe bei der Erstellung eines neuen Spielstandes.",

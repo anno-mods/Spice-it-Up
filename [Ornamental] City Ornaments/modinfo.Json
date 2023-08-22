@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "草装饰品",
     "English": "Cultural Ornaments",
     "French": null,
     "German": "Kulturelle Ornamente",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "一些有广场地面的草饰品的变化。一些育碧俱乐部的奖励可以用shift+V来改变，用广场地建造一个变体。",
     "English": "Variations of some Grass Ornaments which have Plaza Ground. A few uPlay club rewards can be changed using shift+V to build a variant using Plaza Ground.",
     "French": null,
     "German": "Variationen der Gras-Ornamente die Plaza-Untergrund haben. Einige uPlay-Clubbelohnungen können mit Shift+V umgeschaltet werden, um eine Variation mit Plazaboden zu erhalten.",

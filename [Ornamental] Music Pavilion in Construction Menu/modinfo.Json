@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "免费的可建造音乐亭",
     "English": "Free Buildable Music pavilion",
     "French": null,
     "German": "Frei baubarer Musikpavilion.",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "将音乐馆添加到建筑菜单中。",
     "English": "Adds the music pavilion to the construction menu.",
     "French": null,
     "German": "Fügt den Musikpavilion in das Baumenü ein.",

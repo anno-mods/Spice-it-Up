@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "杂项",
     "English": "Miscellanous",
     "French": null,
     "German": "Verschiedenes",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "苏联标志",
     "English": "Soviet Logo",
     "French": null,
     "German": "Sowjet-Logo",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "为我们的公司增加了一个共产主义认可的标志。",
     "English": "Adds a communism-approved logo for our corporation.",
     "French": null,
     "German": "Fügt Hammer und Sichel als Logo für unser Unternehmen ein.",

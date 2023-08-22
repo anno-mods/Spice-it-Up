@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "没有文化模块限制",
     "English": "No Cultural Module Limits",
     "French": null,
     "German": "Keine Modullimits an Kulturgebäuden.",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "你知道文化建筑有模块限制吗?现在他们没有了",
     "English": "Did you know that cultural buildings have a module limit? well now they don\u0027t.",
     "French": null,
     "German": "Schon gewusst? Kulturgebäude haben ein Modullimit. Jetzt jedenfalls nicht mehr.",

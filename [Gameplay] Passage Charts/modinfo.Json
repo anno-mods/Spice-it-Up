@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "通道地图",
     "English": "Passage Charts",
     "French": null,
     "German": "Karte der Passage",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "在游戏中增加了一个物品，可以发现整个北极区域，只能通过收集丢失的北极货物来获得",
     "English": "Adds an Item to the game which will discover the entire arctic session, which can only be obtained by collecting lost arctic cargo",
     "French": null,
     "German": "Fügt ein Item hinzu, welches die gesamte Arktis-Session inklusive nördlichem Nebel aufdeckt. Dieses Item kann nur in den Schrottkisten im Nebel gefunden werden,",

@@ -4,7 +4,7 @@
     "IncompatibleIds": null,
     "ModDependencies": null,
     "Category": {
-        "Chinese": null,
+        "Chinese": "插件",
         "English": "Addon",
         "French": null,
         "German": "Addon",
@@ -18,7 +18,7 @@
         "Czech": null
     },
     "ModName": {
-        "Chinese": null,
+        "Chinese": "港口生活",
         "English": "Harborlife",
         "French": null,
         "German": "Hafenstadt",
@@ -32,7 +32,7 @@
         "Czech": null
     },
     "Description": {
-        "Chinese": null,
+        "Chinese": "从750名工匠开始，用一组经过改造的建筑在港口地区建造一座独特的城市。",
         "English": "Build a unique city in the harbor area with a set of reworked buildings, starting with 750 artisans.",
         "French": null,
         "German": "Baue eine einzigartige Hafenstadt mit dafür vorgesehenen Gebäudevarianten ab 750 Handwerkern",
@@ -47,7 +47,7 @@
     },
     "KnownIssues": [
         {
-            "Chinese": null,
+            "Chinese": "",
             "English": "Permits for Harbour Scholar Residences can only be obtained by researching new ones.",
             "French": null,
             "German": "Genehmigungen für Hafen-Gelehrtenhäuser können nur durch das Erforschen neuer Genehmigungen erlangt werden.",

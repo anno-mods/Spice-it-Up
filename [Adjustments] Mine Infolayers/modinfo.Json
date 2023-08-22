@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "调整",
     "English": "Adjustments",
     "French": null,
     "German": "Anpassung",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "矿槽资源显示",
     "English": "Mine Infolayers",
     "French": null,
     "German": "Minen-Infoicons",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "矿槽上方的图标将直接显示它们包含的资源。",
     "English": "The Icon above mine slots will directly show what resource they contain.",
     "French": null,
     "German": "Die Icons über Rohstoffvorkommen zeigen direkt an, von welcher Art diese sind.",

@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "世博会装饰品",
     "English": "World's Fair Ornaments",
     "French": null,
     "German": "Weltausstellungs-Ornamente",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "世界上大多数博览会的装饰品都是默认的，并且是无限的。",
     "English": "Most of the world's fair ornaments are buildable by default and unlimited.",
     "French": null,
     "German": "Die meisten Weltausstellungsornamente sind unbegrenzt baubar.",

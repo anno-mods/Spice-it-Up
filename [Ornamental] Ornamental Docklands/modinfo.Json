@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "装饰",
     "English": "Ornamental",
     "French": null,
     "German": "Zierobjekte",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "观赏码头区",
     "English": "Ornamental Docklands",
     "French": null,
     "German": "Zier-Speicherstadt",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加了观赏版本的码头区，可以建立无限。",
     "English": "Adds ornamental versions of the Docklands which can be built infinitly.",
     "French": null,
     "German": "Fügt den Speicherstadt-bausatz als Ornamente hinzu, die unbegrenzt gebaut werden können.",

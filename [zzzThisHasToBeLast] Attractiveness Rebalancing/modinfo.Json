@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "Addon",
     "French": null,
     "German": "Addon",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "吸引力调整",
     "English": "Attractiveness Rebalancing",
     "French": null,
     "German": "Attraktivitäts-Balancing",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "将饰品的效果提高四倍，同时将产生吸引力的物品降至地狱。",
     "English": "Quadruples the effectiveness of ornaments while nerfing attractiveness-generating items to hell.",
     "French": null,
     "German": "Vervierfacht die Effektivität von Ornamenten, während die meisten Attraktivitätsgebenden Items generft wurden.",

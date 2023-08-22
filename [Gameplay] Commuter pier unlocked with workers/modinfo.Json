@@ -7,7 +7,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -20,7 +20,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "工人解锁通勤码头",
     "English": "Commuter pier unlocked with Workers",
     "French": null,
     "German": "Pendler-Anlegestelle mit Arbeitern freischalten",
@@ -33,7 +33,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "通勤码头与工人一起解锁，并移到工人施工菜单中。",
     "English": "Commuter pier is unlocked with workers and is moved to the worker construction menu.",
     "French": null,
     "German": "Die Pendler-Anlegestelle wird mit Arbeitern freigeschaltet und ist in deren Hafen-Baumenü zu finden.",

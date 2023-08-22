@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "扩展因纽特商人",
     "English": "Extended Inuit Trader",
     "French": null,
     "German": "Erweiterter Inuit-Händler",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "Qumaq提供少量的天然气供那些不想玩北极地区的主要故事情节的人购买。",
     "English": "Qumaq offers a small amount of gas for purchase for those who do not want to play the main storyline of the arctic region.",
     "French": null,
     "German": "Qumaq bietet an seinem Iglu eine kleine Menge Gas und Arktischen Schrott Verkauf an, für alle, die die Storyquests der Arktis nicht spielen wollen.",

@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "废品加工",
     "English": "Scrapcrafting",
     "French": null,
     "German": "Schrott umwandeln",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "老内特可以从5个废料中提炼出1个漂亮的废料，从5个漂亮的废品中提炼出一个特殊的废料。",
     "English": "Old Nate can craft 1 nice scrap from 5 scrap and 1 special scrap from 5 nice scrap.",
     "French": null,
     "German": "Der alte Nate kann Schrott umwandeln: 5 Schrott -\u003E 1 Schöner Schrott und 5 Schöner Schrott -\u003E 1 Besonderer Schrott",
@@ -44,7 +44,7 @@
   },
   "KnownIssues": [
     {
-      "Chinese": null,
+      "Chinese": "一次只能转化一吨废料",
       "English": "Only one ton of scrap can be transmuted at a time",
       "French": null,
       "German": "Es kann immer nur eine Tonne Schrott umgewandelt werden",

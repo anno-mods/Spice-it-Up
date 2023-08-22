@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "港区货物",
     "English": "Dockland Goods",
     "French": null,
     "German": "Dockland-Handelswaren",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加货物到码头区\n\n旧世界=>砖，钢梁，窗户，钢筋混凝土，甘蔗\n北极=>北极熊皮毛，海豹皮\n安贝沙 =>纸，悍马，编年史\n旅游旺季=>樟树、柑橘\n上流生活=>树脂，樱桃木，漆。",
     "English": "Adds Goods to Docklands \n\nVanilla => Bricks, Steelbeams, Windows, Reinforced Concrete, Sugar Cane \nArctic => Polarbear Fur, Sealskin \nEnbesa => Paper, Hummer, Chronicles \nTourist Season => Camphora, Citrus \nHigh Life => Resin, Cherry Wood, Lacquer.",
     "French": null,
     "German": "Fügt Waren zur Speicherstadt hinzu \n\nVanilla => Ziegelsteine, Stahlträger, Fenster, Stahlbeton, Zuckerrohr \nArktis => Bärenfelle, Robbenfelle \nEnbesa => Papier, Hummer, Chroniken \nReisezeit => Kamfer, Zitrus \nDächer der Stadt => Harz, Kirschholz, Lacke.",

@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "增加了气泵的半径",
     "English": "Increased radius for gas pumps",
     "French": null,
     "German": "Erhöhter Radius für Gaspumpen",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加气泵的半径",
     "English": "Increases the radius of gas pumps",
     "French": null,
     "German": "Erhöht den Einflussbereich von Gaspumpen.",

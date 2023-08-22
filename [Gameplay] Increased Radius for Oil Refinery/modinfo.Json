@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "增加炼油厂半径",
     "English": "Increased radius for oil refineries",
     "French": null,
     "German": "Erhöhter Radius für Ölraffinerien",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "增加炼油厂的半径",
     "English": "Increases the radius of oil refineries",
     "French": null,
     "German": "Erhöht den Einflussbereich von Ölraffinerien.",

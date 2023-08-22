@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "传奇种子",
     "English": "Legendary Seeds",
     "French": null,
     "German": "Legendäres Saatgut",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "传说的种子，为所有生育有种子项目的旧和新世界。",
     "English": "Legendary Seeds for all fertilities that have seed items of the old and new world.",
     "French": null,
     "German": "Legendäres Saatgut für alle Fruchtbarkeiten mit existierenden Saatgutitems der alten und neuen Welt.",

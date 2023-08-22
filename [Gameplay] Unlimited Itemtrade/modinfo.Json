@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "无限贸易",
     "English": "Unlimited Itemtrade",
     "French": null,
     "German": "Unbegrenzter Itemkauf",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "移除可以从商人处购买的物品限制。\n请记住，这个限制只适用于狮子大地，所以如果你没有这个DLC，你不需要这个mod !",
     "English": "Removes the limit on items that can be bought from traders. \nKeep in mind that this limit only is active with Land of Lions, so you don't need this mod if you don't have this DLC!",
     "French": null,
     "German": "Entfernt das Limit auf Items, die bei Händlern gekauft werden können. \nDieses Limit gilt nur mit dem \"Land der Löwen\"-DLC, ansonsten ist die Mod überflüssig. ",

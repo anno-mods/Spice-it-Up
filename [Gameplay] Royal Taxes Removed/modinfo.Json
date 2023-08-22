@@ -6,7 +6,7 @@
   ],
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -19,7 +19,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "取消皇家税收",
     "English": "Royal Taxes Removed",
     "French": null,
     "German": "Königliche Steuern entfernt",
@@ -32,7 +32,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "取消王家税收，以换取投资者层面30%的收入削减。啤酒和朗姆酒的价格减少了15%。",
     "English": "Removes royal taxes in exchange for a 30% income cut at investor level. Beer and rum money was reduced by 15%.",
     "French": null,
     "German": "Entfernt königliche Steuern. Generierung von Geld angepasst: 30% weniger durch Investoren. Einkommen aus Bier und Rum um 15% reduziert",

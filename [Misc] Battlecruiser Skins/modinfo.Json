@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "杂项",
     "English": "Miscellanous",
     "French": null,
     "German": "Verschiedenes",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "巡洋舰皮肤",
     "English": "Battlecruiser Skins",
     "French": null,
     "German": "Schlachtkreuzer-Skins",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "为战列巡洋舰增加了三种新的皮肤。对于每个有一点建模经验的人来说，有一个用于油漆区域的灰度地图和一个默认的战列巡洋舰颜色地图，包括制作自己的皮肤。",
     "English": "Adds three new skins for battlecruisers. For everyone with a bit of modding experience there is a grayscale map for paint areas and a default battlecruiser color map included to make own skins.",
     "French": null,
     "German": "Fügt drei neue Skins für Schlachtkreuzer hinzu. Für jeden mit ein wenig Moddingerfahrung ist eine Graustufen-Textur für die bemalten Texturteile und eine Standard-Schlachtkreuzer-diffuse-Textur enthalten.",

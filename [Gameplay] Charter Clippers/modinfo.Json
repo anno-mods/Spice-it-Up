@@ -4,7 +4,7 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "Chinese": null,
+    "Chinese": "游戏玩法",
     "English": "Gameplay",
     "French": null,
     "German": "Spielablauf",
@@ -17,7 +17,7 @@
     "Taiwanese": null
   },
   "ModName": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "Charter Clippers",
     "French": null,
     "German": "Klipper mieten",
@@ -30,7 +30,7 @@
     "Taiwanese": null
   },
   "Description": {
-    "Chinese": null,
+    "Chinese": "",
     "English": "higher capacity and cost of charter routes, which is represented by chartering a clipper on them.",
     "French": null,
     "German": "Höhere Kapazität und Kosten von Charterrouten. Anstatt einem Schooner wird ein Klipper gechartert.",
