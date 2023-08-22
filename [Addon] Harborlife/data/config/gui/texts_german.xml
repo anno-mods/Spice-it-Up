@@ -435,5 +435,23 @@
       <GUID>1440137008</GUID>
       <Text>[AssetData(5164) Text]</Text>
     </Text>
+    
+    <!-- Post Offices and Mailboxes -->
+    <Text>
+      <GUID>1440137100</GUID>
+      <Text>[AssetData(3741) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440137101</GUID>
+      <Text>[AssetData(538) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440137110</GUID>
+      <Text>[AssetData(3761) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440137111</GUID>
+      <Text>[AssetData(3661) Text]</Text>
+    </Text>
   </ModOp>
 </ModOps>

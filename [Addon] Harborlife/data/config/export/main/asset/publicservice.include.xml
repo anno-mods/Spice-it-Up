@@ -1,7 +1,7 @@
 <ModOps>
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
 	<!-- OW|Service      GUIDS 8856008,8856009,8856010   - TXT 8860008,8860009,8860010   - TRG 8856108,8856109,8856110   # -->
-	<!--                 GUIDS 8856011,8856012,8856013   - TXT 8860011,8860012   - TRG 8856111,8856112,8856113   # -->
+	<!--                 GUIDS 8856011,8856012,8856013   - TXT 8860011,8860012           - TRG 8856111,8856112,8856113   # -->
 	<!--                 GUIDS 8856014,8856015,8856016   - TXT 8860014,8860015,8860016   - TRG 8856114,8856115,8856116   # -->
 	<!-- SA|Service      GUIDS 8856017,8856018,8856019   - TXT 8860017,8860018,8860019   - TRG 8856117,8856118,8856119   # -->
 	<!-- AR|Service      GUIDS                           - TXT                           - TRG                           # -->
@@ -10,6 +10,15 @@
 	<!-- Police Dep.     GUIDS 8855052,8855053           - TXT 8850052,8850053           - TRG 8855152,8855153           # -->
 	<!-- Hospital        GUIDS 8855054                   - TXT 8850054                   - TRG 8855541,8855542*          # -->
 	<!--                 GUIDS 8855055                   - TXT 8850055                   - TRG 8855551,8855552*          # -->
+	<!--                                                                                                                 # -->
+	<!-- Cinema NW       GUIDS 1440137004                - TXT -/-                       - TRG 1440137005                # -->
+	<!-- Dance School NW GUIDS 1440137006                - TXT -/-                       - TRG 1440137007                # -->
+	<!-- Powerplant NW   GUIDS 1440137008                - TXT -/-                       - TRG 1440137009                # -->
+	<!--                                                                                                                 # -->
+	<!-- Postoffice OW   GUIDS 1440137100                - TXT -/-                       - TRG 1440137102, 1440137103*   # -->
+	<!-- Mailbox OW      GUIDS 1440137101                - TXT -/-                       - TRG 1440137102, 1440137103*   # -->
+	<!-- Postoffice NW   GUIDS 1440137110                - TXT -/-                       - TRG 1440137112, 1440137113*   # -->
+	<!-- Mailbox NW      GUIDS 1440137111                - TXT -/-                       - TRG 1440137112, 1440137113*   # -->
 	<!--                                                                                       UH & UL Trigger*          # -->
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
 
@@ -926,6 +935,7 @@
 		</Asset>
 	</ModOp>
 
+	<!-- NW Cinema -->
 	<ModOp GUID='6018' Type="addNextSibling">
 		<Asset>
 			<BaseAssetGUID>6018</BaseAssetGUID>
@@ -976,6 +986,7 @@
 			</Values>
 		</Asset>
 	</ModOp>
+	<!-- NW Dance School -->
 	<ModOp GUID='5840' Type="addNextSibling">
 		<Asset>
 			<BaseAssetGUID>5840</BaseAssetGUID>
@@ -1259,6 +1270,136 @@
 			</Values>
 		</Asset>
 	</ModOp>
+	
+	<!-- Post Office | UL 750A -->
+	<ModOp Type="addNextSibling" GUID="3741">
+		<Asset>
+			<BaseAssetGUID>3741</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137100</GUID>
+					<Name>harbor post office</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/mail/icon_post_office_dlc11.png</IconFilename>
+				</Standard>
+				
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				
+				<Cost/>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc11/graphics/harborlife/public/postoffice/postoffice_01.cfg</Filename>
+						</Item>
+					</Variations>
+					<Skins>
+					<!-- TODO? -->
+						<DefaultSkinName>3741</DefaultSkinName>
+						<DefaultSkinDescription>23853</DefaultSkinDescription>
+						<DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+					</Skins>
+				</Object>
+				<Mesh />
+				<Selection/>
+				<Text/>
+				<Constructable />
+				<Locked/>
+				<SoundEmitter/>
+				<Infolayer />
+				<Factory7 />
+				<FactoryBase>
+					<IsMainFactory>0</IsMainFactory>
+				</FactoryBase>
+				<LogisticNode/>
+				<Maintenance/>
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>600</MaximumHitPoints>
+					<DefenseByAIFactor>0</DefenseByAIFactor>
+					<MoralePower>0</MoralePower>
+				</Attackable>
+				<Pausable/>
+				<UpgradeList />
+				<ItemContainer/>
+				<Postbox/>
+				<StorageBase/>
+				<Warehouse/>
+				<FeedbackController />
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	<!-- Mailbox | UL 750A -->
+	<ModOp Type="addNextSibling" GUID="538">
+		<Asset>
+			<BaseAssetGUID>538</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137101</GUID>
+					<Name>harbor post box</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/mail/icon_postbox_b.png</IconFilename>
+				</Standard>
+				
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>601492</GroundDecalAsset>
+					<GroundDecalInvisible>601493</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				
+				<Cost/>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc11/graphics/harborlife/special/mailbox/mailbox_01.cfg</Filename>
+						</Item>
+					</Variations>
+					<Skins>
+					<!-- TODO? -->
+						<DefaultSkinName>538</DefaultSkinName>
+						<DefaultSkinDescription>23853</DefaultSkinDescription>
+						<DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+					</Skins>
+				</Object>
+				<Mesh />
+				<Selection/>
+				<Text/>
+				<Constructable />
+				<Locked/>
+				<SoundEmitter/>
+				<Infolayer />
+				<Factory7 />
+				<FactoryBase/>
+				<LogisticNode/>
+				<Maintenance/>
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>250</MaximumHitPoints>
+					<DefenseByAIFactor>0</DefenseByAIFactor>
+					<MoralePower>0</MoralePower>
+				</Attackable>
+				<Pausable/>
+				<UpgradeList />
+				<ItemContainer/>
+				<Postbox/>
+				<StorageBase/>
+				<Warehouse/>
+				<FeedbackController />
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	
 	<!--////////// SOUTH /////////////// -->
 	<!-- Fire Department   | UH 50J / UL 200J -->
 	<ModOp Type="addNextSibling" GUID="101275">
@@ -1433,6 +1574,129 @@
 		</Asset>
 	</ModOp>
 
+	<!-- Post Office | UL 300Ob. -->
+	<ModOp Type="addNextSibling" GUID="3761">
+		<Asset>
+			<BaseAssetGUID>3761</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137110</GUID>
+					<Name>harbor post office NW</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/mail/icon_post_office_dlc11.png</IconFilename>
+				</Standard>
+				
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost/>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc11/graphics/harborlife/public/postoffice/postoffice_colony_01.cfg</Filename>
+						</Item>
+					</Variations>
+					<Skins>
+					<!-- TODO? -->
+						<DefaultSkinName>3761</DefaultSkinName>
+						<DefaultSkinDescription>23853</DefaultSkinDescription>
+						<DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+					</Skins>
+				</Object>
+				<Mesh />
+				<Selection/>
+				<Text/>
+				<Constructable />
+				<Locked/>
+				<SoundEmitter/>
+				<Infolayer />
+				<Factory7 />
+				<FactoryBase/>
+				<LogisticNode/>
+				<Maintenance/>
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>600</MaximumHitPoints>
+					<DefenseByAIFactor>0</DefenseByAIFactor>
+					<MoralePower>0</MoralePower>
+				</Attackable>
+				<Pausable/>
+				<UpgradeList />
+				<ItemContainer/>
+				<Postbox/>
+				<StorageBase/>
+				<Warehouse/>
+				<FeedbackController />
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	<!-- Mailbox | UL 300Ob. -->
+	<ModOp Type="addNextSibling" GUID="3661">
+		<Asset>
+			<BaseAssetGUID>3661</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1440137111</GUID>
+					<Name>harbor post box NW</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/mail/icon_postbox_b.png</IconFilename>
+				</Standard>
+				<Building>
+					<TerrainType>Water_Including_Coast</TerrainType>
+					<SecondPartyRelevant>0</SecondPartyRelevant>
+				</Building>
+				<Blocking>
+					<GroundDecalAsset>132528</GroundDecalAsset>
+					<GroundDecalInvisible>132529</GroundDecalInvisible>
+					<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+				</Blocking>
+				<Cost/>
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/dlc11/graphics/harborlife/special/mailbox/mailbox_01.cfg</Filename>
+						</Item>
+					</Variations>
+					<Skins>
+					<!-- TODO? -->
+						<DefaultSkinName>3661</DefaultSkinName>
+						<DefaultSkinDescription>23853</DefaultSkinDescription>
+						<DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+					</Skins>
+				</Object>
+				<Mesh />
+				<Selection/>
+				<Text/>
+				<Constructable />
+				<Locked/>
+				<SoundEmitter/>
+				<Infolayer />
+				<Factory7 />
+				<FactoryBase/>
+				<LogisticNode/>
+				<Maintenance/>
+				<Attackable>
+					<AttackableType>HarbourBuilding</AttackableType>
+					<MaximumHitPoints>250</MaximumHitPoints>
+					<DefenseByAIFactor>0</DefenseByAIFactor>
+					<MoralePower>0</MoralePower>
+				</Attackable>
+				<Pausable/>
+				<UpgradeList />
+				<ItemContainer/>
+				<Postbox/>
+				<StorageBase/>
+				<Warehouse/>
+				<FeedbackController />
+			</Values>
+		</Asset>
+	</ModOp>
+	
 	<!-- # Department Store Assets -->
 	<ModOp GUID="135194" Type="addNextSibling">
 		<Asset>
