@@ -173,7 +173,7 @@
                 <Object>
                     <Variations>
                         <Item>
-                            <Filename>data/dlc03/graphics/buildings/special/heat_building/heating_building_01.cfg</Filename>
+                            <Filename>data/graphics/buildings/special/heat_building_gas/heating_building_01.cfg</Filename>
                         </Item>
                     </Variations>
                 </Object>
