@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_InfluenceRabalancing",
   "IncompatibleIds": [
     "Spice_InfluenceRemoved"
@@ -48,5 +48,6 @@
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null
+  "Image" : null,
+  "ModioResourceId":3211342
 }

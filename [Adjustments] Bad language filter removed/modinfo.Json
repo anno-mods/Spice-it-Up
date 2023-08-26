@@ -1,9 +1,7 @@
 {
-  "Version": "1",
+  "Version": "1.0.1",
   "ModID": "Spice_LanguageFilter",
-  "IncompatibleIds": [
-    "NewHorizons"
-  ],
+  "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "调整",

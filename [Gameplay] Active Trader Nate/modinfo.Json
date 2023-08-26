@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.2.1",
   "ModID": "Spice_ActiveTradeNate",
   "IncompatibleIds": [
     "NewHorizons"
@@ -53,5 +53,6 @@
   ],
   "CreatorName": "Spice it up-Team: Troubadix",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null
+  "Image" : null,
+  "ModioResourceId":3210520
 }

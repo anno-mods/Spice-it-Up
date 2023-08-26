@@ -1,9 +1,7 @@
 {
-  "Version": "1.3",
+  "Version": "1.3.1",
   "ModID": "Spice_InuitGas",
-  "IncompatibleIds": [
-    "NewHorizons"
-  ],
+  "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
@@ -53,5 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null
+  "Image" : null,
+  "ModioResourceId": 3211358
 }

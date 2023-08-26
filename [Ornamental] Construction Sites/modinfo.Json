@@ -1,5 +1,5 @@
 {
-  "Version": "1.1",
+  "Version": "1.1.1",
   "ModID": "Spice_ConstructionSites",
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -45,5 +45,6 @@
   "KnownIssues": null,
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: Taubenangriff",
-  "CreatorContact": "https://discord.gg/YTQGDFK"
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "ModioResourceId": 3211599
 }

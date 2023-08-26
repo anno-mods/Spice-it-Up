@@ -1,9 +1,7 @@
 {
-  "Version": "1.1",
+  "Version": "1.1.1",
   "ModID": "Spice_PlazaDecoration",
-  "IncompatibleIds": [
-    "NewHorizons"
-  ],
+  "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
@@ -48,5 +46,6 @@
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null
+  "Image" : null,
+  "ModioResourceId" : 3211659
 }

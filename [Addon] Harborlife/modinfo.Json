@@ -1,5 +1,5 @@
 {
-    "Version": "1.6.1",
+    "Version": "1.6.2",
     "ModID": "Spice_Harborlife",
     "IncompatibleIds": null,
     "ModDependencies": null,
@@ -69,5 +69,6 @@
     ],
     "CreatorName": "Spice it up-Team: Mystiquebee84",
     "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
-    "Image": null
+    "Image": null,
+    "ModioResourceId":3210445
 }

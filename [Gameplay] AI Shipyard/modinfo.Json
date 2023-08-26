@@ -1,9 +1,7 @@
 {
-    "Version": "1.5",
+    "Version": "1.5.1",
     "ModID": "Spice_AIShipyard",
-    "IncompatibleIds": [
-        "NewHorizons"
-    ],
+    "IncompatibleIds": null,
     "ModDependencies": null,
     "Category": {
         "Chinese": "游戏玩法",
@@ -56,5 +54,6 @@
     ],
     "CreatorName": "Spice it up-Team: kskudlik",
     "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
-    "Image": null
+    "Image": null,
+    "ModioResourceId":3210534
 }
