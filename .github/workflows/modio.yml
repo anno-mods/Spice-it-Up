@@ -1,0 +1,81 @@
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      changed_directories: ${{ steps.set-output.outputs.changed_directories }}  # The `dirs` doesn't exist in the outputs of changed-files@v35 action.
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v38
+        with:
+          dir_names_exclude_current_dir : true
+          files-ignore: |
+            ".github"
+          dir_names: true
+          dir_names_max_depth: 1  # This is optional. If not provided, full subdirectories' paths will be provided. Use it if you need to trim the output. See docs for details: https://github.com/tj-actions/changed-files/tree/main#inputs.
+          json: true
+          quotepath: false
+
+      - name: 'Set output in the matrix format'
+        id: set-output
+        run: echo "changed_directories={\"dir\":${{ steps.changed-files.outputs.all_changed_files }}}" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ needs.setup.outputs.changed_directories != '' }}  # Without it, the strategy parser will fail if the changed_directories is empty.
+    strategy:
+      matrix: ${{fromJson(needs.setup.outputs.changed_directories)}}
+    needs:
+      - setup
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
+      - name: Check file existence
+        id: check_files
+        run: |
+          FILE='${{ matrix.dir }}/modinfo.Json'
+          echo $FILE
+          if [ -f "$FILE" ]; then
+            echo "check_result=true" >> $GITHUB_OUTPUT
+          else
+            echo "check_result=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Build Mod File
+        run: zip -r mod.zip "${{ matrix.dir }}"
+        if: steps.check_files.outputs.check_result == 'true'
+
+      - name: Extract Metadata 
+        if: steps.check_files.outputs.check_result == 'true'
+        id: metadata 
+        run: | 
+          MOD_ID=$(jq '.ModioResourceId' '${{ matrix.dir }}/modinfo.Json')
+          VERSION_ID=$(jq '.Version' '${{ matrix.dir }}/modinfo.Json')
+          VERSION_ID=`sed -e 's/^"//' -e 's/"$//' <<<"$VERSION_ID"`
+
+          echo "MOD=$MOD_ID" >> $GITHUB_OUTPUT
+          echo "VERSION=$VERSION_ID" >> $GITHUB_OUTPUT
+
+      - uses: nickelc/upload-to-modio@v2.1.0
+        if: steps.check_files.outputs.check_result == 'true'
+        name: Upload to Modio
+        with:
+          token: ${{ secrets.MODIO_TOKEN }}
+          game: 4169
+          mod: ${{ steps.metadata.outputs.MOD }}
+          version: ${{ steps.metadata.outputs.VERSION }}
+          path: mod.zip
+      
+      
+    
