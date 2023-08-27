@@ -28,10 +28,6 @@ After Installing the Modloader, you need to add your mods into `C:\Program Files
 
 **Harborlife**
 - Build a unique city in your Harbor Area, starting with 750 artisans. Works for the Old and the New World. 
-
-**Sandbox Mode**
-- Adds a sandbox where you have everything unlocked at the start. 
-
 ---
 
 ## Adjustments
@@ -195,14 +191,8 @@ After Installing the Modloader, you need to add your mods into `C:\Program Files
 **Player Color Red**
 - Switches Red and Black player colors so you can choose the red one in your game profile
 
-**Soviet Logo**
-- Stalinium approved Logo, comrade. 
-
 **Thomas the Dank Engine**
 - Don't even dare to ask how we got the idea. 
-
-**Visual Feedback for Twitch Drops**
-- Your residents don't like this kind of advertisment, and will probably start a revolution. 
 
 **Miss Jenny Retexture**
 - A little retexture for the Miss Jenny NPC from the High Life Storyline. 
