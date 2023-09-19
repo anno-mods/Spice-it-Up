@@ -25,7 +25,7 @@
     <Value>2</Value>
   </ModOp>
 
-  <ModOp Type = "replace" GUID = '191731,191698,190732'>
+  <ModOp Type = "replace" Path = "/Values/CultureUpgrade/AttractivenessUpgrade/Value" GUID = '191731,191698,190732'>
     <Value>6</Value>
   </ModOp>
 </ModOps>
