@@ -1,0 +1,4 @@
+1.01:
+- instead of removing the lighthouse via trigger when it is most likely already too late for especially mods using the ai lighthouse to identify AIs, we will instead use the "OwnerChangeTarget" mechanic, so the GUID is changed before it changes owner. 
+1.02:
+- made this mod load after a potential "Dont destroy on takeover mod" I might make (maybe not, but it does not hurt to add it to LoadAfterIds)
