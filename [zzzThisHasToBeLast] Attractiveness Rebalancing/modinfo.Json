@@ -1,8 +1,9 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_Attractiveness",
   "IncompatibleIds": null,
   "ModDependencies": null,
+  "LoadAfterIds": ["*"],
   "Category": {
     "Chinese": "",
     "English": "Addon",
