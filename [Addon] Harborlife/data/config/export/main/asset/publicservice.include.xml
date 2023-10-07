@@ -50,6 +50,29 @@
 							<Filename>data/graphics/hc/buildings/service/oldworld/market/market_ow.cfg</Filename>
 						</Item>
 					</Variations>
+					<Skins>
+						<DefaultSkinName>8856008</DefaultSkinName>
+						<DefaultSkinDescription>23853</DefaultSkinDescription>
+						<DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+						<OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_market_default.png</OverrideDefaultIcon>
+						<SkinList>
+							<Item>
+								<SkinAssetGuid>1337504116</SkinAssetGuid>
+							</Item>
+							<Item>
+								<SkinAssetGuid>1337504117</SkinAssetGuid>
+							</Item>
+							<Item>
+								<SkinAssetGuid>1337504118</SkinAssetGuid>
+							</Item>
+							<Item>
+								<SkinAssetGuid>1337504119</SkinAssetGuid>
+							</Item>
+							<Item>
+								<SkinAssetGuid>1337504120</SkinAssetGuid>
+							</Item>
+						</SkinList>
+					</Skins>
 				</Object>
 				<Constructable />
 				<Mesh />
@@ -801,6 +824,17 @@
 							<Filename>data/graphics/hc/buildings/service/south/market/market_sa.cfg</Filename>
 						</Item>
 					</Variations>
+					<Skins>
+						<DefaultSkinName>8856017</DefaultSkinName>
+						<DefaultSkinDescription>23853</DefaultSkinDescription>
+						<DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+						<OverrideDefaultIcon>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc11/icon_market_default.png</OverrideDefaultIcon>
+						<SkinList>
+							<Item>
+								<SkinAssetGuid>1337504121</SkinAssetGuid>
+							</Item>
+						</SkinList>
+					</Skins>
 				</Object>
 				<Constructable />
 				<Mesh />

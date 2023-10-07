@@ -19,6 +19,9 @@
 
 <ModOps>
     <Include File = './residence.include.xml'/>
+	
+	<Include File = './publicservice_skins.include.xml'/>
+	
 	<Include File = './publicservice.include.xml'/>
 	<Include File = './itemeffects.include.xml'/>
 	<Include File = "./ornaments.include.xml" />

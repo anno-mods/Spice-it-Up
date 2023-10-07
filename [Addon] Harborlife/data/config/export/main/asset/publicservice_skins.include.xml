@@ -1,0 +1,162 @@
+<ModOps>
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
+	
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  # -->
+
+
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - Marktplatzskins AW - - - - - - - - - - - - - - - - - - - - - - - - -->
+	<ModOp Type="addNextSibling" GUID='753'>
+	<!-- ChristmasSkin Marketplace -->
+		<Asset>
+			<Template>Skin</Template>
+			<Values>
+				<Standard>
+					<GUID>1337504116</GUID>
+					<Name>ChristmasSkin Marketplace</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_market_christmas.png</IconFilename>
+					<ID>ChristmasSkin_Marketplace1</ID>
+				</Standard>
+				<Skin>
+					<SkinName>143057</SkinName>
+					<SkinDescription>5776</SkinDescription>
+					<SkinVariations>
+						<Item>
+							<FileName>data\graphics\hc\buildings\service\oldworld\market\logistic_01_christmas\logistic_01_christmas.cfg</FileName>
+						</Item>
+					</SkinVariations>
+					<SkinCategoryDescription>5757</SkinCategoryDescription>
+				</Skin>
+				<Locked />
+				<Text />
+			</Values>
+		</Asset>
+	<!-- Skin Marketplace S01 -->
+		<Asset>
+			<Template>Skin</Template>
+			<Values>
+				<Standard>
+					<GUID>1337504117</GUID>
+					<Name>Skin Marketplace S01</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_market_01.png</IconFilename>
+					<ID>cdlc06_SkinMarketplace_S01</ID>
+				</Standard>
+				<Skin>
+					<SkinName>758</SkinName>
+					<SkinDescription>759</SkinDescription>
+					<SkinVariations>
+						<Item>
+							<FileName>data\graphics\hc\buildings\service\oldworld\market\logistic_01_01\logistic_01_01.cfg</FileName>
+						</Item>
+					</SkinVariations>
+					<SkinCategoryDescription>5757</SkinCategoryDescription>
+				</Skin>
+				<Locked />
+				<Text />
+			</Values>
+		</Asset>
+	<!-- Skin Marketplace S02 -->
+		<Asset>
+			<Template>Skin</Template>
+			<Values>
+				<Standard>
+					<GUID>1337504118</GUID>
+					<Name>Skin Marketplace S02</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_market_02.png</IconFilename>
+					<ID>cdlc06_SkinMarketplace_S02</ID>
+				</Standard>
+				<Skin>
+					<SkinName>760</SkinName>
+					<SkinDescription>761</SkinDescription>
+					<SkinVariations>
+						<Item>
+							<FileName>data\graphics\hc\buildings\service\oldworld\market\logistic_01_02\logistic_01_02.cfg</FileName>
+						</Item>
+					</SkinVariations>
+					<SkinCategoryDescription>5757</SkinCategoryDescription>
+				</Skin>
+				<Locked />
+				<Text />
+			</Values>
+		</Asset>
+	<!-- Skin Marketplace S03 -->
+		<Asset>
+			<Template>Skin</Template>
+			<Values>
+				<Standard>
+					<GUID>1337504119</GUID>
+					<Name>Skin Marketplace S03</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc06/icon_market_03.png</IconFilename>
+					<ID>cdlc06_SkinMarketplace_S03</ID>
+				</Standard>
+				<Skin>
+					<SkinName>762</SkinName>
+					<SkinDescription>763</SkinDescription>
+					<SkinVariations>
+						<Item>
+							<FileName>data\graphics\hc\buildings\service\oldworld\market\logistic_01_03\logistic_01_03.cfg</FileName>
+						</Item>
+					</SkinVariations>
+					<SkinCategoryDescription>5757</SkinCategoryDescription>
+				</Skin>
+				<Locked />
+				<Text />
+			</Values>
+		</Asset>
+	<!-- Skin CDLC11 Marketplace -->
+		<Asset>
+			<Template>Skin</Template>
+			<Values>
+				<Standard>
+					<GUID>1337504120</GUID>
+					<Name>CDLC11 Marketplace</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc11/icon_market_01.png</IconFilename>
+					<ID>CDLC11_Marketplace</ID>
+				</Standard>
+				<Skin>
+					<SkinName>20923</SkinName>
+					<SkinDescription>20924</SkinDescription>
+					<SkinVariations>
+						<Item>
+							<FileName>data\graphics\hc\buildings\service\oldworld\market\service_colony01_01_v1\service_colony01_01_v1.cfg</FileName>
+						</Item>
+					</SkinVariations>
+					<SkinCategoryDescription>20881</SkinCategoryDescription>
+				</Skin>
+				<Locked />
+				<Text />
+			</Values>
+		</Asset>
+		
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - Marktplatzskins NW - - - - - - - - - - - - - - - - - - - - - - - - -->	
+	<!-- Skin CCDLC11 Marketplace Fancy -->
+		<Asset>
+			<Template>Skin</Template>
+			<Values>
+				<Standard>
+					<GUID>1337504121</GUID>
+					<Name>CDLC11 Marketplace Fancy</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/ornaments/cosmetic_dlc11/icon_market_02.png</IconFilename>
+					<ID>CCDLC11_Marketplace_Fancy</ID>
+				</Standard>
+				<Skin>
+					<SkinName>21098</SkinName>
+					<SkinDescription>21099</SkinDescription>
+					<SkinVariations>
+						<Item>
+							<FileName>data\graphics\hc\buildings\service\south\market\service_colony01_01_v2\service_colony01_01_v2.cfg</FileName>
+						</Item>
+					</SkinVariations>
+					<SkinCategoryDescription>20881</SkinCategoryDescription>
+				</Skin>
+				<Locked />
+				<Text />
+			</Values>
+		</Asset>
+	</ModOp>
+	
+	
+	
+	
+	
+	
+</ModOps>

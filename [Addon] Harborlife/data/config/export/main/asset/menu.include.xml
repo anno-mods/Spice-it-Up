@@ -80,14 +80,14 @@
         </Item>
     </ModOp>
     <!-- harbor category before Sailing Shipyard -->
-    <ModOp Type="addPrevSibling" GUID="500903" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010520']">
+    <ModOp Type="addPrevSibling" GUID="500111" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010520']">
         <Item>
             <Building>8855881</Building>
         </Item>
     </ModOp>
     <!-- Remove Depot from "harbor t1" & "Cat. Harbor"-->
     <ModOp Type="remove" GUID="500952" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010519']"/>
-    <ModOp Type="remove" GUID="500903" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010519']"/>
+    <ModOp Type="remove" GUID="500111" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010519']"/>
     <!-- Lighthouse                      (at the end)  -->
     <!-- harbour tier02 -->
     <ModOp Type="add" GUID="500953" Path="/Values/ConstructionCategory/BuildingList">
@@ -96,7 +96,7 @@
         </Item>
     </ModOp>
     <!-- harbor category -->
-    <ModOp Type="add" GUID="500903" Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID="500111" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>901006</Building>
         </Item>
@@ -407,3 +407,4 @@
         </Item>
     </ModOp>
 </ModOps>
+<!-- 2023-10-07 14:34:22 -->
