@@ -10,9 +10,9 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 # Installation Instructions 
 
-You need to install the [Anno 1800 Modloader](https://github.com/xforce/anno1800-mod-loader). Installation instructions can be found [here](https://github.com/xforce/anno1800-mod-loader#installation). 
+You can easily subscribe to mods individually on [mod.io](https://mod.io/g/anno-1800?_q=Spice+It+up)
 
-After Installing the Modloader, you need to add your mods into `C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Anno 1800\mods` assuming Default Uplay Path.
+For manual installation, you need to download the `Spice-it-Up.zip` on the release, unpack it and add your mods into `C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Anno 1800\mods` assuming Default Uplay Path.
 
 # Contents of the Mod package
 
