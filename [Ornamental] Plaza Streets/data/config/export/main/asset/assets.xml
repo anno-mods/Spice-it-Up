@@ -141,6 +141,11 @@
                 </Blocking>
                 <Building>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>1440134608</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
                 </Building>
                 <Cost />
                 <Selection />
