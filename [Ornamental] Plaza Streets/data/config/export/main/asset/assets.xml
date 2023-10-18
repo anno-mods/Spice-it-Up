@@ -141,6 +141,14 @@
                 </Blocking>
                 <Building>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                    <InfluencedByNeighbors>
+                        <Item>
+                            <Building>1440134608</Building>
+                        </Item>
+                        <Item>
+                            <Building>269303</Building>
+                        </Item>
+                    </InfluencedByNeighbors>
                 </Building>
                 <Cost />
                 <Selection />
@@ -157,6 +165,13 @@
                 <Pausable />
             </Values>
         </Asset>
+    </ModOp>
+
+    <!-- Allow regular promenade paving to connect to promenade street. -->
+    <ModOp GUID='269303' Type="add" Path="/Values/Building/InfluencedByNeighbors">
+        <Item>
+            <Building>1440134608</Building>
+        </Item>
     </ModOp>
 
     <!-- Base Tile -->
