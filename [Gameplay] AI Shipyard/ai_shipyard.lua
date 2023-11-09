@@ -59,20 +59,24 @@ local AiLimit = 3
 
 local DoNotCount = {
 	["queen"] = 1, 
-	["nate"] = 1
+	["nate"] = 1,
+	["harlow"] = 1,
+	["fortune"] = 1
 }
 
 --#region FUNCTIONS
 
 local function Accept(ParticipantName)
+	ts.Participants.CheatCreateParticipant_IfNecessary(ParticipantID[ParticipantName])
 	ts.SessionParticipants.SetCheatCreateSessionParticipant(ParticipantID[ParticipantName])
 	ts.Quests.StartQuestForCurrentPlayerNet(AcceptQuest[ParticipantName])
 end
 
 local function IsDefinedByID(ParticipantID)
-	local participant = ts.SessionParticipants.GetParticipant(ParticipantID).GUID
-	local result = participant ~= 0
-	return result
+	--local participant = ts.SessionParticipants.GetParticipant(ParticipantID).GUID
+	--local result = participant ~= 0
+	--return result
+	return ts.Participants.GetTradeRightsSuccess(ParticipantID) ~= ""
 end
 
 
