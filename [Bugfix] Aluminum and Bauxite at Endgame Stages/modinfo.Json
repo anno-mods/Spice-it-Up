@@ -1,0 +1,59 @@
+{
+    "Version": "1.0.0",
+    "ModID": "Spice_BauxiteFix",
+    "IncompatibleIds": null,
+    "ModDependencies": null,
+    "Category": {
+        "Chinese": null,
+        "English": "Bugfix",
+        "French": null,
+        "German": "Bugfix",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "ModName": {
+        "Chinese": null,
+        "English": "Bauxite and Aluminum at Endgame",
+        "French": null,
+        "German": "Bauxit und Aluminium im Endgame",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "Description": {
+        "Chinese": null,
+        "English": "Archibald Blake continues selling Bauxite at Endgame Stage\n\nIsabel Sarmento continues selling Aluminum Profiles at Endgame Stage",
+        "French": null,
+        "German": "Archibald Blake verkauft Bauxite auch im Endgame\n\nIsabel Sarmento verkauft Aluminiumprofile auch im Endgame.",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [
+        {
+            "DLC": "EmpireOfTheSkies",
+            "Dependant": "required"
+        }
+    ],
+    "CreatorName": "Spice it up-Team: Taubenangriff",
+    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
+    "Image": null,
+    "ModioResourceId": 3510671
+}

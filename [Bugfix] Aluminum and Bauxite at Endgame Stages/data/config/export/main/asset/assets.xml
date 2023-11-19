@@ -1,0 +1,25 @@
+<ModOps>
+    <ModOp  GUID = '29' Type = "add" Path = "/Values/Trader/Progression/EndGame/GoodsProduction">
+        <Item>
+            <Good>838</Good>
+            <ProductionPerMinute>5</ProductionPerMinute>
+        </Item>
+    </ModOp>
+    <ModOp  GUID = '29' Type = "add" Path = "/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
+        <Item>
+            <Good>838</Good>
+        </Item>
+    </ModOp>
+
+    <ModOp  GUID = '45' Type = "add" Path = "/Values/Trader/Progression/EndGame/GoodsProduction">
+        <Item>
+            <Good>836</Good>
+            <ProductionPerMinute>3</ProductionPerMinute>
+        </Item>
+    </ModOp>
+    <ModOp  GUID = '45' Type = "add" Path = "/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
+        <Item>
+            <Good>836</Good>
+        </Item>
+    </ModOp>
+</ModOps>
