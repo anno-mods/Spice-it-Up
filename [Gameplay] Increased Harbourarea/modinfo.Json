@@ -70,6 +70,9 @@
       "Taiwanese": null
     }
   ],
+  "LoadAfterIds" : [ 
+    "World_War_Ship"
+  ],
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: MystiqueBee84",
   "CreatorContact": "https://discord.gg/YTQGDFK",
