@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ModID": "Spice_Harborarea",
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -61,6 +61,19 @@
       "English": "Can rarely generate 'dead' pixels in the harbor area.",
       "French": null,
       "German": "Im Hafenbereich können vermehrt 'dead' Pixel auftreten.",
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    {
+      "Chinese": null,
+      "English": "Enemy/Pirate Ships may get stuck between islands, because they try to avoid harbor areas.",
+      "French": null,
+      "German": "Feind/Piraten Schiffe können zwischen Inseln festsitzen, da sie versuchen den Hafenbereich zu meiden.",
       "Italian": null,
       "Japanese": null,
       "Korean": null,
