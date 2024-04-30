@@ -1,9 +1,10 @@
 <ModOps>
     <!-- ############################################################################################################### -->
     <!-- ############# Extension // Harbor Area ######################################################################## -->
-    <!-- Original Building Size for Harbors/Beachlines == 28 -->
-    <ModOp Type="replace" GUID='2001241' Path="/Values/BuildingBaseTiles/HarbourConstructionAreaRadius">
-        <HarbourConstructionAreaRadius>90</HarbourConstructionAreaRadius>
+    <!-- Original Building Size for Harbors/Beachlines == 28, original for creative mode == 56 -->
+    <ModOp Type="merge" GUID='2001241' Path="/Values/BuildingBaseTiles">
+      <HarbourConstructionAreaRadius>90</HarbourConstructionAreaRadius>
+      <HarbourConstructionAreaRadiusCreativeMode>90</HarbourConstructionAreaRadiusCreativeMode>
     </ModOp>
     <!-- ############################################################################################################### -->
 </ModOps>
