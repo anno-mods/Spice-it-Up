@@ -601,41 +601,41 @@
         </Asset>
     </ModOp>
     <!-- Oil Pier -->
-    <!-- harbour t03 (before dicke berta) -->
-    <ModOp Type="addPrevSibling" GUID='500954' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '1010524']">
+    <!-- harbour t03 (After Commuter Pier) -->
+    <ModOp Type="addNextSibling" GUID='500954' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101642']">
         <Item>
             <Building>8855080</Building>
         </Item>
     </ModOp>
-    <!-- harbor category (behind pier)-->
-    <ModOp Type="addNextSibling" GUID='500903' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '100519']">
+    <!-- harbor category (After Pier) -->
+    <ModOp Type="addNextSibling" GUID='500111' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '100519']">
         <Item>
             <Building>8855080</Building>
         </Item>
     </ModOp>
     <!-- Oil Pier -->
-    <!-- harbour tier02 (behind oil depot) -->
-    <ModOp Type="addNextSibling" GUID='501008' Path="Values/ConstructionCategory/BuildingList/Item[Building = '632']">
+    <!-- harbour tier02 (After Pier) -->
+    <ModOp Type="addNextSibling" GUID='501008' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101344']">
         <Item>
             <Building>8855081</Building>
         </Item>
     </ModOp>
-    <!-- harbor category (behind pier) -->
-    <ModOp Type="addNextSibling" GUID='25000195' Path="Values/ConstructionCategory/BuildingList/Item[Building = '101344']">
+    <!-- harbor category (After Pier) -->
+    <ModOp Type="addNextSibling" GUID='500149' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101344']">
         <Item>
             <Building>8855081</Building>
         </Item>
     </ModOp>
 
     <!-- Oil Pier Africa -->
-    <!-- harbour tier02 (behind Fuel Chain) -->
-    <ModOp Type="add" GUID='117897' Path="Values/ConstructionCategory/BuildingList">
+    <!-- harbour tier02 (After Pier) -->
+    <ModOp Type="addNextSibling" GUID='117897' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '117871']">
         <Item>
             <Building>1440133050</Building>
         </Item>
     </ModOp>
-    <!-- harbor category (behind pier) -->
-    <ModOp Type="addNextSibling" GUID='119014' Path="Values/ConstructionCategory/BuildingList/Item[Building = '117871']">
+    <!-- harbor category (After Pier) -->
+    <ModOp Type="addNextSibling" GUID='119014' Path="/Values/ConstructionCategory/BuildingList/Item[Building = '117871']">
         <Item>
             <Building>1440133050</Building>
         </Item>
