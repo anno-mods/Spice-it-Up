@@ -1,38 +1,45 @@
 <ModOps>
+  
+	<!-- Using Condition here to make sure to not decrease the values, in case another mod already increased them or set them higher for their custom AirShip -->
+	<!-- &lt; is translated to the "smaller" sign, so only execute the ModOp, if the current value is smaller than the one we will use -->
+    
 	<!-- Increases the Cargolimit for Ship of the Line, Frigate, Clipper, Battlecruiser and all Trader/Pirate variants -->
-	<ModOp Type="add" GUID="100440,100439,100441,100442,102430,102431,102421,102419,102425,102428,102427,114166" Path="/Values/ItemContainer">
+	<ModOp Type="merge" GUID="100440,100439,100441,100442,102430,102431,102421,102419,102425,102428,102427,114166" Path="/Values/ItemContainer" Condition="/Values/ItemContainer[not(StackLimit) or StackLimit&lt;75]">
 		<StackLimit>75</StackLimit>
 	</ModOp>
 	<!-- Increases the Cargolimit of the Freighter, Extravaganza, World Class Reefer and the Great Eastern -->
-	<ModOp Type="add" GUID='1010062,102455,118718,132404' Path="/Values/ItemContainer">
+	<ModOp Type="merge" GUID='1010062,102455,118718,132404' Path="/Values/ItemContainer" Condition="/Values/ItemContainer[not(StackLimit) or StackLimit&lt;100]">
 		<StackLimit>100</StackLimit>
 	</ModOp>
 	<!-- Increases the Cargolimit if the Oil Tanker -->
-	<ModOp Type="replace" GUID='100853' Path="/Values/ItemContainer/StackLimit">
+	<ModOp Type="merge" GUID='100853' Path="/Values/ItemContainer" Condition="/Values/ItemContainer[not(StackLimit) or StackLimit&lt;500]">
 		<StackLimit>500</StackLimit>
 	</ModOp>
 	<!-- Traderoute settings to reflect the change above -->
-	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/MaxGoodTransferAmount">
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/MaxGoodTransferAmount" Condition="/Values/TradeRouteFeature/TransportationTypes/Normal[MaxGoodTransferAmount&lt;100]">
 		<MaxGoodTransferAmount>100</MaxGoodTransferAmount>
 	</ModOp>
-	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/DefaultGoodTransferAmount">
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/DefaultGoodTransferAmount" Condition="/Values/TradeRouteFeature/TransportationTypes/Normal[DefaultGoodTransferAmount&lt;100]">
 		<DefaultGoodTransferAmount>100</DefaultGoodTransferAmount>
 	</ModOp>
 	<!-- Traderoute settings to reflect the change above -->
-	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/DefaultGoodTransferAmount">
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/DefaultGoodTransferAmount" Condition="/Values/TradeRouteFeature/TransportationTypes/Oil[DefaultGoodTransferAmount&lt;500]">
 		<DefaultGoodTransferAmount>500</DefaultGoodTransferAmount>
 	</ModOp>
-	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/MaxGoodTransferAmount">
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/MaxGoodTransferAmount" Condition="/Values/TradeRouteFeature/TransportationTypes/Oil[MaxGoodTransferAmount&lt;500]">
 		<MaxGoodTransferAmount>500</MaxGoodTransferAmount>
 	</ModOp>
-
-	<ModOp Type = "add" Path = "//Asset[Template='AirShip' or Template = 'WarAirShip']/Values/ItemContainer">
+  
+	<!-- Increases the Cargolimit of all AirShip and WarAirShip -->
+	<!-- Unfortunately using a Condition to check each Asset on its own does not work well with a Path using "//", so we will instead put it into the Path directly (will throw a warning in logfile, if everything is already bigger/equal than 100, but in this case its the only option, besides mentioning all vanilla GUIDs directly, like was done above for normal ships) -->
+	<ModOp Type = "merge" Path = "//Asset[Template='AirShip' or Template = 'WarAirShip']/Values/ItemContainer[not(StackLimit) or StackLimit&lt;100]">
 		<StackLimit>100</StackLimit>
 	</ModOp>
-	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/DefaultGoodTransferAmount">
+  
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/DefaultGoodTransferAmount" Condition="/Values/TradeRouteFeature/TransportationTypes/Mail[DefaultGoodTransferAmount&lt;100]">
 		<DefaultGoodTransferAmount>100</DefaultGoodTransferAmount>
 	</ModOp>
-	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/MaxGoodTransferAmount">
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/MaxGoodTransferAmount" Condition="/Values/TradeRouteFeature/TransportationTypes/Mail[MaxGoodTransferAmount&lt;100]">
 		<MaxGoodTransferAmount>100</MaxGoodTransferAmount>
 	</ModOp>
 </ModOps>
