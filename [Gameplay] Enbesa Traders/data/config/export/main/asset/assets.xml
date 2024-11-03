@@ -1,183 +1,24 @@
 <ModOps>
-	<!-- Trader Caleb (Angereb)-->
-	<ModOp Type="replace" GUID="120283" Path="/Values/Trader">
-		<Trader>
-			<GoodsTrader>1</GoodsTrader>
-			<ShipTrader>1</ShipTrader>
-			<SellShipCooldown>0</SellShipCooldown>
-			<SellShipRequestNotification>502153</SellShipRequestNotification>
-			<Progression>
-				<LateMidGame>
-					<GoodsProduction>
-						<Item>
-							<Good>114359</Good>
-							<ProductionPerMinute>3</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114401</Good>
-							<ProductionPerMinute>3</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114390</Good>
-							<ProductionPerMinute>3</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114371</Good>
-							<ProductionPerMinute>3</ProductionPerMinute>
-						</Item>
-					</GoodsProduction>
-					<OfferingGoods>
-						<Item>
-							<Good>114359</Good>
-						</Item>
-						<Item>
-							<Good>114401</Good>
-						</Item>
-						<Item>
-							<Good>114390</Good>
-						</Item>
-						<Item>
-							<Good>114371</Good>
-						</Item>
-					</OfferingGoods>
-					<PreferedGoods>
-						<Item>
-							<Product>1010221</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-						<Item>
-							<Product>1010222</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-						<Item>
-							<Product>1010210</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-					</PreferedGoods>
-				</LateMidGame>
-				<LateGame>
-					<GoodsProduction>
-						<Item>
-							<Good>114359</Good>
-							<ProductionPerMinute>5</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114401</Good>
-							<ProductionPerMinute>5</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114390</Good>
-							<ProductionPerMinute>5</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114371</Good>
-							<ProductionPerMinute>5</ProductionPerMinute>
-						</Item>
-					</GoodsProduction>
-					<OfferingGoods>
-						<Item>
-							<GoodSets>
-								<Item>
-									<Good>114359</Good>
-								</Item>
-								<Item>
-									<Good>114401</Good>
-								</Item>
-								<Item>
-									<Good>114390</Good>
-								</Item>
-								<Item>
-									<Good>114371</Good>
-								</Item>
-							</GoodSets>
-						</Item>
-					</OfferingGoods>
-					<PreferedGoods>
-						<Item>
-							<Product>1010221</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-						<Item>
-							<Product>1010222</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-						<Item>
-							<Product>1010210</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-					</PreferedGoods>
-				</LateGame>
-				<EndGame>
-					<GoodsProduction>
-						<Item>
-							<Good>114359</Good>
-							<ProductionPerMinute>7</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114401</Good>
-							<ProductionPerMinute>7</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114390</Good>
-							<ProductionPerMinute>7</ProductionPerMinute>
-						</Item>
-						<Item>
-							<Good>114371</Good>
-							<ProductionPerMinute>7</ProductionPerMinute>
-						</Item>
-					</GoodsProduction>
-					<OfferingGoods>
-						<Item>
-							<GoodSets>
-								<Item>
-									<Good>114359</Good>
-								</Item>
-								<Item>
-									<Good>114401</Good>
-								</Item>
-								<Item>
-									<Good>114390</Good>
-								</Item>
-								<Item>
-									<Good>114371</Good>
-								</Item>
-							</GoodSets>
-						</Item>
-					</OfferingGoods>
-					<PreferedGoods>
-						<Item>
-							<Product>1010221</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-						<Item>
-							<Product>1010222</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-						<Item>
-							<Product>1010210</Product>
-							<PriceMultiplier>4</PriceMultiplier>
-							<ReputationMultiplier>2</ReputationMultiplier>
-						</Item>
-					</PreferedGoods>
-				</EndGame>
-			</Progression>
-			<ProvidesShipReplacements>None</ProvidesShipReplacements>
-			<UseSessionSpecificProgressLevel>1</UseSessionSpecificProgressLevel>
-		</Trader>
-	</ModOp>
 	<!-- Trader Priestress (Kidusi)-->
 	<ModOp Type="replace" GUID="120282" Path="/Values/Trader">
 		<Trader>
 			<GoodsTrader>1</GoodsTrader>
 			<Progression>
+				<EarlyGame>
+					<GoodsProduction />
+					<OfferingGoods />
+					<PreferedGoods />
+				</EarlyGame>
+				<EarlyMidGame>
+					<GoodsProduction />
+					<OfferingGoods />
+					<PreferedGoods />
+				</EarlyMidGame>
+				<MidGame>
+					<GoodsProduction />
+					<OfferingGoods />
+					<PreferedGoods />
+				</MidGame>
 				<LateMidGame>
 					<GoodsProduction>
 						<Item>
@@ -302,10 +143,25 @@
 	<ModOp Type="replace" GUID="120284" Path="/Values/Trader">
 		<Trader>
 			<GoodsTrader>1</GoodsTrader>
-			<ShipTrader>1</ShipTrader>
+			<ShipTrader>0</ShipTrader>
 			<SellShipCooldown>0</SellShipCooldown>
 			<SellShipRequestNotification>502182</SellShipRequestNotification>
-			<Progression>
+			<Progression>				
+				<EarlyGame>
+					<GoodsProduction />
+					<OfferingGoods />
+					<PreferedGoods />
+				</EarlyGame>
+				<EarlyMidGame>
+					<GoodsProduction />
+					<OfferingGoods />
+					<PreferedGoods />
+				</EarlyMidGame>
+				<MidGame>
+					<GoodsProduction />
+					<OfferingGoods />
+					<PreferedGoods />
+				</MidGame>
 				<LateMidGame>
 					<GoodsProduction>
 						<Item>
