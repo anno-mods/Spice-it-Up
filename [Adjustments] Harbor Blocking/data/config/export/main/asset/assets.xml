@@ -14,7 +14,7 @@
     <ModOp Type="remove" GUID='1010517,100510,100511,1010540,100514,100515,269867,269879' Path="Values/Blocking/HarbourAreaExpand"/>
 
     <!-- Docklands 601460, 601470 -->
-    <ModOp Type="replace" GUID='601460,601470' Path="Values/Blocking/HarbourAreaExpand">
+    <ModOp Type="replace" GUID='601460,601470,1999005385' Path="Values/Blocking/HarbourAreaExpand">
         <HarbourAreaExpand>0</HarbourAreaExpand>
     </ModOp>
 

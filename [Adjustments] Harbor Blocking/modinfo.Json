@@ -3,6 +3,9 @@
     "ModID": "Spice_Harborblocking",
     "IncompatibleIds": null,
     "ModDependencies": null,
+    "LoadAfterIds": [
+      "Taludas_shared_tradingcompany"
+    ],
     "Category": {
       "Chinese": "游戏玩法",
       "English": "Gameplay",
