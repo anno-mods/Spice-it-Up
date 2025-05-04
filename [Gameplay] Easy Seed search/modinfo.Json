@@ -1,8 +1,9 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_SeedSearch",
   "IncompatibleIds": null,
   "ModDependencies": null,
+  "LoadAfterIds": ["new_horizons_session","Taludas_NewWorldExpanded_Mayabeque","KreitaniTaludas_Kingsgrove","white_and_cold","[Map] NewArctic","[Map] Lost World"],
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
