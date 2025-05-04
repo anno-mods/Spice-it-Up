@@ -1,8 +1,52 @@
 <ModOps>
-	<ModOp Type = "add" GUID = '180025,112132,211101' Path = '/Values/Locked'>
-		<DefaultLockedState>0</DefaultLockedState>
-	</ModOp>
-	<ModOp Type = "replace" GUID = '110934,180045' Path = '/Values/Locked/DefaultLockedState'>
-		<DefaultLockedState>0</DefaultLockedState>
-	</ModOp>
+  <!-- Vanilla Sessions -->
+  <ModOp Type="merge" GUID='180025,112132,110934,180045' Path="/Values">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- Mod Sessions (using Condition to prevent warning in logfile) -->
+   <!-- what mod is this? still include it since its in first version of Easy Seed Search -->
+  <ModOp Type="merge" GUID='211101' Path="/Values" Condition="@211101">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- New Horizons from Tabeunangriff Asia Session -->
+  <ModOp Type="merge" GUID='133700000' Path="/Values" Condition="@133700000">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- Colossus of the New World from Taludas, Mayabeque Session -->
+  <ModOp Type="merge" GUID='1999003005' Path="/Values" Condition="@1999003005">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- Kingsgrove (KreitaniTaludas_Kingsgrove) kingsgrove_Session -->
+  <ModOp Type="merge" GUID='2121100' Path="/Values" Condition="@2121100">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- white_and_cold from Hier0nimus new Arctic Session -->
+  <ModOp Type="merge" GUID='1742004000 ' Path="/Values" Condition="@1742004000 ">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- New Arctic from quentfr21 Arctic Session1 -->
+  <ModOp Type="merge" GUID='2122383000' Path="/Values" Condition="@2122383000">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+  <!-- Lost World from quentfr21 Arctic Session1 -->
+  <ModOp Type="merge" GUID='2122382000' Path="/Values" Condition="@2122382000">
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </ModOp>
+
 </ModOps>
