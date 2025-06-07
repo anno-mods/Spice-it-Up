@@ -110,7 +110,7 @@
 	</ModOp>
     
 	<!-- all Buildings with Maintenance -->
-    <ModOp Type="add" GUID="193879" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+    <ModOp Type="add" GUID="368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
 		<Item>
 			<GUID>8855001</GUID>
 		</Item>
@@ -221,7 +221,7 @@
 	</ModOp>
 
     <!-- All Buildings with Maintenance -->
-	<ModOp Type="add" GUID="193879" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+	<ModOp Type="add" GUID="368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
 		<Item>
 			<GUID>8856008</GUID>
 		</Item>
