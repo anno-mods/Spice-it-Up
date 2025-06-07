@@ -1,9 +1,16 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ModID": "Spice_SeedSearch",
   "IncompatibleIds": null,
   "ModDependencies": null,
-  "LoadAfterIds": ["new_horizons_session","Taludas_NewWorldExpanded_Mayabeque","KreitaniTaludas_Kingsgrove","white_and_cold","[Map] NewArctic","[Map] Lost World"],
+  "LoadAfterIds": [
+    "new_horizons_session",
+    "Taludas_NewWorldExpanded_Mayabeque",
+    "KreitaniTaludas_Kingsgrove",
+    "white_and_cold",
+    "[Map] NewArctic",
+    "[Map] Lost World"
+  ],
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
@@ -74,6 +81,6 @@
   ],
   "CreatorName": "Spice it up-Team: Miraak und Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3210585
+  "Image": null,
+  "ModioResourceId": 3210585
 }
