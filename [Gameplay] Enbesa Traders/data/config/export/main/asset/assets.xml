@@ -28,7 +28,11 @@
 					</GoodsProduction>
 					<OfferingGoods>
 						<Item>
-							<Good>114391</Good>
+							<GoodSets>
+								<Item>
+									<Good>114391</Good>
+								</Item>
+							</GoodSets>
 						</Item>
 					</OfferingGoods>
 					<PreferedGoods/>
@@ -143,7 +147,7 @@
 	<ModOp Type="replace" GUID="120284" Path="/Values/Trader">
 		<Trader>
 			<GoodsTrader>1</GoodsTrader>
-			<ShipTrader>0</ShipTrader>
+			<ShipTrader>1</ShipTrader>
 			<SellShipCooldown>0</SellShipCooldown>
 			<SellShipRequestNotification>502182</SellShipRequestNotification>
 			<Progression>				
