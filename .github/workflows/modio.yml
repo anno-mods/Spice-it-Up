@@ -67,7 +67,7 @@ jobs:
           echo "MOD=$MOD_ID" >> $GITHUB_OUTPUT
           echo "VERSION=$VERSION_ID" >> $GITHUB_OUTPUT
 
-      - uses: nickelc/upload-to-modio@v2.1.0
+      - uses: nickelc/upload-to-modio@v3.0.0
         if: steps.check_files.outputs.check_result == 'true'
         name: Upload to Modio
         with:
@@ -76,6 +76,3 @@ jobs:
           mod: ${{ steps.metadata.outputs.MOD }}
           version: ${{ steps.metadata.outputs.VERSION }}
           path: mod.zip
-      
-      
-    
