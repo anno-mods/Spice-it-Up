@@ -90,15 +90,15 @@
     </Text>
     <Text>
       <GUID>902022</GUID>
-      <Text>Letto fiorito I</Text>
+      <Text>Aiuola I</Text>
     </Text>
     <Text>
       <GUID>902023</GUID>
-      <Text>Foro di irrigazione I</Text>
+      <Text>Abbeveratoio I</Text>
     </Text>
     <Text>
       <GUID>902024</GUID>
-      <Text>Aspen tremante I</Text>
+      <Text>Pioppo tremulo I</Text>
     </Text>
     <Text>
       <GUID>902025</GUID>
@@ -122,15 +122,15 @@
     </Text>
     <Text>
       <GUID>902030</GUID>
-      <Text>Letto fiorito II</Text>
+      <Text>Aiuola II</Text>
     </Text>
     <Text>
       <GUID>902031</GUID>
-      <Text>Foro di irrigazione II</Text>
+      <Text>Abbeveratoio II</Text>
     </Text>
     <Text>
       <GUID>902032</GUID>
-      <Text>Aspen tremante II</Text>
+      <Text>Pioppo tremulo II</Text>
     </Text>
     <Text>
       <GUID>902033</GUID>
@@ -154,15 +154,15 @@
     </Text>
     <Text>
       <GUID>902038</GUID>
-      <Text>Letto fiorito III</Text>
+      <Text>Aiuola III</Text>
     </Text>
     <Text>
       <GUID>902039</GUID>
-      <Text>Foro di irrigazione III</Text>
+      <Text>Abbeveratoio III</Text>
     </Text>
     <Text>
       <GUID>902040</GUID>
-      <Text>Aspen tremante III</Text>
+      <Text>Pioppo tremulo III</Text>
     </Text>
     <Text>
       <GUID>902041</GUID>
@@ -210,7 +210,7 @@
     </Text>
     <Text>
       <GUID>902052</GUID>
-      <Text>Bush I</Text>
+      <Text>Cespuglio I</Text>
     </Text>
     <Text>
       <GUID>902053</GUID>
@@ -246,7 +246,7 @@
     </Text>
     <Text>
       <GUID>902061</GUID>
-      <Text>Bush II</Text>
+      <Text>Cespuglio II</Text>
     </Text>
     <Text>
       <GUID>902062</GUID>
@@ -282,7 +282,7 @@
     </Text>
     <Text>
       <GUID>902070</GUID>
-      <Text>Bush III</Text>
+      <Text>Cespuglio III</Text>
     </Text>
     <Text>
       <GUID>902071</GUID>
@@ -310,7 +310,7 @@
     </Text>
     <Text>
       <GUID>902077</GUID>
-      <Text>Foro di irrigazione I</Text>
+      <Text>Abbeveratoio I</Text>
     </Text>
     <Text>
       <GUID>902078</GUID>
@@ -322,7 +322,7 @@
     </Text>
     <Text>
       <GUID>902080</GUID>
-      <Text>Foro di irrigazione II</Text>
+      <Text>Abbeveratoio II</Text>
     </Text>
     <Text>
       <GUID>902081</GUID>
@@ -334,7 +334,7 @@
     </Text>
     <Text>
       <GUID>902083</GUID>
-      <Text>Foro di irrigazione III</Text>
+      <Text>Abbeveratoio III</Text>
     </Text>
     <Text>
       <GUID>902099</GUID>
@@ -346,19 +346,19 @@
     </Text>
     <Text>
       <GUID>902101</GUID>
-      <Text>Ingegnere Recinzioni</Text>
+      <Text>Recinzioni per ingegneri</Text>
     </Text>
     <Text>
       <GUID>902102</GUID>
-      <Text>Jornalero Recinzioni</Text>
+      <Text>Recinzioni per jornaleros I</Text>
     </Text>
     <Text>
       <GUID>902103</GUID>
-      <Text>Jornalero Recinzioni II</Text>
+      <Text>Recinzioni per jornaleros II</Text>
     </Text>
     <Text>
       <GUID>902104</GUID>
-      <Text>Obrero Recinzioni</Text>
+      <Text>Recinzioni per obreros</Text>
     </Text>
   </ModOp>
 </ModOps>

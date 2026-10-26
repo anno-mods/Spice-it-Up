@@ -1,0 +1,36 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>99334134</GUID>
+      <Text>[AssetData(249947) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334135</GUID>
+      <Text>[AssetData(249950) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334136</GUID>
+      <Text>[AssetData(269086) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334137</GUID>
+      <Text>[AssetData(269083) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334138</GUID>
+      <Text>[AssetData(269549) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334139</GUID>
+      <Text>[AssetData(269084) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334140</GUID>
+      <Text>[AssetData(269085) Text] </Text>
+    </Text>
+    <Text>
+      <GUID>99334142</GUID>
+      <Text>[AssetData(269602) Text] </Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,46 +1,46 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_ArcticVariableResources",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "北极资源可变",
     "English": "Arctic Variable Resources",
-    "French": null,
+    "French": "Ressources variables dans l'Arctique",
     "German": "Variable Ressourcen (Arktis)",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Risorse variabili nell'Artico",
+    "Japanese": "北極の可変資源",
+    "Korean": "북극 가변 자원",
+    "Polish": "Zmienne zasoby Arktyki",
+    "Russian": "Переменные ресурсы Арктики",
+    "Spanish": "Recursos variables del Ártico",
+    "Taiwanese": "北極可變資源"
   },
   "Description": {
     "Chinese": "用可变资源取代北极的金矿，在上面你可以建造铁、铜、锌和金矿。",
     "English": "Replaces Gold Deposits in the arctic with variable resources, on which you can build iron, copper, zinc and gold mines.",
-    "French": null,
+    "French": "Remplace les gisements d'or de l'Arctique par des ressources variables permettant de construire des mines de fer, de cuivre, de zinc ou d'or.",
     "German": "Ersetzt Goldvorkommen in der Arktis durch variable Ressourcen, auf denen Eisen-, Zink-, Kupfer- und Goldminen gebaut werden können.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Sostituisce i giacimenti d'oro nell'Artico con risorse variabili su cui costruire miniere di ferro, rame, zinco o oro.",
+    "Japanese": "北極の金鉱床を可変資源に置き換え、鉄・銅・亜鉛・金の鉱山を建設できるようにします。",
+    "Korean": "북극의 금 광상을 가변 자원으로 바꾸어 철, 구리, 아연, 금 광산을 건설할 수 있게 합니다.",
+    "Polish": "Zastępuje arktyczne złoża złota zmiennymi zasobami, na których można budować kopalnie żelaza, miedzi, cynku lub złota.",
+    "Russian": "Заменяет месторождения золота в Арктике переменными ресурсами, на которых можно строить железные, медные, цинковые и золотые рудники.",
+    "Spanish": "Sustituye los yacimientos de oro del Ártico por recursos variables que permiten construir minas de hierro, cobre, zinc u oro.",
+    "Taiwanese": "將北極的金礦牀替換為可變資源，讓你能在其上建造鐵礦、銅礦、鋅礦或金礦。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId":3210543
+  "Image": null,
+  "ModioResourceId": 3210543
 }

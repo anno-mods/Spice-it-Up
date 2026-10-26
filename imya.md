@@ -1,4 +1,4 @@
-# Anno 1800 Spice it Up Modcollection
+# Anno 1800 Spice it Up 3.1.10 Final
 
 Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No rivers in the new world? Here you go! Add another computer player in a running game? Just build a ship for them! Commuter Piers for all regions? Also included.
 
@@ -19,10 +19,9 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 **Harborlife**
 
 - Build a unique city in your Harbor Area, starting with 750 artisans. Works for the Old and the New World. 
-
-**Sandbox Mode**
-
-- Adds a sandbox where you have everything unlocked at the start. 
+- Old World harbor residences use the standard Harborlife appearance. All 15 previous custom skin identities remain as standard-looking fallbacks for saved selections. Legacy road startup is ordered for fresh trigger registrations; existing saved trigger state is retained. Multiplayer desync reports remain unverified.
+- Residence item effects distinguish engineers from investors; harbor chapel and boxing arena targets use their actual building IDs. With New World Tourism, both harbor Jornalero and Obrero houses join the recipe/monument bonus pool regardless of relative mod load order.
+- Scholar residences, tourist bus stops, skyscrapers, mail buildings, Artista residences and selected skins use their respective DLCs: Land of Lions, Tourist Season, The High Life, Empire of the Skies, New World Rising, Vibrant Cities and Fiesta Time. These are partial requirements for the relevant variants, not requirements for the basic harbor city.
 
 ---
 ## Adjustments
@@ -50,10 +49,6 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 **Remove Third Party Messages**
 
 - Removes the chatter and overall voice of the NPC.
-
-**Southern Rivers reduced**
-
-- Enables non river variants of the southern islands to be used again in the mapgenerator, so you get a mix of river variants and non river variants.
 
 **Southern Rivers removed**
 
@@ -159,13 +154,11 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 - This rebalancing of influence tries to solve Influence Issues by reducing costs for stuff that you want in great numbers, and raising them for stuff that you don't build as much. 
 
+- Ship influence costs are configured within this mod. The Trade Ship and War Ship cost factor can be set to 0.25, 0.5, 0.75, 1, or 1.25 (default 0.5); there is no separate ship-cost mod to install or stack with it.
+
 **Influence Removed**
 
 - If you just feel limited by influence, delete it from the game. 
-
-**Influencecosts reduced for ships**
-
-- You can also choose to reduce influencecosts just for ships. Stacks with influence rebalancing. 
 
 **Inuit Trade Gas**
 
@@ -185,7 +178,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **NPC Dice Improved**
 
-- The diceroll at the NPC has been updated, you can also reroll legendary Items
+- Expands NPC item offers with game progress. Selected epic culture items become available earlier in the late phase, with additional legendary pools in the endgame. Trader specialties, earlier stages and existing endgame item sets remain intact. Offers are weighted and random; no particular item is guaranteed. Offer sizes, progression gates, purchase prices and reroll costs are unchanged.
 
 **Oil Pier**
 
@@ -201,7 +194,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **Royal Taxes Removed**
 
-- Removes royal taxes in trade for reduced income: 30% Income Cut at investor level and 15% from beer and rum. 
+- Removes royal taxes in exchange for a 30% income reduction on the original Investor needs. Beer and rum income is also reduced by approximately 15%, using the existing integer values. Newer DLC and lifestyle needs keep their original income values.
 
 **Scrapcrafting**
 
@@ -213,7 +206,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **Ship Capacity**
 
-- Increases the cargo capacity of ships.
+- Raises selected ships to 75 t per cargo slot and larger freighters to 100 t; airship, oil and mail limits are also adjusted. The normal route amount defaults to 100 t. This is the requested transfer amount: actual loading is still limited by the assigned ship's capacity, available goods and free cargo space. Existing higher limits are retained.
 
 **Unlimited Itemtrade**
 
@@ -221,7 +214,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **Unlimited Scholar Residences**
 
-- Removes the Build Permit System for Scholars and the respective major discovery. 
+- Removes scholar residence construction permits and the corresponding major discovery. If Harborlife is enabled, it loads after Harborlife and also removes permits from harbor scholar residences. The tutorial then counts 25 normal and harbor residences combined; without Harborlife, it counts 25 normal residences.
 
 ---
 ## Miscellaneous Mods 
@@ -234,21 +227,17 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 - Switches Red and Black player colors so you can choose the red one in your game profile
 
-**Soviet Logo**
-
-- Stalinium approved Logo, comrade. 
-
 **Thomas the Dank Engine**
 
 - Don't even dare to ask how we got the idea. 
 
-**Visual Feedback for Twitch Drops**
-
-- Your residents don't like this kind of advertisment, and will probably start a revolution. 
-
 **Miss Jenny Retexture**
 
 - A little retexture for the Miss Jenny NPC from the High Life Storyline. 
+
+**More Construction Tabs**
+
+- Adjusts the construction menu layout to provide space for additional tabs.
 
 ---
 ## Multiplayer
@@ -281,7 +270,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 - Zoo, museum and botanical garden place their modules like i.e. the sheep farm in a Radius, so no connection is needed. 
 
-**Electric Lightling instead of Electricity Wires**
+**Electric Lighting instead of Electricity Wires**
 
 - Places some streetlights in areas that are covered by electricity instead of electricity wires. 
 
@@ -291,7 +280,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **Music Pavilion in Construction Menu**
 
-- Adds the music pavilion for free construction. 
+- Adds the Music Pavilion to the construction menu for independent placement. Requires Botanica; visible at 250 artisans and unlocked at 500. Existing saved availability may persist. Construction still has its normal cost.
 
 **No Cultural Module Limits**
 
@@ -307,7 +296,7 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **Plaza Streets**
 
-- A street variant of the plaza. Be aware that electricity wires will spawn here, unless you have turned them to off.
+- Adds street variants of plaza paving, concrete paving and the promenade. Their shared road groundplate supplies paved-road quality and speed (Quality 2, SpeedFactor 1.5); the visible variants need no additional internal street IDs. Electricity wires and poles may appear unless disabled. The old save-compatible street remains intact.
 
 **Trees with Fences**
 
@@ -323,4 +312,11 @@ Quality of Life Changes, Addons, Ornaments and many new gameplay functions. No r
 
 **World-Fair Items**
 
-- Makes World Fair Reward ornamentals infinitly buildable without a limit.
+- Makes most World-Fair reward ornaments freely buildable without individual permits; no exhibition is required. The ornament groups are linked in both the category view and the default source view under Klassisch. Old World/Cape: one investor; New World: visible at 600 obreros, buildable at 1,000.
+
+---
+## Bugfixes
+
+**Aluminum and Bauxite at Endgame Stages**
+
+- Keeps bauxite available from Archibald Blake and aluminium profiles from Isabel Sarmento in the endgame.

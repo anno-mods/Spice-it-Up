@@ -1,0 +1,32 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <GUID>1440134802</GUID>
+            <Text>クマックは地図製作者の覚え書きに大喜びしている。</Text>
+        </Text>
+        <Text>
+            <GUID>1440134800</GUID>
+            <Text>航路の地図</Text>
+        </Text>
+        <Text>
+            <GUID>1440134803</GUID>
+            <Text>遠い昔に忘れ去られた探検隊の遺体から回収されたスケッチだという。この地図を描いた者は、航路の発見まであと一歩のところに迫っていたに違いない。</Text>
+        </Text>
+        <Text>
+            <GUID>1440134804</GUID>
+            <Text>海図</Text>
+        </Text>
+        <Text>
+            <GUID>1440134809</GUID>
+            <Text>地域地図：北極圏</Text>
+        </Text>
+        <Text>
+            <GUID>1440134806</GUID>
+            <Text>常に霧に覆われた場所も含め、北極圏の全域を明らかにする。</Text>
+        </Text>
+        <Text>
+            <GUID>1440134808</GUID>
+            <Text>地域地図：北極圏</Text>
+        </Text>
+    </ModOp>
+</ModOps>

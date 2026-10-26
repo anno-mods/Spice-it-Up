@@ -82,7 +82,7 @@
     </Text>
     <Text>
       <GUID>902020</GUID>
-      <Text>Arboleda templada I</Text>
+      <Text>Arboleda de álamos I</Text>
     </Text>
     <Text>
       <GUID>902021</GUID>
@@ -90,7 +90,7 @@
     </Text>
     <Text>
       <GUID>902022</GUID>
-      <Text>Flores I</Text>
+      <Text>Parterre de flores I</Text>
     </Text>
     <Text>
       <GUID>902023</GUID>
@@ -98,7 +98,7 @@
     </Text>
     <Text>
       <GUID>902024</GUID>
-      <Text>Pando I</Text>
+      <Text>Chopo temblón I</Text>
     </Text>
     <Text>
       <GUID>902025</GUID>
@@ -122,7 +122,7 @@
     </Text>
     <Text>
       <GUID>902030</GUID>
-      <Text>Flores II</Text>
+      <Text>Parterre de flores II</Text>
     </Text>
     <Text>
       <GUID>902031</GUID>
@@ -130,7 +130,7 @@
     </Text>
     <Text>
       <GUID>902032</GUID>
-      <Text>Pando II</Text>
+      <Text>Chopo temblón II</Text>
     </Text>
     <Text>
       <GUID>902033</GUID>
@@ -154,7 +154,7 @@
     </Text>
     <Text>
       <GUID>902038</GUID>
-      <Text>Flores III</Text>
+      <Text>Parterre de flores III</Text>
     </Text>
     <Text>
       <GUID>902039</GUID>
@@ -162,7 +162,7 @@
     </Text>
     <Text>
       <GUID>902040</GUID>
-      <Text>Pando III</Text>
+      <Text>Chopo temblón III</Text>
     </Text>
     <Text>
       <GUID>902041</GUID>
@@ -358,7 +358,7 @@
     </Text>
     <Text>
       <GUID>902104</GUID>
-      <Text>Vallas de obrero Fences</Text>
+      <Text>Vallas de obrero</Text>
     </Text>
   </ModOp>
 </ModOps>

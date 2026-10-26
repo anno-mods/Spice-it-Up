@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_CommuterArctic",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "北极通勤码头",
     "English": "Commuter pier for the Arctic",
-    "French": null,
+    "French": "Jetée de travailleurs pour l’Arctique",
     "German": "Pendler-Anlegestelle in der Arktis",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Molo pendolari per l’Artico",
+    "Japanese": "北極の通勤桟橋",
+    "Korean": "북극 통근 부두",
+    "Polish": "Przystań dojazdowa w Arktyce",
+    "Russian": "Причал для перевозки рабочих в Арктике",
+    "Spanish": "Muelle de trabajadores del Ártico",
+    "Taiwanese": "北極通勤碼頭"
   },
   "Description": {
     "Chinese": "为北极地区增加了一个通勤码头，可以连接正常的岛屿。北极的峭壁无法连接。",
     "English": "Adds a commuter pier for the arctic region, which can connect the normal islands. Arctic cliffs cannot be connected.",
-    "French": null,
+    "French": "Ajoute une jetée de travailleurs dans l’Arctique. Elle relie les îles ordinaires, mais pas les falaises arctiques.",
     "German": "Fügt einen Pendlerkai für die Arktisregion hinzu, der die normalen Inseln miteinander verbindet. Klippen können nicht erreicht werden.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aggiunge un molo pendolari nell’Artico. Collega le isole normali, ma non le scogliere artiche.",
+    "Japanese": "北極地域に通勤桟橋を追加します。通常の島は接続できますが、北極の崖は接続できません。",
+    "Korean": "북극 지역에 통근 부두를 추가합니다. 일반 섬은 연결할 수 있지만 북극 절벽은 연결할 수 없습니다.",
+    "Polish": "Dodaje przystań dojazdową w Arktyce. Łączy zwykłe wyspy, ale nie arktyczne klify.",
+    "Russian": "Добавляет в Арктике причал для перевозки рабочих. Он соединяет обычные острова, но не арктические скалы.",
+    "Spanish": "Añade un muelle de trabajadores al Ártico. Conecta las islas normales, pero no los acantilados árticos.",
+    "Taiwanese": "為北極地區新增通勤碼頭，可連接一般島嶼，但無法連接北極峭壁。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3210571
+  "Image": null,
+  "ModioResourceId": 3210571
 }

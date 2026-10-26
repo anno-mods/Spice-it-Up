@@ -38,15 +38,19 @@
     </Text>
     <Text>
       <GUID>190150</GUID>
-      <Text>Superfagioli di caffè</Text>
+      <Text>Super semi di caffè</Text>
     </Text>
     <Text>
       <GUID>190150</GUID>
-      <Text>Superbi semi di banana</Text>
+      <Text>Super semi di caffè</Text>
     </Text>
     <Text>
       <GUID>190152</GUID>
-      <Text>Superbi semi di mais</Text>
+      <Text>Super semi di mais</Text>
+    </Text>
+    <Text>
+      <GUID>190151</GUID>
+      <Text>Super semi di banana</Text>
     </Text>
   </ModOp>
 </ModOps>

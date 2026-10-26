@@ -39,15 +39,19 @@
 
     <Text>
       <GUID>190150</GUID>
-      <Text>Les superbes grains de café</Text>
+      <Text>Super semences de café</Text>
     </Text>
     <Text>
       <GUID>190151</GUID>
-      <Text>Les superbes grains de banane</Text>
+      <Text>Super semences de bananier</Text>
     </Text>
     <Text>
       <GUID>190151</GUID>
-      <Text>Les superbes grains de maïs</Text>
+      <Text>Super semences de bananier</Text>
+    </Text>
+    <Text>
+      <GUID>190152</GUID>
+      <Text>Super semences de maïs</Text>
     </Text>
   </ModOp>
 </ModOps>

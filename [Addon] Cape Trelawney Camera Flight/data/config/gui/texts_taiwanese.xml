@@ -2,7 +2,7 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>8855909</GUID>
-      <Text>開啟飛行攝影模式</Text>
+      <Text>開始鏡頭飛行</Text>
     </Text>
   </ModOp>
 </ModOps>

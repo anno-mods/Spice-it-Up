@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_CulturalRadius",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
     "English": "Ornamental",
-    "French": null,
+    "French": "Éléments décoratifs",
     "German": "Zierobjekte",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Elementi ornamentali",
+    "Japanese": "装飾",
+    "Korean": "장식",
+    "Polish": "Ozdoby",
+    "Russian": "Украшения",
+    "Spanish": "Elementos decorativos",
+    "Taiwanese": "裝飾"
   },
   "ModName": {
-    "Chinese": "按半径划分的文化模块",
+    "Chinese": "半径内自由放置文化模块",
     "English": "Culture Modules by Radius",
-    "French": null,
+    "French": "Modules culturels par rayon",
     "German": "Radius für Kulturgebäude",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Moduli culturali per raggio",
+    "Japanese": "文化施設モジュールを範囲内に配置",
+    "Korean": "반경 내 문화 건물 모듈 배치",
+    "Polish": "Moduły kultury według zasięgu",
+    "Russian": "Культурные модули в пределах радиуса",
+    "Spanish": "Módulos culturales por radio",
+    "Taiwanese": "依半徑放置文化設施模組"
   },
   "Description": {
     "Chinese": "文化建筑在一个半径内建造它们的模块，而不是必须连接起来。",
     "English": "Cultural Buildings build their Modules in a radius instead of having to be connected.",
-    "French": null,
+    "French": "Les bâtiments culturels peuvent placer leurs modules dans leur rayon d’action, sans devoir les relier entre eux.",
     "German": "Kulturgebäude bauen Module frei im Radius anstatt verbunden sein zu müssen.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Gli edifici culturali possono collocare i moduli entro il proprio raggio senza doverli collegare tra loro.",
+    "Japanese": "文化施設のモジュールを接続せず、施設の範囲内に配置できるようにします。",
+    "Korean": "문화 건물의 모듈을 서로 연결하지 않고 건물의 반경 안에 배치할 수 있습니다.",
+    "Polish": "Pozwala umieszczać moduły budynków kultury w ich zasięgu bez łączenia ich ze sobą.",
+    "Russian": "Позволяет размещать модули культурных зданий в пределах их радиуса без соединения друг с другом.",
+    "Spanish": "Permite colocar los módulos de los edificios culturales dentro de su radio sin tener que conectarlos entre sí.",
+    "Taiwanese": "文化設施的模組可放在其作用半徑內，不必彼此相連。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211605
+  "Image": null,
+  "ModioResourceId": 3211605
 }

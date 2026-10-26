@@ -166,11 +166,11 @@
     </Text>
     <Text>
       <GUID>8856014</GUID>
-      <Text>회원제 클럽</Text>
+      <Text>은행</Text>
     </Text>
     <Text>
       <GUID>8856015</GUID>
-      <Text>은행</Text>
+      <Text>회원제 클럽</Text>
     </Text>
     <Text>
       <GUID>8856016</GUID>
@@ -435,6 +435,22 @@
     <Text>
       <GUID>1440137111</GUID>
       <Text>[AssetData(3661) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530007</GUID>
+      <Text>[AssetData(101277) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530008</GUID>
+      <Text>[AssetData(100429) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530009</GUID>
+      <Text>[AssetData(102284) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>88530010</GUID>
+      <Text>[AssetData(101642) Text]</Text>
     </Text>
   </ModOp>
 </ModOps>

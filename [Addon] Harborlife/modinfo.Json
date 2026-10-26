@@ -1,74 +1,120 @@
 {
-    "Version": "1.6.5",
-    "ModID": "Spice_Harborlife",
-    "IncompatibleIds": null,
-    "ModDependencies": null,
-    "Category": {
-        "Chinese": "插件",
-        "English": "Addon",
-        "French": null,
-        "German": "Addon",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": "Dodatek",
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
+  "Version": "1.6.6",
+  "ModID": "Spice_Harborlife",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "插件",
+    "English": "Addon",
+    "French": "Extension",
+    "German": "Addon",
+    "Italian": "Espansione",
+    "Japanese": "追加コンテンツ",
+    "Korean": "추가 콘텐츠",
+    "Polish": "Dodatek",
+    "Russian": "Дополнение",
+    "Spanish": "Contenido adicional",
+    "Taiwanese": "擴充"
+  },
+  "ModName": {
+    "Chinese": "港口生活",
+    "English": "Harborlife",
+    "French": "Ville portuaire",
+    "German": "Hafenstadt",
+    "Italian": "Vita nel porto",
+    "Japanese": "港町の暮らし",
+    "Korean": "항구 생활",
+    "Polish": "Życie w porcie",
+    "Russian": "Жизнь в гавани",
+    "Spanish": "Vida portuaria",
+    "Taiwanese": "港口生活"
+  },
+  "Description": {
+    "Chinese": "从750名工匠开始，用一组经过改造的建筑在港口地区建造一座独特的城市。 部分建筑和外观需要各自对应的DLC；这些DLC并非使用基础港口城市内容的必需条件。启用Unlimited Scholar Residences时，无需港口学者住宅的单独建造许可。",
+    "English": "Build a unique city in the harbor area with a set of reworked buildings, starting with 750 artisans. Some buildings and skins require their respective DLCs; these DLCs are optional for the basic harbor city content. With Unlimited Scholar Residences enabled, separate harbor scholar permits are not needed.",
+    "French": "Construisez une ville unique dans la zone portuaire grâce à des bâtiments adaptés, à partir de 750 artisans. Certains bâtiments et apparences nécessitent leurs DLC respectifs ; ces DLC restent facultatifs pour le contenu portuaire de base. Avec Unlimited Scholar Residences, les permis portuaires de chercheurs ne sont pas nécessaires.",
+    "German": "Baue eine einzigartige Hafenstadt mit dafür vorgesehenen Gebäudevarianten ab 750 Handwerkern. Einige Gebäude und Skins benötigen das jeweilige DLC; für die grundlegende Hafenstadt bleiben diese DLCs optional. Mit Unbegrenzte Gelehrtenhäuser werden keine gesonderten Hafen-Gelehrten-Genehmigungen benötigt.",
+    "Italian": "Costruisci una città unica nell'area portuale con edifici adattati, a partire da 750 artigiani. Alcuni edifici e aspetti richiedono i rispettivi DLC, facoltativi per i contenuti di base della città portuale. Con Unlimited Scholar Residences non servono permessi separati per le residenze portuali degli studiosi.",
+    "Japanese": "職人750人から利用できる専用の建物を使い、港湾エリアに個性豊かな街を築けます。 一部の建物やスキンには対応するDLCが必要ですが、基本的な港町のコンテンツにこれらのDLCは必須ではありません。Unlimited Scholar Residences有効時は港湾の学者住宅専用の建築許可も不要です。",
+    "Korean": "직공 750명부터 해금되는 항구 전용 건물로 항구 구역에 개성 있는 도시를 건설할 수 있습니다. 일부 건물과 스킨에는 해당 DLC가 필요하지만, 기본 항구 도시 콘텐츠에는 필수가 아닙니다. Unlimited Scholar Residences를 활성화하면 항구 학자 주택의 별도 건축 허가도 필요하지 않습니다.",
+    "Polish": "Zbuduj wyjątkowe miasto na obszarze portowym, korzystając z dostosowanych budynków dostępnych od 750 rzemieślników. Niektóre budynki i skórki wymagają odpowiednich DLC; dodatki te nie są wymagane do podstawowej zawartości miasta portowego. Z Unlimited Scholar Residences osobne pozwolenia na portowe rezydencje uczonych nie są potrzebne.",
+    "Russian": "Постройте уникальный город в гавани с помощью адаптированных зданий, доступных при населении в 750 ремесленников. Для некоторых зданий и обликов нужны соответствующие DLC, но для основного содержимого портового города они необязательны. С Unlimited Scholar Residences отдельные разрешения на портовые дома учёных не требуются.",
+    "Spanish": "Construye una ciudad única en la zona portuaria con edificios adaptados, disponibles a partir de 750 artesanos. Algunos edificios y aspectos requieren sus respectivos DLC, opcionales para el contenido básico de la ciudad portuaria. Con Unlimited Scholar Residences no hacen falta permisos separados para las residencias portuarias de eruditos.",
+    "Taiwanese": "從750名工匠開始，使用經過改造的建築，在港口區域建造獨特的城市。 部分建築與外觀需要各自對應的DLC；這些DLC並非使用基本港口城市內容的必要條件。啟用Unlimited Scholar Residences時，不需要港口學者住宅的獨立建造許可。"
+  },
+  "KnownIssues": [
+    {
+      "Chinese": "未启用“无限学者住宅”时，港口学者住宅需要单独的建造许可；在这种情况下，启用“港口生活”后必须研究这些许可。启用“无限学者住宅”后，无需这些单独许可。",
+      "English": "Without Unlimited Scholar Residences, harbor scholar residences require separate permits, which must be researched after enabling Harborlife. With Unlimited Scholar Residences enabled, these separate permits are not required.",
+      "French": "Sans le mod « Permis illimités pour les résidences de chercheurs », les résidences de chercheurs portuaires nécessitent des permis de construire distincts ; dans ce cas, ces permis doivent être recherchés après l’activation de « Ville portuaire ». Avec « Permis illimités pour les résidences de chercheurs », ces permis distincts ne sont pas nécessaires.",
+      "German": "Ohne «Unbegrenzte Gelehrtenhäuser» müssen nach dem Aktivieren von «Hafenstadt» eigene Baugenehmigungen für Hafen-Gelehrtenhäuser erforscht werden. Mit «Unbegrenzte Gelehrtenhäuser» entfällt diese Genehmigungspflicht.",
+      "Italian": "Senza «Permessi illimitati per le residenze degli studiosi», le residenze portuali degli studiosi richiedono permessi di costruzione separati; in tal caso, questi permessi devono essere ricercati dopo aver attivato «Vita nel porto». Con «Permessi illimitati per le residenze degli studiosi» attivo, questi permessi separati non sono necessari.",
+      "Japanese": "「学者住宅の建設許可を無制限に」が有効でない場合、港湾の学者住宅には専用の建築許可が必要であり、その場合は「港町の暮らし」を有効にした後にこれらの許可を研究する必要があります。「学者住宅の建設許可を無制限に」が有効な場合、これらの専用許可は不要です。",
+      "Korean": "‘학자 주택 건설 허가 무제한’이 활성화되어 있지 않으면 항구 학자 주택에 별도의 건축 허가가 필요하며, 이 경우 ‘항구 생활’을 활성화한 후 해당 허가를 연구해야 합니다. ‘학자 주택 건설 허가 무제한’이 활성화되어 있으면 이러한 별도 허가는 필요하지 않습니다.",
+      "Polish": "Bez włączonych „Nielimitowanych pozwoleń na rezydencje uczonych” portowe rezydencje uczonych wymagają osobnych pozwoleń, które w takim przypadku należy zbadać po włączeniu „Życia w porcie”. Po włączeniu „Nielimitowanych pozwoleń na rezydencje uczonych” te osobne pozwolenia nie są potrzebne.",
+      "Russian": "Без включённой модификации «Неограниченные разрешения на резиденции ученых» для портовых домов учёных нужны отдельные разрешения; в этом случае после включения «Жизни в гавани» эти разрешения нужно исследовать. Если модификация «Неограниченные разрешения на резиденции ученых» включена, отдельные разрешения не требуются.",
+      "Spanish": "Sin «Permisos ilimitados para residencias de eruditos», las residencias portuarias de eruditos necesitan permisos de construcción propios, que en ese caso deben investigarse después de activar «Vida portuaria». Con «Permisos ilimitados para residencias de eruditos» activo, esos permisos separados no son necesarios.",
+      "Taiwanese": "未啟用「學者住宅許可無上限」時，港口學者住宅需要獨立的建造許可；在此情況下，啟用「港口生活」後必須研究這些許可。啟用「學者住宅許可無上限」後，則不需要這些獨立許可。"
     },
-    "ModName": {
-        "Chinese": "港口生活",
-        "English": "Harborlife",
-        "French": null,
-        "German": "Hafenstadt",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
+    {
+      "Chinese": "有玩家报告多人游戏发生不同步，尤其是玩家处于同一队伍时（GitHub #41）。本次审核未进行游戏内验证。",
+      "English": "Multiplayer desyncs have been reported, particularly when players share a team (GitHub #41). They were not verified in game during this audit.",
+      "French": "Des désynchronisations ont été signalées en multijoueur, notamment entre joueurs d'une même équipe (GitHub #41). Ces signalements n'ont pas été vérifiés en jeu lors de cet audit.",
+      "German": "Im Mehrspieler wurden Desynchronisationen gemeldet, besonders bei Spielern im selben Team (GitHub #41). In diesem Audit wurden die Meldungen nicht im Spiel überprüft.",
+      "Italian": "Sono state segnalate desincronizzazioni in multigiocatore, soprattutto tra giocatori della stessa squadra (GitHub #41). Le segnalazioni non sono state verificate in gioco durante questa revisione.",
+      "Japanese": "マルチプレイで、特に同じチームのプレイヤー間で同期ずれが報告されています（GitHub #41）。今回の監査ではゲーム内で検証していません。",
+      "Korean": "멀티플레이에서 특히 같은 팀의 플레이어 간에 동기화 오류가 보고되었습니다(GitHub #41). 이번 검토에서는 게임 내 검증을 수행하지 않았습니다.",
+      "Polish": "Zgłoszono desynchronizację w trybie wieloosobowym, zwłaszcza między graczami w tej samej drużynie (GitHub #41). Nie zweryfikowano ich w grze podczas tego audytu.",
+      "Russian": "Поступали сообщения о рассинхронизации в сетевой игре, особенно у игроков одной команды (GitHub #41). В рамках этого аудита сообщения не проверялись в игре.",
+      "Spanish": "Se han comunicado desincronizaciones en multijugador, sobre todo entre jugadores del mismo equipo (GitHub #41). No se han verificado en el juego durante esta revisión.",
+      "Taiwanese": "有玩家回報多人遊戲發生不同步，尤其是玩家位於同一隊伍時（GitHub #41）。本次審查未進行遊戲內驗證。"
     },
-    "Description": {
-        "Chinese": "从750名工匠开始，用一组经过改造的建筑在港口地区建造一座独特的城市。",
-        "English": "Build a unique city in the harbor area with a set of reworked buildings, starting with 750 artisans.",
-        "French": null,
-        "German": "Baue eine einzigartige Hafenstadt mit dafür vorgesehenen Gebäudevarianten ab 750 Handwerkern",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
+    {
+      "Chinese": "有玩家报告场景模式的建造菜单存在问题（GitHub #44）。尚未验证场景兼容性。",
+      "English": "Construction-menu problems in scenarios have been reported (GitHub #44). Scenario compatibility has not been verified.",
+      "French": "Des problèmes de menu de construction ont été signalés dans les scénarios (GitHub #44). La compatibilité avec les scénarios n'a pas été vérifiée.",
+      "German": "Für Szenarien wurden Probleme im Baumenü gemeldet (GitHub #44). Die Szenario-Kompatibilität ist nicht geprüft.",
+      "Italian": "Sono stati segnalati problemi al menu di costruzione negli scenari (GitHub #44). La compatibilità con gli scenari non è stata verificata.",
+      "Japanese": "シナリオで建設メニューの問題が報告されています（GitHub #44）。シナリオとの互換性は未確認です。",
+      "Korean": "시나리오에서 건설 메뉴 문제가 보고되었습니다(GitHub #44). 시나리오 호환성은 아직 확인되지 않았습니다.",
+      "Polish": "Zgłoszono problemy z menu budowy w scenariuszach (GitHub #44). Zgodność ze scenariuszami nie została sprawdzona.",
+      "Russian": "Поступали сообщения о проблемах с меню строительства в сценариях (GitHub #44). Совместимость со сценариями не проверена.",
+      "Spanish": "Se han comunicado problemas con el menú de construcción en los escenarios (GitHub #44). La compatibilidad con los escenarios no se ha verificado.",
+      "Taiwanese": "有玩家回報劇情場景的建造選單存在問題（GitHub #44）。尚未驗證場景相容性。"
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "partly"
     },
-    "KnownIssues": [
-        {
-            "Chinese": "",
-            "English": "Permits for Harbour Scholar Residences can only be obtained by researching new ones.",
-            "French": null,
-            "German": "Genehmigungen für Hafen-Gelehrtenhäuser können nur durch das Erforschen neuer Genehmigungen erlangt werden.",
-            "Italian": null,
-            "Japanese": null,
-            "Korean": null,
-            "Polish": null,
-            "Russian": null,
-            "Spanish": null,
-            "Taiwanese": null,
-            "Czech": null
-        }
-    ],
-    "DLCDependencies": [
-        {
-            "DLC": "LandOfLions",
-            "Dependant": "partly"
-        }
-    ],
-    "CreatorName": "Spice it up-Team: Mystiquebee84",
-    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
-    "Image": null,
-    "ModioResourceId":3210445
+    {
+      "DLC": "Tourism",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "Highlife",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "EmpireOfTheSkies",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "NewWorldRising",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "VibrantCity",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "Fiesta",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Mystiquebee84",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image": null,
+  "ModioResourceId": 3210445
 }

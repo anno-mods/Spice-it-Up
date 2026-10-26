@@ -69,7 +69,7 @@
 				<FeedbackController/>
 				<Ornament>
 					<OrnamentUnit>1</OrnamentUnit>
-					<OrnamentDescritpion>8855903</OrnamentDescritpion>
+					<OrnamentDescription>8855903</OrnamentDescription>
 				</Ornament>
 				<AmbientMoodProvider/>
 				<Infolayer/>
@@ -178,7 +178,7 @@
 				<FeedbackController/>
 				<Ornament>
 					<OrnamentUnit>1</OrnamentUnit>
-					<OrnamentDescritpion>8855904</OrnamentDescritpion>
+					<OrnamentDescription>8855904</OrnamentDescription>
 				</Ornament>
 				<AmbientMoodProvider/>
 				<Infolayer/>

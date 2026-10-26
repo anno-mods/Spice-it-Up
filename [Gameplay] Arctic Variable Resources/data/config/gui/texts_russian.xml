@@ -2,23 +2,23 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>8857207</GUID>
-      <Text>Ресурсы</Text>
+      <Text>Переменные ресурсы</Text>
     </Text>
     <Text>
       <GUID>8857200</GUID>
-      <Text>Глубоководные железные мины</Text>
+      <Text>Глубокая железная шахта</Text>
     </Text>
     <Text>
       <GUID>8857203</GUID>
-      <Text>Глубоководные мины из цинка</Text>
+      <Text>Глубокая цинковая шахта</Text>
     </Text>
     <Text>
       <GUID>8857204</GUID>
-      <Text>Глубоководные медные мины</Text>
+      <Text>Глубокая медная шахта</Text>
     </Text>
     <Text>
       <GUID>8857201</GUID>
-      <Text>Глубоководные мины</Text>
+      <Text>Глубокие шахты</Text>
     </Text>
   </ModOp>
 </ModOps>

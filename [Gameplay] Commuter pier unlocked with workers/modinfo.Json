@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_CommuterUnlockWorker",
   "IncompatibleIds": [
     "Spice_CommuterUnlockArtisan"
@@ -8,46 +8,46 @@
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "工人解锁通勤码头",
     "English": "Commuter pier unlocked with Workers",
-    "French": null,
+    "French": "Jetée de travailleurs débloquée au palier des ouvriers",
     "German": "Pendler-Anlegestelle mit Arbeitern freischalten",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Molo pendolari sbloccato con gli operai",
+    "Japanese": "労働者で解放される通勤桟橋",
+    "Korean": "노동자 단계에서 해금되는 통근 부두",
+    "Polish": "Przystań dojazdowa od poziomu robotników",
+    "Russian": "Причал для рабочих, доступный на уровне рабочих",
+    "Spanish": "Muelle de trabajadores desbloqueado con obreros",
+    "Taiwanese": "工人解鎖的通勤碼頭"
   },
   "Description": {
     "Chinese": "通勤码头与工人一起解锁，并移到工人施工菜单中。",
     "English": "Commuter pier is unlocked with workers and is moved to the worker construction menu.",
-    "French": null,
+    "French": "Débloque la jetée de travailleurs au palier des ouvriers et la place dans leur menu de construction portuaire.",
     "German": "Die Pendler-Anlegestelle wird mit Arbeitern freigeschaltet und ist in deren Hafen-Baumenü zu finden.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Sblocca il molo pendolari al livello degli operai e lo sposta nel menu di costruzione portuale degli operai.",
+    "Japanese": "通勤桟橋を労働者段階で解放し、労働者用の港湾建設メニューに移します。",
+    "Korean": "통근 부두를 노동자 단계에서 해금하고 노동자 항만 건설 메뉴로 옮깁니다.",
+    "Polish": "Odblokowuje przystań dojazdową na poziomie robotników i przenosi ją do ich menu budowy portu.",
+    "Russian": "Открывает причал для перевозки рабочих на уровне рабочих и переносит его в портовое меню строительства рабочих.",
+    "Spanish": "Desbloquea el muelle de trabajadores en el nivel de obreros y lo traslada a su menú de construcción portuaria.",
+    "Taiwanese": "通勤碼頭在工人階段解鎖，並移至工人的港口建造選單。"
   },
   "KnownIssues": null,
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
+  "Image": null,
   "ModioResourceId": 3210581
 }

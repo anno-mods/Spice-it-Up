@@ -1,73 +1,76 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_ScholarPermits",
   "IncompatibleIds": null,
   "ModDependencies": null,
+  "LoadAfterIds": [
+    "Spice_Harborlife"
+  ],
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
+    "Polish": "Rozgrywka",
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "无限学者住宅",
     "English": "Unlimited Scholar Residences",
-    "French": null,
+    "French": "Permis illimités pour les résidences de chercheurs",
     "German": "Unbegrenzte Gelehrtenhäuser",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Permessi illimitati per le residenze degli studiosi",
+    "Japanese": "学者住宅の建設許可を無制限に",
+    "Korean": "학자 주택 건설 허가 무제한",
+    "Polish": "Nielimitowane pozwolenia na rezydencje uczonych",
+    "Russian": "Неограниченные разрешения на резиденции ученых",
+    "Spanish": "Permisos ilimitados para residencias de eruditos",
+    "Taiwanese": "學者住宅許可無上限"
   },
   "Description": {
-    "Chinese": "取消学者住宅的施工许可证。",
-    "English": "Removes construction permits for scholar residences.",
-    "French": null,
-    "German": "Entfernt Baugenehmigungen für Gelehrtenhäuser.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "取消学者住宅的施工许可证。 启用Harborlife时也适用于港口学者住宅，教程目标合计计算两种住宅，共需25座。未启用Harborlife时，只计算普通学者住宅。",
+    "English": "Removes construction permits for scholar residences. With Harborlife enabled, also applies to harbor scholar residences and counts both variants towards the tutorial total of 25 residences. Without Harborlife, only normal scholar residences count.",
+    "French": "Supprime les permis de construction des résidences de chercheurs. Avec Harborlife, s’applique aussi aux résidences portuaires de chercheurs et compte les deux variantes pour l’objectif du tutoriel de 25 résidences au total. Sans Harborlife, seules les résidences ordinaires comptent.",
+    "German": "Entfernt Baugenehmigungen für Gelehrtenhäuser. Mit Harborlife gilt dies auch für Hafen-Gelehrtenhäuser; das Tutorial zählt beide Varianten gemeinsam bis insgesamt 25 Häuser. Ohne Harborlife zählen nur normale Gelehrtenhäuser.",
+    "Italian": "Rimuove i permessi di costruzione per le residenze degli studiosi. Con Harborlife si applica anche alle residenze portuali degli studiosi; entrambe le varianti contano per il totale di 25 residenze richiesto dal tutorial. Senza Harborlife contano solo le residenze normali.",
+    "Japanese": "学者住宅の建設許可を不要にします。 Harborlife有効時は港湾の学者住宅にも適用され、チュートリアルの目標は両方を合計した25軒になります。Harborlife無効時は通常の学者住宅のみを数えます。",
+    "Korean": "학자 주택 건설 허가 제한을 없앱니다. Harborlife가 활성화되어 있으면 항구 학자 주택에도 적용되며, 튜토리얼 목표는 두 유형을 합해 총 25채로 계산합니다. Harborlife가 없으면 일반 학자 주택만 계산합니다.",
+    "Polish": "Usuwa pozwolenia na budowę rezydencji uczonych. Z włączonym Harborlife obejmuje też portowe rezydencje uczonych; oba warianty liczą się łącznie do celu samouczka wynoszącego 25 rezydencji. Bez Harborlife liczą się tylko zwykłe rezydencje.",
+    "Russian": "Убирает разрешения на строительство резиденций ученых. При включённом Harborlife также действует на портовые дома учёных; оба варианта вместе засчитываются в цель обучения — всего 25 домов. Без Harborlife учитываются только обычные дома учёных.",
+    "Spanish": "Elimina los permisos de construcción de las residencias de eruditos. Con Harborlife también se aplica a las residencias portuarias de eruditos; ambas variantes cuentan para el objetivo del tutorial de 25 residencias en total. Sin Harborlife solo cuentan las residencias normales.",
+    "Taiwanese": "移除學者住宅的建築許可限制。 啟用Harborlife時也適用於港口學者住宅，教學目標合計計算兩種住宅，共需25座。未啟用Harborlife時，只計算一般學者住宅。"
   },
   "KnownIssues": [
     {
-      "Chinese": "",
+      "Chinese": "未启用本模组时建造的学者住宅，在拆除时不会返还建筑许可证。",
       "English": "Scholar Residences that were built without this mod will not return permits when demolished.",
-      "French": null,
+      "French": "Les résidences de chercheurs construites sans ce mod ne rendent pas de permis lorsqu’elles sont démolies.",
       "German": "Gelehrtenhäuser, die ohne diese Mod gebaut wurden, werden beim Abriss keine Genehmigungen zurückgeben.",
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
+      "Italian": "Le residenze degli studiosi costruite senza questa mod non restituiscono permessi quando vengono demolite.",
+      "Japanese": "このModを使わずに建てた学者住宅は、取り壊しても許可証が返却されません。",
+      "Korean": "이 모드를 사용하지 않고 지은 학자 주택은 철거해도 허가증을 돌려주지 않습니다.",
+      "Polish": "Rezydencje uczonych zbudowane bez tego moda nie zwracają pozwoleń po wyburzeniu.",
+      "Russian": "За снос резиденций ученых, построенных без этого мода, разрешения не возвращаются.",
+      "Spanish": "Las residencias de eruditos construidas sin este mod no devuelven permisos al demolerlas.",
+      "Taiwanese": "未使用此模組建造的學者住宅，拆除時不會退還許可證。"
     },
     {
-      "Chinese": "",
+      "Chinese": "启用本模组时建造的学者住宅，在停用模组后拆除会返还建筑许可证。",
       "English": "Scholar Residences that were built with this mod will return permits when demolished after deactivating this mod.",
-      "French": null,
+      "French": "Après la désactivation du mod, les résidences de chercheurs construites avec celui-ci rendent un permis lorsqu’elles sont démolies.",
       "German": "Gelehrtenhäuser, die mit dieser Mod gebaut wurden, geben eine Genehmigung zurück, wenn man die Mod deaktiviert und die Häuser dann abreißt.",
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
+      "Italian": "Dopo aver disattivato la mod, demolendo una residenza degli studiosi costruita con essa si ottiene un permesso.",
+      "Japanese": "このModで建てた学者住宅は、Modを無効にした後に取り壊すと許可証が返却されます。",
+      "Korean": "이 모드로 지은 학자 주택은 모드를 비활성화한 뒤 철거하면 허가증을 돌려받습니다.",
+      "Polish": "Po wyłączeniu moda wyburzenie rezydencji uczonych zbudowanej z jego użyciem zwróci pozwolenie.",
+      "Russian": "После отключения мода за снос резиденций ученых, построенных с ним, возвращается разрешение.",
+      "Spanish": "Tras desactivar el mod, las residencias de eruditos construidas con él devuelven permisos al demolerlas.",
+      "Taiwanese": "停用此模組後，拆除使用此模組建造的學者住宅會退還許可證。"
     }
   ],
   "DLCDependencies": [
@@ -78,6 +81,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211498
+  "Image": null,
+  "ModioResourceId": 3211498
 }

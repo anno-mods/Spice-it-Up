@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_Docklands",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
     "English": "Ornamental",
-    "French": null,
+    "French": "Éléments décoratifs",
     "German": "Zierobjekte",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Elementi ornamentali",
+    "Japanese": "装飾",
+    "Korean": "장식",
+    "Polish": "Ozdoby",
+    "Russian": "Украшения",
+    "Spanish": "Elementos decorativos",
+    "Taiwanese": "裝飾"
   },
   "ModName": {
     "Chinese": "观赏码头区",
     "English": "Ornamental Docklands",
-    "French": null,
+    "French": "Zone portuaire ornementale",
     "German": "Zier-Speicherstadt",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Darsena ornamentale",
+    "Japanese": "装飾用ドックランド",
+    "Korean": "장식용 도크랜드",
+    "Polish": "Ozdobne Docklands",
+    "Russian": "Декоративный район Доклендс",
+    "Spanish": "Docklands ornamental",
+    "Taiwanese": "裝飾碼頭區"
   },
   "Description": {
     "Chinese": "增加了观赏版本的码头区，可以建立无限。",
-    "English": "Adds ornamental versions of the Docklands which can be built infinitly.",
-    "French": null,
+    "English": "Adds ornamental versions of the Docklands which can be built infinitely.",
+    "French": "Ajoute des éléments décoratifs de Docklands, constructibles sans limite.",
     "German": "Fügt den Speicherstadt-bausatz als Ornamente hinzu, die unbegrenzt gebaut werden können.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aggiunge elementi ornamentali di Docklands, costruibili senza limiti.",
+    "Japanese": "ドックランドの装飾用建築を追加します。数に制限なく建設できます。",
+    "Korean": "도크랜드 장식 건물을 추가하며, 개수 제한 없이 지을 수 있습니다.",
+    "Polish": "Dodaje ozdobne elementy Docklands, które można budować bez limitu.",
+    "Russian": "Добавляет декоративные постройки Доклендса, которые можно строить без ограничений.",
+    "Spanish": "Añade elementos ornamentales de Docklands que se pueden construir sin límite.",
+    "Taiwanese": "新增裝飾版碼頭區建築，可無限建造。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211656
+  "Image": null,
+  "ModioResourceId": 3211656
 }

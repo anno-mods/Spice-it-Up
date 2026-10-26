@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_Palace",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
     "English": "Ornamental",
-    "French": null,
+    "French": "Éléments décoratifs",
     "German": "Zierobjekte",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Elementi ornamentali",
+    "Japanese": "装飾",
+    "Korean": "장식",
+    "Polish": "Ozdoby",
+    "Russian": "Украшения",
+    "Spanish": "Elementos decorativos",
+    "Taiwanese": "裝飾"
   },
   "ModName": {
     "Chinese": "装饰宫殿",
     "English": "Ornamental Palace",
-    "French": null,
+    "French": "Palais ornemental",
     "German": "Zier-Palast",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Palazzo ornamentale",
+    "Japanese": "装飾用宮殿",
+    "Korean": "장식용 궁전",
+    "Polish": "Ozdobny pałac",
+    "Russian": "Декоративный дворец",
+    "Spanish": "Palacio ornamental",
+    "Taiwanese": "裝飾宮殿"
   },
   "Description": {
     "Chinese": "增加了宫殿的装饰版本，可以无限地建造和不连接。",
-    "English": "Adds ornamental versions of the palace which can be built infinitly and unconnected.",
-    "French": null,
+    "English": "Adds ornamental versions of the palace which can be built infinitely and unconnected.",
+    "French": "Ajoute des éléments décoratifs du palais, constructibles sans limite et sans être reliés au palais d’origine.",
     "German": "Fügt den Palastbausatz als Ornamente hinzu, die unbegrenzt und unverbunden gebaut werden können.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aggiunge elementi ornamentali del palazzo, costruibili senza limiti e senza collegarli al palazzo originale.",
+    "Japanese": "宮殿の装飾用パーツを追加します。数に制限はなく、元の宮殿につなげる必要もありません。",
+    "Korean": "궁전 장식물을 추가합니다. 개수 제한이 없으며 원래 궁전에 연결할 필요도 없습니다.",
+    "Polish": "Dodaje ozdobne elementy pałacu, które można budować bez limitu i bez łączenia z głównym pałacem.",
+    "Russian": "Добавляет декоративные элементы дворца: их можно строить без ограничений и не соединяя с основным дворцом.",
+    "Spanish": "Añade elementos ornamentales del palacio que se pueden construir sin límite y sin conectarlos al palacio original.",
+    "Taiwanese": "新增宮殿裝飾建築，可無限建造，且不必連接至原本的宮殿。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211634
+  "Image": null,
+  "ModioResourceId": 3211634
 }

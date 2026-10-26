@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_InfluenceRemoved",
   "IncompatibleIds": [
     "Spice_InfluenceRabalancing"
@@ -8,46 +8,46 @@
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "删除影响力系统",
     "English": "Influence Removed",
-    "French": null,
+    "French": "Influence supprimée",
     "German": "Entfernte Einflusskosten",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Influenza rimossa",
+    "Japanese": "影響力を削除",
+    "Korean": "영향력 제거",
+    "Polish": "Usunięcie wpływów",
+    "Russian": "Удаление влияния",
+    "Spanish": "Influencia eliminada",
+    "Taiwanese": "移除影響力系統"
   },
   "Description": {
-    "Chinese": "从游戏中移除影响力系统。无法达到的影响力buff没有补偿。",
-    "English": "Removes the Influence system from the game. No compensation for influence buffs you cannot reach.",
-    "French": null,
-    "German": "Entfernt das Einflusssystem aus dem Spiel. Die Verbesserungen durch Einfluss können allerdings nicht anders erreicht werden.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "移除游戏中的影响力费用。",
+    "English": "Removes influence costs from the game.",
+    "French": "Supprime les coûts d’influence du jeu.",
+    "German": "Entfernt die Einflusskosten im Spiel.",
+    "Italian": "Rimuove i costi di influenza dal gioco.",
+    "Japanese": "ゲーム内の影響力コストを取り除きます。",
+    "Korean": "게임 내 영향력 비용을 제거합니다.",
+    "Polish": "Usuwa koszty wpływów z gry.",
+    "Russian": "Убирает затраты влияния в игре.",
+    "Spanish": "Elimina los costes de influencia del juego.",
+    "Taiwanese": "移除遊戲中的影響力費用。"
   },
   "KnownIssues": null,
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: DaLexy",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211352
+  "Image": null,
+  "ModioResourceId": 3211352
 }

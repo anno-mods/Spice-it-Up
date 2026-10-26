@@ -57,7 +57,7 @@
             </Values>
         </Asset>
     </ModOp>
-    <ModOp Type="add" GUID="500953" Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID="500953,500111" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>8855900</Building>
         </Item>
@@ -65,7 +65,7 @@
             <Building>8855902</Building>
         </Item>
     </ModOp>
-    <ModOp Type="add" GUID="501008" Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID="501008,500149" Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>8855906</Building>
         </Item>
@@ -162,14 +162,14 @@
         </Item>
     </ModOp>
     <!-- harbor category before Sailing Shipyard -->
-    <ModOp Type="addPrevSibling" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101277']">
+    <ModOp Type="addPrevSibling" GUID="25000195,500149" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101277']">
         <Item>
             <Building>8855882</Building>
         </Item>
     </ModOp>
     <!-- Remove Depot from "harbor t1" & "Cat. Harbor"-->
     <ModOp Type="remove" GUID="501007" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101278']"/>
-    <ModOp Type="remove" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101278']"/>
+    <ModOp Type="remove" GUID="25000195,500149" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101278']"/>
     <!-- Lighthouse                      (at the end)  -->
     <!-- harbour tier02 -->
     <ModOp Type="add" GUID="501008" Path="/Values/ConstructionCategory/BuildingList">
@@ -178,7 +178,7 @@
         </Item>
     </ModOp>
     <!-- harbor category -->
-    <ModOp Type="addPrevSibling" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101563']">
+    <ModOp Type="addPrevSibling" GUID="25000195,500149" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '101563']">
         <Item>
             <Building>901007</Building>
         </Item>

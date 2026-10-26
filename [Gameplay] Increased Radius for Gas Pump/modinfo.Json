@@ -1,46 +1,46 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_GasPumpRadius",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "增加了气泵的半径",
     "English": "Increased radius for gas pumps",
-    "French": null,
+    "French": "Rayon des pompes à gaz augmenté",
     "German": "Erhöhter Radius für Gaspumpen",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Raggio delle pompe del gas aumentato",
+    "Japanese": "ガス採掘設備の建設範囲拡大",
+    "Korean": "가스 펌프 범위 확대",
+    "Polish": "Większy zasięg pomp gazowych",
+    "Russian": "Увеличенный радиус газовых насосов",
+    "Spanish": "Mayor radio de las bombas de gas",
+    "Taiwanese": "擴大天然氣開採範圍"
   },
   "Description": {
-    "Chinese": "增加气泵的半径",
-    "English": "Increases the radius of gas pumps",
-    "French": null,
-    "German": "Erhöht den Einflussbereich von Gaspumpen.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "将北极天然气矿场的模块建造半径设为15，使其能够连接更远的天然气矿藏。",
+    "English": "Sets the module construction radius of Arctic gas mines to 15, allowing them to reach more distant gas deposits.",
+    "French": "Fixe à 15 le rayon de construction des modules des mines de gaz arctiques pour atteindre des gisements plus éloignés.",
+    "German": "Setzt den Modul-Bauradius arktischer Gasförderanlagen auf 15, damit weiter entfernte Gasvorkommen erschlossen werden können.",
+    "Italian": "Imposta a 15 il raggio di costruzione dei moduli delle miniere di gas artiche, consentendo di raggiungere giacimenti più lontani.",
+    "Japanese": "北極のガス採掘施設のモジュール建設半径を15にし、より離れたガス鉱床に届くようにします。",
+    "Korean": "북극 가스 광산의 모듈 건설 반경을 15로 설정하여 더 먼 가스 매장지에 접근할 수 있게 합니다.",
+    "Polish": "Ustawia promień budowy modułów arktycznych kopalni gazu na 15, umożliwiając dotarcie do dalszych złóż.",
+    "Russian": "Устанавливает радиус строительства модулей арктических газовых шахт на 15, позволяя охватить более удалённые месторождения.",
+    "Spanish": "Establece en 15 el radio de construcción de módulos de las minas de gas árticas para alcanzar yacimientos más lejanos.",
+    "Taiwanese": "將北極天然氣礦場的模組建造半徑設為15，使其能夠連接更遠的天然氣礦藏。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,5 +51,5 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "ModioResourceId" : 3211321
+  "ModioResourceId": 3211321
 }

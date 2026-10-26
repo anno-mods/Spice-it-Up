@@ -41,7 +41,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -87,7 +87,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -149,7 +149,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114584</OrnamentDescritpion>
+          <OrnamentDescription>114584</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -214,7 +214,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114586</OrnamentDescritpion>
+          <OrnamentDescription>114586</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -279,7 +279,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114587</OrnamentDescritpion>
+          <OrnamentDescription>114587</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -344,7 +344,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114588</OrnamentDescritpion>
+          <OrnamentDescription>114588</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -409,7 +409,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114589</OrnamentDescritpion>
+          <OrnamentDescription>114589</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -474,7 +474,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114590</OrnamentDescritpion>
+          <OrnamentDescription>114590</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -539,7 +539,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114591</OrnamentDescritpion>
+          <OrnamentDescription>114591</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -605,7 +605,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114592</OrnamentDescritpion>
+          <OrnamentDescription>114592</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -661,7 +661,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114593</OrnamentDescritpion>
+          <OrnamentDescription>114593</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -719,7 +719,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114594</OrnamentDescritpion>
+          <OrnamentDescription>114594</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -790,7 +790,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>20</OrnamentUnit>
-          <OrnamentDescritpion>114595</OrnamentDescritpion>
+          <OrnamentDescription>114595</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -955,6 +955,10 @@
   <ModOp Type="remove" Path="//Values/RewardPool/ItemsPool/Item[ItemLink = '193697']" />
   <ModOp Type="remove" Path="//Values/RewardPool/ItemsPool/Item[ItemLink = '193737']" />
   <ModOp Type="remove" Path="//Values/RewardPool/ItemsPool/Item[ItemLink = '193738']" />
+  <!-- Remove the alternate Botanica permit pools from Kahina's offers. -->
+  <ModOp Type="remove" GUID="192925" Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193739']" />
+  <ModOp Type="remove" GUID="192926" Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193740']" />
+  <ModOp Type="remove" GUID="192927" Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193741']" />
   <ModOp Type="remove" Path="//Values/RewardPool/ItemsPool/Item[ItemLink = '193729']" />
 
   <ModOp Type="replace" GUID='193734'>

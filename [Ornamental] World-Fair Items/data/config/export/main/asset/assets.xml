@@ -2778,7 +2778,7 @@
     <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building ='501488']"/>
     <ModOp Type="remove" Path="//ConstructionCategory/BuildingList/Item[Building ='501695']"/>
     <!-- moderate construction menu ornamental -->
-    <ModOp Type="add" GUID='500068' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500068,500069' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>976500</Building>
         </Item>
@@ -2794,7 +2794,7 @@
     </ModOp>
 
     <!-- sa construction menu 2 ornamental -->
-    <ModOp Type="add" GUID='500055' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500055,500079' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902263</Building>
         </Item>

@@ -1,46 +1,46 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_LimitlessItemtrade",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
+    "Polish": "Rozgrywka",
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "无限贸易",
     "English": "Unlimited Itemtrade",
-    "French": null,
+    "French": "Achats d’objets illimités",
     "German": "Unbegrenzter Itemkauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Acquisti di oggetti illimitati",
+    "Japanese": "アイテム購入数の制限解除",
+    "Korean": "아이템 구매 제한 해제",
+    "Polish": "Nieograniczony handel przedmiotami",
+    "Russian": "Неограниченная покупка предметов",
+    "Spanish": "Compra ilimitada de objetos",
+    "Taiwanese": "無限購買物品"
   },
   "Description": {
     "Chinese": "移除可以从商人处购买的物品限制。\n请记住，这个限制只适用于狮子大地，所以如果你没有这个DLC，你不需要这个mod !",
     "English": "Removes the limit on items that can be bought from traders. \nKeep in mind that this limit only is active with Land of Lions, so you don't need this mod if you don't have this DLC!",
-    "French": null,
+    "French": "Supprime la limite d’objets achetés auprès des marchands. Cette limite n’existe qu’avec le DLC Terre des lions ; ce mod est donc inutile sans ce DLC.",
     "German": "Entfernt das Limit auf Items, die bei Händlern gekauft werden können. \nDieses Limit gilt nur mit dem \"Land der Löwen\"-DLC, ansonsten ist die Mod überflüssig. ",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Rimuove il limite agli oggetti acquistabili dai mercanti. Il limite è attivo solo con il DLC La Terra dei Leoni, quindi senza il DLC questa mod non serve.",
+    "Japanese": "商人から購入できるアイテム数の上限をなくします。この上限は「ライオンの大地」DLC導入時のみ有効なので、DLCがなければこのModは不要です。",
+    "Korean": "상인에게서 구매할 수 있는 아이템 수 제한을 없앱니다. 이 제한은 사자의 땅 DLC가 있을 때만 적용되므로 DLC가 없다면 이 모드는 필요하지 않습니다.",
+    "Polish": "Usuwa limit przedmiotów kupowanych u handlarzy. Limit działa tylko z DLC Kraina Lwów, więc bez tego dodatku mod nie jest potrzebny.",
+    "Russian": "Снимает ограничение на покупку предметов у торговцев. Оно действует только с дополнением «Земля Львов», поэтому без него мод не нужен.",
+    "Spanish": "Elimina el límite de objetos que se pueden comprar a los comerciantes. Este límite solo existe con el DLC Tierra de Leones, así que el mod no hace falta sin ese contenido.",
+    "Taiwanese": "移除向商人購買物品的數量上限。此限制僅在擁有「獅子大地」DLC 時生效；沒有該 DLC 就不需要此模組。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211491 
+  "Image": null,
+  "ModioResourceId": 3211491
 }

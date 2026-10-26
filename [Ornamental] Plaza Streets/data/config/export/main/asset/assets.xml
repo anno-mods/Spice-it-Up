@@ -39,11 +39,6 @@
     <ModOp GUID='114435' Type="addNextSibling">
         <Asset>
             <BaseAssetGUID>114435</BaseAssetGUID>
-            <AddedProperties>
-                <Street>
-                    <InternalID>300</InternalID>
-                </Street>
-            </AddedProperties>
             <Values>
                 <Standard>
                     <GUID>1440134606</GUID>
@@ -81,11 +76,6 @@
     <ModOp GUID='270038' Type="addNextSibling">
         <Asset>
             <BaseAssetGUID>270038</BaseAssetGUID>
-            <AddedProperties>
-                <Street>
-                    <InternalID>301</InternalID>
-                </Street>
-            </AddedProperties>
             <Values>
                 <Standard>
                     <GUID>1440134607</GUID>
@@ -122,11 +112,6 @@
     <ModOp GUID='269303' Type="addNextSibling">
         <Asset>
             <BaseAssetGUID>269303</BaseAssetGUID>
-            <AddedProperties>
-                <Street>
-                    <InternalID>302</InternalID>
-                </Street>
-            </AddedProperties>
             <Values>
                 <Standard>
                     <GUID>1440134608</GUID>
@@ -189,6 +174,8 @@
                     <CfgFileName />
                     <InvalidColor>-50116</InvalidColor>
                     <InternalID>134</InternalID>
+                    <Quality>2</Quality>
+                    <SpeedFactor>1.5</SpeedFactor>
                     <DecalMapping />
                     <DecalVariation />
                     <GroupBits>512</GroupBits>

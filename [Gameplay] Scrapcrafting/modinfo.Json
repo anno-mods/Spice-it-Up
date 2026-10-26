@@ -1,60 +1,60 @@
 {
-  "Version": "1.2.1",
+  "Version": "1.2.2",
   "ModID": "Spice_Scrapcrafting",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
+    "Polish": "Rozgrywka",
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "废品加工",
     "English": "Scrapcrafting",
-    "French": null,
+    "French": "Transformation de ferraille",
     "German": "Schrott umwandeln",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Lavorazione dei rottami",
+    "Japanese": "スクラップ加工",
+    "Korean": "고철 가공",
+    "Polish": "Przetwarzanie złomu",
+    "Russian": "Переработка лома",
+    "Spanish": "Transformación de chatarra",
+    "Taiwanese": "廢料加工"
   },
   "Description": {
-    "Chinese": "老内特可以从5个废料中提炼出1个漂亮的废料，从5个漂亮的废品中提炼出一个特殊的废料。",
+    "Chinese": "老内特可将5吨普通废料加工成1吨优质废料，再将5吨优质废料加工成1吨特殊废料。",
     "English": "Old Nate can craft 1 nice scrap from 5 scrap and 1 special scrap from 5 nice scrap.",
-    "French": null,
-    "German": "Der alte Nate kann Schrott umwandeln: 5 Schrott -\u003E 1 Schöner Schrott und 5 Schöner Schrott -\u003E 1 Besonderer Schrott",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "French": "Le vieux Nate peut transformer 5 tonnes de ferraille en 1 tonne de ferraille de qualité, puis 5 tonnes de ferraille de qualité en 1 tonne de ferraille spéciale.",
+    "German": "Der alte Nate kann Schrott umwandeln: 5 Schrott -> 1 Schöner Schrott und 5 Schöner Schrott -> 1 Besonderer Schrott.",
+    "Italian": "Il vecchio Nate può trasformare 5 tonnellate di rottami in 1 tonnellata di rottami di qualità e 5 tonnellate di rottami di qualità in 1 tonnellata di rottami speciali.",
+    "Japanese": "ネイトが通常のスクラップ5トンを良質なスクラップ1トンに、良質なスクラップ5トンを特殊なスクラップ1トンに加工できるようにします。",
+    "Korean": "네이트가 일반 고철 5톤으로 양질의 고철 1톤을, 양질의 고철 5톤으로 특수 고철 1톤을 만들 수 있습니다.",
+    "Polish": "Stary Nate może przerobić 5 ton złomu na 1 tonę dobrego złomu, a 5 ton dobrego złomu na 1 tonę specjalnego złomu.",
+    "Russian": "Старина Нейт может переработать 5 тонн лома в 1 тонну качественного лома, а 5 тонн качественного лома — в 1 тонну особого лома.",
+    "Spanish": "El viejo Nate puede transformar 5 toneladas de chatarra en 1 tonelada de chatarra de calidad, y 5 toneladas de chatarra de calidad en 1 tonelada de chatarra especial.",
+    "Taiwanese": "老奈特可將5噸普通廢料加工成1噸優質廢料，再將5噸優質廢料加工成1噸特殊廢料。"
   },
   "KnownIssues": [
     {
-      "Chinese": "一次只能转化一吨废料",
-      "English": "Only one ton of scrap can be transmuted at a time",
-      "French": null,
-      "German": "Es kann immer nur eine Tonne Schrott umgewandelt werden",
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
+      "Chinese": "每次加工只能产出1吨高一级的废料。",
+      "English": "Only one ton of upgraded scrap can be produced per crafting action.",
+      "French": "Chaque fabrication ne produit qu'une tonne de ferraille de qualité supérieure.",
+      "German": "Pro Herstellungsvorgang entsteht nur eine Tonne des höherwertigen Schrotts.",
+      "Italian": "Ogni lavorazione produce solo una tonnellata di rottami di qualità superiore.",
+      "Japanese": "1回の加工で生産できる上位のスクラップは1トンです。",
+      "Korean": "제작 한 번에 생산할 수 있는 상위 등급 고철은 1톤입니다.",
+      "Polish": "Każde przetwarzanie daje tylko jedną tonę złomu wyższej jakości.",
+      "Russian": "За одну операцию можно произвести только одну тонну лома более высокого качества.",
+      "Spanish": "Cada operación solo produce una tonelada de chatarra de calidad superior.",
+      "Taiwanese": "每次加工只能產出1噸高一級的廢料。"
     }
   ],
   "DLCDependencies": [
@@ -69,6 +69,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211468
+  "Image": null,
+  "ModioResourceId": 3211468
 }

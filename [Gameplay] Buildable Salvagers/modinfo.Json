@@ -1,56 +1,56 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_BuildableSalvagers",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "可建造打捞船",
     "English": "Buildable Salvagers",
-    "French": null,
+    "French": "Récupérateurs constructibles",
     "German": "Baubare Tauchboote",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Recuperatori costruibili",
+    "Japanese": "建造可能なサルベージ船",
+    "Korean": "건조 가능한 인양선",
+    "Polish": "Budowalne statki wydobywcze",
+    "Russian": "Строительство килекторов",
+    "Spanish": "Rescatistas construibles",
+    "Taiwanese": "可建造打撈船"
   },
   "Description": {
     "Chinese": "打捞船可在蒸汽船坞进行施工。",
     "English": "Salvagers are available for construction in the steam shipyard.",
-    "French": null,
+    "French": "Les récupérateurs peuvent être construits au chantier naval à vapeur.",
     "German": "Tauchboote können in der Dampfschiffswerft gebaut werden.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "I recuperatori possono essere costruiti nel cantiere navale a vapore.",
+    "Japanese": "サルベージ船を蒸気船造船所で建造できます。",
+    "Korean": "인양선을 증기 조선소에서 건조할 수 있습니다.",
+    "Polish": "Statki wydobywcze można budować w stoczni parowej.",
+    "Russian": "Килекторы можно строить на паровой верфи.",
+    "Spanish": "Los rescatistas se pueden construir en el astillero de vapor.",
+    "Taiwanese": "打撈船可在蒸汽造船廠建造。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
     {
       "DLC": "SunkenTreasures",
       "Dependant": "partly"
-    }  
+    }
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3210560
+  "Image": null,
+  "ModioResourceId": 3210560
 }

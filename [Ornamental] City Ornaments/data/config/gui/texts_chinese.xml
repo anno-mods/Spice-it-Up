@@ -6,19 +6,19 @@
         </Text>
         <Text>
             <GUID>977001</GUID>
-            <Text>草坪直线</Text>
+            <Text>草坪转角</Text>
         </Text>
         <Text>
             <GUID>977002</GUID>
-            <Text>草坪穿越</Text>
+            <Text>草坪十字交叉</Text>
         </Text>
         <Text>
             <GUID>977003</GUID>
-            <Text>草坪结束</Text>
+            <Text>草坪端部</Text>
         </Text>
         <Text>
             <GUID>977004</GUID>
-            <Text>Grass t-cross</Text>
+            <Text>草坪丁字交叉</Text>
         </Text>
         <Text>
             <GUID>977010</GUID>
@@ -26,7 +26,7 @@
         </Text>
         <Text>
             <GUID>977011</GUID>
-            <Text>草坪角落</Text>
+            <Text>草坪内侧转角</Text>
         </Text>
         <Text>
             <GUID>977012</GUID>
@@ -34,7 +34,7 @@
         </Text>
         <Text>
             <GUID>977013</GUID>
-            <Text>草坪转角</Text>
+            <Text>草坪外侧转角</Text>
         </Text>
         <Text>
             <GUID>977020</GUID>
@@ -42,7 +42,7 @@
         </Text>
         <Text>
             <GUID>977021</GUID>
-            <Text>城市草坪面积</Text>
+            <Text>城市草坪区</Text>
         </Text>
         <Text>
             <GUID>977030</GUID>
@@ -55,7 +55,7 @@
 
         <Text>
             <GUID>977400</GUID>
-            <Text>纪念</Text>
+            <Text>纪念雕像</Text>
         </Text>
         <Text>
             <GUID>977401</GUID>
@@ -63,7 +63,7 @@
         </Text>
         <Text>
             <GUID>977402</GUID>
-            <Text>Pavillon</Text>
+            <Text>凉亭</Text>
         </Text>
         <Text>
             <GUID>977403</GUID>
@@ -75,7 +75,7 @@
         </Text>
         <Text>
             <GUID>977405</GUID>
-            <Text>纪念</Text>
+            <Text>纪念雕像</Text>
         </Text>
         <Text>
             <GUID>977406</GUID>
@@ -83,7 +83,7 @@
         </Text>
         <Text>
             <GUID>977407</GUID>
-            <Text>Pavillon</Text>
+            <Text>凉亭</Text>
         </Text>
         <Text>
             <GUID>977408</GUID>

@@ -1,0 +1,40 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>119355</GUID>
+      <Text>[AssetData(100442) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>119356</GUID>
+      <Text>[AssetData(100442) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>119357</GUID>
+      <Text>[AssetData(100442) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1440133060</GUID>
+      <Text>[AssetData(100442) Text]スキン「Acid」</Text>
+    </Text>
+    <Text>
+      <GUID>1440133061</GUID>
+      <Text>[AssetData(100442) Text]スキン「Redcube」</Text>
+    </Text>
+    <Text>
+      <GUID>1440133062</GUID>
+      <Text>[AssetData(100442) Text]スキン「Starfield」</Text>
+    </Text>
+    <Text>
+      <GUID>1440133063</GUID>
+      <Text>毒蛇のごとく敵に噛みつく。</Text>
+    </Text>
+    <Text>
+      <GUID>1440133064</GUID>
+      <Text>迷彩に頼らず、正面からの戦いを好む。</Text>
+    </Text>
+    <Text>
+      <GUID>1440133065</GUID>
+      <Text>夜になると姿が見えなくなる。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

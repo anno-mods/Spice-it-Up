@@ -45,7 +45,7 @@
 					<InternalID>120</InternalID>
 				</Street>
 				<Constructable/>
-				<Locked/>
+				<Locked><DefaultLockedState>1</DefaultLockedState></Locked>
 				<SoundEmitter/>
 				<Text/>
 				<Building>
@@ -67,7 +67,7 @@
 					<InternalID>119</InternalID>
 				</Street>
 				<Constructable/>
-				<Locked/>
+				<Locked><DefaultLockedState>1</DefaultLockedState></Locked>
 				<SoundEmitter/>
 				<Text/>
 				<Building>

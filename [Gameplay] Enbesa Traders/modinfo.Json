@@ -1,59 +1,56 @@
 {
-    "Version": "1.3.2",
-    "ModID": "Spice_EnbesaTraders",
-    "IncompatibleIds": null,
-    "ModDependencies": null,
-    "Category": {
-        "Chinese": "游戏玩法",
-        "English": "Gameplay",
-        "French": null,
-        "German": "Spielablauf",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
-    },
-    "ModName": {
-        "Chinese": "安贝沙贸易商",
-        "English": "Enbesa Traders",
-        "French": null,
-        "German": "Enbesianische Händler",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
-    },
-    "Description": {
-        "Chinese": "瓦哈德瑟和奇杜西·安尼托尼像其他NPC一样提供自己的商品。",
-        "English": "Waha Desher and Kidusi Anitoni offer their own set of goods like other NPCs.",
-        "French": null,
-        "German": "Waha Desher und Kidusi Anitoni bieten Waren zum Verkauf an.",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
-    },
-    "KnownIssues": null,
-    "DLCDependencies": [
-        {
-            "DLC": "LandOfLions",
-            "Dependant": "required"
-        }
-    ],
-    "CreatorName": "Spice it up-Team: Taubenangriff",
-    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
-    "Image": null,
-    "ModioResourceId" : 3210609
+  "Version": "1.3.3",
+  "ModID": "Spice_EnbesaTraders",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": "Jouabilité",
+    "German": "Spielablauf",
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
+    "Polish": "Rozgrywka",
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
+  },
+  "ModName": {
+    "Chinese": "安贝沙贸易商",
+    "English": "Enbesa Traders",
+    "French": "Marchands d'Enbesa",
+    "German": "Enbesianische Händler",
+    "Italian": "Commercianti di Enbesa",
+    "Japanese": "エンベサの交易商",
+    "Korean": "엔베사 상인",
+    "Polish": "Kupcy z Enbesy",
+    "Russian": "Торговцы Энбесы",
+    "Spanish": "Comerciantes de Enbesa",
+    "Taiwanese": "安貝沙商人"
+  },
+  "Description": {
+    "Chinese": "瓦哈德瑟和奇杜西·安尼托尼像其他NPC一样提供自己的商品。",
+    "English": "Waha Desher and Kidusi Anitoni offer their own set of goods like other NPCs.",
+    "French": "Waha Desher et Kidusi Anitoni proposent leurs propres marchandises, comme les autres PNJ.",
+    "German": "Waha Desher und Kidusi Anitoni bieten Waren zum Verkauf an.",
+    "Italian": "Waha Desher e Kidusi Anitoni offrono le proprie merci, come gli altri PNG.",
+    "Japanese": "Waha DesherとKidusi Anitoniが、ほかのNPCと同じように独自の商品を販売します。",
+    "Korean": "Waha Desher와 Kidusi Anitoni가 다른 NPC처럼 각자의 상품을 판매합니다.",
+    "Polish": "Waha Desher i Kidusi Anitoni oferują własny zestaw towarów, podobnie jak inni bohaterowie niezależni.",
+    "Russian": "Ваха Дешер и Кидуси Анитони предлагают собственный набор товаров, как и другие неигровые персонажи.",
+    "Spanish": "Waha Desher y Kidusi Anitoni ofrecen sus propias mercancías, al igual que otros PNJ.",
+    "Taiwanese": "Waha Desher與Kidusi Anitoni和其他NPC一樣，提供各自的商品。"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image": null,
+  "ModioResourceId": 3210609
 }

@@ -1,0 +1,53 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>190063</GUID>
+      <Text>ジャガイモのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190064</GUID>
+      <Text>穀物のすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190065</GUID>
+      <Text>ホップのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190373</GUID>
+      <Text>パプリカのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190068</GUID>
+      <Text>ココアのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190066</GUID>
+      <Text>さとうきびのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190374</GUID>
+      <Text>ブドウのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190070</GUID>
+      <Text>タバコのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190069</GUID>
+      <Text>綿花のすごい種</Text>
+    </Text>
+
+    <Text>
+      <GUID>190150</GUID>
+      <Text>コーヒーのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190151</GUID>
+      <Text>バナナのすごい種</Text>
+    </Text>
+    <Text>
+      <GUID>190152</GUID>
+      <Text>トウモロコシのすごい種</Text>
+    </Text>
+  </ModOp>
+</ModOps>

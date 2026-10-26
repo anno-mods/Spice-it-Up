@@ -1,59 +1,56 @@
 {
-    "Version": "1.0.0",
-    "ModID": "Spice_BauxiteFix",
-    "IncompatibleIds": null,
-    "ModDependencies": null,
-    "Category": {
-        "Chinese": null,
-        "English": "Bugfix",
-        "French": null,
-        "German": "Bugfix",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
-    },
-    "ModName": {
-        "Chinese": null,
-        "English": "Bauxite and Aluminum at Endgame",
-        "French": null,
-        "German": "Bauxit und Aluminium im Endgame",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
-    },
-    "Description": {
-        "Chinese": null,
-        "English": "Archibald Blake continues selling Bauxite at Endgame Stage\n\nIsabel Sarmento continues selling Aluminum Profiles at Endgame Stage",
-        "French": null,
-        "German": "Archibald Blake verkauft Bauxite auch im Endgame\n\nIsabel Sarmento verkauft Aluminiumprofile auch im Endgame.",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
-    },
-    "KnownIssues": null,
-    "DLCDependencies": [
-        {
-            "DLC": "EmpireOfTheSkies",
-            "Dependant": "required"
-        }
-    ],
-    "CreatorName": "Spice it up-Team: Taubenangriff",
-    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
-    "Image": null,
-    "ModioResourceId": 3510671
+  "Version": "1.0.1",
+  "ModID": "Spice_BauxiteFix",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "错误修复",
+    "English": "Bugfix",
+    "French": "Correction de bugs",
+    "German": "Bugfix",
+    "Italian": "Correzione di errori",
+    "Japanese": "不具合修正",
+    "Korean": "버그 수정",
+    "Polish": "Poprawki błędów",
+    "Russian": "Исправление ошибок",
+    "Spanish": "Corrección de errores",
+    "Taiwanese": "錯誤修復"
+  },
+  "ModName": {
+    "Chinese": "终局阶段仍可购买铝土矿与铝材",
+    "English": "Bauxite and Aluminum at Endgame",
+    "French": "Bauxite et aluminium disponibles en fin de partie",
+    "German": "Bauxit und Aluminium im Endgame",
+    "Italian": "Bauxite e alluminio disponibili a fine partita",
+    "Japanese": "エンドゲームでもボーキサイトとアルミニウムを販売",
+    "Korean": "최종 단계에도 보크사이트와 알루미늄 판매",
+    "Polish": "Boksyt i aluminium dostępne w końcowej fazie gry",
+    "Russian": "Бокситы и алюминий доступны на позднем этапе игры",
+    "Spanish": "Bauxita y aluminio disponibles al final de la partida",
+    "Taiwanese": "終局階段仍可購買鋁土礦與鋁材"
+  },
+  "Description": {
+    "Chinese": "在终局阶段，阿奇博尔德·布莱克仍会出售铝土矿，伊莎贝尔·萨门托仍会出售铝制型材。",
+    "English": "Archibald Blake continues selling Bauxite at Endgame Stage\n\nIsabel Sarmento continues selling Aluminum Profiles at Endgame Stage",
+    "French": "Au stade de fin de partie, Archibald Blake continue de vendre de la bauxite et Isabel Sarmento des profilés d’aluminium.",
+    "German": "Archibald Blake verkauft Bauxite auch im Endgame\n\nIsabel Sarmento verkauft Aluminiumprofile auch im Endgame.",
+    "Italian": "Nella fase finale, Archibald Blake continua a vendere bauxite e Isabel Sarmento profili di alluminio.",
+    "Japanese": "エンドゲームでも、アーチボルド・ブレイクはボーキサイトを、イザベル・サルメントはアルミニウムの形材を販売し続けます。",
+    "Korean": "최종 단계에도 아치볼드 블레이크는 보크사이트를, 이사벨 사르멘토는 알루미늄 프로파일을 계속 판매합니다.",
+    "Polish": "W końcowej fazie Archibald Blake nadal sprzedaje boksyt, a Isabel Sarmento profile aluminiowe.",
+    "Russian": "На позднем этапе Арчибальд Блейк продолжает продавать бокситы, а Изабель Сарменто — алюминиевые профили.",
+    "Spanish": "En la fase final, Archibald Blake sigue vendiendo bauxita e Isabel Sarmento perfiles de aluminio.",
+    "Taiwanese": "在終局階段，阿奇博爾德·布萊克仍會販售鋁土礦，伊莎貝爾·薩門託仍會販售鋁製型材。"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "EmpireOfTheSkies",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image": null,
+  "ModioResourceId": 3510671
 }

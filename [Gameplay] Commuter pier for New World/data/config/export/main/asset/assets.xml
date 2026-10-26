@@ -5,7 +5,7 @@
       <Building>901008</Building>
     </Item>
   </ModOp>
-  <ModOp Type="addNextSibling" GUID='25000195' Path="/Values/ConstructionCategory/BuildingList/Item[Building='102284']">
+  <ModOp Type="addNextSibling" GUID='25000195,500149' Path="/Values/ConstructionCategory/BuildingList/Item[Building='102284']">
     <Item>
       <Building>901008</Building>
     </Item>

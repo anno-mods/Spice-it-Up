@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_Airship",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "老内特的飞艇",
     "English": "Nate's Airship",
-    "French": null,
+    "French": "Le dirigeable de Nate",
     "German": "Nate's Luftschiff",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Il dirigibile di Nate",
+    "Japanese": "ネイトの飛行船",
+    "Korean": "네이트의 비행선",
+    "Polish": "Sterowiec Nate’a",
+    "Russian": "Дирижабль Нейта",
+    "Spanish": "El dirigible de Nate",
+    "Taiwanese": "老內特的飛艇"
   },
   "Description": {
     "Chinese": "你可以在内特的贸易站购买他的飞艇，或者在北极飞艇机库建造它。",
     "English": "You can buy Nate's Airship at his trading post or build it in the arctic airship hangar.",
-    "French": null,
+    "French": "Achetez le dirigeable de Nate à son comptoir commercial ou construisez-le dans le hangar à dirigeables de l’Arctique.",
     "German": "Nate verkauft Exemplare seines Luftschiffes an seinem Handelsposten. Alternativ kann es im Luftschiffhangar gebaut werden.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Acquista il dirigibile di Nate al suo avamposto commerciale oppure costruiscilo nell’hangar per dirigibili dell’Artico.",
+    "Japanese": "ネイトの交易所で飛行船を購入するか、北極圏の飛行船格納庫で建造できます。",
+    "Korean": "네이트의 교역소에서 비행선을 구매하거나 북극 비행선 격납고에서 건조할 수 있습니다.",
+    "Polish": "Sterowiec Nate’a można kupić w jego kantorze handlowym lub zbudować w arktycznym hangarze dla sterowców.",
+    "Russian": "Дирижабль Нейта можно купить на его торговом посту или построить в арктическом ангаре.",
+    "Spanish": "Puedes comprar el dirigible de Nate en su puesto comercial o construirlo en el hangar de dirigibles del Ártico.",
+    "Taiwanese": "你可以在老內特的貿易站購買他的飛艇，或在北極飛艇機庫建造。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -55,6 +55,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211424
+  "Image": null,
+  "ModioResourceId": 3211424
 }

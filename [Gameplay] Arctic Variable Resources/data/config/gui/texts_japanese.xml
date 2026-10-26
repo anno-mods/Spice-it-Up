@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8857207</GUID>
+      <Text>可変資源</Text>
+    </Text>
+    <Text>
+      <GUID>8857200</GUID>
+      <Text>巨大鉄鉱</Text>
+    </Text>
+    <Text>
+      <GUID>8857203</GUID>
+      <Text>巨大亜鉛鉱</Text>
+    </Text>
+    <Text>
+      <GUID>8857204</GUID>
+      <Text>巨大銅鉱</Text>
+    </Text>
+    <Text>
+      <GUID>8857201</GUID>
+      <Text>巨大鉱山</Text>
+    </Text>
+  </ModOp>
+</ModOps>

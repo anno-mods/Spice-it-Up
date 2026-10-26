@@ -263,11 +263,11 @@
 		</Item>
 		<!-- Market SA -->
 		<Item>
-			<GUID>8860018</GUID>
+			<GUID>8856018</GUID>
 		</Item>
 		<!-- Chapel -->
 		<Item>
-			<GUID>8860019</GUID>
+			<GUID>8856019</GUID>
 		</Item>
 		<!-- Boxing Arena -->
 		<Item>
@@ -307,7 +307,7 @@
 		</Item>
 	</ModOp>
 	<!-- Investor Residence -->
-	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010346']">
+	<ModOp Type="addNextSibling" Path="//*[self::EffectTargetGUIDs or self::EffectTargets]/Item[GUID = '1010347']">
 		<Item>
 			<GUID>8856005</GUID>
 		</Item>
@@ -437,7 +437,7 @@
 			<GUID>8856010</GUID>
 		</Item>
 		<!-- Church -->
-		<Item>Or
+		<Item>
 			<GUID>8856011</GUID>
 		</Item>
 		<!-- School -->
@@ -462,11 +462,11 @@
 		</Item>
 		<!-- Market SA -->
 		<Item>
-			<GUID>8860018</GUID>
+			<GUID>8856018</GUID>
 		</Item>
 		<!-- Chapel -->
 		<Item>
-			<GUID>8860019</GUID>
+			<GUID>8856019</GUID>
 		</Item>
 		<!-- Boxing Arena -->
 	</ModOp>
@@ -509,11 +509,11 @@
 		</Item>
 		<!-- Market SA -->
 		<Item>
-			<GUID>8860018</GUID>
+			<GUID>8856018</GUID>
 		</Item>
 		<!-- Chapel -->
 		<Item>
-			<GUID>8860019</GUID>
+			<GUID>8856019</GUID>
 		</Item>
 		<!-- Boxing Arena -->
 	</ModOp>
@@ -552,7 +552,7 @@
 		</Item>
 		<!--Church OW -->
 		<Item>
-			<GUID>8860018</GUID>
+			<GUID>8856018</GUID>
 		</Item>
 		<!-- Chapel -->
 	</ModOp>
@@ -563,7 +563,7 @@
 		</Item>
 		<!-- Pub OW -->
 		<Item>
-			<GUID>8860019</GUID>
+			<GUID>8856019</GUID>
 		</Item>
 		<!-- Boxing Arena -->
 	</ModOp>

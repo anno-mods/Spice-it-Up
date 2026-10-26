@@ -1,46 +1,46 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_ItemBuildings",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "增加建筑的影响半径",
     "English": "Increased influence radius of item buildings",
-    "French": null,
+    "French": "Rayon d’influence accru des bâtiments à objets",
     "German": "Erhöhter Einflussbereich von Itemgebäuden",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Raggio d’influenza maggiore per gli edifici con oggetti",
+    "Japanese": "アイテム建物の影響範囲を拡大",
+    "Korean": "아이템 건물 영향 범위 증가",
+    "Polish": "Większy zasięg wpływu budynków z przedmiotami",
+    "Russian": "Увеличенный радиус влияния зданий с предметами",
+    "Spanish": "Mayor radio de influencia de edificios con objetos",
+    "Taiwanese": "擴大物品建築影響範圍"
   },
   "Description": {
     "Chinese": "工会、市政厅、港务局长办公室和北极小屋的影响半径更大。",
     "English": "Trade union, town hall, harbormaster's office and arctic lodge have a higher radius of effect. ",
-    "French": null,
+    "French": "Augmente le rayon d’effet des syndicats, des mairies, des bureaux du maître du port et des refuges arctiques.",
     "German": "Handelskammer, Rathaus, Hafenmeisterei und Quartier haben einen höheren Einflussbereich",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aumenta il raggio d’effetto di sindacati, municipi, uffici del maestro del porto e rifugi artici.",
+    "Japanese": "交易組合、市庁舎、港務局長事務所、北極ロッジの効果範囲を広げます。",
+    "Korean": "무역 연합, 시청, 항만 관리 사무소, 북극 오두막의 효과 범위를 늘립니다.",
+    "Polish": "Zwiększa zasięg działania związków zawodowych, ratuszy, biur kapitana portu i arktycznych schronisk.",
+    "Russian": "Увеличивает радиус действия торговых союзов, ратуш, контор портового мастера и арктических хижин.",
+    "Spanish": "Aumenta el radio de efecto de los sindicatos, ayuntamientos, oficinas del capitán de puerto y refugios árticos.",
+    "Taiwanese": "擴大貿易聯盟、市政廳、港務局長辦公室和北極小屋的影響範圍。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: DaLexy",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211369
+  "Image": null,
+  "ModioResourceId": 3211369
 }

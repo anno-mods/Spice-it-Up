@@ -186,7 +186,7 @@
 			</Values>
 		</Asset>
 	</ModOp>
-	<ModOp GUID="500953" Path="Values/ConstructionCategory/BuildingList/Item[Building='100519']" Type="addNextSibling">
+	<ModOp GUID="500953,500111" Path="Values/ConstructionCategory/BuildingList/Item[Building='100519']" Type="addNextSibling">
 		<Item>
 			<Building>930100</Building>
 		</Item>
@@ -8054,7 +8054,7 @@
 			<Building>930075</Building>
 		</Item>
 	</ModOp>
-	<ModOp GUID="500944" Path="/Values/ConstructionCategory/BuildingList" Type="add">
+	<ModOp GUID="500944,500116" Path="/Values/ConstructionCategory/BuildingList" Type="add" Condition="/Values/ConstructionCategory/BuildingList">
 		<Item>
 			<Building>930075</Building>
 		</Item>

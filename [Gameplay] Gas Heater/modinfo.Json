@@ -1,46 +1,46 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "ModID": "Spice_GasHeater",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "燃气加热器",
     "English": "Gas Heater",
-    "French": null,
+    "French": "Chauffage au gaz",
     "German": "Gasheizung",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Stufa a gas",
+    "Japanese": "ガス暖房所",
+    "Korean": "가스 난방기",
+    "Polish": "Ogrzewacz gazowy",
+    "Russian": "Газовый обогреватель",
+    "Spanish": "Calefactor de gas",
+    "Taiwanese": "燃氣供暖站"
   },
   "Description": {
-    "Chinese": "为北极地区增加加热器，从气体中产生热量。它们的半径要大50%。",
-    "English": "Adds heaters for the arctic region, which generate heat from gas. They have a 50% larger radius.",
-    "French": null,
-    "German": "Fügt Gasheizungen für die Arktisregion ein, die mit Gas heizen. Ihr Wärmeradius ist 50% größer als der der Kohleheizungen.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "在北极添加燃气供暖站，供暖半径比燃煤供暖站大50%。达到750名技术员后解锁。",
+    "English": "Adds gas-fired heaters for the Arctic with a 50% larger heating radius than coal heaters. Unlocked at 750 Technicians.",
+    "French": "Ajoute des chauffages au gaz dans l’Arctique, avec un rayon de chauffe supérieur de 50 % à celui des chauffages au charbon. Débloqués à 750 techniciens.",
+    "German": "Fügt Gasheizungen für die Arktis mit einem um 50 % größeren Wärmeradius als Kohleheizungen hinzu. Freischaltung bei 750 Technikern.",
+    "Italian": "Aggiunge stufe a gas per l’Artico con un raggio di riscaldamento superiore del 50% rispetto alle stufe a carbone. Si sbloccano con 750 tecnici.",
+    "Japanese": "北極にガス暖房所を追加します。石炭暖房所より暖房半径が50%広く、技術者750人でアンロックされます。",
+    "Korean": "북극에 석탄 난방기보다 난방 반경이 50% 넓은 가스 난방기를 추가합니다. 기술자 750명에 도달하면 잠금 해제됩니다.",
+    "Polish": "Dodaje gazowe ogrzewacze w Arktyce o promieniu ogrzewania większym o 50% niż ogrzewacze węglowe. Odblokowanie przy 750 technikach.",
+    "Russian": "Добавляет газовые обогреватели для Арктики с радиусом обогрева на 50% больше, чем у угольных. Открываются при 750 техниках.",
+    "Spanish": "Añade calefactores de gas para el Ártico con un radio de calefacción un 50 % mayor que el de los calefactores de carbón. Se desbloquean con 750 técnicos.",
+    "Taiwanese": "在北極新增燃氣供暖站，供暖半徑比燃煤供暖站大50%。達到750名技術員後解鎖。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211303
+  "Image": null,
+  "ModioResourceId": 3211303
 }

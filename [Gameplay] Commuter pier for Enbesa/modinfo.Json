@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_CommuterAfrica",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "安贝沙通勤码头",
     "English": "Commuter pier for Enbesa",
-    "French": null,
+    "French": "Jetée de travailleurs pour Enbesa",
     "German": "Pendler-Anlegestelle in Enbesa",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Molo pendolari per Enbesa",
+    "Japanese": "エンベサの通勤桟橋",
+    "Korean": "엔베사의 통근 부두",
+    "Polish": "Przystań dojazdowa w Enbesie",
+    "Russian": "Причал для перевозки рабочих в Энбесе",
+    "Spanish": "Muelle de trabajadores de Enbesa",
+    "Taiwanese": "安貝沙通勤碼頭"
   },
   "Description": {
     "Chinese": "为安贝沙地区增加了一个通勤码头。",
     "English": "Adds a commuter pier for the Enbesan region.",
-    "French": null,
+    "French": "Ajoute une jetée de travailleurs dans la région d’Enbesa.",
     "German": "Fügt einen Pendlerkai für Enbesa hinzu.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aggiunge un molo pendolari nella regione di Enbesa.",
+    "Japanese": "エンベサ地域に通勤桟橋を追加します。",
+    "Korean": "엔베사 지역에 통근 부두를 추가합니다.",
+    "Polish": "Dodaje przystań dojazdową w regionie Enbesy.",
+    "Russian": "Добавляет причал для перевозки рабочих в регионе Энбеса.",
+    "Spanish": "Añade un muelle de trabajadores a la región de Enbesa.",
+    "Taiwanese": "為安貝沙地區新增通勤碼頭。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3210573
+  "Image": null,
+  "ModioResourceId": 3210573
 }

@@ -2,15 +2,15 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>8855080</GUID>
-      <Text>Molo dell'olio</Text>
+      <Text>Molo petrolifero</Text>
     </Text>
     <Text>
       <GUID>8855081</GUID>
-      <Text>Molo dell'olio</Text>
+      <Text>Molo petrolifero</Text>
     </Text>
     <Text>
       <GUID>1440133050</GUID>
-      <Text>Molo dell'olio</Text>
+      <Text>Molo petrolifero</Text>
     </Text>
   </ModOp>
 </ModOps>

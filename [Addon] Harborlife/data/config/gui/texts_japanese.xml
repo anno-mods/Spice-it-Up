@@ -1,0 +1,456 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+      <Text>
+        <GUID>8855001</GUID>
+        <Text>港湾貯蔵倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855002</GUID>
+        <Text>港湾貯蔵倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855004</GUID>
+        <Text>港湾貯蔵倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855008</GUID>
+        <Text>港湾倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855009</GUID>
+        <Text>港湾倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855010</GUID>
+        <Text>港湾倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855014</GUID>
+        <Text>貯蔵所（中）</Text>
+      </Text>
+      <Text>
+        <GUID>8855016</GUID>
+        <Text>貯蔵所（小）</Text>
+      </Text>
+      <Text>
+        <GUID>8855018</GUID>
+        <Text>小型保管庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855005</GUID>
+        <Text>港湾貯蔵倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855006</GUID>
+        <Text>港湾貯蔵倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855011</GUID>
+        <Text>港湾倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855012</GUID>
+        <Text>港湾倉庫</Text>
+      </Text>
+      <Text>
+        <GUID>8855015</GUID>
+        <Text>貯蔵所（中）</Text>
+      </Text>
+      <Text>
+        <GUID>8855017</GUID>
+        <Text>貯蔵所（小）</Text>
+      </Text>
+      <Text>
+        <GUID>8855019</GUID>
+        <Text>小型保管庫</Text>
+      </Text>
+      <Text>
+        <GUID>901006</GUID>
+        <Text>灯台</Text>
+      </Text>
+      <Text>
+        <GUID>901007</GUID>
+        <Text>灯台</Text>
+      </Text>
+      <Text>
+        <GUID>8855050</GUID>
+        <Text>港湾消防署</Text>
+      </Text>
+      <Text>
+        <GUID>8855052</GUID>
+        <Text>港湾警察署</Text>
+      </Text>
+      <Text>
+        <GUID>8855054</GUID>
+        <Text>港湾病院</Text>
+      </Text>
+      <Text>
+        <GUID>8855051</GUID>
+        <Text>港湾消防署</Text>
+      </Text>
+      <Text>
+        <GUID>8855053</GUID>
+        <Text>港湾警察署</Text>
+      </Text>
+      <Text>
+        <GUID>8855055</GUID>
+        <Text>港湾病院</Text>
+      </Text>
+      <Text>
+        <GUID>978000</GUID>
+        <Text>港湾道路</Text>
+      </Text>
+      <Text>
+        <GUID>978001</GUID>
+        <Text>港湾道路</Text>
+      </Text>
+      <Text>
+        <GUID>8855881</GUID>
+        <Text>港湾貯蔵施設</Text>
+      </Text>
+      <Text>
+        <GUID>8855882</GUID>
+        <Text>港湾貯蔵施設</Text>
+      </Text>
+      <Text>
+        <GUID>8856001</GUID>
+        <Text>農家の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856002</GUID>
+        <Text>労働者の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856003</GUID>
+        <Text>職人の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856004</GUID>
+        <Text>技師の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856005</GUID>
+        <Text>投資家の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856006</GUID>
+        <Text>日雇い労働者の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856007</GUID>
+        <Text>単純労働者の住居</Text>
+      </Text>
+      <Text>
+        <GUID>8856008</GUID>
+        <Text>マーケット</Text>
+      </Text>
+      <Text>
+        <GUID>8856009</GUID>
+        <Text>パブ</Text>
+      </Text>
+      <Text>
+        <GUID>8856010</GUID>
+        <Text>教会</Text>
+      </Text>
+      <Text>
+        <GUID>8856011</GUID>
+        <Text>学校</Text>
+      </Text>
+      <Text>
+        <GUID>8856012</GUID>
+        <Text>多目的劇場</Text>
+      </Text>
+      <Text>
+        <GUID>8856013</GUID>
+        <Text>大学</Text>
+      </Text>
+      <Text>
+        <GUID>8856014</GUID>
+        <Text>銀行</Text>
+      </Text>
+      <Text>
+        <GUID>8856015</GUID>
+        <Text>会員制クラブ</Text>
+      </Text>
+      <Text>
+        <GUID>8856016</GUID>
+        <Text>発電所</Text>
+      </Text>
+      <Text>
+        <GUID>8856020</GUID>
+        <Text>町役場</Text>
+      </Text>
+      <Text>
+        <GUID>8856017</GUID>
+        <Text>マーケット</Text>
+      </Text>
+      <Text>
+        <GUID>8856018</GUID>
+        <Text>礼拝堂</Text>
+      </Text>
+      <Text>
+        <GUID>8856019</GUID>
+        <Text>格闘アリーナ</Text>
+      </Text>
+      <Text>
+        <GUID>8856021</GUID>
+        <Text>町役場</Text>
+      </Text>
+      <Text>
+        <GUID>8855888</GUID>
+        <Text>港湾都市</Text>
+      </Text>
+      <Text>
+        <GUID>8855889</GUID>
+        <Text>港湾都市</Text>
+      </Text>
+      <Text>
+        <GUID>8855900</GUID>
+        <Text>蒸気式クレーン</Text>
+      </Text>
+      <Text>
+        <GUID>8855902</GUID>
+        <Text>木箱・荷箱</Text>
+      </Text>
+      <Text>
+        <GUID>8855906</GUID>
+        <Text>[AssetData(8855900) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>8855907</GUID>
+        <Text>[AssetData(8855902) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530000</GUID>
+        <Text>[AssetData(1010520) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530001</GUID>
+        <Text>[AssetData(1010521) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530002</GUID>
+        <Text>[AssetData(1010278) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530003</GUID>
+        <Text>[AssetData(1010560) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530004</GUID>
+        <Text>[AssetData(1010310) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530006</GUID>
+        <Text>[AssetData(101262) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530005</GUID>
+        <Text>[AssetData(1010339) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530007</GUID>
+        <Text>[AssetData(101277) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530008</GUID>
+        <Text>[AssetData(100429) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530009</GUID>
+        <Text>[AssetData(102284) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>88530010</GUID>
+        <Text>[AssetData(101642) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133040</GUID>
+        <Text>[AssetData(114445) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133043</GUID>
+        <Text>[AssetData(118736) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133083</GUID>
+        <Text>[AssetData(101325) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440133082</GUID>
+        <Text>[AssetData(269869) Text]</Text>
+      </Text>
+      <!-- Harbor Department Store -->
+      <Text>
+        <GUID>1440134530</GUID>
+        <Text>[AssetData(135100) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134531</GUID>
+        <Text>[AssetData(135103) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134532</GUID>
+        <Text>[AssetData(135187) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134533</GUID>
+        <Text>[AssetData(135188) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134534</GUID>
+        <Text>[AssetData(135189) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134535</GUID>
+        <Text>[AssetData(135190) Text]</Text>
+      </Text>
+      <!-- Harbor Furniture Store -->
+      <Text>
+        <GUID>1440134550</GUID>
+        <Text>[AssetData(135099) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134551</GUID>
+        <Text>[AssetData(135105) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134552</GUID>
+        <Text>[AssetData(135121) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134553</GUID>
+        <Text>[AssetData(135120) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134554</GUID>
+        <Text>[AssetData(135122) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134555</GUID>
+        <Text>[AssetData(135123) Text]</Text>
+      </Text>
+      <!-- Harbor Drug Store -->
+      <Text>
+        <GUID>1440134570</GUID>
+        <Text>[AssetData(134629) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134571</GUID>
+        <Text>[AssetData(134631) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134572</GUID>
+        <Text>[AssetData(135191) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134573</GUID>
+        <Text>[AssetData(135192) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134574</GUID>
+        <Text>[AssetData(135193) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440134575</GUID>
+        <Text>[AssetData(135194) Text]</Text>
+      </Text>
+      <!-- Recipes -->
+      <Text>
+        <GUID>1440134536</GUID>
+        <Text>トースター</Text>
+      </Text>
+      <Text>
+        <GUID>1440134537</GUID>
+        <Text>陶器</Text>
+      </Text>
+      <Text>
+        <GUID>1440134538</GUID>
+        <Text>電気掃除機</Text>
+      </Text>
+      <Text>
+        <GUID>1440134539</GUID>
+        <Text>冷蔵庫</Text>
+      </Text>
+      <Text>
+        <GUID>1440134540</GUID>
+        <Text>ブリーフケース</Text>
+      </Text>
+      <Text>
+        <GUID>1440134556</GUID>
+        <Text>バンカーズランプ</Text>
+      </Text>
+      <Text>
+        <GUID>1440134557</GUID>
+        <Text>パーテーション</Text>
+      </Text>
+      <Text>
+        <GUID>1440134558</GUID>
+        <Text>書き物机</Text>
+      </Text>
+      <Text>
+        <GUID>1440134559</GUID>
+        <Text>四柱式ベッド</Text>
+      </Text>
+      <Text>
+        <GUID>1440134560</GUID>
+        <Text>ラウンジチェア</Text>
+      </Text>
+      <Text>
+        <GUID>1440134576</GUID>
+        <Text>歯磨き粉</Text>
+      </Text>
+      <Text>
+        <GUID>1440134577</GUID>
+        <Text>洗剤</Text>
+      </Text>
+      <Text>
+        <GUID>1440134578</GUID>
+        <Text>口紅</Text>
+      </Text>
+      <Text>
+        <GUID>1440134579</GUID>
+        <Text>美顔クリーム</Text>
+      </Text>
+      <Text>
+        <GUID>1440134580</GUID>
+        <Text>ポマード</Text>
+      </Text>
+
+      <!-- Artista Update -->
+      <Text>
+        <GUID>1440137000</GUID>
+        <Text>[AssetData(5405) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440137006</GUID>
+        <Text>[AssetData(5840) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440137004</GUID>
+        <Text>[AssetData(6018) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440137008</GUID>
+        <Text>[AssetData(5164) Text]</Text>
+      </Text>
+      
+      <!-- Post Offices and Mailboxes -->
+      <Text>
+        <GUID>1440137100</GUID>
+        <Text>[AssetData(3741) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440137101</GUID>
+        <Text>[AssetData(538) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440137110</GUID>
+        <Text>[AssetData(3761) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1440137111</GUID>
+        <Text>[AssetData(3661) Text]</Text>
+      </Text>
+    </ModOp>
+  </ModOps>

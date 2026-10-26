@@ -49,7 +49,7 @@
                 <FeedbackController/>
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>102170</OrnamentDescritpion>
+                    <OrnamentDescription>102170</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Infolayer>
@@ -411,7 +411,7 @@
                 <FeedbackController/>
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>102170</OrnamentDescritpion>
+                    <OrnamentDescription>102170</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Infolayer/>
@@ -471,7 +471,7 @@
                 <FeedbackController/>
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>102170</OrnamentDescritpion>
+                    <OrnamentDescription>102170</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Infolayer>
@@ -530,7 +530,7 @@
                 <Locked />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescritpion>102170</OrnamentDescritpion>
+                    <OrnamentDescription>102170</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Infolayer>

@@ -2,7 +2,7 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>901008</GUID>
-      <Text>Пригородный Причал</Text>
+      <Text>Пассажирский причал</Text>
     </Text>
   </ModOp>
 </ModOps>

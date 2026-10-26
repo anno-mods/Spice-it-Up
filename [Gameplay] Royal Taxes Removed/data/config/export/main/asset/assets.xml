@@ -36,10 +36,10 @@
     <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']/MoneyValue">
         <MoneyValue>175</MoneyValue>
     </ModOp>
-    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010248']/MoneyValue">
         <MoneyValue>105</MoneyValue>
     </ModOp>
-    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']/MoneyValue">
+    <ModOp Type = "replace" GUID='15000004' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010225']/MoneyValue">
         <MoneyValue>210</MoneyValue>
     </ModOp>
     <ModOp Type = "replace" GUID='15000001' Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010214']/MoneyValue">

@@ -2,19 +2,23 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>8857200</GUID>
-      <Text>깊은 철광석 매장지</Text>
+      <Text>심층 철광산</Text>
     </Text>
     <Text>
       <GUID>8857203</GUID>
-      <Text>깊은 아연 매장지</Text>
+      <Text>심층 아연 광산</Text>
     </Text>
     <Text>
       <GUID>8857204</GUID>
-      <Text>깊은 구리 매장지</Text>
+      <Text>심층 구리 광산</Text>
     </Text>
     <Text>
       <GUID>8857201</GUID>
-      <Text>깊은 광물 매장지</Text>
+      <Text>심층 광산</Text>
+    </Text>
+    <Text>
+      <GUID>8857207</GUID>
+      <Text>가변 자원</Text>
     </Text>
   </ModOp>
 </ModOps>

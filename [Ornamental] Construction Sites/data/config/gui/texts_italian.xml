@@ -14,7 +14,7 @@
     </Text>
     <Text>
       <GUID>901001</GUID>
-      <Text>Copertura dell'olio (a vista)</Text>
+      <Text>Copertura del pozzo petrolifero (a vista)</Text>
     </Text>
     <Text>
       <GUID>901002</GUID>
@@ -30,7 +30,7 @@
     </Text>
     <Text>
       <GUID>901003</GUID>
-      <Text>Copertura dell'olio (a vista)</Text>
+      <Text>Copertura del pozzo petrolifero (a vista)</Text>
     </Text>
     <Text>
       <GUID>901898</GUID>
@@ -39,6 +39,14 @@
     <Text>
       <GUID>901899</GUID>
       <Text>Cantieri e coperture</Text>
+    </Text>
+    <Text>
+      <GUID>1440133026</GUID>
+      <Text>Cantieri</Text>
+    </Text>
+    <Text>
+      <GUID>1440133027</GUID>
+      <Text>Cantieri</Text>
     </Text>
   </ModOp>
 </ModOps>

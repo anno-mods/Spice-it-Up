@@ -1,53 +1,53 @@
 {
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "ModID": "Spice_Harborblocking",
     "IncompatibleIds": null,
     "ModDependencies": null,
     "LoadAfterIds": [
-      "Taludas_shared_tradingcompany"
+        "Taludas_shared_tradingcompany"
     ],
     "Category": {
-      "Chinese": "游戏玩法",
-      "English": "Gameplay",
-      "French": null,
-      "German": "Spielablauf",
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
+        "Chinese": "游戏玩法",
+        "English": "Gameplay",
+        "French": "Jouabilité",
+        "German": "Spielablauf",
+        "Italian": "Giocabilità",
+        "Japanese": "ゲームプレイ",
+        "Korean": "게임플레이",
+        "Polish": "Rozgrywka",
+        "Russian": "Игровой процесс",
+        "Spanish": "Jugabilidad",
+        "Taiwanese": "遊戲玩法"
     },
     "ModName": {
-      "Chinese": "",
-      "English": "Harbor Blocking",
-      "French": null,
-      "German": "Hafenblocking",
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
+        "Chinese": "港区建筑阻挡范围调整",
+        "English": "Harbor Blocking",
+        "French": "Ajustement des zones de blocage portuaires",
+        "German": "Hafenblocking",
+        "Italian": "Modifica delle aree bloccate del porto",
+        "Japanese": "港湾の建設不可範囲を調整",
+        "Korean": "항구 건설 제한 구역 조정",
+        "Polish": "Zmiana blokowanych obszarów portu",
+        "Russian": "Изменение заблокированных зон гавани",
+        "Spanish": "Ajuste de las zonas bloqueadas del puerto",
+        "Taiwanese": "港區建築阻擋調整"
     },
     "Description": {
-      "Chinese": "",
-      "English": "Limits the harbor area blocking of Shipyards, Piers, Kontors etc.",
-      "French": null,
-      "German": "Begrenzt den blockierten Hafenbereich von Werften, Piers, Kontoren etc.",
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
+        "Chinese": "调整造船厂、码头、港务所等建筑周围的港区阻挡范围。",
+        "English": "Adjusts harbor-area blocking around shipyards, piers, trading posts, and similar buildings.",
+        "French": "Ajuste les zones portuaires bloquées autour des chantiers navals, jetées, comptoirs et autres bâtiments similaires.",
+        "German": "Passt die blockierten Hafenbereiche um Werften, Kais, Kontore und ähnliche Gebäude an.",
+        "Italian": "Modifica le aree portuali bloccate attorno a cantieri navali, moli, empori e strutture simili.",
+        "Japanese": "造船所、桟橋、交易所などの周囲にある港湾の建設不可範囲を調整します。",
+        "Korean": "조선소, 부두, 무역항 등 주변의 항구 건설 제한 구역을 조정합니다.",
+        "Polish": "Zmienia zablokowane obszary portu wokół stoczni, pirsów, kantorów i podobnych budynków.",
+        "Russian": "Изменяет заблокированные участки гавани вокруг верфей, пирсов, контор и подобных построек.",
+        "Spanish": "Ajusta las zonas portuarias bloqueadas alrededor de astilleros, muelles, kontores y edificios similares.",
+        "Taiwanese": "調整造船廠、碼頭、港務所等建築周圍的港區阻擋範圍。"
     },
     "KnownIssues": null,
     "CreatorName": "Spice it up-Team: Mystiquebee84",
     "CreatorContact": "https://discord.gg/YTQGDFK",
-    "Image" : null, 
-    "ModioResourceId" : 3210489
-  }
+    "Image": null,
+    "ModioResourceId": 3210489
+}

@@ -714,7 +714,7 @@
         </Item>
     </ModOp>
     <!-- moderate construction menu city (category) -->
-    <ModOp Type="add" GUID='500944' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500944,500092' Path="/Values/ConstructionCategory/BuildingList" Condition="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902300</Building>
         </Item>
@@ -726,7 +726,7 @@
         </Item>
     </ModOp>
     <!-- sa construction menu city (category) -->
-    <ModOp Type="add" GUID='500946' Path="/Values/ConstructionCategory/BuildingList">
+    <ModOp Type="add" GUID='500946,500137' Path="/Values/ConstructionCategory/BuildingList">
         <Item>
             <Building>902301</Building>
         </Item>

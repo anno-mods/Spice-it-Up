@@ -2,7 +2,7 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>930100</GUID>
-      <Text>AI Верфь</Text>
+      <Text>Верфь ИИ</Text>
     </Text>
     <Text>
       <GUID>930099</GUID>
@@ -22,7 +22,7 @@
     </Text>
     <Text>
       <GUID>930051</GUID>
-      <Text>Производит корабли для Бенты Йоргенсен, которые позволяют им селиться в ваших секторах.</Text>
+      <Text>Строит корабль, на котором Бенте Йоргенсен сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930002</GUID>
@@ -30,7 +30,7 @@
     </Text>
     <Text>
       <GUID>930052</GUID>
-      <Text>Производит корабли для Принцесс Цинь, которые позволяют им селиться в ваших секторах.</Text>
+      <Text>Строит корабль, на котором Принцесса Цин сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930003</GUID>
@@ -38,7 +38,7 @@
     </Text>
     <Text>
       <GUID>930053</GUID>
-      <Text>Производит корабли для Вилли, которые позволяют им селиться в ваших секторах..</Text>
+      <Text>Строит корабль, на котором Вилли Мямлинс сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930004</GUID>
@@ -46,7 +46,7 @@
     </Text>
     <Text>
       <GUID>930054</GUID>
-      <Text>Производит корабли для Джорджа Смит, которые позволяют им селиться в ваших секторах..</Text>
+      <Text>Строит корабль, на котором Джордж Смит сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930005</GUID>
@@ -54,7 +54,7 @@
     </Text>
     <Text>
       <GUID>930055</GUID>
-      <Text>Производит корабли для Леди О`Мары, которые позволяют им селиться в ваших секторах..</Text>
+      <Text>Строит корабль, на котором Берил О'Мара сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930006</GUID>
@@ -62,7 +62,7 @@
     </Text>
     <Text>
       <GUID>930056</GUID>
-      <Text>Производит корабли для Артура Гаспарова, которые позволяют им селиться в ваших секторах..</Text>
+      <Text>Строит корабль, на котором Артур Гаспаров сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930007</GUID>
@@ -70,7 +70,7 @@
     </Text>
     <Text>
       <GUID>930057</GUID>
-      <Text>Производит корабли для Барона Мальхинга, которые позволяют им селиться в ваших секторах.</Text>
+      <Text>Строит корабль, на котором Карл Леонард фон Мальхинг сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930008</GUID>
@@ -78,7 +78,7 @@
     </Text>
     <Text>
       <GUID>930058</GUID>
-      <Text>Производит корабли для Алонсо Грейвса, которые позволяют им селиться в ваших секторах..</Text>
+      <Text>Строит корабль, на котором Алонсо Грейвз сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930009</GUID>
@@ -86,7 +86,7 @@
     </Text>
     <Text>
       <GUID>930059</GUID>
-      <Text>Производит корабли для Адмирала Сильвы, которые позволяют им селиться в ваших секторах.</Text>
+      <Text>Строит корабль, на котором Адмирал Виченте Сильва сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930010</GUID>
@@ -94,7 +94,7 @@
     </Text>
     <Text>
       <GUID>930060</GUID>
-      <Text>Производит корабли для Леди Хант, которые позволяют им селиться в ваших секторах..</Text>
+      <Text>Строит корабль, на котором Леди Маргарет Хант сможет поселиться в этом секторе.</Text>
     </Text>
     <Text>
       <GUID>930011</GUID>
@@ -102,7 +102,7 @@
     </Text>
     <Text>
       <GUID>930061</GUID>
-      <Text>Производит корабли для Гюго Мерсье, которые позволяют им селиться в ваших секторах.. Доступно для владельцев дополнения " Анархист".</Text>
+      <Text>Строит корабль, на котором Доктор Гюго Мерсье сможет поселиться в этом секторе. Доступно только владельцам дополнения «Анархист».</Text>
     </Text>
     <Text>
       <GUID>930012</GUID>
@@ -114,43 +114,43 @@
     </Text>
     <Text>
       <GUID>930250</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930250</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930254</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930254</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930254</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930254</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930258</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930258</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] gossips about [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] распускает слухи о персонаже «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930261</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] hates [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] ненавидит персонажа «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930261</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] hates [Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])].</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] ненавидит персонажа «[Participants ParticipantName([Notifications Current Value(InitiatorParticipant) Int])]».</Text>
     </Text>
     <Text>
       <GUID>930262</GUID>
@@ -242,7 +242,7 @@
     </Text>
     <Text>
       <GUID>930075</GUID>
-      <Text>Посольство: Фонды</Text>
+      <Text>Посольство: Фундамент</Text>
     </Text>
     <Text>
       <GUID>930074</GUID>
@@ -266,7 +266,7 @@
     </Text>
     <Text>
       <GUID>930077</GUID>
-      <Text>Embassy: Остекление</Text>
+      <Text>Посольство: Остекление</Text>
     </Text>
     <Text>
       <GUID>930074</GUID>
@@ -290,7 +290,7 @@
     </Text>
     <Text>
       <GUID>930086</GUID>
-      <Text>[AssetData([NotificationContext CharacterGUID]) Text] разговоры о скором строительстве посольства</Text>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] говорит о том, что посольство скоро будет построено.</Text>
     </Text>
     <Text>
       <GUID>930088</GUID>

@@ -1,0 +1,101 @@
+<ModOps>
+    <ModOp Type = "add" Path = "/TextExport/Texts">
+        <Text>
+            <GUID>977000</GUID>
+            <Text>Prato rettilineo</Text>
+        </Text>
+        <Text>
+            <GUID>977001</GUID>
+            <Text>Angolo erboso</Text>
+        </Text>
+        <Text>
+            <GUID>977002</GUID>
+            <Text>Incrocio erboso</Text>
+        </Text>
+        <Text>
+            <GUID>977003</GUID>
+            <Text>Estremità erbosa</Text>
+        </Text>
+        <Text>
+            <GUID>977004</GUID>
+            <Text>Incrocio a T erboso</Text>
+        </Text>
+        <Text>
+            <GUID>977010</GUID>
+            <Text>Raccordi erbosi</Text>
+        </Text>
+        <Text>
+            <GUID>977011</GUID>
+            <Text>Angolo interno del prato</Text>
+        </Text>
+        <Text>
+            <GUID>977012</GUID>
+            <Text>Bordo rettilineo del prato</Text>
+        </Text>
+        <Text>
+            <GUID>977013</GUID>
+            <Text>Angolo esterno del prato</Text>
+        </Text>
+        <Text>
+            <GUID>977020</GUID>
+            <Text>Prato cittadino</Text>
+        </Text>
+        <Text>
+            <GUID>977021</GUID>
+            <Text>Area verde urbana</Text>
+        </Text>
+        <Text>
+            <GUID>977030</GUID>
+            <Text>Albero cittadino</Text>
+        </Text>
+        <Text>
+            <GUID>977031</GUID>
+            <Text>Palma cittadina</Text>
+        </Text>
+
+        <Text>
+            <GUID>977400</GUID>
+            <Text>Monumento commemorativo</Text>
+        </Text>
+        <Text>
+            <GUID>977401</GUID>
+            <Text>Giardino cittadino</Text>
+        </Text>
+        <Text>
+            <GUID>977402</GUID>
+            <Text>Gazebo</Text>
+        </Text>
+        <Text>
+            <GUID>977403</GUID>
+            <Text>Statua equestre</Text>
+        </Text>
+        <Text>
+            <GUID>977404</GUID>
+            <Text>Fontana</Text>
+        </Text>
+        <Text>
+            <GUID>977405</GUID>
+            <Text>Monumento commemorativo</Text>
+        </Text>
+        <Text>
+            <GUID>977406</GUID>
+            <Text>Giardino cittadino</Text>
+        </Text>
+        <Text>
+            <GUID>977407</GUID>
+            <Text>Gazebo</Text>
+        </Text>
+        <Text>
+            <GUID>977408</GUID>
+            <Text>Statua equestre</Text>
+        </Text>
+        <Text>
+            <GUID>977409</GUID>
+            <Text>Fontana</Text>
+        </Text>
+        <Text>
+            <GUID>977460</GUID>
+            <Text>Passeggiata idilliaca</Text>
+        </Text>
+    </ModOp>
+</ModOps>

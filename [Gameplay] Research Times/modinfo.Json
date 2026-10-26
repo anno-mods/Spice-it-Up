@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_Research",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
+    "Polish": "Rozgrywka",
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "更少的研究时间",
     "English": "Research Times",
-    "French": null,
+    "French": "Durées de recherche",
     "German": "Forschungszeiten",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Tempi di ricerca",
+    "Japanese": "研究時間",
+    "Korean": "연구 시간",
+    "Polish": "Czas badań",
+    "Russian": "Время исследований",
+    "Spanish": "Tiempos de investigación",
+    "Taiwanese": "研究時間"
   },
   "Description": {
-    "Chinese": "分配50,000名工程师时，将研究时间调整为最少一分钟。请记住，基础研究时间没有改变，缩放仍然是线性的。",
-    "English": "Adjusts the research times to a minimum of one minute when assigning 50.000 Engineers. Keep in mind that base research times haven't been changed and scaling is still linear.",
-    "French": null,
-    "German": "Passt die Forschungszeiten auf minimal eine Minute bei 50.000 eingesetzten Ingenieuren an. Basis-Forschungszeiten wurden nicht geändert und Skalierung ist immer noch linear!.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "将研究的最高劳动力设为50000名工程师，对应研究时间为一分钟。基础研究时间保持不变。",
+    "English": "Sets maximum research workforce to 50,000 Engineers, with a research time of one minute at that workforce. Base research times remain unchanged.",
+    "French": "Fixe à 50 000 ingénieurs la main-d’œuvre maximale pour la recherche, avec une durée d’une minute à cet effectif. Les durées de base restent inchangées.",
+    "German": "Setzt die maximale Forschungs-Arbeitskraft auf 50.000 Ingenieure; bei diesem Einsatz beträgt die Forschungszeit eine Minute. Die Basiszeiten bleiben unverändert.",
+    "Italian": "Imposta la forza lavoro massima per la ricerca a 50.000 ingegneri, con un tempo di ricerca di un minuto a tale impiego. I tempi di base restano invariati.",
+    "Japanese": "研究に投入できる労働力の上限を技師50,000人にし、上限時の研究時間を1分にします。基本研究時間は変更しません。",
+    "Korean": "연구에 투입할 수 있는 최대 노동력을 엔지니어 50,000명으로 설정하고, 최대 투입 시 연구 시간을 1분으로 설정합니다. 기본 연구 시간은 변경하지 않습니다.",
+    "Polish": "Ustawia maksymalną siłę roboczą badań na 50 000 inżynierów, z czasem badania wynoszącym jedną minutę przy pełnym zatrudnieniu. Bazowe czasy pozostają bez zmian.",
+    "Russian": "Устанавливает максимальную рабочую силу для исследований в 50 000 инженеров и время исследования в одну минуту при таком количестве. Базовое время не меняется.",
+    "Spanish": "Establece la mano de obra máxima de investigación en 50 000 ingenieros, con un tiempo de un minuto a ese nivel. Los tiempos básicos no cambian.",
+    "Taiwanese": "將研究的最高勞動力設為50000名工程師，對應研究時間為一分鐘。基礎研究時間保持不變。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211453
+  "Image": null,
+  "ModioResourceId": 3211453
 }

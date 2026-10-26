@@ -2,19 +2,19 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>901000</GUID>
-      <Text>粘土地面(外观)</Text>
+      <Text>黏土矿覆盖物（外观）</Text>
     </Text>
     <Text>
       <GUID>901001</GUID>
-      <Text>沥青地面(外观)</Text>
+      <Text>油井覆盖物（外观）</Text>
     </Text>
     <Text>
       <GUID>901002</GUID>
-      <Text>粘土地面(外观)</Text>
+      <Text>黏土矿覆盖物（外观）</Text>
     </Text>
     <Text>
       <GUID>901003</GUID>
-      <Text>沥青地面(外观)</Text>
+      <Text>油井覆盖物（外观）</Text>
     </Text>
     <Text>
       <GUID>901898</GUID>
@@ -27,11 +27,11 @@
 
     <Text>
       <GUID>1440133021</GUID>
-      <Text>粘土地面</Text>
+      <Text>矿位覆盖物</Text>
     </Text>
     <Text>
       <GUID>1440133020</GUID>
-      <Text>粘土地面</Text>
+      <Text>矿位覆盖物</Text>
     </Text>
   </ModOp>
 </ModOps>

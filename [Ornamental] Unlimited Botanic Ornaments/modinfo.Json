@@ -1,46 +1,46 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "Spice_BotanicalOrnaments",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
     "English": "Ornamental",
-    "French": null,
+    "French": "Éléments décoratifs",
     "German": "Zierobjekte",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Elementi ornamentali",
+    "Japanese": "装飾",
+    "Korean": "장식",
+    "Polish": "Ozdoby",
+    "Russian": "Украшения",
+    "Spanish": "Elementos decorativos",
+    "Taiwanese": "裝飾"
   },
   "ModName": {
     "Chinese": "无限植物饰品",
     "English": "Unlimited Botanic Ornaments",
-    "French": null,
+    "French": "Ornements botaniques illimités",
     "German": "Unbegrenzte Botanica-Ornamente",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Ornamenti botanici illimitati",
+    "Japanese": "植物装飾を無制限に建設",
+    "Korean": "식물 장식 무제한 건설",
+    "Polish": "Nieograniczone ozdoby botaniczne",
+    "Russian": "Неограниченные ботанические украшения",
+    "Spanish": "Adornos botánicos ilimitados",
+    "Taiwanese": "無限植物裝飾"
   },
   "Description": {
-    "Chinese": "装饰滚动是一个可怕的想法。建造无限的植物装饰品，永远不要再去寻找它们。",
+    "Chinese": "允许无限建造植物装饰品，无须再通过任务获取。",
     "English": "Ornament rerolling is a horrible idea. Build unlimited botanic ornaments and never ever do a quest for them again.",
-    "French": null,
+    "French": "Le système de tirage des ornements est une mauvaise idée. Construisez les ornements botaniques sans limite et évitez de devoir les chercher dans les quêtes.",
     "German": "Ornamente zu erwürfeln ist eine miese Idee. Baue unbegrenzte Botanische Ornamente und löse nie wieder eine Quest dafür!",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Rilanciare gli ornamenti è una pessima idea. Costruisci ornamenti botanici senza limiti e non dovrai più cercarli nelle missioni.",
+    "Japanese": "装飾品を抽選で入手するのは困りもの。植物装飾を無制限に建設できるので、クエストで探し回る必要はありません。",
+    "Korean": "장식품을 무작위로 다시 뽑는 방식은 불편합니다. 식물 장식을 제한 없이 지어 퀘스트에서 찾을 필요를 줄이세요.",
+    "Polish": "Losowanie ozdób to kiepski pomysł. Buduj ozdoby botaniczne bez limitu i nie szukaj ich już w zadaniach.",
+    "Russian": "Случайный выбор украшений — плохая идея. Стройте ботанические украшения без ограничений и не ищите их в заданиях.",
+    "Spanish": "Volver a sortear los adornos es una mala idea. Construye adornos botánicos sin límite y no tendrás que buscarlos en misiones.",
+    "Taiwanese": "用抽選方式取得裝飾品實在不理想。植物裝飾可無限建造，無須再為了尋找它們而做任務。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211684
+  "Image": null,
+  "ModioResourceId": 3211684
 }

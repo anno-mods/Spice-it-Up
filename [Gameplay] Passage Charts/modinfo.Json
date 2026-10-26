@@ -1,51 +1,56 @@
 {
-  "Version": "1.2.2",
+  "Version": "1.2.3",
   "ModID": "Spice_PassageChart",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
+    "Polish": "Rozgrywka",
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "通道地图",
     "English": "Passage Charts",
-    "French": null,
+    "French": "Cartes du Passage",
     "German": "Karte der Passage",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Carte del Passaggio",
+    "Japanese": "航路の地図",
+    "Korean": "항로 지도",
+    "Polish": "Mapy Przejścia",
+    "Russian": "Карты Прохода",
+    "Spanish": "Mapas del Paso",
+    "Taiwanese": "北極航道地圖"
   },
   "Description": {
-    "Chinese": "在游戏中增加了一个物品，可以发现整个北极区域，只能通过收集丢失的北极货物来获得",
-    "English": "Adds an Item to the game which will discover the entire arctic session, which can only be obtained by collecting lost arctic cargo",
-    "French": null,
-    "German": "Fügt ein Item hinzu, welches die gesamte Arktis-Session inklusive nördlichem Nebel aufdeckt. Dieses Item kann nur in den Schrottkisten im Nebel gefunden werden,",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "添加可揭示整个北极地区（包括永久迷雾）的物品。该物品加入了失落北极货物的奖励和因纽特商人的后期商品。",
+    "English": "Adds an item that reveals the entire Arctic region, including permanent fog. Added to lost Arctic cargo rewards and the Inuit trader’s late-game offerings.",
+    "French": "Ajoute un objet qui révèle toute la région arctique, y compris le brouillard permanent. Il est ajouté aux récompenses des cargaisons arctiques perdues et à l’offre de fin de partie du marchand inuit.",
+    "German": "Fügt ein Item hinzu, das die gesamte Arktis einschließlich des permanenten Nebels aufdeckt. Es ist als Beute verlorener Arktisfracht und im späteren Angebot des Inuit-Händlers enthalten.",
+    "Italian": "Aggiunge un oggetto che rivela tutta la regione artica, inclusa la nebbia permanente. È aggiunto alle ricompense dei carichi artici perduti e all’offerta finale del mercante inuit.",
+    "Japanese": "永久の霧を含む北極全域を明らかにするアイテムを追加します。北極の漂流貨物の報酬と、イヌイット商人の終盤の商品に追加されます。",
+    "Korean": "영구 안개를 포함한 북극 전체를 드러내는 아이템을 추가합니다. 잃어버린 북극 화물 보상과 이누이트 상인의 후반 상품 목록에 추가됩니다.",
+    "Polish": "Dodaje przedmiot odkrywający cały region Arktyki wraz ze stałą mgłą. Trafia do nagród z zaginionych arktycznych ładunków oraz do oferty inuickiego kupca w końcowej fazie gry.",
+    "Russian": "Добавляет предмет, открывающий всю Арктику вместе с постоянным туманом. Он добавлен в награды за потерянный арктический груз и в поздний ассортимент инуитского торговца.",
+    "Spanish": "Añade un objeto que revela toda la región ártica, incluida la niebla permanente. Se añade a las recompensas de cargamentos árticos perdidos y a la oferta del comerciante inuit al final de la partida.",
+    "Taiwanese": "新增可揭示整個北極地區（包括永久迷霧）的物品。該物品加入了失落北極貨物的獎勵和因紐特商人的後期商品。"
   },
   "KnownIssues": null,
-  "DLCDependencies": null,
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "required"
+    }
+  ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211444
+  "Image": null,
+  "ModioResourceId": 3211444
 }

@@ -1,46 +1,46 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ModID": "Spice_CulturalModuleLimits",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
     "English": "Ornamental",
-    "French": null,
+    "French": "Éléments décoratifs",
     "German": "Zierobjekte",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Elementi ornamentali",
+    "Japanese": "装飾",
+    "Korean": "장식",
+    "Polish": "Ozdoby",
+    "Russian": "Украшения",
+    "Spanish": "Elementos decorativos",
+    "Taiwanese": "裝飾"
   },
   "ModName": {
     "Chinese": "没有文化模块限制",
     "English": "No Cultural Module Limits",
-    "French": null,
+    "French": "Aucune limite de modules culturels",
     "German": "Keine Modullimits an Kulturgebäuden.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Nessun limite ai moduli culturali",
+    "Japanese": "文化施設のモジュール制限なし",
+    "Korean": "문화 건물 모듈 제한 해제",
+    "Polish": "Brak limitu modułów kultury",
+    "Russian": "Без ограничений на культурные модули",
+    "Spanish": "Sin límites para los módulos culturales",
+    "Taiwanese": "文化設施模組數量不限"
   },
   "Description": {
     "Chinese": "你知道文化建筑有模块限制吗?现在他们没有了",
-    "English": "Did you know that cultural buildings have a module limit? well now they don\u0027t.",
-    "French": null,
+    "English": "Did you know that cultural buildings have a module limit? well now they don't.",
+    "French": "Les bâtiments culturels n’ont plus de limite de modules.",
     "German": "Schon gewusst? Kulturgebäude haben ein Modullimit. Jetzt jedenfalls nicht mehr.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Gli edifici culturali non hanno più un limite di moduli.",
+    "Japanese": "文化施設のモジュール数の上限をなくします。",
+    "Korean": "문화 건물의 모듈 개수 제한을 없앱니다.",
+    "Polish": "Usuwa limity liczby modułów w budynkach kultury.",
+    "Russian": "Снимает ограничения на количество модулей культурных зданий.",
+    "Spanish": "Elimina el límite de módulos de los edificios culturales.",
+    "Taiwanese": "取消文化設施的模組數量上限。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211645
+  "Image": null,
+  "ModioResourceId": 3211645
 }

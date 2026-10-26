@@ -1,0 +1,36 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>901000</GUID>
+      <Text>粘土用カバー（外観）</Text>
+    </Text>
+    <Text>
+      <GUID>901001</GUID>
+      <Text>石油用カバー（外観）</Text>
+    </Text>
+    <Text>
+      <GUID>901002</GUID>
+      <Text>粘土用カバー（外観）</Text>
+    </Text>
+    <Text>
+      <GUID>901003</GUID>
+      <Text>石油用カバー（外観）</Text>
+    </Text>
+    <Text>
+      <GUID>901898</GUID>
+      <Text>建設現場と覆い</Text>
+    </Text>
+    <Text>
+      <GUID>901899</GUID>
+      <Text>建設現場と覆い</Text>
+    </Text>
+    <Text>
+      <GUID>1440133021</GUID>
+      <Text>スロット用カバー</Text>
+    </Text>
+    <Text>
+      <GUID>1440133020</GUID>
+      <Text>スロット用カバー</Text>
+    </Text>
+  </ModOp>
+</ModOps>

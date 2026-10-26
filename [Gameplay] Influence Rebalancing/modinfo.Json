@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.3",
+  "Version": "1.1.4",
   "ModID": "Spice_InfluenceRabalancing",
   "IncompatibleIds": [
     "Spice_InfluenceRemoved"
@@ -8,46 +8,46 @@
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
-    "Chinese": "Influence Rebalancing",
+    "Chinese": "影响力平衡调整",
     "English": "Influence Rebalancing",
-    "French": null,
+    "French": "Rééquilibrage de l'influence",
     "German": "Geänderte Einflusskosten",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Ribilanciamento dell'influenza",
+    "Japanese": "影響力のバランス調整",
+    "Korean": "영향력 균형 조정",
+    "Polish": "Zmiana kosztów wpływu",
+    "Russian": "Перебалансировка влияния",
+    "Spanish": "Reajuste de influencia",
+    "Taiwanese": "影響力平衡調整"
   },
   "Description": {
-    "Chinese": "Tweaks the values of influence cost for multiple different things to make beauty building easier, while increasing the cost of things that you do not want to build as much.",
-    "English": "Tweaks the values of influence cost for multiple different things to make beauty building easier, while increasing the cost of things that you do not want to build as much.",
-    "French": null,
-    "German": "Verändert die Einflusskosten von vielen Gebäuden etc. um Schönbau zu vereinfachen. Es gibt allerdings auch gesteigerte Kosten, bspw. für Pendler-Anlegestellen.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "调整船只、岛屿、文化模块、物品效果建筑、包租航线和通勤码头的影响力费用及免费额度。",
+    "English": "Rebalances influence costs and free allowances for ships, islands, cultural modules, item buildings, charter routes and commuter piers.",
+    "French": "Rééquilibre les coûts en influence et les quotas gratuits pour les navires, les îles, les modules culturels, les bâtiments à objets, les routes affrétées et les quais de transport de main-d'œuvre.",
+    "German": "Verändert Einflusskosten und Freikontingente für Schiffe, Inseln, Kulturmodule, Item-Gebäude, Charterrouten und Pendler-Anlegestellen.",
+    "Italian": "Ribilancia i costi in influenza e le quantità gratuite per navi, isole, moduli culturali, edifici con oggetti, rotte di noleggio e moli per pendolari.",
+    "Japanese": "船舶、島、文化施設のモジュール、アイテムを装備する建物、チャーター航路、通勤用の埠頭の影響力コストと無料枠を調整します。",
+    "Korean": "선박, 섬, 문화시설 모듈, 아이템 장착 건물, 전세 항로, 통근 부두의 영향력 비용과 무료 허용량을 조정합니다.",
+    "Polish": "Zmienia koszty wpływu i darmowe limity dla statków, wysp, modułów kultury, budynków z przedmiotami, tras czarterowych i przystani dla dojeżdżających.",
+    "Russian": "Изменяет затраты влияния и бесплатные лимиты для кораблей, островов, культурных модулей, зданий с предметами, чартерных маршрутов и пригородных причалов.",
+    "Spanish": "Reajusta los costes de influencia y los cupos gratuitos de barcos, islas, módulos culturales, edificios con objetos, rutas de fletamento y muelles de cercanías.",
+    "Taiwanese": "調整船隻、島嶼、文化模組、物品效果建築、包租航線及通勤碼頭的影響力費用與免費額度。"
   },
   "KnownIssues": null,
   "DLCDependencies": null,
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId":3211342
+  "Image": null,
+  "ModioResourceId": 3211342
 }

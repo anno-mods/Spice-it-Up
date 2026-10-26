@@ -31,7 +31,7 @@
     </Locked>
   </ModOp>
   <!-- white_and_cold from Hier0nimus new Arctic Session -->
-  <ModOp Type="merge" GUID='1742004000 ' Path="/Values" Condition="@1742004000 ">
+  <ModOp Type="merge" GUID='1742004000' Path="/Values" Condition="@1742004000">
     <Locked>
       <DefaultLockedState>0</DefaultLockedState>
     </Locked>

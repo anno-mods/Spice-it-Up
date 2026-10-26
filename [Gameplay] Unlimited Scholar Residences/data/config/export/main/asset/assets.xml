@@ -2,7 +2,7 @@
     <ModOp GUID='114445' Path="/Template" Type="replace">
         <Template>ResidenceBuilding</Template>
     </ModOp>
-    <ModOp GUID='114445,1440133040' Path="/Values/BuildPermit" Type="replace">
+    <ModOp GUID='114445' Path="/Values/BuildPermit" Type="replace">
         <FloorStackOwner />
     </ModOp>
 
@@ -43,4 +43,32 @@
 			</Item>
 		</WinConditions>
 	</ModOp>
+
+    <!-- Harborlife is optional. Load after it and count both residence variants. -->
+    <Group Condition="@1440133040">
+        <ModOp GUID="1440133040" Path="/Values/BuildPermit" Type="replace">
+            <FloorStackOwner />
+        </ModOp>
+        <ModOp GUID="114445" Type="addNextSibling">
+            <Asset>
+                <Template>PlayerCounterContextPool</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1440134616</GUID>
+                        <Name>ContextPool Scholar Residences Land and Harbor</Name>
+                    </Standard>
+                    <PlayerCounterContextPool>
+                        <Contexts>
+                            <Item><Asset>114445</Asset></Item>
+                            <Item><Asset>1440133040</Asset></Item>
+                        </Contexts>
+                    </PlayerCounterContextPool>
+                    <Text><TextOverride>114445</TextOverride></Text>
+                </Values>
+            </Asset>
+        </ModOp>
+        <ModOp GUID="127938" Path="/Values/Objectives/WinConditions/Item/Objective/Values/ConditionPlayerCounter/Context" Type="replace">
+            <Context>1440134616</Context>
+        </ModOp>
+    </Group>
 </ModOps>

@@ -1,9 +1,20 @@
 <ModOps>
+  <!-- LateGame: extend each merchant's existing cultural specialty before EndGame. -->
+  <ModOp Type="replace" GUID='190387' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193175']/Weight">
+    <Weight>30</Weight>
+  </ModOp>
+  <ModOp Type="replace" GUID='190166' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193731']/Weight">
+    <Weight>5</Weight>
+  </ModOp>
+  <ModOp Type="replace" GUID='192072' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193894']/Weight">
+    <Weight>5</Weight>
+  </ModOp>
+  <ModOp Type="replace" GUID='193834' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193849']/Weight">
+    <Weight>10</Weight>
+  </ModOp>
+  <!-- EndGame: retain nonempty additions; original empty legacy branches remain untouched. -->
   <ModOp Type="replace" GUID='190774' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '192909']/Weight">
     <Weight>15</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='192068' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193250']/Weight">
-    <Weight>8</Weight>
   </ModOp>
   <ModOp Type="replace" GUID='192068' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193175']/Weight">
     <Weight>60</Weight>
@@ -11,17 +22,8 @@
   <ModOp Type="replace" GUID='192068' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193176']/Weight">
     <Weight>30</Weight>
   </ModOp>
-  <ModOp Type="replace" GUID='192068' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193250']/Weight">
-    <Weight>15</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193164']/Weight">
-    <Weight>8</Weight>
-  </ModOp>
   <ModOp Type="replace" GUID='192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '192878']/Weight">
     <Weight>8</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193167']/Weight">
-    <Weight>10</Weight>
   </ModOp>
   <ModOp Type="replace" GUID='192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193731']/Weight">
     <Weight>10</Weight>
@@ -29,7 +31,7 @@
   <ModOp Type="replace" GUID='192069' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193732']/Weight">
     <Weight>5</Weight>
   </ModOp>
-  <ModOp Type="replace" GUID='192073' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193179' or ItemLink = '192886']/Weight">
+  <ModOp Type="replace" GUID='192073' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '192886']/Weight">
     <Weight>8</Weight>
   </ModOp>
   <ModOp Type="replace" GUID='192073' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '192904']/Weight">
@@ -40,18 +42,6 @@
   </ModOp>
   <ModOp Type="replace" GUID='192073' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193895']/Weight">
     <Weight>5</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='193835' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193845']/Weight">
-    <Weight>8</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='193835' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193849']/Weight">
-    <Weight>15</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='193835' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193850']/Weight">
-    <Weight>8</Weight>
-  </ModOp>
-  <ModOp Type="replace" GUID='193835' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '193840']/Weight">
-    <Weight>8</Weight>
   </ModOp>
   <ModOp Type="replace" GUID='127480' Path="/Values/RewardPool/ItemsPool/Item[ItemLink = '127447' or ItemLink = '130426' or ItemLink = '127456']/Weight">
     <Weight>8</Weight>

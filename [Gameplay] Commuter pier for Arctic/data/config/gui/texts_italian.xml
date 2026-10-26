@@ -2,7 +2,7 @@
   <ModOp Path="/TextExport/Texts" Type="add">
     <Text>
       <GUID>8857105</GUID>
-      <Text>Pendolare Molo</Text>
+      <Text>Molo per pendolari</Text>
     </Text>
   </ModOp>
 </ModOps>

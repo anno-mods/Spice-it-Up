@@ -1,46 +1,46 @@
 {
-  "Version": "1.3.1",
+  "Version": "1.3.2",
   "ModID": "Spice_InuitGas",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "游戏玩法",
     "English": "Gameplay",
-    "French": null,
+    "French": "Jouabilité",
     "German": "Spielablauf",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Giocabilità",
+    "Japanese": "ゲームプレイ",
+    "Korean": "게임플레이",
     "Polish": "Rozgrywka",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Игровой процесс",
+    "Spanish": "Jugabilidad",
+    "Taiwanese": "遊戲玩法"
   },
   "ModName": {
     "Chinese": "扩展因纽特商人",
     "English": "Extended Inuit Trader",
-    "French": null,
+    "French": "Marchand inuit élargi",
     "German": "Erweiterter Inuit-Händler",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Commerciante Inuit ampliato",
+    "Japanese": "イヌイット商人の取引拡張",
+    "Korean": "이누이트 상인 거래 확장",
+    "Polish": "Rozszerzony handel Inuitów",
+    "Russian": "Расширенная торговля инуитов",
+    "Spanish": "Comerciante inuit ampliado",
+    "Taiwanese": "擴展因紐特商人"
   },
   "Description": {
     "Chinese": "Qumaq提供少量的天然气供那些不想玩北极地区的主要故事情节的人购买。",
     "English": "Qumaq offers a small amount of gas for purchase for those who do not want to play the main storyline of the arctic region.",
-    "French": null,
+    "French": "Qumaq propose une petite quantité de gaz à l’achat pour les joueurs qui ne souhaitent pas suivre l’histoire principale de l’Arctique.",
     "German": "Qumaq bietet an seinem Iglu eine kleine Menge Gas und Arktischen Schrott Verkauf an, für alle, die die Storyquests der Arktis nicht spielen wollen.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Qumaq offre una piccola quantità di gas acquistabile a chi non vuole affrontare la storia principale dell’Artico.",
+    "Japanese": "北極のメインストーリーを進めたくない場合、Qumaqから少量のガスを購入できます。",
+    "Korean": "북극 메인 스토리를 진행하고 싶지 않은 플레이어를 위해 Qumaq이 소량의 가스를 판매합니다.",
+    "Polish": "Qumaq oferuje niewielką ilość gazu na sprzedaż osobom, które nie chcą przechodzić głównego wątku Arktyki.",
+    "Russian": "Кумак продаёт немного газа тем, кто не хочет проходить основную сюжетную линию Арктики.",
+    "Spanish": "Qumaq ofrece una pequeña cantidad de gas para quienes no quieran jugar la historia principal del Ártico.",
+    "Taiwanese": "對於不想遊玩北極主線劇情的玩家，Qumaq會提供少量天然氣供購買。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
+  "Image": null,
   "ModioResourceId": 3211358
 }

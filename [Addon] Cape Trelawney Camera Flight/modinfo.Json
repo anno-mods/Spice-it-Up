@@ -1,56 +1,56 @@
 {
-  "Version": "1.2.1",
+  "Version": "1.2.2",
   "ModID": "Spice_Cameraflight",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "插件",
     "English": "Addon",
-    "French": null,
+    "French": "Extension",
     "German": "Addon",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Espansione",
+    "Japanese": "追加コンテンツ",
+    "Korean": "추가 콘텐츠",
     "Polish": "Dodatek",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Дополнение",
+    "Spanish": "Contenido adicional",
+    "Taiwanese": "擴充"
   },
   "ModName": {
-    "Chinese": "开始相机自由飞行",
+    "Chinese": "特里罗尼角镜头飞行",
     "English": "Cape Trelawney Camera Flight",
-    "French": null,
+    "French": "Vol en caméra au cap Trelawney",
     "German": "Kameraflug durchs Kap",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Volo camera a Capo Trelawney",
+    "Japanese": "トレローニ岬のカメラフライト",
+    "Korean": "케이프 트렐로니 카메라 비행",
+    "Polish": "Lot kamery nad Przylądkiem Trelawney",
+    "Russian": "Полёт камеры над мысом Трелони",
+    "Spanish": "Vuelo de cámara por el cabo Trelawney",
+    "Taiwanese": "特里羅尼角相機飛行"
   },
   "Description": {
     "Chinese": "增加了一个可以通过自定义热键激活的相机飞行穿过特里罗尼角。",
     "English": "Adds a Camera Flight through Cape Trelawney which can be activated via a customizable hotkey.",
-    "French": null,
+    "French": "Ajoute un vol de caméra au-dessus du cap Trelawney, activé par un raccourci personnalisable.",
     "German": "Fügt einen Kameraflug durch das Kap hinzu, welcher über einen frei einstellbaren Hotkey gestartet wird.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aggiunge un volo della telecamera sopra Capo Trelawney, attivabile con un tasto personalizzabile.",
+    "Japanese": "カスタマイズ可能なキーで起動できる、トレローニ岬上空のカメラフライトを追加します。",
+    "Korean": "사용자 지정 단축키로 실행하는 케이프 트렐로니 카메라 비행을 추가합니다.",
+    "Polish": "Dodaje przelot kamerą nad Przylądkiem Trelawney, uruchamiany przypisanym klawiszem.",
+    "Russian": "Добавляет полёт камеры над мысом Трелони, запускаемый настраиваемой клавишей.",
+    "Spanish": "Añade un vuelo de cámara sobre el cabo Trelawney, que se activa con una tecla configurable.",
+    "Taiwanese": "新增可透過自訂快速鍵啟動、飛越特里羅尼角的鏡頭飛行。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
     {
-      "DLC":"SunkenTreasures",
+      "DLC": "SunkenTreasures",
       "Dependant": "required"
     }
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId":3210419
+  "Image": null,
+  "ModioResourceId": 3210419
 }

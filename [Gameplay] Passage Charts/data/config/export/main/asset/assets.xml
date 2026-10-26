@@ -191,14 +191,14 @@
                     <GUID>1440134804</GUID>
                     <Name>AfricaTreasureMapBuffMachine</Name>
                     <IconFilename>data/ui/2kimages/main/3dicons/icon_worldmap_3d.png</IconFilename>
-                    <InfoDescription>1440134805</InfoDescription>
+                    <InfoDescription>1440134806</InfoDescription>
                 </Standard>
                 <Text />
                 <VehicleUpgrade />
                 <Buff>
                     <PossibleFluffTexts>
                         <Item>
-                            <FluffText>1440134805</FluffText>
+                            <FluffText>1440134806</FluffText>
                         </Item>
                     </PossibleFluffTexts>
                 </Buff>

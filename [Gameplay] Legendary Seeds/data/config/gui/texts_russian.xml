@@ -38,7 +38,7 @@
     </Text>
     <Text>
       <GUID>190150</GUID>
-      <Text>Кофе cупер бобы</Text>
+      <Text>Кофейные супербобы</Text>
     </Text>
     <Text>
       <GUID>190151</GUID>
@@ -46,7 +46,11 @@
     </Text>
     <Text>
       <GUID>190151</GUID>
-      <Text>Кукуруза cупер cемена</Text>
+      <Text>Банановые супер семена</Text>
+    </Text>
+    <Text>
+      <GUID>190152</GUID>
+      <Text>Суперсемена кукурузы</Text>
     </Text>
   </ModOp>
 </ModOps>

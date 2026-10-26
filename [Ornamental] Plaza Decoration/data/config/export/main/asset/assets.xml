@@ -40,7 +40,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -85,7 +85,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -130,7 +130,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -175,7 +175,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -220,7 +220,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />
@@ -268,7 +268,7 @@
         <FeedbackController />
         <Ornament>
           <OrnamentUnit>1</OrnamentUnit>
-          <OrnamentDescritpion>17731</OrnamentDescritpion>
+          <OrnamentDescription>17731</OrnamentDescription>
         </Ornament>
         <AmbientMoodProvider />
         <Pausable />

@@ -1,49 +1,46 @@
 {
-    "Version": "1.5.2",
+    "Version": "1.5.3",
     "ModID": "Spice_AIShipyard",
     "IncompatibleIds": null,
     "ModDependencies": null,
     "Category": {
         "Chinese": "游戏玩法",
         "English": "Gameplay",
-        "French": null,
+        "French": "Jouabilité",
         "German": "Spielablauf",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
+        "Italian": "Giocabilità",
+        "Japanese": "ゲームプレイ",
+        "Korean": "게임플레이",
         "Polish": "Rozgrywka",
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
+        "Russian": "Игровой процесс",
+        "Spanish": "Jugabilidad",
+        "Taiwanese": "遊戲玩法"
     },
     "ModName": {
         "Chinese": "AI船厂",
         "English": "AI Shipyard",
-        "French": null,
+        "French": "Chantier naval de l'IA",
         "German": "KI-Schiffswerft",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
+        "Italian": "Cantiere navale dell'IA",
+        "Japanese": "AI用造船所",
+        "Korean": "AI 조선소",
+        "Polish": "Stocznia SI",
+        "Russian": "Верфь для ИИ",
+        "Spanish": "Astillero de la IA",
+        "Taiwanese": "AI造船廠"
     },
     "Description": {
-        "Chinese": "在现有的存档游戏中添加AI，为它们建造一艘船。建造一个大使馆(游戏邦注:即游戏中的法院)是解锁三星AI和Hugo Mercier博士的唯一方法。",
+        "Chinese": "为AI建造船只，让其加入现有存档。三星AI和雨果·梅西耶博士需要先建造大使馆（使用战役中的法院建筑）。",
         "English": "Add AI into existing savegames by building a ship for them. Building an embassy (the courthouse from the campaign) is the only way to unlock three-star AI and Dr. Hugo Mercier.",
-        "French": null,
-        "German": "Ermöglicht es, eine KI im laufenden Spiel in den Sektor zu holen. um die Drei-Sterne Gegner und Dr. Hugo Mercier freizuschalten, wird eine Botschaft (Das Gerichtsgebäude der Kampagne) benötigt.",
-        "Italian": null,
-        "Japanese": null,
-        "Korean": null,
-        "Polish": null,
-        "Russian": null,
-        "Spanish": null,
-        "Taiwanese": null,
-        "Czech": null
+        "French": "Ajoutez des adversaires IA à une partie existante en leur construisant un navire. Une ambassade, utilisant le tribunal de la campagne, est nécessaire pour débloquer les IA à trois étoiles et le Dr Hugo Mercier.",
+        "German": "Hole KI-Gegner in einen bestehenden Spielstand, indem du ein Schiff für sie baust. Für Drei-Sterne-Gegner und Dr. Hugo Mercier wird eine Botschaft benötigt; sie nutzt das Gerichtsgebäude der Kampagne.",
+        "Italian": "Aggiungi avversari IA a una partita esistente costruendo una nave per loro. Per sbloccare le IA a tre stelle e il dottor Hugo Mercier serve un'ambasciata, che usa il tribunale della campagna.",
+        "Japanese": "AI用の船を建造して、既存のセーブデータにAIの競争相手を招けます。星3のAIとヒューゴ・メルシエ博士の解放には、キャンペーンの裁判所を利用した大使館が必要です。",
+        "Korean": "AI를 위한 선박을 건조해 기존 저장 게임에 AI 경쟁자를 초대할 수 있습니다. 3성 AI와 휴고 메르시에 박사를 해금하려면 캠페인의 법원 건물을 사용하는 대사관이 필요합니다.",
+        "Polish": "Dodaj rywali SI do istniejącej rozgrywki, budując dla nich statek. Do odblokowania trzygwiazdkowych rywali i doktora Hugo Merciera potrzebna jest ambasada wykorzystująca budynek sądu z kampanii.",
+        "Russian": "Добавляйте соперников под управлением ИИ в существующую игру, строя для них корабли. Для открытия трёхзвёздочных соперников и доктора Гуго Мерсье нужно посольство на основе здания суда из кампании.",
+        "Spanish": "Añade rivales de la IA a una partida existente construyendo un barco para ellos. Para desbloquear a los rivales de tres estrellas y al Dr. Hugo Mercier se necesita una embajada que utiliza el juzgado de la campaña.",
+        "Taiwanese": "為AI建造船隻，讓其加入現有存檔。三星AI與雨果·梅西耶博士需要先建造大使館（使用戰役中的法院建築）。"
     },
     "KnownIssues": null,
     "DLCDependencies": [
@@ -53,7 +50,7 @@
         }
     ],
     "CreatorName": "Spice it up-Team: kskudlik",
-    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
+    "CreatorContact": "https://discord.gg/YTQGDFK",
     "Image": null,
-    "ModioResourceId":3210534
+    "ModioResourceId": 3210534
 }

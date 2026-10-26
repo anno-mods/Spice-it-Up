@@ -1,46 +1,46 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ModID": "Spice_ArcticQuay",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
     "Chinese": "装饰",
     "English": "Ornamental",
-    "French": null,
-    "German": "Zierobjekte",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "French": "Éléments décoratifs",
+    "German": "Zierelemente",
+    "Italian": "Elementi ornamentali",
+    "Japanese": "装飾",
+    "Korean": "장식",
+    "Polish": "Ozdoby",
+    "Russian": "Украшения",
+    "Spanish": "Elementos decorativos",
+    "Taiwanese": "裝飾"
   },
   "ModName": {
     "Chinese": "北极码头",
     "English": "Arctic Quay",
-    "French": null,
+    "French": "Quai arctique",
     "German": "Kaimauer für die Arktis",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Banchina artica",
+    "Japanese": "北極の岸壁",
+    "Korean": "북극 부두",
+    "Polish": "Nabrzeże arktyczne",
+    "Russian": "Арктическая набережная",
+    "Spanish": "Muelle ártico",
+    "Taiwanese": "北極海濱堤岸"
   },
   "Description": {
     "Chinese": "为北极地区增加了一个码头。",
     "English": "Adds a quay for the arctic region.",
-    "French": null,
+    "French": "Ajoute un quai pour la région arctique.",
     "German": "Fügt eine Kaimauer für die Arktis hinzu.",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Italian": "Aggiunge una banchina per la regione artica.",
+    "Japanese": "北極地域に岸壁を追加します。",
+    "Korean": "북극 지역에 부두를 추가합니다.",
+    "Polish": "Dodaje nabrzeże dla regionu Arktyki.",
+    "Russian": "Добавляет набережную для Арктического региона.",
+    "Spanish": "Añade un muelle para la región ártica.",
+    "Taiwanese": "為北極區域新增一種海濱堤岸。"
   },
   "KnownIssues": null,
   "DLCDependencies": [
@@ -51,6 +51,6 @@
   ],
   "CreatorName": "Spice it up-Team: Taubenangriff",
   "CreatorContact": "https://discord.gg/YTQGDFK",
-  "Image" : null,
-  "ModioResourceId" : 3211569
+  "Image": null,
+  "ModioResourceId": 3211569
 }

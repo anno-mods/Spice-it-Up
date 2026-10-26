@@ -1184,11 +1184,17 @@
 				</Standard>
 				<Trigger>
 					<TriggerCondition>
-						<Template>ConditionAlwaysTrue</Template>
-						<Values>
-							<Condition/>
-							<ConditionAlwaysTrue/>
-						</Values>
+					  <Template>ConditionUnlockedList</Template>
+					  <Values>
+					    <Condition/>
+					    <ConditionUnlockList>
+					      <UnlockNeededList>
+					        <Item><UnlockNeeded>978000</UnlockNeeded></Item>
+					        <Item><UnlockNeeded>978001</UnlockNeeded></Item>
+					      </UnlockNeededList>
+					      <UnlockRangeOP>All</UnlockRangeOP>
+					    </ConditionUnlockList>
+					  </Values>
 					</TriggerCondition>
 					<TriggerActions>
 						<Item>
@@ -2062,7 +2068,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1440134597</GUID>
+					<GUID>1440134609</GUID>
 					<Name>Trigger Unlock Furniture Store Desks</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
 				</Standard>
@@ -2373,7 +2379,7 @@
 			<Template>Trigger</Template>
 			<Values>
 				<Standard>
-					<GUID>1440134603</GUID>
+					<GUID>1440134611</GUID>
 					<Name>Trigger Unlock Furniture Store Pomade</Name>
 					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
 				</Standard>
@@ -2423,14 +2429,8 @@
 				</Standard>
 				<Trigger>
 					<TriggerCondition>
-						<Template>ConditionUnlocked</Template>
-						<Values>
-							<Condition/>
-							<ConditionUnlocked>
-								<UnlockNeeded>716</UnlockNeeded>
-							</ConditionUnlocked>
-							<ConditionPropsNegatable/>
-						</Values>
+						<Template>ConditionAlwaysTrue</Template>
+						<Values><Condition/><ConditionAlwaysTrue/></Values>
 					</TriggerCondition>
 					<TriggerActions>
 						<Item>
@@ -2969,6 +2969,96 @@
 							</SubTrigger>
 						</Item>
 					</SubTriggers>
+				</Trigger>
+				<TriggerSetup/>
+			</Values>
+		</Asset>
+		<!-- Savegame catch-up: the old shared trigger GUIDs may already be completed.
+		     Keep their original definitions and grant only each recipe's own unlock pair. -->
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440134612</GUID>
+					<Name>Trigger Unlock Furniture Store Paravents</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionUnlocked</Template>
+						<Values>
+							<Condition/>
+							<ConditionUnlocked>
+								<UnlockNeeded>135124</UnlockNeeded>
+							</ConditionUnlocked>
+							<ConditionPropsNegatable/>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action/>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1440134552</Asset>
+											</Item>
+											<Item>
+												<Asset>1440134557</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets/>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup/>
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440134613</GUID>
+					<Name>Trigger Unlock Furniture Store FaceCream</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionUnlocked</Template>
+						<Values>
+							<Condition/>
+							<ConditionUnlocked>
+								<UnlockNeeded>135208</UnlockNeeded>
+							</ConditionUnlocked>
+							<ConditionPropsNegatable/>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action/>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1440134574</Asset>
+											</Item>
+											<Item>
+												<Asset>1440134579</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets/>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
 				</Trigger>
 				<TriggerSetup/>
 			</Values>

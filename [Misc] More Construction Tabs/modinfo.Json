@@ -1,14 +1,47 @@
 {
-  "Version": "1.0",
+  "Version": "1.1",
   "ModID": "spice_more_construction_tabs",
   "Category": {
-    "English": "Misc"
+    "English": "Miscellaneous",
+    "Chinese": "杂项",
+    "French": "Divers",
+    "German": "Verschiedenes",
+    "Italian": "Varie",
+    "Japanese": "その他",
+    "Korean": "기타",
+    "Polish": "Różne",
+    "Russian": "Разное",
+    "Spanish": "Varios",
+    "Taiwanese": "雜項"
   },
   "ModName": {
-    "English": "More Construction Menu Tabs"
+    "English": "More Construction Menu Tabs",
+    "Chinese": "更多建造菜单标签页",
+    "French": "Plus d’onglets de construction",
+    "German": "Mehr Baumenü-Reiter",
+    "Italian": "Più schede nel menu di costruzione",
+    "Japanese": "建設メニューのタブ追加",
+    "Korean": "건설 메뉴 탭 추가",
+    "Polish": "Więcej kart menu budowy",
+    "Russian": "Больше вкладок меню строительства",
+    "Spanish": "Más pestañas de construcción",
+    "Taiwanese": "更多建造選單分頁"
   },
   "CreatorName": "Spice it up-Team: Taubenangriff",
-  "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
   "Image": null,
-  "ModioResourceId":4539907
+  "ModioResourceId": 4539907,
+  "Description": {
+    "Chinese": "调整建造菜单的布局，为更多标签页提供空间。",
+    "English": "Adjusts the construction menu layout to provide space for additional tabs.",
+    "French": "Adapte la disposition du menu de construction pour accueillir davantage d’onglets.",
+    "German": "Passt die Anordnung des Baumenüs an, um Platz für zusätzliche Reiter zu schaffen.",
+    "Italian": "Adatta la disposizione del menu di costruzione per lasciare spazio a più schede.",
+    "Japanese": "建設メニューのレイアウトを調整し、追加のタブを表示するためのスペースを確保します。",
+    "Korean": "건설 메뉴 배치를 조정하여 추가 탭을 위한 공간을 확보합니다.",
+    "Polish": "Dostosowuje układ menu budowy, aby zapewnić miejsce na dodatkowe karty.",
+    "Russian": "Изменяет расположение элементов меню строительства, освобождая место для дополнительных вкладок.",
+    "Spanish": "Ajusta la distribución del menú de construcción para dar cabida a más pestañas.",
+    "Taiwanese": "調整建造選單的配置，為更多分頁提供空間。"
+  }
 }

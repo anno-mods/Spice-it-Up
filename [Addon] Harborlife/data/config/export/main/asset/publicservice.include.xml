@@ -1559,7 +1559,7 @@
 					<GUID>8855055</GUID>
 					<Name>harbor_hospital_sa</Name>
 					<IconFilename>data/graphics/hc/__icons/harbor_hospital.png</IconFilename>
-					<InfoDescription>8850055</InfoDescription>
+					<InfoDescription>3789</InfoDescription>
 				</Standard>
 				<Building>
 					<TerrainType>Water_Including_Coast</TerrainType>
@@ -2927,10 +2927,10 @@
 				<Object>
 					<Variations>
 						<Item>
-							<Filename>data/dlc08/graphics/buildings/bus_station_harbor/bus_station_01.cfg</Filename>
+							<Filename>data/dlc08/graphics/buildings/special/bus_station_harbor/bus_station_01.cfg</Filename>
 						</Item>
 						<Item>
-							<Filename>data/dlc08/graphics/buildings/bus_station_harbor/bus_station_02.cfg</Filename>
+							<Filename>data/dlc08/graphics/buildings/special/bus_station_harbor/bus_station_02.cfg</Filename>
 						</Item>
 					</Variations>
 				</Object>
